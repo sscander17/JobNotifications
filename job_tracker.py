@@ -9,7 +9,6 @@ STATE_FILE = "saved_jobs.json"
 
 
 def send_telegram_message(text):
-    # It pulls these secrets from GitHub Actions later
     token = os.environ.get("TELEGRAM_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID")
 
@@ -18,8 +17,24 @@ def send_telegram_message(text):
         return
 
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    payload = {"chat_id": chat_id, "text": text}
-    requests.post(url, json=payload)
+
+    # Telegram limit is 4096 chars; split message into safe chunks
+    max_chunk_size = 4000
+    chunks = [text[i:i + max_chunk_size] for i in range(0, len(text), max_chunk_size)]
+
+    for chunk in chunks:
+        payload = {
+            "chat_id": chat_id,
+            "text": chunk,
+            "disable_web_page_preview": True  # Prevents dozens of link preview cards
+        }
+        response = requests.post(url, json=payload)
+
+        # Check if Telegram accepted the request
+        if not response.ok:
+            print(f"❌ Telegram API Error ({response.status_code}): {response.text}")
+        else:
+            print("✅ Telegram notification delivered successfully.")
 
 def get_current_jobs():
     # Pretend to be a normal web browser (some sites block automated scripts)
