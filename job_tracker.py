@@ -7,6 +7,21 @@ import os
 URL = "https://career.quantum-systems.com/"
 STATE_FILE = "saved_jobs.json"
 
+# Add your companies here. Specify "greenhouse", "lever", or "scrape"
+COMPANIES_TO_TRACK = [
+    {
+        "name": "Helsing",
+        "type": "greenhouse",
+        "id_or_url": "helsing" # Their Greenhouse board ID
+    },
+    {
+        "name": "Quantum-Systems",
+        "type": "scrape",
+        "id_or_url": "https://career.quantum-systems.com/",
+        "url_filter": "/o/" # The unique text in their job URLs
+    }
+]
+
 
 def send_telegram_message(text):
     token = os.environ.get("TELEGRAM_TOKEN")
@@ -26,92 +41,97 @@ def send_telegram_message(text):
         payload = {
             "chat_id": chat_id,
             "text": chunk,
-            "disable_web_page_preview": True  # Prevents dozens of link preview cards
+            "disable_web_page_preview": True
         }
         response = requests.post(url, json=payload)
-
-        # Check if Telegram accepted the request
         if not response.ok:
             print(f"❌ Telegram API Error ({response.status_code}): {response.text}")
-        else:
-            print("✅ Telegram notification delivered successfully.")
 
-def get_current_jobs():
-    # Pretend to be a normal web browser (some sites block automated scripts)
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
-
-    # Download the webpage
-    response = requests.get(URL, headers=headers)
+def fetch_greenhouse(board_id):
+    """Fetches jobs via Greenhouse hidden JSON API"""
+    url = f"https://boards-api.greenhouse.io/v1/boards/{board_id}/jobs"
+    response = requests.get(url)
     response.raise_for_status()
+    jobs = response.json().get("jobs", [])
 
-    # Parse the HTML
+    # Return dictionary of { URL : Title }
+    return {job["absolute_url"]: job["title"] for job in jobs}
+
+
+def fetch_scrape(url, url_filter):
+    """Fetches jobs by reading HTML for custom websites"""
+    headers = {"User-Agent": "Mozilla/5.0"}
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
 
     current_jobs = {}
-
-    # Find all links on the page
     for link in soup.find_all('a'):
         href = link.get('href')
         title = link.get_text(strip=True)
 
-        # Filter: We only want links that go to a specific job page.
-        # On Quantum-Systems (and many sites), job URLs contain "/jobs/"
-        if href and "/o/" in href and title:
-            # Sometimes a link is just a button saying "View job".
-            # We skip those so we only capture the actual Job Titles.
+        if href and url_filter in href and title:
             if title.lower() not in ["view job", "apply now", "read more"]:
-                # Ensure it's a full URL
                 if not href.startswith("http"):
-                    href = URL.rstrip("/") + href
-
-                # Use the URL as the unique ID, and the text as the Title
+                    href = url.rstrip("/") + href
                 current_jobs[href] = title
 
     return current_jobs
 
 
 def main():
-    # 2. Load previous state
+    # Load previous state
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r") as f:
-            previous_jobs = json.load(f)
+            previous_state = json.load(f)
     else:
-        previous_jobs = {}
+        previous_state = {}
 
-    # 3. Fetch current jobs via scraping
-    current_jobs = get_current_jobs()
+    current_state = {}
+    master_notification_text = ""
 
-    # 4. Compare URLs (using URLs as unique IDs instead of API IDs)
-    previous_urls = set(previous_jobs.keys())
-    current_urls = set(current_jobs.keys())
+    # Loop through all our companies
+    for company in COMPANIES_TO_TRACK:
+        name = company["name"]
+        print(f"Checking {name}...")
 
-    new_urls = current_urls - previous_urls
-    closed_urls = previous_urls - current_urls
+        try:
+            # Route to the correct fetcher
+            if company["type"] == "greenhouse":
+                jobs = fetch_greenhouse(company["id_or_url"])
+            elif company["type"] == "scrape":
+                jobs = fetch_scrape(company["id_or_url"], company["url_filter"])
+            else:
+                print(f"Unknown type for {name}")
+                continue
 
-    # 5. Alert on changes
-    if new_urls:
-        print("🚨 NEW JOBS FOUND:")
-        msg = "🚨 NEW JOBS FOUND:\n"
-        for url in new_urls:
-            print(f"- {current_jobs[url]}")
-            print(f"  Link: {url}")
-            msg += f"- {current_jobs[url]}\n{url}\n\n"
-        send_telegram_message(msg)  # <--- ADD THIS LINE
+            current_state[name] = jobs
 
-    if closed_urls:
-        print("🛑 JOBS CLOSED:")
-        for url in closed_urls:
-            print(f"- {previous_jobs[url]}")
-            print(f"  Link: {url}")
+            # Compare to previous state
+            prev_jobs = previous_state.get(name, {})
+            current_urls = set(jobs.keys())
+            prev_urls = set(prev_jobs.keys())
 
-    if not new_urls and not closed_urls:
-        print("No changes since last check. Currently open jobs:", len(current_urls))
+            new_urls = current_urls - prev_urls
 
-    # 6. Save state
+            if new_urls:
+                master_notification_text += f"🏢 **{name}** - NEW JOBS:\n\n"
+                for url in new_urls:
+                    master_notification_text += f"• {jobs[url]}\n  {url}\n\n"
+
+        except Exception as e:
+            print(f"Error checking {name}: {e}")
+
+    # Send a single combined Telegram message if there are any new jobs
+    if master_notification_text:
+        print("🚨 Sending Telegram Alert!")
+        send_telegram_message(master_notification_text)
+    else:
+        print("No new jobs found across any companies.")
+
+    # Save current state
     with open(STATE_FILE, "w") as f:
-        json.dump(current_jobs, f, indent=2)
+        json.dump(current_state, f, indent=2)
 
 
 if __name__ == "__main__":
