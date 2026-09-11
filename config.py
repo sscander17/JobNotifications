@@ -32,9 +32,27 @@ COMPANIES = [
     },
     {
         "name": "Qualcomm",
+        "type": "workday",
+        "tenant": "qualcomm",
+        "career_site": "External"
+    },
+    {
+        "name": "Isar Aerospace",
+        "type": "greenhouse",
+        "id_or_url": "isaraerospace",
+        "location": "Ottobrunn" # Their main facility location just outside Munich
+    },
+    {
+        "name": "Infineon",
         "type": "eightfold",
-        "career_site": "careers.qualcomm.com",
-        "domain": "qualcomm.com",
+        "career_site": "jobs.infineon.com",
+        "domain": "infineon.com",
         "location": "Munich"
+    },
+    {
+        "name": "Alpine Eagle",
+        "type": "greenhouse",
+        "id_or_url": "alpineeagle",
+        "location": "München"
     }
 ]
