@@ -2,21 +2,80 @@ import requests
 from bs4 import BeautifulSoup
 
 
+def fetch_avature(company):
+    base_url = company["url"]
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    }
+
+    filtered_jobs = {}
+    offset = 0
+
+    while True:
+        # Dynamically append the offset parameter to the base URL
+        separator = "&" if "?" in base_url else "?"
+        paginated_url = f"{base_url}{separator}folderOffset={offset}"
+
+        response = requests.get(paginated_url, headers=headers)
+        response.raise_for_status()
+
+        soup = BeautifulSoup(response.text, "html.parser")
+        job_headers = soup.find_all("h3", class_="article__header__text__title")
+
+        # Stop looping if a page has no job listings
+        if not job_headers:
+            break
+
+        for header in job_headers:
+            link_tag = header.find("a")
+            if link_tag and link_tag.has_attr("href"):
+                job_url = link_tag["href"]
+                job_title = link_tag.get_text(strip=True)
+
+                if job_url.startswith("http"):
+                    filtered_jobs[job_url] = job_title
+
+        # If the page returns fewer jobs than the expected limit, it is the last page
+        if len(job_headers) < 6:
+            break
+
+        # Increment the offset by the number of jobs found (usually 6) to fetch the next page
+        offset += len(job_headers)
+
+    return filtered_jobs
+
+
 def fetch_greenhouse(company):
-    url = f"https://boards-api.greenhouse.io/v1/boards/{company['id_or_url']}/jobs"
+    board_token = company["id_or_url"]
+    location_filter = company.get("location")
+
+    url = f"https://boards-api.greenhouse.io/v1/boards/{board_token}/jobs?content=true"
     response = requests.get(url)
     response.raise_for_status()
-    jobs = response.json().get("jobs", [])
 
-    location_filter = company.get("location")
-    filtered = {}
-    for job in jobs:
-        if location_filter:
-            job_location = job.get("location", {}).get("name", "")
-            if location_filter.lower() not in job_location.lower():
+    data = response.json()
+    filtered_jobs = {}
+
+    # Convert location_filter into a clean list of lowercase keywords
+    if isinstance(location_filter, str):
+        target_locations = [location_filter.lower()]
+    elif isinstance(location_filter, list):
+        target_locations = [loc.lower() for loc in location_filter]
+    else:
+        target_locations = []
+
+    for job in data.get("jobs", []):
+        job_location = job.get("location", {}).get("name", "")
+
+        # If a filter exists, ensure at least ONE keyword matches the job location
+        if target_locations:
+            if not any(loc in job_location.lower() for loc in target_locations):
                 continue
-        filtered[job["absolute_url"]] = job["title"]
-    return filtered
+
+        filtered_jobs[job["absolute_url"]] = job["title"]
+
+    return filtered_jobs
 
 
 def fetch_eightfold(company):
@@ -135,6 +194,31 @@ def fetch_scrape(company):
                     href = company["url"].rstrip("/") + href
                 current_jobs[href] = title
     return current_jobs
+def fetch_dlr(company):
+    import re
+    from urllib.parse import unquote
+
+    url = "https://jobs.dlr.de/sitemap.xml"
+    response = requests.get(url)
+    response.raise_for_status()
+
+    urls = re.findall(r'<loc>(https://jobs\.dlr\.de/job/[^<]+)</loc>', response.text)
+
+    filtered_jobs = {}
+    location_filter = company.get("location", "").lower()
+
+    for job_url in urls:
+        parts = job_url.rstrip('/').split('/')
+        if len(parts) >= 2:
+            slug = unquote(parts[-2])
+            title = slug.replace('-', ' ')
+
+            if location_filter and location_filter not in title.lower():
+                continue
+
+            filtered_jobs[job_url] = title
+
+    return filtered_jobs
 
 
 # Registry maps 'type' string directly to the function
@@ -143,5 +227,7 @@ FETCHERS = {
     "recruitee": fetch_recruitee,
     "workday": fetch_workday,
     "scrape": fetch_scrape,
-    "eightfold": fetch_eightfold, # <--- Updated
+    "eightfold": fetch_eightfold,
+    "avature": fetch_avature,
+    "dlr": fetch_dlr,
 }

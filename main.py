@@ -46,7 +46,7 @@ def main():
             print(f"Error checking {name}: {e}")
 
     if notification_body:
-        print("🚨 New openings detected. Sending Telegram alert.")
+        print("New openings detected. Sending Telegram alert.")
         send_telegram_alert(notification_body)
     else:
         print("No new jobs detected.")

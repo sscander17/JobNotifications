@@ -53,6 +53,16 @@ COMPANIES = [
         "name": "Alpine Eagle",
         "type": "greenhouse",
         "id_or_url": "alpineeagle",
-        "location": "München"
+        "location": ["Munich", "München"]  # <--- Accepts both!
+    },
+    {
+        "name": "Siemens",
+        "type": "avature",
+        "url": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/?42386=%5B812132%5D&42386_format=17546&42387=%5B813141%5D&42387_format=17547&42388=%5B912803%5D&42388_format=17879&42389=%5B102117%2C39106405%2C102127%5D&42389_format=17549&listFilterMode=1&folderRecordsPerPage=100&"
+    },
+    {
+        "name": "DLR",
+        "type": "dlr",
+        "location": "Oberpfaffenhofen"
     }
 ]
