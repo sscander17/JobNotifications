@@ -79,59 +79,67 @@ def fetch_greenhouse(company):
 
 
 def fetch_eightfold(company):
+    import re
+    import urllib.parse
+    
     career_site = company["career_site"]
-    domain = company.get("domain", career_site)
-    location_filter = company.get("location", "")
-
-    url = f"https://{career_site}/api/apply/v2/jobs"
-
-    # Spoof a real Google Chrome browser to bypass the 403 Firewall
+    location_filter = company.get("location", "").lower()
+    
+    # We use the sitemap approach to bypass Cloudflare 403 on the API
+    url = f"https://{career_site}/careers/sitemap.xml"
+    
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-        "Accept": "application/json, text/plain, */*",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Referer": f"https://{career_site}/careers",
-        "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
-        "Sec-Ch-Ua-Mobile": "?0",
-        "Sec-Ch-Ua-Platform": '"Windows"',
-        "Sec-Fetch-Dest": "empty",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Site": "same-origin"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     }
+    
+    response = requests.get(url, headers=headers)
+    
+    if response.status_code != 200:
+        print(f"Warning: Could not fetch sitemap for {career_site}")
+        return {}
 
+    urls = re.findall(r'<loc>(.*?)</loc>', response.text)
+    
+    # Simple heuristic to extract the main city name for filtering the URL slug
+    primary_location_word = location_filter.split(',')[0].strip() if location_filter else ""
+    
     filtered_jobs = {}
-    start = 0
-    num = 100
-
-    while True:
-        params = {
-            "domain": domain,
-            "start": start,
-            "num": num,
-            "location": location_filter
-        }
-
-        response = requests.get(url, params=params, headers=headers)
-        response.raise_for_status()
-
-        data = response.json()
-        positions = data.get("positions", [])
-
-        if not positions:
-            break
-
-        for job in positions:
-            job_id = job.get("id")
-            title = job.get("name", "Unknown Title")
-            full_url = f"https://{career_site}/careers?pid={job_id}"
-            filtered_jobs[full_url] = title
-
-        total_count = data.get("count", 0)
-        if start + len(positions) >= total_count or len(positions) == 0:
-            break
-
-        start += num
-
+    
+    for job_url in urls:
+        if '/job/' not in job_url:
+            continue
+            
+        decoded_url = urllib.parse.unquote(job_url)
+        if primary_location_word and primary_location_word not in decoded_url.lower():
+            continue
+            
+        # The URL structure is typically .../job/123456-job-title-slug
+        parts = decoded_url.rstrip('/').split('/')
+        slug_part = parts[-1]
+        
+        # We matched the URL slug! Now let's fetch the actual job API to get the human-readable title
+        job_id_match = re.search(r'^(\d+)-', slug_part)
+        clean_title = None
+        
+        if job_id_match:
+            job_id = job_id_match.group(1)
+            api_url = f"https://{career_site}/api/apply/v2/jobs/{job_id}"
+            try:
+                job_resp = requests.get(api_url, headers=headers, timeout=5)
+                if job_resp.status_code == 200:
+                    clean_title = job_resp.json().get("name")
+            except Exception:
+                pass
+                
+        if not clean_title:
+            # Fallback to formatting the slug if API fails
+            title_slug = re.sub(r'^\d+-', '', slug_part)
+            title_slug = title_slug.split('?')[0]
+            words = title_slug.replace('-', ' ').split()
+            clean_title = " ".join(word.capitalize() for word in words)
+            
+        filtered_jobs[job_url] = clean_title
+            
     return filtered_jobs
 
 def fetch_recruitee(company):
