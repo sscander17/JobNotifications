@@ -117,27 +117,15 @@ def fetch_eightfold(company):
         parts = decoded_url.rstrip('/').split('/')
         slug_part = parts[-1]
         
-        # We matched the URL slug! Now let's fetch the actual job API to get the human-readable title
-        job_id_match = re.search(r'^(\d+)-', slug_part)
-        clean_title = None
+        # Remove the ID prefix (e.g., 446720790054-)
+        title_slug = re.sub(r'^\d+-', '', slug_part)
+        # Strip query parameters if present
+        title_slug = title_slug.split('?')[0]
         
-        if job_id_match:
-            job_id = job_id_match.group(1)
-            api_url = f"https://{career_site}/api/apply/v2/jobs/{job_id}"
-            try:
-                job_resp = requests.get(api_url, headers=headers, timeout=5)
-                if job_resp.status_code == 200:
-                    clean_title = job_resp.json().get("name")
-            except Exception:
-                pass
-                
-        if not clean_title:
-            # Fallback to formatting the slug if API fails
-            title_slug = re.sub(r'^\d+-', '', slug_part)
-            title_slug = title_slug.split('?')[0]
-            words = title_slug.replace('-', ' ').split()
-            clean_title = " ".join(word.capitalize() for word in words)
-            
+        # Format the title slug into a readable title
+        words = title_slug.replace('-', ' ').split()
+        clean_title = " ".join(word.capitalize() for word in words)
+        
         filtered_jobs[job_url] = clean_title
             
     return filtered_jobs
