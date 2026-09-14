@@ -157,8 +157,9 @@ def fetch_workday(company):
     filtered_jobs = {}
     offset = 0
     while True:
+        locations_list = location_facet if isinstance(location_facet, list) else [location_facet]
         payload = {
-            "appliedFacets": {"locations": [location_facet]} if location_facet else {},
+            "appliedFacets": {"locations": locations_list} if location_facet else {},
             "limit": 20,
             "offset": offset,
             "searchText": ""
@@ -221,6 +222,31 @@ def fetch_dlr(company):
     return filtered_jobs
 
 
+def fetch_personio(company):
+    import re
+    import html
+    subdomain = company["subdomain"]
+    url = f"https://{subdomain}.jobs.personio.com/xml"
+    response = requests.get(url)
+    response.raise_for_status()
+    response.encoding = 'utf-8'
+
+    positions = re.findall(r'<position>(.*?)</position>', response.text, re.DOTALL)
+    
+    filtered_jobs = {}
+    for pos in positions:
+        id_match = re.search(r'<id>([^<]+)</id>', pos)
+        name_match = re.search(r'<name><!\[CDATA\[(.*?)\]\]></name>', pos) or re.search(r'<name>([^<]+)</name>', pos)
+        
+        if id_match and name_match:
+            job_id = id_match.group(1).strip()
+            job_title = html.unescape(name_match.group(1).strip())
+            job_url = f"https://{subdomain}.jobs.personio.com/job/{job_id}"
+            filtered_jobs[job_url] = job_title
+            
+    return filtered_jobs
+
+
 # Registry maps 'type' string directly to the function
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
@@ -230,4 +256,5 @@ FETCHERS = {
     "eightfold": fetch_eightfold,
     "avature": fetch_avature,
     "dlr": fetch_dlr,
+    "personio": fetch_personio,
 }

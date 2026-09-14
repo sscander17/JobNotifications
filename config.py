@@ -64,5 +64,20 @@ COMPANIES = [
         "name": "DLR",
         "type": "dlr",
         "location": "Oberpfaffenhofen"
+    },
+    {
+        "name": "Hive Robotics",
+        "type": "personio",
+        "subdomain": "hive-robotics"
+    },
+    {
+        "name": "Airbus",
+        "type": "workday",
+        "tenant": "ag",
+        "career_site": "Airbus",
+        "location_facet": [
+            "f5811cef9cb501a49eac0a694c0a8244",
+            "f5811cef9cb50199bf69196b4c0a674b"
+        ]
     }
 ]
