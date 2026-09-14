@@ -2,9 +2,8 @@ import os
 import requests
 
 def send_telegram_alert(text):
-    token = os.environ.get("TELEGRAM_TOKEN")
-    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
-
+    token = "8730019825:AAFsyA5z9KdI6mDOoJVGVpnvz3vRGRilzFE"
+    chat_id = "7167683949"
 
     if not token or not chat_id:
         print("Telegram credentials missing, skipping notification.")

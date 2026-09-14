@@ -32,9 +32,10 @@ COMPANIES = [
     },
     {
         "name": "Qualcomm",
-        "type": "workday",
-        "tenant": "qualcomm",
-        "career_site": "External"
+        "type": "eightfold",
+        "career_site": "careers.qualcomm.com",
+        "domain": "qualcomm.com",
+        "location": "Munich"
     },
     {
         "name": "Isar Aerospace",
