@@ -130,6 +130,7 @@ def fetch_eightfold(company):
             
     return filtered_jobs
 
+
 def fetch_recruitee(company):
     url = f"https://{company['subdomain']}.recruitee.com/api/offers/"
     response = requests.get(url)
@@ -141,8 +142,9 @@ def fetch_recruitee(company):
 def fetch_workday(company):
     tenant = company["tenant"]
     career_site = company["career_site"]
+    wd_server = company.get("wd_server", "wd3")
     location_facet = company.get("location_facet")
-    url = f"https://{tenant}.wd3.myworkdayjobs.com/wday/cxs/{tenant}/{career_site}/jobs"
+    url = f"https://{tenant}.{wd_server}.myworkdayjobs.com/wday/cxs/{tenant}/{career_site}/jobs"
 
     headers = {
         "User-Agent": "Mozilla/5.0",
@@ -165,7 +167,7 @@ def fetch_workday(company):
         jobs = response.json().get("jobPostings", [])
 
         for job in jobs:
-            full_url = f"https://{tenant}.wd3.myworkdayjobs.com/en-US/{career_site}{job['externalPath']}"
+            full_url = f"https://{tenant}.{wd_server}.myworkdayjobs.com/en-US/{career_site}{job['externalPath']}"
             filtered_jobs[full_url] = job["title"]
 
         if len(jobs) < 20:
@@ -191,6 +193,8 @@ def fetch_scrape(company):
                     href = company["url"].rstrip("/") + href
                 current_jobs[href] = title
     return current_jobs
+
+
 def fetch_dlr(company):
     import re
     from urllib.parse import unquote
@@ -244,13 +248,149 @@ def fetch_personio(company):
 
 
 # Registry maps 'type' string directly to the function
+def fetch_oraclecloud(company):
+    api_url = company["api_url"]
+    base_url = company["base_url"]
+    site_number = company.get("site_number", "CX")
+    location_id = company.get("location_id")
+    
+    finder = f"findReqs;siteNumber={site_number}"
+    if location_id:
+        finder += f",locationId={location_id}"
+        
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    }
+    
+    filtered_jobs = {}
+    offset = 0
+    
+    while True:
+        params = {
+            "onlyData": "true",
+            "expand": "requisitionList.secondaryLocations,flexFieldsFacet.values",
+            "finder": finder,
+            "offset": offset
+        }
+        try:
+            response = requests.get(api_url, params=params, headers=headers, timeout=10)
+            if response.status_code != 200:
+                break
+                
+            data = response.json()
+            items = data.get("items", [])
+            if not items:
+                break
+                
+            requisitions = items[0].get("requisitionList", [])
+            if not requisitions:
+                break
+                
+            for job in requisitions:
+                job_id = job.get("Id")
+                title = job.get("Title", "Unknown Title")
+                # e.g. https://careers.ti.com/en/sites/CX/job/25001591/
+                full_url = f"{base_url}/job/{job_id}/"
+                filtered_jobs[full_url] = title
+                
+            if offset + len(requisitions) >= items[0].get("TotalJobsCount", 0):
+                break
+                
+            offset += len(requisitions)
+        except Exception:
+            break
+            
+    return filtered_jobs
+
+def fetch_em_munich(company):
+    url = company["url"]
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+    response = requests.get(url, headers=headers, timeout=10)
+    response.raise_for_status()
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    filtered_jobs = {}
+
+    for a_tag in soup.find_all("a", href=True):
+        link = a_tag["href"]
+        if ".pdf" not in link:
+            continue
+            
+        try:
+            parent1 = a_tag.find_parent("div")
+            if not parent1: continue
+            parent2 = parent1.find_parent("div")
+            if not parent2: continue
+            
+            title = parent2.get_text(separator=" ", strip=True).replace("Up", "").strip()
+            
+            if title and link not in filtered_jobs:
+                filtered_jobs[link] = title
+        except Exception:
+            pass
+
+    return filtered_jobs
+
+def fetch_jibe(company):
+    api_url = company["api_url"]
+    base_job_url = company["base_job_url"]
+    location = company.get("location")
+    
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+    
+    filtered_jobs = {}
+    page = 1
+    
+    while True:
+        params = {
+            "page": page,
+            "limit": 100
+        }
+        if location:
+            params["location"] = location
+            
+        try:
+            response = requests.get(api_url, params=params, headers=headers, timeout=10)
+            if response.status_code != 200:
+                break
+                
+            data = response.json()
+            jobs = data.get("jobs", [])
+            if not jobs:
+                break
+                
+            for job in jobs:
+                job_data = job.get("data", {})
+                req_id = job_data.get("req_id")
+                title = job_data.get("title", "Unknown Title")
+                
+                if req_id:
+                    full_url = f"{base_job_url}/{req_id}"
+                    filtered_jobs[full_url] = title
+                    
+            if len(jobs) < 100:
+                break
+                
+            page += 1
+        except Exception:
+            break
+            
+    return filtered_jobs
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
-    "recruitee": fetch_recruitee,
     "workday": fetch_workday,
     "scrape": fetch_scrape,
+    "recruitee": fetch_recruitee,
     "eightfold": fetch_eightfold,
     "avature": fetch_avature,
     "dlr": fetch_dlr,
     "personio": fetch_personio,
+    "oraclecloud": fetch_oraclecloud,
+    "em_munich": fetch_em_munich,
+    "jibe": fetch_jibe
 }

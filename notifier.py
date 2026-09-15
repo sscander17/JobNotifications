@@ -17,7 +17,8 @@ def send_telegram_alert(text):
         payload = {
             "chat_id": chat_id,
             "text": chunk,
-            "disable_web_page_preview": True
+            "disable_web_page_preview": True,
+            "parse_mode": "HTML"
         }
         response = requests.post(url, json=payload)
         if not response.ok:

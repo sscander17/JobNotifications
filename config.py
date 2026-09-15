@@ -80,5 +80,51 @@ COMPANIES = [
             "f5811cef9cb501a49eac0a694c0a8244",
             "f5811cef9cb50199bf69196b4c0a674b"
         ]
+    },
+    {
+        "name": "NXP Semiconductors",
+        "type": "workday",
+        "tenant": "nxp",
+        "career_site": "careers",
+        "location_facet": "3db468d56aa610d69085a48b83d7492d"
+    },
+    {
+        "name": "Texas Instruments",
+        "type": "oraclecloud",
+        "base_url": "https://careers.ti.com/en/sites/CX",
+        "api_url": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions",
+        "site_number": "CX",
+        "location_id": "100001733959266"
+    },
+    {
+        "name": "Intel",
+        "type": "workday",
+        "tenant": "intel",
+        "wd_server": "wd1",
+        "career_site": "External",
+        "location_facet": "1e4a4eb3adf101311d06d076bf815ccf"
+    },
+    {
+        "name": "Analog Devices",
+        "type": "workday",
+        "tenant": "analogdevices",
+        "wd_server": "wd1",
+        "career_site": "External",
+        "location_facet": [
+            "633b03df4f5d1000e7e5c5dff3800000",
+            "c057160fc3ff10010d4a00c83f920000"
+        ]
+    },
+    {
+        "name": "Engineering Minds Munich",
+        "type": "em_munich",
+        "url": "https://www.em-munich.de/career"
+    },
+    {
+        "name": "AMD",
+        "type": "jibe",
+        "api_url": "https://careers.amd.com/api/jobs",
+        "base_job_url": "https://careers.amd.com/careers-home/jobs",
+        "location": "Munich, Germany"
     }
 ]

@@ -708,5 +708,65 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SATCOMBw-Overarching-Systems-Engineer---Satellite-Communication-System--d-f-m-_JR10313531-1": "SATCOMBw Overarching Systems Engineer - Satellite Communication System (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/CYBER-DEFENCE-ENGINEER--D-F-M-_JR10351303": "CYBER DEFENCE ENGINEER (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SENIOR-CYBER-SECURITY-OT-CONSULTANT--D-F-M-_JR10322749": "SENIOR CYBER SECURITY OT CONSULTANT (D/F/M)"
+  },
+  "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Toulouse/Functional-Safety-for-AI--Technical-Lead_R-10064268": "Functional Safety for AI- Technical Lead",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Key-Account-Manager-Industrial---Smart-City--f-m-d-_R-10064749": "Key Account Manager Industrial & Smart City (f/m/d)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Automotive-Business-Development-Manager--m-f-d----Software_R-10066665-1": "Automotive Business Development Manager (m/f/d) \u2013 Software",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Field-Application-Engineer--FAE----MPU---DNPU---Robotics-Drones_R-10064554": "Senior Field Application Engineer (FAE) - MPU & DNPU (f/m/d)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Global-Product-Marketing-Manager---Automotive-MCUs_R-10065735": "Global Product Marketing Manager - Automotive MCUs",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Product-Marketing-Manager-Battery-Management-Systems----f-m-d-_R-10066320": "Product Marketing Manager Battery Management Systems - (f/m/d)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Working-Student--f-m-d--Digital-Design_R-10065896": "Working Student (f/m/d) Digital Design",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Global-Key-Account-Manager--f-m-d-_R-10063314": "Global Key Account Manager Automotive Aumovio (f/m/d)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Energy-and-Power-System-Architect--f-m-d-_R-10063675": "Energy and Power System Architect (f/m/d)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Engineer---AI-Enabled-Embedded-Software--Multi-GenAI-Orchestration-_R-10064751-1": "Principal Engineer \u2013 AI-Enabled Embedded Software (Multi GenAI Orchestration)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Senior-Principle-Computer-Architect-AI-ML--f-m-d-_R-10064230": "Senior Principal Computer Architect AI/ML (f/m/d)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/EMC-Engineer--f-m-d-_R-10061511": "EMC Engineer (f/m/d)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Senior-Director-Functional-Safety_R-10061402": "Senior Director Functional Safety"
+  },
+  "Texas Instruments": {
+    "https://careers.ti.com/en/sites/CX/job/25017697/": "Techniker (m/w/d) im Outgoing Quality Team (FFAB)",
+    "https://careers.ti.com/en/sites/CX/job/25001591/": "Customer Support Representative (m/f/d)",
+    "https://careers.ti.com/en/sites/CX/job/25008000/": "Equipment Engineering Intern m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25009931/": "Zerspanungsmechaniker / CNC-Fr\u00e4ser (m/f/d) - Instandhaltung & Fertigung",
+    "https://careers.ti.com/en/sites/CX/job/25010032/": "Engineering Technician m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25010119/": "Analog IC Design Manager m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25010227/": "Product Marketing Engineering Intern m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25010376/": "Layout Engineering Intern m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25011262/": "Mechatroniker/Elektroniker in der Instandhaltung/Wartung m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25012515/": "Applications Engineering Intern / Student Worker - Evaluation/Test of analog IC's Power Management Devices m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25017343/": "Industrial Engineer m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25017374/": "Validation Technician m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25017425/": "Equipment Engineering Technician Multiprobe m/f/d"
+  },
+  "Intel": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Senior-Compiler-Engineer--f-m-d-_JR0286159": "Senior Compiler Engineer (f/m/d)"
+  },
+  "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R265841": "Staff Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R261161": "Staff Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Account-Manager--Field-Sales_R265618": "Principal Account Manager, Field Sales",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Sales-Director-EMEA_R261852": "Senior Sales Director EMEA",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Lead-Engineer--Systems-Applications---Power-Solutions_R265321": "Lead Engineer, Systems Applications \u2013 Power Solutions",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-AI-ML-Engineer--Robotics-_R265198": "Principal AI/ML Engineer (Robotics)",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Digital-Design-Engineer_R264207": "Staff Digital Design Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Newbury/Staff-Mixed-Signal-Design-Engineer_R264622": "Staff Mixed-Signal Design Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Staff-Analog-Design-Engineer_R264209": "Staff Analog Design Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-Algorithm-Development-Engineer---Battery-Insights_R262834": "Principal  AI/ ML Algorithm Development Engineer - Battery Insights"
+  },
+  "Engineering Minds Munich": {
+    "https://www.em-munich.de/_files/ugd/1c2914_e136ad49ddef40d88a06d6d9c56b14a4.pdf": "Ingenieur*in (m/w/d) Elektronik / FPGA-Embedded-Systeme",
+    "https://www.em-munich.de/_files/ugd/1c2914_e17d6a4a9e744809aff82848dc5b39b5.pdf": "[Werkstudent/Teilzeit] PCB-Designer*in (m/w/d)",
+    "https://www.em-munich.de/_files/ugd/1c2914_e5cf714c703d48f79423537e96fcba2f.pdf": "[Praktikum/Praxissemester] Technische Informatik - Entwicklung von FPGA- Embedded-Systemen",
+    "https://www.em-munich.de/_files/ugd/1c2914_4a0502ee3b30449c937b17235f4f3156.pdf": "[Masterarbeit] Entwicklung einer Steuerungselektronik f\u00fcr das Testsystem einer Erdbeobachtungskamera"
+  },
+  "AMD": {
+    "https://careers.amd.com/careers-home/jobs/87856": "Linux Kernel & Virtualization Manager",
+    "https://careers.amd.com/careers-home/jobs/84927": "Senior Manager, AI Field Applications Engineering - EMEA",
+    "https://careers.amd.com/careers-home/jobs/91002": "Kernel/Linux Engineer",
+    "https://careers.amd.com/careers-home/jobs/85398": "Sr. Product Application Engineer",
+    "https://careers.amd.com/careers-home/jobs/91379": "Partner Manager - Supermicro"
   }
 }

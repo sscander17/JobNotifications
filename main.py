@@ -1,5 +1,6 @@
 import json
 import os
+import html
 from notifier import send_telegram_alert
 from fetchers import FETCHERS
 
@@ -38,9 +39,9 @@ def main():
             new_urls = set(jobs.keys()) - set(prev_jobs.keys())
 
             if new_urls:
-                notification_body += f"🏢 **{name}** - NEW JOBS:\n"
+                notification_body += f"🏢 <b>{html.escape(name)}</b> - NEW JOBS:\n"
                 for url in new_urls:
-                    notification_body += f"• {jobs[url]}\n  {url}\n\n"
+                    notification_body += f"• <b>{html.escape(jobs[url])}</b>\n  {html.escape(url)}\n\n"
 
         except Exception as e:
             print(f"Error checking {name}: {e}")
