@@ -3,6 +3,7 @@ import os
 import html
 from notifier import send_telegram_alert
 from fetchers import FETCHERS
+from ai_filter import is_job_relevant
 
 from config import COMPANIES, STATE_FILE
 
@@ -39,9 +40,14 @@ def main():
             new_urls = set(jobs.keys()) - set(prev_jobs.keys())
 
             if new_urls:
-                notification_body += f"🏢 <b>{html.escape(name)}</b> - NEW JOBS:\n"
+                company_header_added = False
                 for url in new_urls:
-                    notification_body += f"• <b>{html.escape(jobs[url])}</b>\n  {html.escape(url)}\n\n"
+                    job_title = jobs[url]
+                    if is_job_relevant(job_title):
+                        if not company_header_added:
+                            notification_body += f"🏢 <b>{html.escape(name)}</b> - NEW JOBS:\n"
+                            company_header_added = True
+                        notification_body += f"• <b>{html.escape(job_title)}</b>\n  {html.escape(url)}\n\n"
 
         except Exception as e:
             print(f"Error checking {name}: {e}")
