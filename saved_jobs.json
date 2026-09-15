@@ -75,6 +75,7 @@
     "https://helsing.ai/jobs/4944089101?gh_jid=4944089101": "Programme Manager - Land",
     "https://helsing.ai/jobs/4923775101?gh_jid=4923775101": "Prototyping Engineer",
     "https://helsing.ai/jobs/4872445101?gh_jid=4872445101": "Quality Assurance Engineer - Development ",
+    "https://helsing.ai/jobs/4862586101?gh_jid=4862586101": "Quality Inspector - Production Quality",
     "https://helsing.ai/jobs/4921704101?gh_jid=4921704101": "Radio Engineer",
     "https://helsing.ai/jobs/4948416101?gh_jid=4948416101": "Radio Frequency Engineer",
     "https://helsing.ai/jobs/4954531101?gh_jid=4954531101": "Regional Sales Lead, DACH - Land ",
@@ -157,7 +158,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953147101": "Mission Operations Project Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876122101": "Production Supervisor (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4952088101": "Production Technician Electronics (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4961248101": "Program Manager (m,f,d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4951397101": "Quality Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875211101": "Robotics Software Architect (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4905678101": "Security Manager - Physical Security (m/f/d)",
@@ -515,7 +515,7 @@
   },
   "Siemens": {
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521732": "Werkstudent (w/m/d) Requirements Management",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517550": "Cloud Software Engineer",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517550": "Senior / Cloud Software Engineer - Shannon, Ireland (Hybrid)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516725": "R&D Engineering Manager \u2013 Industrial Data Fabric (m/f/d)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515794": "XPS Leadership Program 2026/2027",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/494402": "Projektleiter / Project Manager (w/m/d) - Bahn\u00fcbergangstechnik",
@@ -626,9 +626,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterand-Fehlermodellierung-und-analyse-eines-elektrischen-Antriebs-%28wmd%29/1374051233/": "Oberpfaffenhofen Masterand Fehlermodellierung und analyse eines elektrischen Antriebs (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Asynchroner-Zufallszugriff-basierend-auf-Spread-Spectrum-Verfahren/1412298633/": "Oberpfaffenhofen Masterarbeit (wmd) Asynchroner Zufallszugriff basierend auf Spread Spectrum Verfahren",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-GPU-beschleunigte-Implementierung-und-Optimierung/1412288233/": "Oberpfaffenhofen Masterarbeit (wmd) GPU beschleunigte Implementierung und Optimierung",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1435220933/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1429074033/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1424803833/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1435220933/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1424803833/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2755540": "(Senior) Product Manager (m/f/d)",
@@ -638,6 +638,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Personenschtzer--m--f--d-_JR10423687": "Personensch\u00fctzer (m, f, d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Project-and-Bid-Manager--d-m-w-_JR10434860-1": "Cyber Security Project and Bid Manager (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Master-Thesis-in-Artificial-Intelligence-Organization-Adoption-and-Usage_JR10438269": "Master Thesis in Artificial Intelligence Organization Adoption and Usage",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SpS-Procurement--Performance-Controlling_JR10410597-1": "Procurement: Performance Controlling",
