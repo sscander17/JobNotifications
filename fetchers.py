@@ -381,6 +381,44 @@ def fetch_jibe(company):
             
     return filtered_jobs
 
+def fetch_bmw(company):
+    url = "https://www.bmwgroup.jobs/en/_jcr_content/main/layoutcontainer_5337/jobfinder30.jobfinder_table.content.html"
+    base_domain = "https://www.bmwgroup.jobs"
+    location_filter = company.get("location_filter", "").lower()
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+    response = requests.get(url, headers=headers, timeout=15)
+    response.raise_for_status()
+    response.encoding = 'utf-8'
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    filtered_jobs = {}
+
+    for wrapper in soup.find_all("div", class_="grp-jobfinder__wrapper"):
+        a_tag = wrapper.find("a", class_="grp-jobfinder__link-jobdescription")
+        if not a_tag:
+            continue
+            
+        link = a_tag["href"]
+        if link.startswith("/"):
+            link = base_domain + link
+            
+        refno_div = wrapper.find("div", class_="grp-jobfinder-cell-refno")
+        if not refno_div:
+            continue
+            
+        job_location = refno_div.get("data-job-location", "").lower()
+        job_title = refno_div.get("data-job-title", "Unknown Title")
+        
+        if location_filter and location_filter not in job_location:
+            continue
+            
+        filtered_jobs[link] = job_title
+
+    return filtered_jobs
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "workday": fetch_workday,
@@ -392,5 +430,6 @@ FETCHERS = {
     "personio": fetch_personio,
     "oraclecloud": fetch_oraclecloud,
     "em_munich": fetch_em_munich,
-    "jibe": fetch_jibe
+    "jibe": fetch_jibe,
+    "bmw": fetch_bmw
 }

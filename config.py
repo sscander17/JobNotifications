@@ -126,5 +126,10 @@ COMPANIES = [
         "api_url": "https://careers.amd.com/api/jobs",
         "base_job_url": "https://careers.amd.com/careers-home/jobs",
         "location": "Munich, Germany"
+    },
+    {
+        "name": "BMW Group",
+        "type": "bmw",
+        "location_filter": "munich"
     }
 ]
