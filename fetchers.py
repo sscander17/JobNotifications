@@ -382,21 +382,20 @@ def fetch_jibe(company):
     return filtered_jobs
 
 def fetch_bmw(company):
+    import time
+    from curl_cffi import requests as curl_requests
     url = "https://www.bmwgroup.jobs/en/_jcr_content/main/layoutcontainer_5337/jobfinder30.jobfinder_table.content.html"
     base_domain = "https://www.bmwgroup.jobs"
     location_filter = company.get("location_filter", "").lower()
 
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-    }
-    import time
     for attempt in range(3):
         try:
-            response = requests.get(url, headers=headers, timeout=60)
-            response.raise_for_status()
+            response = curl_requests.get(url, impersonate="chrome110", timeout=60)
+            if response.status_code != 200:
+                raise Exception(f"HTTP {response.status_code}")
             response.encoding = 'utf-8'
             break
-        except requests.exceptions.RequestException as e:
+        except Exception as e:
             if attempt == 2:
                 raise
             time.sleep(5)
