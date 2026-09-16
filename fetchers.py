@@ -389,9 +389,17 @@ def fetch_bmw(company):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
-    response = requests.get(url, headers=headers, timeout=15)
-    response.raise_for_status()
-    response.encoding = 'utf-8'
+    import time
+    for attempt in range(3):
+        try:
+            response = requests.get(url, headers=headers, timeout=60)
+            response.raise_for_status()
+            response.encoding = 'utf-8'
+            break
+        except requests.exceptions.RequestException as e:
+            if attempt == 2:
+                raise
+            time.sleep(5)
 
     soup = BeautifulSoup(response.text, "html.parser")
     filtered_jobs = {}
