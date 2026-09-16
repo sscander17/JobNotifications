@@ -114,8 +114,8 @@
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
     "https://helsing.ai/jobs/4912850101?gh_jid=4912850101": "Senior Talent Acquisition Partner",
-    "https://helsing.ai/jobs/4948430101?gh_jid=4948430101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4948430101?gh_jid=4948430101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -179,7 +179,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876085101": "Senior Robotics Process Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4826680101": "Senior Safety Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4966720101": "Senior Simulation Platform Engineer, Cloud & Robotics (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4955127101": "Senior Software Engineer, Robotics Platform (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4951244101": "Senior Strategic Supply Chain Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4828818101": "Senior Systems Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4967694101": "(Senior) Tender Manager (m/f/d)",
@@ -267,11 +266,11 @@
     "https://career.quantum-systems.com/o/program-manager-mfd-5": "Program Manager (m/f/d)",
     "https://career.quantum-systems.com/o/returns-manager-mfd": "Returns Manager (m/f/d)",
     "https://career.quantum-systems.com/o/support-service-manager-3": "Support Service Manager",
+    "https://career.quantum-systems.com/o/support-service-manager-2-9": "Support Service Manager (2)",
     "https://career.quantum-systems.com/o/training-manager-mfd-18": "Training Manager (m/f/d)",
     "https://career.quantum-systems.com/o/uas-instructor-mfd": "UAS Instructor (m/f/d)",
     "https://career.quantum-systems.com/o/uxs-training-demo-manager-mfd-6": "UXS Training & Demo Manager (m/f/d)",
     "https://career.quantum-systems.com/o/uxs-training-demo-manager-mfd-1": "UXS Training & Demo Manager (m/f/d)",
-    "https://career.quantum-systems.com/o/wbo8m984bw": "\u0406\u043d\u0436\u0435\u043d\u0435\u0440 \u0441\u0435\u0440\u0432\u0456\u0441\u0443",
     "https://career.quantum-systems.com/o/design-engineer-3": "Design Engineer",
     "https://career.quantum-systems.com/o/development-engineer-production-mfd-fokus-hardware": "Development Engineer Production (m/f/d) -  Focus Hardware",
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-4": "Electrical Engineer (m/f/d)",
@@ -372,7 +371,6 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4695891101": "Avionics Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4922381101": "Bid Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4778527101": "Controls & Automation Engineer (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4783764101": "Electrical Engineer/Elektrokonstrukteur",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4912131101": "Electrical Harness Design Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4933869101": "Electrician Ground Systems (m/w/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4920269101": "Embedded Software Engineer (m/f/d)",
@@ -615,7 +613,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Aerospace%2C-Physics%2C-Mathematics%2C-mwd/1419516933/": "Oberpfaffenhofen Master Thesis Student in Aerospace, Physics, Mathematics, mwd",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767033/": "Oberpfaffenhofen Masterandin (wmd) Federated Learning for Internet of Things (IoT) Systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1429074033/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1424803833/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1424803833/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive \u2013 Defense & Enterprise (m/f/d)",
@@ -624,6 +623,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Social-Media-Manager---d-f-m-_JR10435262": "Social Media Manager  (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/AI---Analytics-DevOps-Engineer-Germany_JR10434313-1": "AI & Analytics DevOps Engineer Germany",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Optical-Instruments-Performance-Engineer--d-f-m-_JR10434476-1": "Optical Instruments Performance Engineer (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Finance-and-Controlling-for-Facility-Management-and-Real-Estate--d-f-m-_JR10391539-1": "Finance and Controlling for Facility Management and Real Estate (d/f/m)",
