@@ -44,7 +44,21 @@ JobMonitor is an automated job tracking script that monitors career pages and Ap
    ```
    *(Note: For Windows, use `set` or `$env:` in PowerShell)*
 
-4. **Run the Tracker**:
+4. **Telegram Connection Setup**:
+   Setting up the Telegram connection requires both a Bot Token and a Chat ID. They need to be configured in `notifier.py`.
+   - **Get a Bot Token**:
+     1. Open Telegram and search for `@BotFather`.
+     2. Send the `/newbot` command and follow the instructions to create your bot.
+     3. Once created, BotFather will give you a token (e.g., `123456789:ABCdefGhIJKlmnopQRstUVwxyZ`).
+   - **Get your Chat ID**:
+     1. Start a chat with your newly created bot in Telegram and send a test message (e.g., "Hello").
+     2. Open your web browser and navigate to: `https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates` (Replace `<YOUR_BOT_TOKEN>` with the token from BotFather).
+     3. Look for the `"chat":{"id":...}` part in the JSON response. That number is your Chat ID.
+     *(Alternatively, you can use a bot like `@userinfobot` to get your Chat ID directly).*
+   - **Configure `notifier.py`**:
+     Open `notifier.py` and replace the `token` and `chat_id` variables with your values.
+
+5. **Run the Tracker**:
    Execute the main script to check for jobs:
    ```bash
    python main.py
