@@ -65,8 +65,8 @@
     "https://helsing.ai/jobs/4876698101?gh_jid=4876698101": "Payroll Specialist",
     "https://helsing.ai/jobs/4962381101?gh_jid=4962381101": "People Operations Lead",
     "https://helsing.ai/jobs/4841824101?gh_jid=4841824101": "People Partner ",
-    "https://helsing.ai/jobs/4974214101?gh_jid=4974214101": "Procurement Manager \u2013 Professional Services & Marketing",
     "https://helsing.ai/jobs/4974320101?gh_jid=4974320101": "Procurement Manager \u2013 Professional Services & Marketing",
+    "https://helsing.ai/jobs/4974214101?gh_jid=4974214101": "Procurement Manager \u2013 Professional Services & Marketing",
     "https://helsing.ai/jobs/4959374101?gh_jid=4959374101": "Procurement Manager \u2013\u00a0Tech & IT ",
     "https://helsing.ai/jobs/4862537101?gh_jid=4862537101": "Procurement Project Manager",
     "https://helsing.ai/jobs/4564710101?gh_jid=4564710101": "Product Designer",
@@ -365,7 +365,6 @@
     "https://careers.qualcomm.com/careers/job/446720961115-director-government-affairs-business-strategic-initiatives-europe-munich-germany?domain=qualcomm.com": "Director Government Affairs Business Strategic Initiatives Europe Munich Germany"
   },
   "Isar Aerospace": {
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952430101": "Additive Manufacturing Operator (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4843468101": "AIT Operations Engineer - Launch Vehicle (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950930101": "Application Software Engineer (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4720039101": "Avionics Engineer - Thrust Vector Control Actuator (m/f/d)",
@@ -394,7 +393,6 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4864332101": "Launch Operations Engineer - Process & Coordination (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976916101": "Launch Vehicle Intern (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4737396101": "Lead Engineer Integrated Engine Design - Propulsion (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4206511101": "Luftfahrttechniker oder Industrielektroniker (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4943578101": "Mechanical Design & Routing Engineer (m/w/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950964101": "Mechanical Ground Systems Engineer (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4933835101": "Mechanisms Design Engineer (m/f/d)",
@@ -704,6 +702,8 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SENIOR-CYBER-SECURITY-OT-CONSULTANT--D-F-M-_JR10322749": "SENIOR CYBER SECURITY OT CONSULTANT (D/F/M)"
   },
   "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Digital-Design-Engineer--f-m-d-_R-10065445-1": "Digital Design Engineer (f/m/d)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Digital-Verification-Engineer_R-10065444-1": "Digital Verification Engineer (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Toulouse/Functional-Safety-for-AI--Technical-Lead_R-10064268": "Functional Safety for AI- Technical Lead",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Key-Account-Manager-Industrial---Smart-City--f-m-d-_R-10064749": "Key Account Manager Industrial & Smart City (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Automotive-Business-Development-Manager--m-f-d----Software_R-10066665-1": "Automotive Business Development Manager (m/f/d) \u2013 Software",
