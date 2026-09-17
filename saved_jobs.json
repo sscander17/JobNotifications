@@ -114,8 +114,8 @@
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
     "https://helsing.ai/jobs/4912850101?gh_jid=4912850101": "Senior Talent Acquisition Partner",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4948430101?gh_jid=4948430101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -497,6 +497,7 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/504280": "Portfolio & Go-to-Market Manager \u2013 Energy Management",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521712": "Head of Global Research & Development and Technology\u202f (f/m/d)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521732": "Werkstudent (w/m/d) Requirements Management",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516725": "R&D Engineering Manager \u2013 Industrial Data Fabric (m/f/d)",
@@ -601,6 +602,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmx%29-Machine-Learning/1383892733/": "Oberpfaffenhofen Working student (fmx) Machine Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-VS-50/1438010933/": "Oberpfaffenhofen Gruppenleitung (wmd) VS 50",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Systemingenieurin-%28wmd%29-Voice-System/1428217133/": "Oberpfaffenhofen Systemingenieurin (wmd) Voice System",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-System-engineer-Voice-Communications-System-%28fmx%29/1428217233/": "Oberpfaffenhofen System engineer Voice Communications System (fmx)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Senior-IT-Systems-Engineer-%28wmd%29-Bodensegment/1397660833/": "Oberpfaffenhofen Senior IT Systems Engineer (wmd) Bodensegment",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Missions-Engineering/1435220533/": "Oberpfaffenhofen Masterarbeit (wmd) Missions Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-KI-Methoden-in-der-Software-Qualit%C3%A4tssicherung-f%C3%BCr-die-Raumfahrt/1433339933/": "Oberpfaffenhofen Informatikerin (wmd) KI Methoden in der Software Qualit\u00e4tssicherung f\u00fcr die Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Computer-Scientist-%28fmx%29-specialized-in-AI-methods-for-software-quality-assurance-in-space-systems/1433340033/": "Oberpfaffenhofen Computer Scientist (fmx) specialized in AI methods for software quality assurance in space systems",
@@ -611,11 +616,7 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Luft-und-Raumfahrttechnik-%28wmd%29-SAR-Techniken/1429581433/": "Oberpfaffenhofen Ingenieurin Luft und Raumfahrttechnik (wmd) SAR Techniken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-Final-Year-Thesis-%28mfd%29-Design-and-Validation-of-a-Robotic-Finger/1418200633/": "Oberpfaffenhofen Undergraduate and Final Year Thesis (mfd) Design and Validation of a Robotic Finger",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-Forschung-und-Entwicklung-von-Payload-Software-f%C3%BCr-Raumfahrtsysteme/1430754933/": "Oberpfaffenhofen Informatikerin (wmd) Forschung und Entwicklung von Payload Software f\u00fcr Raumfahrtsysteme",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-VS-50/1438010933/": "Oberpfaffenhofen Gruppenleitung (wmd) VS 50",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Systemingenieurin-%28wmd%29-Voice-System/1428217133/": "Oberpfaffenhofen Systemingenieurin (wmd) Voice System",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-System-engineer-Voice-Communications-System-%28fmx%29/1428217233/": "Oberpfaffenhofen System engineer Voice Communications System (fmx)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Senior-IT-Systems-Engineer-%28wmd%29-Bodensegment/1397660833/": "Oberpfaffenhofen Senior IT Systems Engineer (wmd) Bodensegment"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-Forschung-und-Entwicklung-von-Payload-Software-f%C3%BCr-Raumfahrtsysteme/1430754933/": "Oberpfaffenhofen Informatikerin (wmd) Forschung und Entwicklung von Payload Software f\u00fcr Raumfahrtsysteme"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive \u2013 Defense & Enterprise (m/f/d)",
@@ -624,6 +625,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/AI---Analytics-DevOps-Engineer-Germany_JR10434313-1": "AI & Analytics DevOps Engineer Germany",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Mission-Analysis-and-Flight-Dynamics-Engineer_JR10439364": "Mission Analysis and Flight Dynamics Engineer",
@@ -763,9 +765,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196152.html": "Intern Artificial Intelligence in Robotics (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195630.html": "Praktikant Data Engineering und Frontend-Entwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195126.html": "Intern AI for CAD Data &amp; Engineering Intelligence (f/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195085.html": "Praktikant Fahrzeug-Projektleitung Motorrad Baureihe Boxer (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195084.html": "Praktikant Fahrzeug-Projektleitung Motorrad Baureihe Boxer (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195083.html": "Praktikant Fahrzeug-Projektleitung Motorrad Baureihe Boxer (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.172625.html": "Praktikant Sales Steering (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196162.html": "Intern Innovation Strategy Mobility (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195933.html": "Kfz-Lackierer (w/m/x)",
@@ -963,6 +962,7 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194548.html": "Praktikant Nachhaltigkeitsregulatorik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193017.html": "Working student in the car body development with Python programming (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192520.html": "Werkstudent Data Analytics im Qualit\u00e4tsmanagement f\u00fcr Digitale Dienste (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194509.html": "Praktikant Entwicklung elektrische Antriebsmaschinen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194430.html": "Praktikant in der Fahrzeugmontage des neuen BMW i3 (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194236.html": "Intern AI Engineering Customer Journey Analytics (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194155.html": "Praktikant Kundenerlebnis Laden von elektrifizierten Fahrzeugen (m/w/x)",
@@ -1071,6 +1071,7 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190323.html": "Intern Regional Marketing APEEA (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192641.html": "Praktikant Projektmanagement elektrifizierte Antriebssysteme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192640.html": "Praktikant Projektmanagement elektrifizierte Automatikgetriebe (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192062.html": "Praktikant Absicherung E/E-Komponenten im elektrischen Antrieb (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191998.html": "Praktikant Eventmanagement (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.189893.html": "Praktikant Eventmanagement PR- und Presseevents",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.189891.html": "Praktikum Presse und PR Events (w/m/x)",
