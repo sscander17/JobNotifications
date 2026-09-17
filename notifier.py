@@ -11,7 +11,19 @@ def send_telegram_alert(text):
 
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     max_chunk_size = 4000
-    chunks = [text[i:i + max_chunk_size] for i in range(0, len(text), max_chunk_size)]
+    chunks = []
+    current_chunk = ""
+    
+    for block in text.split("\n\n"):
+        if len(current_chunk) + len(block) + 2 <= max_chunk_size:
+            current_chunk += block + "\n\n"
+        else:
+            if current_chunk:
+                chunks.append(current_chunk.strip())
+            current_chunk = block + "\n\n"
+            
+    if current_chunk.strip():
+        chunks.append(current_chunk.strip())
 
     for chunk in chunks:
         payload = {
@@ -22,4 +34,4 @@ def send_telegram_alert(text):
         }
         response = requests.post(url, json=payload)
         if not response.ok:
-            print(f"❌ Telegram API Error ({response.status_code}): {response.text}")
+            print(f"Telegram API Error ({response.status_code}): {response.text}")

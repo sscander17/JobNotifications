@@ -131,5 +131,11 @@ COMPANIES = [
         "name": "BMW Group",
         "type": "bmw",
         "location_filter": "munich"
+    },
+    {
+        "name": "Stark Defence",
+        "type": "personio",
+        "subdomain": "stark",
+        "location_filter": "munich"
     }
 ]

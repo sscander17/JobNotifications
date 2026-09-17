@@ -231,12 +231,27 @@ def fetch_personio(company):
     response.raise_for_status()
     response.encoding = 'utf-8'
 
+    location_filter = company.get("location_filter", "").lower()
     positions = re.findall(r'<position>(.*?)</position>', response.text, re.DOTALL)
     
     filtered_jobs = {}
     for pos in positions:
         id_match = re.search(r'<id>([^<]+)</id>', pos)
         name_match = re.search(r'<name><!\[CDATA\[(.*?)\]\]></name>', pos) or re.search(r'<name>([^<]+)</name>', pos)
+        
+        office_match = re.search(r'<office>([^<]+)</office>', pos)
+        office_cdata = re.search(r'<office><!\[CDATA\[(.*?)\]\]></office>', pos)
+        desc_match = re.search(r'<jobDescriptions>(.*?)</jobDescriptions>', pos, re.DOTALL)
+        
+        office = office_cdata.group(1) if office_cdata else (office_match.group(1) if office_match else "")
+        desc = desc_match.group(1) if desc_match else ""
+        
+        job_location = office.lower()
+        job_desc = desc.lower()
+        
+        if location_filter:
+            if location_filter not in job_location and location_filter not in job_desc:
+                continue
         
         if id_match and name_match:
             job_id = id_match.group(1).strip()
