@@ -441,6 +441,45 @@ def fetch_bmw(company):
 
     return filtered_jobs
 
+def fetch_renesas(company):
+    from curl_cffi import requests as curl_requests
+    import time
+    
+    url_template = company["url_template"]
+    base_domain = company.get("base_domain", "https://jobs.renesas.com")
+    
+    filtered_jobs = {}
+    
+    for page in range(1, 20):
+        url = url_template.format(page)
+        
+        for attempt in range(3):
+            try:
+                response = curl_requests.get(url, impersonate="chrome110", timeout=60)
+                if response.status_code != 200:
+                    raise Exception(f"HTTP {response.status_code}")
+                response.encoding = 'utf-8'
+                break
+            except Exception as e:
+                if attempt == 2:
+                    raise
+                time.sleep(5)
+        
+        soup = BeautifulSoup(response.text, "html.parser")
+        new_jobs = 0
+        
+        for a in soup.find_all('a', href=True):
+            if '/job/' in a['href'] and a.text.strip() and a.text.strip() != 'View job':
+                link = base_domain + a['href'] if a['href'].startswith('/') else a['href']
+                if link not in filtered_jobs:
+                    filtered_jobs[link] = a.text.strip()
+                    new_jobs += 1
+                    
+        if new_jobs == 0:
+            break
+            
+    return filtered_jobs
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "workday": fetch_workday,
@@ -453,5 +492,6 @@ FETCHERS = {
     "oraclecloud": fetch_oraclecloud,
     "em_munich": fetch_em_munich,
     "jibe": fetch_jibe,
-    "bmw": fetch_bmw
+    "bmw": fetch_bmw,
+    "renesas": fetch_renesas
 }

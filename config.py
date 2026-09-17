@@ -137,5 +137,10 @@ COMPANIES = [
         "type": "personio",
         "subdomain": "stark",
         "location_filter": "munich"
+    },
+    {
+        "name": "Renesas Electronics",
+        "type": "renesas",
+        "url_template": "https://jobs.renesas.com/jobs?options=652&page={}"
     }
 ]
