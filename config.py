@@ -142,5 +142,12 @@ COMPANIES = [
         "name": "Renesas Electronics",
         "type": "renesas",
         "url_template": "https://jobs.renesas.com/jobs?options=652&page={}"
+    },
+    {
+        "name": "Omnisent",
+        "type": "scrape",
+        "url": "https://www.omnisent.ai/careers",
+        "url_filter": "join.com/companies/omnisent/",
+        "location_filter": "munich"
     }
 ]

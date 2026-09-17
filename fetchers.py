@@ -188,9 +188,13 @@ def fetch_scrape(company):
         href = link.get('href')
         title = link.get_text(strip=True)
         if href and company["url_filter"] in href and title:
+            location_filter = company.get("location_filter", "").lower()
+            if location_filter and location_filter not in (title + href).lower():
+                continue
+                
             if title.lower() not in ["view job", "apply now", "read more"]:
                 if not href.startswith("http"):
-                    href = company["url"].rstrip("/") + href
+                    href = company["base_url"].rstrip("/") + href if "base_url" in company else company["url"].rstrip("/") + href
                 current_jobs[href] = title
     return current_jobs
 
