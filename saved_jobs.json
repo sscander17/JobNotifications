@@ -115,8 +115,8 @@
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
     "https://helsing.ai/jobs/4912850101?gh_jid=4912850101": "Senior Talent Acquisition Partner",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4948430101?gh_jid=4948430101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -306,6 +306,7 @@
     "https://career.quantum-systems.com/o/hr-manager-mfd-quantum-frontline-industries": "HR Manager (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/junior-sous-chef-mwd-1": "Junior Sous Chef (m/f/d)",
     "https://career.quantum-systems.com/o/office-manager-3": "Office Manager",
+    "https://career.quantum-systems.com/o/product-manager-autonomous-trucking-mfd": "Product Manager Autonomous Trucking (m/f/d)",
     "https://career.quantum-systems.com/o/project-manager-mfd-quantum-frontline-industries": "Project Manager (m/f/d) Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/assembly-operator": "Assembly Operator",
     "https://career.quantum-systems.com/o/bootsbauer-mfd": "Boat Builder (m/f/d)",
@@ -381,6 +382,7 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4923491101": "GNC Engineer - Mission Analysis (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4947894101": "Head of HR Business Partnering (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4820303101": "HR Business Partner (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952519101": "Junior Calibration Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4948911101": "(Junior) Executive Assistant (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940762101": "Lab Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974490101": "Launcher Assembly Technician (m/f/d)",
@@ -415,7 +417,6 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953614101": "Working Student CAD(m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4934396101": "Working Student Fluid Systems Design (m/w/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952460101": "Working Student (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4960889101": "Working Student (m/w/f) ",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4937173101": "Working Student Propulsion (m/w/f)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953152101": "Working Student Sales Operations (f/m/d)"
   },
@@ -513,7 +514,6 @@
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/484063": "Elektroniker Betriebstechnik (w/m/d) \u2013 Montage von Eisenbahnsignaltechnik im Nahverkehr"
   },
   "DLR": {
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Migration-und-Inbetriebnahme-eines-mechatronischen-15-Pr%C3%BCfstands-auf-dSPACE/1429074833/": "Oberpfaffenhofen Studentin (wmd) Migration und Inbetriebnahme eines mechatronischen 15 Pr\u00fcfstands auf dSPACE",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Software-development-of-secure-IP-based-protocols-for-satellite-communications/1407538233/": "Oberpfaffenhofen Engineer (fmx) Software development of secure IP based protocols for satellite communications",
@@ -613,7 +613,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28mfx%29-Design-and-development-of-real-time-systems-for-robotics-hardware-platforms/1417120933/": "Oberpfaffenhofen Engineer (mfx) Design and development of real time systems for robotics hardware platforms",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Konzeption-und-Entwicklung-von-Echtzeitsystemen-f%C3%BCr-Robotik-Hardwareplattform/1417120833/": "Oberpfaffenhofen Ingenieurin (wmd) Konzeption und Entwicklung von Echtzeitsystemen f\u00fcr Robotik Hardwareplattform",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Entwicklung-und-Analyse-eines-softwarebasierten-SpaceWire-zu-Ethernet-Moduls/1435468033/": "Oberpfaffenhofen Masterarbeit (wmd) Entwicklung und Analyse eines softwarebasierten SpaceWire zu Ethernet Moduls",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Development-and-analysis-of-a-software-based-SpaceWire-to-Ethernet-bridge/1435468133/": "Oberpfaffenhofen Master Thesis (fmx) Development and analysis of a software based SpaceWire to Ethernet bridge"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Development-and-analysis-of-a-software-based-SpaceWire-to-Ethernet-bridge/1435468133/": "Oberpfaffenhofen Master Thesis (fmx) Development and analysis of a software based SpaceWire to Ethernet bridge",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive \u2013 Defense & Enterprise (m/f/d)",
