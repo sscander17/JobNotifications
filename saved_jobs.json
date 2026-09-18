@@ -150,6 +150,7 @@
     "https://helsing.ai/jobs/4957275101?gh_jid=4957275101": "Technical Recruiter",
     "https://helsing.ai/jobs/4976970101?gh_jid=4976970101": "T\u00e9cnico Mecatr\u00f3nico - Rob\u00f3tica",
     "https://helsing.ai/jobs/4962228101?gh_jid=4962228101": "Test and Evaluation Engineer ",
+    "https://helsing.ai/jobs/4979778101?gh_jid=4979778101": "UAS Flight Operations - Germany",
     "https://helsing.ai/jobs/4964970101?gh_jid=4964970101": "Warehouse Clerk ",
     "https://helsing.ai/jobs/4965312101?gh_jid=4965312101": "Warehouse Manager",
     "https://helsing.ai/jobs/4963213101?gh_jid=4963213101": "Warehouse Operator",
@@ -613,7 +614,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gesch%C3%A4ftsfeldentwicklerin-%28wmd%29/1428378633/": "Oberpfaffenhofen Gesch\u00e4ftsfeldentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Industriemechanikerin-%28wmd%29/1428305433/": "Oberpfaffenhofen Ausbildung zurzum Industriemechanikerin (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-System-engineer-Voice-Communications-System-%28fmx%29/1428217233/": "Oberpfaffenhofen System engineer Voice Communications System (fmx)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-System-engineer-Voice-Communications-System-%28fmx%29/1428217233/": "Oberpfaffenhofen System engineer Voice Communications System (fmx)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive \u2013 Defense & Enterprise (m/f/d)",
@@ -762,6 +764,9 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196152.html": "Intern Artificial Intelligence in Robotics (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195630.html": "Praktikant Data Engineering und Frontend-Entwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195126.html": "Intern AI for CAD Data &amp; Engineering Intelligence (f/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195085.html": "Praktikant Fahrzeug-Projektleitung Motorrad Baureihe Boxer (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195084.html": "Praktikant Fahrzeug-Projektleitung Motorrad Baureihe Boxer (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195083.html": "Praktikant Fahrzeug-Projektleitung Motorrad Baureihe Boxer (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.172625.html": "Praktikant Sales Steering (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196162.html": "Intern Innovation Strategy Mobility (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195933.html": "Kfz-Lackierer (w/m/x)",
@@ -959,7 +964,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194548.html": "Praktikant Nachhaltigkeitsregulatorik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193017.html": "Working student in the car body development with Python programming (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192520.html": "Werkstudent Data Analytics im Qualit\u00e4tsmanagement f\u00fcr Digitale Dienste (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194509.html": "Praktikant Entwicklung elektrische Antriebsmaschinen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194430.html": "Praktikant in der Fahrzeugmontage des neuen BMW i3 (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194236.html": "Intern AI Engineering Customer Journey Analytics (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194155.html": "Praktikant Kundenerlebnis Laden von elektrifizierten Fahrzeugen (m/w/x)",
@@ -1068,7 +1072,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190323.html": "Intern Regional Marketing APEEA (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192641.html": "Praktikant Projektmanagement elektrifizierte Antriebssysteme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192640.html": "Praktikant Projektmanagement elektrifizierte Automatikgetriebe (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192062.html": "Praktikant Absicherung E/E-Komponenten im elektrischen Antrieb (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191998.html": "Praktikant Eventmanagement (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.189893.html": "Praktikant Eventmanagement PR- und Presseevents",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.189891.html": "Praktikum Presse und PR Events (w/m/x)",
