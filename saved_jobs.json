@@ -730,6 +730,24 @@
     "https://careers.ti.com/en/sites/CX/job/25017425/": "Equipment Engineering Technician Multiprobe m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017697/": "Techniker (m/w/d) im Outgoing Quality Team (FFAB)"
   },
+  "Intel": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Senior-Compiler-Engineer--f-m-d-_JR0286159": "Senior Compiler Engineer (f/m/d)"
+  },
+  "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Lead-Engineer--Systems-Applications---Power-Solutions_R265321": "Lead Engineer, Systems Applications \u2013 Power Solutions",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Customer-System-Measurement-Engineer_R265672": "Principal Customer System Measurement Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Staff-Customer-System-Measurement-Engineer_R265671": "Staff Customer System Measurement Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R265841": "Staff Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R261161": "Staff Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Account-Manager--Field-Sales_R265618": "Principal Account Manager, Field Sales",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Sales-Director-EMEA_R261852": "Senior Sales Director EMEA",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-AI-ML-Engineer--Robotics-_R265198": "Principal AI/ML Engineer (Robotics)",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Digital-Design-Engineer_R264207": "Staff Digital Design Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Newbury/Staff-Mixed-Signal-Design-Engineer_R264622": "Staff Mixed-Signal Design Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Staff-Analog-Design-Engineer_R264209": "Staff Analog Design Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-Algorithm-Development-Engineer---Battery-Insights_R262834": "Principal  AI/ ML Algorithm Development Engineer - Battery Insights"
+  },
   "Engineering Minds Munich": {
     "https://www.em-munich.de/_files/ugd/1c2914_e136ad49ddef40d88a06d6d9c56b14a4.pdf": "Ingenieur*in (m/w/d) Elektronik / FPGA-Embedded-Systeme",
     "https://www.em-munich.de/_files/ugd/1c2914_e17d6a4a9e744809aff82848dc5b39b5.pdf": "[Werkstudent/Teilzeit] PCB-Designer*in (m/w/d)",
@@ -745,6 +763,8 @@
     "https://careers.amd.com/careers-home/jobs/89628": "Channel Marketing Manager"
   },
   "BMW Group": {
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196664.html": "Werkstudent Controlling und Datenanalyse (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196248.html": "Praktikant E-Antriebssysteme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196152.html": "Intern Artificial Intelligence in Robotics (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195630.html": "Praktikant Data Engineering und Frontend-Entwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195126.html": "Intern AI for CAD Data &amp; Engineering Intelligence (f/m/x)",
@@ -872,7 +892,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194505.html": "Praktikant Batteriezellproduktion (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194496.html": "Praktikant BMW Motorrad Vertriebsstrategie und Transformation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194363.html": "Praktikant BMW Group Archiv (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194320.html": "Studienabschlussarbeit Datengetriebene Validierung von E/E Komponenten (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194090.html": "Praktikant Simulationsmodell Batteriesicherheit (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193946.html": "Abschlussarbeit K\u00fcnstliche Intelligenz und Large Language Models (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193813.html": "Praktikant Experiential Marketing (w/m/x)",
