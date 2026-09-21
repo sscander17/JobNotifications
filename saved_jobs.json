@@ -187,6 +187,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4967694101": "(Senior) Tender Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4880312101": "Senior Test Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4877733101": "Software Quality Control Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4981422101": "Software Technical Support Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975246101": "Staff Embedded Software Engineer (m/f/d), Safety & Security Platform ",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875205101": "Staff Engineer, Robotics Perception (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875188101": "Staff Engineer, Sensor Fusion & Localization (m/f/d)",
@@ -616,12 +617,12 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29/1437902633/": "Oberpfaffenhofen Softwareentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29-K%C3%BCnstliche-Intelligenz/1434294633/": "Oberpfaffenhofen Softwareentwicklerin (wmd) K\u00fcnstliche Intelligenz",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Systemingenieurin-%28wmd%29-Voice-System/1428217133/": "Oberpfaffenhofen Systemingenieurin (wmd) Voice System",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-System-engineer-Voice-Communications-System-%28fmx%29/1428217233/": "Oberpfaffenhofen System engineer Voice Communications System (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Multimodale-Navigation/1412776633/": "Oberpfaffenhofen Gruppenleitung (wmd) Multimodale Navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Mesh-Netzwerke-f%C3%BCr-Drohnenschw%C3%A4rme/1417037133/": "Oberpfaffenhofen Masterarbeit (wmd) Mesh Netzwerke f\u00fcr Drohnenschw\u00e4rme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Systemingenieurin-%28wmd%29-Voice-System/1428217133/": "Oberpfaffenhofen Systemingenieurin (wmd) Voice System",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-System-engineer-Voice-Communications-System-%28fmx%29/1428217233/": "Oberpfaffenhofen System engineer Voice Communications System (fmx)"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -656,7 +657,6 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--im-Bereich-Sales-Operations---Performance-Management_JR10421070": "Werkstudent (d/m/w) im Bereich Sales Operations & Performance Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Project-and-Service-Controller-SBW3---other-projects--d-m-w-_JR10398562": "Project and Service Controller SBW3 & other projects (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cybersecurity-Researcher--d-f-m-_JR10437656": "Cybersecurity Researcher (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--im--Ludwig-Blkow-Campus-_JR10438561": "Werkstudent (d/m/w) im \u201eLudwig B\u00f6lkow Campus\u201c",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Material-Data-Manager--Material-Support-Manager---d-w-m-_JR10414451": "Material Data Manager/ Material Support Manager  (d/w/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Supportability-Engineer--d-m-w-_JR10414448": "Supportability Engineer (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Detection-Engineering-Lead--d-f-m-_JR10428030": "Cyber Detection Engineering Lead (d/f/m)",
@@ -699,9 +699,9 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SENIOR-CYBER-SECURITY-OT-CONSULTANT--D-F-M-_JR10322749": "SENIOR CYBER SECURITY OT CONSULTANT (D/F/M)"
   },
   "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Functional-Safety-Architect--f-m-d-_R-10066838": "Principal Functional Safety Architect (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Automotive-Software-Product-Manager--f-m-d-_R-10066088": "Automotive Software Product Manager (f/d/m)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--OEM-Key-Account-Management_R-10064462-1": "Intern (f/m/d) OEM Key Account Management",
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Functional-Safety-Architect--f-m-d-_R-10066838": "Principal Functional Safety Architect (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Digital-Design-Engineer--f-m-d-_R-10065445-1": "Digital Design Engineer (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Digital-Verification-Engineer_R-10065444-1": "Digital Verification Engineer (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Toulouse/Functional-Safety-for-AI--Technical-Lead_R-10064268": "Functional Safety for AI- Technical Lead",
