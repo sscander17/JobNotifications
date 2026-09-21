@@ -499,6 +499,7 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/506884": "Werkstudent (w/m/d) Software Development, AI & Data Integration",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/514079": "Business Development & Community Manager (f/m/d) Energy Management",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521712": "Head of Global Research & Development and Technology\u202f (f/m/d)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521732": "Werkstudent (w/m/d) Requirements Management",
@@ -624,7 +625,6 @@
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
     "https://hive-robotics.jobs.personio.com/job/2744364": "Field Application Engineer (m/f/d)",
-    "https://hive-robotics.jobs.personio.com/job/2619662": "Supply Chain & Procurement Manager (m/f/d)",
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
@@ -698,6 +698,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SENIOR-CYBER-SECURITY-OT-CONSULTANT--D-F-M-_JR10322749": "SENIOR CYBER SECURITY OT CONSULTANT (D/F/M)"
   },
   "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Automotive-Software-Product-Manager--f-m-d-_R-10066088": "Automotive Software Product Manager (f/d/m)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--OEM-Key-Account-Management_R-10064462-1": "Intern (f/m/d) OEM Key Account Management",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Functional-Safety-Architect--f-m-d-_R-10066838": "Principal Functional Safety Architect (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Digital-Design-Engineer--f-m-d-_R-10065445-1": "Digital Design Engineer (f/m/d)",
@@ -722,7 +723,6 @@
     "https://careers.ti.com/en/sites/CX/job/25008000/": "Equipment Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25009931/": "Zerspanungsmechaniker / CNC-Fr\u00e4ser (m/f/d) - Instandhaltung & Fertigung",
     "https://careers.ti.com/en/sites/CX/job/25010032/": "Engineering Technician m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25010119/": "Analog IC Design Manager m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25010376/": "Layout Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25011262/": "Mechatroniker/Elektroniker in der Instandhaltung/Wartung m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25012515/": "Applications Engineering Intern / Student Worker - Evaluation/Test of analog IC's Power Management Devices m/f/d",
@@ -764,6 +764,7 @@
     "https://careers.amd.com/careers-home/jobs/89628": "Channel Marketing Manager"
   },
   "BMW Group": {
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195150.html": "Praktikant Prototypenentwicklung Antriebsmaschinen und Leistungselektronik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194235.html": "Praktikant On-Board-Diagnose Entwicklung Antrieb (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191866.html": "Praktikant Indirekter Einkauf Transport- und Logistikdienstleistungen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196664.html": "Werkstudent Controlling und Datenanalyse (w/m/x)",
@@ -920,7 +921,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192648.html": "Praktikant Gesch\u00e4ftsentwicklung Service- und Wartungsprodukte (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191475.html": "Praktikant Elektrik- und Elektronikentwicklung Motorrad (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194927.html": "Werkstudent im Bereich Digitalisierung der Absicherung Fahrdynamikumf\u00e4nge (m/w/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193547.html": "Praktikant Bildungsmanagement und Qualifizierung Produktionstechnik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193545.html": "Praktikant Bildungsmanagement Produktionstechnik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191835.html": "Doktorand Direkte Flussregelung f\u00fcr Synchronmotoren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194928.html": "Werkstudent Serienentwicklung zylindrische Batteriezelle Gen6 (w/m/x)",
@@ -928,17 +928,14 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194554.html": "Werkstudent Hochvoltkomponenten Entwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192188.html": "Praktikant Systemgestaltung Hochvoltspeicher &amp; Ladepfad (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.184635.html": "Praktikant Full-Stack Webentwicklung mit KI (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.178921.html": "Praktikant Globale Markenkommunikation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194992.html": "Praktikant KI und Automatisierung in der Fahrwerkentwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194365.html": "Praktikum im Bereich L\u00e4ndercontrolling",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192950.html": "Doktorand Multimodale KI Systeme zur Erkennung elektronischer Komponenten Cost Engineering (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.188038.html": "Praktikant Project Management Office Einkauf und Lieferantennetzwerk (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.186871.html": "Praktikant Presse- und \u00d6ffentlichkeitsarbeit MINI (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194761.html": "Praktikant MINI Brand Management (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194613.html": "Praktikant Softwareentwicklung Innovation/Digitalisierung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194436.html": "Praktikant/in Qualit\u00e4tsmanagement Einkauf und Lieferantennetzwerk (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190415.html": "Praktikant Einkauf Tank- und Wasserstoffsysteme (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195150.html": "Praktikant Prototypenentwicklung Antriebsmaschinen und Leistungselektronik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194974.html": "Werkstudent Cloud Data Hub/Data &amp; AI Porta (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194723.html": "Werkstudent Unternehmenskommunikation Nachhaltigkeit und Supply Chain (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194714.html": "Praktikant BMW M Motorsport Kommunikation und Aktivierung (w/m/x)",
@@ -952,7 +949,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194151.html": "Praktikant Produkt- und Markenmanagement BMW ALPINA (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192366.html": "Werkstudent Digitalisierung Typzulassung und Homologation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190716.html": "Praktikant Compliance Exportkontrolle und Geldw\u00e4schepr\u00e4vention (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.179319.html": "Praktikant Qualit\u00e4tsmanagement Technologie-Cluster Fahren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194777.html": "Praktikant Datenmanagement und KI in der Gesamtfahrzeugentwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194568.html": "Praktikant Produktkostenoptimierung Gesamtfahrzeug (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194312.html": "Werkstudent Innenausstattung (w/m/x)",
@@ -975,7 +971,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193579.html": "Praktikant Handelsentwicklung Deutscher Markt (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193422.html": "Masterarbeit im Bereich Vergleich von nass- und trockenprozessierten ASSB-Zellkomponenten (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193296.html": "Praktikant in der Vertriebssteuerung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192941.html": "Intern Strategic Sales, Business Development &amp; Transformation Projects (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192781.html": "Werkstudent Forschung Leistungselektronik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.167361.html": "Praktikant Corporate Communications BMW Automobile (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.162388.html": "Abschlussarbeit Entwicklung von KI-Agenten f\u00fcr die Produktionsplanung von Hochvoltspeichern (w/m/x)",
@@ -1047,7 +1042,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190207.html": "Praktikant Elektrik/Elektronik Gesamtfahrzeugabsicherung Motorrad (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190132.html": "Praktikant Markenkommunikation und Customer Journey Management (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.163783.html": "Studienabschlussarbeit Optimierung integrierter Energiesysteme",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192863.html": "Intern B2B Fleet International Operations (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192519.html": "Werkstudent Tooling Anforderungsentwicklung Elektrik/Elektronik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192506.html": "Masterarbeit Entwicklung eines KI-Agenten zur Ursachenanalyse im Karosseriebau",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192403.html": "Praktikant Entwicklung elektrischer Antriebe (w/m/x)",
@@ -1099,7 +1093,6 @@
     "https://stark.jobs.personio.com/job/1875864": "(Senior) Backend Engineer C++ (All genders)",
     "https://stark.jobs.personio.com/job/2510862": "(Senior) Robotics Software Engineer (m/f/d)",
     "https://stark.jobs.personio.com/job/2801644": "Associate IT Systems Administrator (all genders)",
-    "https://stark.jobs.personio.com/job/2744399": "Battery System Engineer/Architect (all genders)",
     "https://stark.jobs.personio.com/job/2324258": "Berufskraftfahrer / Standortlogistik (m/w/d)",
     "https://stark.jobs.personio.com/job/2590853": "Business Development Lead Software",
     "https://stark.jobs.personio.com/job/2684099": "C-UAS Electronics Engineer (All genders)",
