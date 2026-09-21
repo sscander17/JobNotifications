@@ -197,6 +197,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
+    "https://tytantechnologiesgmbh.recruitee.com/o/full-stack-engineer-fmd": "Full-stack Engineer (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/requirements-engineer-fmd": "Requirements Engineer (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-solutions-architect-sales-engineer-mfd": "Senior Solutions Architect / Sales Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/battery-engineer-pack-design-cell-characterization": "Battery Engineer (Pack Design & Cell Characterization)",
@@ -560,7 +561,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28mfx%29-Design-and-development-of-real-time-systems-for-robotics-hardware-platforms/1417120933/": "Oberpfaffenhofen Engineer (mfx) Design and development of real time systems for robotics hardware platforms",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Senior-IT-Systems-Engineer-%28wmd%29-Bodensegment/1397660833/": "Oberpfaffenhofen Senior IT Systems Engineer (wmd) Bodensegment",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Semantisch-orientierte-PHY-Techniken-f%C3%BCr-Kommunikation-in-Drohnenschw%C3%A4rmen/1419818233/": "Oberpfaffenhofen Masterarbeit (wmd) Semantisch orientierte PHY Techniken f\u00fcr Kommunikation in Drohnenschw\u00e4rmen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1387516533/": "Oberpfaffenhofen Studentin (wmd) Natur , Ingenieur oder Computerwissenschaften",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-Student-%28fmx%29-Embedded-Software-Development-for-Swarm-Navigation-and-Communications/1423796833/": "Oberpfaffenhofen Working Student (fmx) Embedded Software Development for Swarm Navigation and Communications",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-Lernen-von-Oberfl%C3%A4chenbearbeitungsstrategien/1419789733/": "Oberpfaffenhofen studentische Aushilfe (wmd) Lernen von Oberfl\u00e4chenbearbeitungsstrategien",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Neuro-symbolische-KI-f%C3%BCr-resiliente-On-Board-Entscheidungen/1435629933/": "Oberpfaffenhofen Masterarbeit (wmd) Neuro symbolische KI f\u00fcr resiliente On Board Entscheidungen",
@@ -587,7 +587,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767133/": "Oberpfaffenhofen Master Thesis on Federated Learning for Internet of Things (IoT) Systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29-K%C3%BCnstliche-Intelligenz/1434294633/": "Oberpfaffenhofen Softwareentwicklerin (wmd) K\u00fcnstliche Intelligenz",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Implementation-of-an-OKF-based-LLM-chatbot-for-the-Aerospace-Industry/1435462733/": "Oberpfaffenhofen Master Thesis (fmx) Implementation of an OKF based LLM chatbot for the Aerospace Industry",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29/1437898533/": "Oberpfaffenhofen Softwareentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434336533/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-final-year-dissertation-%28mfd%29-Elastic-transmission-elements-in-robotic-hands/1423448433/": "Oberpfaffenhofen Undergraduate and final year dissertation (mfd) Elastic transmission elements in robotic hands",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
@@ -618,8 +617,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Aerospace%2C-Physics%2C-Mathematics%2C-mwd/1419516933/": "Oberpfaffenhofen Master Thesis Student in Aerospace, Physics, Mathematics, mwd",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-KI-Methoden-in-der-Software-Qualit%C3%A4tssicherung-f%C3%BCr-die-Raumfahrt/1433339933/": "Oberpfaffenhofen Informatikerin (wmd) KI Methoden in der Software Qualit\u00e4tssicherung f\u00fcr die Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Computer-Scientist-%28fmx%29-specialized-in-AI-methods-for-software-quality-assurance-in-space-systems/1433340033/": "Oberpfaffenhofen Computer Scientist (fmx) specialized in AI methods for software quality assurance in space systems",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29/1437898533/": "Oberpfaffenhofen Softwareentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Informatik-oder-Physik/1439294433/": "Oberpfaffenhofen Masterstudentin (wmd) in Informatik oder Physik",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1387516533/": "Oberpfaffenhofen Studentin (wmd) Natur , Ingenieur oder Computerwissenschaften"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -656,7 +657,6 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Project-and-Service-Controller-SBW3---other-projects--d-m-w-_JR10398562": "Project and Service Controller SBW3 & other projects (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cybersecurity-Researcher--d-f-m-_JR10437656": "Cybersecurity Researcher (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--im--Ludwig-Blkow-Campus-_JR10438561": "Werkstudent (d/m/w) im \u201eLudwig B\u00f6lkow Campus\u201c",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BA-BWL---International-Business--d-m-w--zum-01092027_JR10417010": "Duales Studium B.A. BWL - International Business (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Material-Data-Manager--Material-Support-Manager---d-w-m-_JR10414451": "Material Data Manager/ Material Support Manager  (d/w/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Supportability-Engineer--d-m-w-_JR10414448": "Supportability Engineer (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Detection-Engineering-Lead--d-f-m-_JR10428030": "Cyber Detection Engineering Lead (d/f/m)",
@@ -735,9 +735,10 @@
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Senior-Compiler-Engineer--f-m-d-_JR0286159": "Senior Compiler Engineer (f/m/d)"
   },
   "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Customer-System-Measurement-Engineer_R265672": "Principal ATE Customer System Measurement Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Staff-Customer-System-Measurement-Engineer_R265671": "Staff ATE Customer System Measurement Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Global-Account-Director_R265895": "Global Account Director",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Lead-Engineer--Systems-Applications---Power-Solutions_R265321": "Lead Engineer, Systems Applications \u2013 Power Solutions",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Customer-System-Measurement-Engineer_R265672": "Principal Customer System Measurement Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Staff-Customer-System-Measurement-Engineer_R265671": "Staff Customer System Measurement Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R265841": "Staff Engineer, Field Applications",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R261161": "Staff Engineer, Field Applications",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Account-Manager--Field-Sales_R265618": "Principal Account Manager, Field Sales",
