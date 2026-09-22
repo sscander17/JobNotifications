@@ -164,15 +164,21 @@ def fetch_workday(company):
         }
         response = requests.post(url, json=payload, headers=headers, timeout=15)
         response.raise_for_status()
-        jobs = response.json().get("jobPostings", [])
+        data = response.json()
+        jobs = data.get("jobPostings", [])
 
+        new_jobs_added = 0
         for job in jobs:
             full_url = f"https://{tenant}.{wd_server}.myworkdayjobs.com/en-US/{career_site}{job['externalPath']}"
-            filtered_jobs[full_url] = job["title"]
+            if full_url not in filtered_jobs:
+                filtered_jobs[full_url] = job["title"]
+                new_jobs_added += 1
 
-        if len(jobs) < 20:
+        total = data.get("total", 0)
+        offset += len(jobs)
+        
+        if len(jobs) < 20 or offset >= total or new_jobs_added == 0:
             break
-        offset += 20
 
     return filtered_jobs
 
