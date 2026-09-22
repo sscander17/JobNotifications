@@ -17,7 +17,7 @@ def fetch_avature(company):
         separator = "&" if "?" in base_url else "?"
         paginated_url = f"{base_url}{separator}folderOffset={offset}"
 
-        response = requests.get(paginated_url, headers=headers)
+        response = requests.get(paginated_url, headers=headers, timeout=15)
         response.raise_for_status()
 
         soup = BeautifulSoup(response.text, "html.parser")
@@ -51,7 +51,7 @@ def fetch_greenhouse(company):
     location_filter = company.get("location")
 
     url = f"https://boards-api.greenhouse.io/v1/boards/{board_token}/jobs?content=true"
-    response = requests.get(url)
+    response = requests.get(url, timeout=15)
     response.raise_for_status()
 
     data = response.json()
@@ -92,7 +92,7 @@ def fetch_eightfold(company):
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     }
     
-    response = requests.get(url, headers=headers)
+    response = requests.get(url, headers=headers, timeout=15)
     
     if response.status_code != 200:
         print(f"Warning: Could not fetch sitemap for {career_site}")
@@ -133,7 +133,7 @@ def fetch_eightfold(company):
 
 def fetch_recruitee(company):
     url = f"https://{company['subdomain']}.recruitee.com/api/offers/"
-    response = requests.get(url)
+    response = requests.get(url, timeout=15)
     response.raise_for_status()
     jobs = response.json().get("offers", [])
     return {job["careers_url"]: job["title"] for job in jobs if "careers_url" in job}
@@ -162,7 +162,7 @@ def fetch_workday(company):
             "offset": offset,
             "searchText": ""
         }
-        response = requests.post(url, json=payload, headers=headers)
+        response = requests.post(url, json=payload, headers=headers, timeout=15)
         response.raise_for_status()
         jobs = response.json().get("jobPostings", [])
 
@@ -179,7 +179,7 @@ def fetch_workday(company):
 
 def fetch_scrape(company):
     headers = {"User-Agent": "Mozilla/5.0"}
-    response = requests.get(company["url"], headers=headers)
+    response = requests.get(company["url"], headers=headers, timeout=15)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -204,7 +204,7 @@ def fetch_dlr(company):
     from urllib.parse import unquote
 
     url = "https://jobs.dlr.de/sitemap.xml"
-    response = requests.get(url)
+    response = requests.get(url, timeout=15)
     response.raise_for_status()
 
     urls = re.findall(r'<loc>(https://jobs\.dlr\.de/job/[^<]+)</loc>', response.text)
@@ -231,7 +231,7 @@ def fetch_personio(company):
     import html
     subdomain = company["subdomain"]
     url = f"https://{subdomain}.jobs.personio.com/xml"
-    response = requests.get(url)
+    response = requests.get(url, timeout=15)
     response.raise_for_status()
     response.encoding = 'utf-8'
 
