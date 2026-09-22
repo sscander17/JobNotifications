@@ -64,7 +64,6 @@
     "https://helsing.ai/jobs/4948277101?gh_jid=4948277101": "Obsolescence Manager ",
     "https://helsing.ai/jobs/4876698101?gh_jid=4876698101": "Payroll Specialist",
     "https://helsing.ai/jobs/4841774101?gh_jid=4841774101": "People Business Partner - Munich",
-    "https://helsing.ai/jobs/4841824101?gh_jid=4841824101": "People Partner ",
     "https://helsing.ai/jobs/4974214101?gh_jid=4974214101": "Procurement Manager \u2013 Professional Services & Marketing",
     "https://helsing.ai/jobs/4959374101?gh_jid=4959374101": "Procurement Manager \u2013\u00a0Tech & IT ",
     "https://helsing.ai/jobs/4862537101?gh_jid=4862537101": "Procurement Project Manager",
@@ -110,9 +109,9 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4912850101?gh_jid=4912850101": "Senior Talent Acquisition Partner",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4948430101?gh_jid=4948430101": "Simulation Engineer",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -260,6 +259,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-fmd": "Drone Technician (f/m/d)"
   },
   "Samsung": {
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--Project-Management---Automotive-SoC-Software_R120004-1": "Working Student, Project Management / Automotive SoC Software",
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory",
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/HR-Business-Partner--m-f-d-_R119448-1": "HR Business Partner (m/f/d)",
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
@@ -620,10 +620,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Informatik-oder-Physik/1439294433/": "Oberpfaffenhofen Masterstudentin (wmd) in Informatik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-Satelliten-Systemtechnik/1390200433/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) Satelliten Systemtechnik",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Systemingenieurin-%28wmd%29-Voice-System/1428217133/": "Oberpfaffenhofen Systemingenieurin (wmd) Voice System",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-System-engineer-Voice-Communications-System-%28fmx%29/1428217233/": "Oberpfaffenhofen System engineer Voice Communications System (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Staatlich-gepr%C3%BCfter-Elektrotechnikerin-%28wmd%29/1417578233/": "Oberpfaffenhofen Staatlich gepr\u00fcfter Elektrotechnikerin (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Systemingenieurin-%28wmd%29-Voice-System/1428217133/": "Oberpfaffenhofen Systemingenieurin (wmd) Voice System",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-System-engineer-Voice-Communications-System-%28fmx%29/1428217233/": "Oberpfaffenhofen System engineer Voice Communications System (fmx)"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -699,6 +699,8 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SENIOR-CYBER-SECURITY-OT-CONSULTANT--D-F-M-_JR10322749": "SENIOR CYBER SECURITY OT CONSULTANT (D/F/M)"
   },
   "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Assessor---Team-Lead--f-m-d-_R-10066860": "Safety Assessor (f/m/d)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Engineer--f-m-d-_R-10066849": "Safety Engineer (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Digital-IP-Design-Engineer--f-m-d-_R-10066892": "Digital IP Design Engineer (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Functional-Safety-Architect--f-m-d-_R-10066838": "Principal Functional Safety Architect (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Automotive-Software-Product-Manager--f-m-d-_R-10066088": "Automotive Software Product Manager (f/d/m)",
@@ -903,7 +905,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193624.html": "Praktikant Simulationsentwicklung und Digital-Twin-Methoden (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193413.html": "Studienabschlussarbeit Additive Fertigung von Metallen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191737.html": "Werkstudent Softwareentwicklung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194538.html": "Praktikant Projektmanagement Digitalisierung Karosseriebau (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194466.html": "Praktikant Sensorverbund f\u00fcr Automatisiertes Fahren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194176.html": "Praktikant Testmanagement Agentic AI (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194175.html": "Praktikant AI Engineering E/E-Absicherung (w/m/x)",
@@ -957,7 +958,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194179.html": "Praktikant Materialrestriktionen / Produktnachhaltigkeit (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193934.html": "Werkstudent Produktportfolio-Strategie und Business Intelligence (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193933.html": "Praktikant Preis- und Volumenstrategie (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194485.html": "Studienabschlussarbeit Innovative Antriebskonzepte f\u00fcr die E-Mobilit\u00e4t (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194070.html": "Praktikant Kommunikation &amp; Change Management - Digitale Transformation / Virtuelle Fabrik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194069.html": "Praktikant Rollout- &amp; Testmanagement - Digitale Transformation / Virtuelle Fabrik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190925.html": "Werkstudent Automatisierung und KI im Entwicklungsprozess (w/m/x)",
@@ -968,7 +968,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194236.html": "Intern AI Engineering Customer Journey Analytics (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194155.html": "Praktikant Kundenerlebnis Laden von elektrifizierten Fahrzeugen (m/w/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194059.html": "Bachelorarbeit zur Bef\u00e4higung eines Pr\u00fcfstands zur automatisierten Bruchbildbewertung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193627.html": "Working Student Android Automotive Platform Development (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193579.html": "Praktikant Handelsentwicklung Deutscher Markt (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193422.html": "Masterarbeit im Bereich Vergleich von nass- und trockenprozessierten ASSB-Zellkomponenten (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193296.html": "Praktikant in der Vertriebssteuerung (w/m/x)",
@@ -1038,7 +1037,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192451.html": "Praktikant Prozessmanagement (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191936.html": "Intern AI Solutions for Financial Services (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190207.html": "Praktikant Elektrik/Elektronik Gesamtfahrzeugabsicherung Motorrad (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190132.html": "Praktikant Markenkommunikation und Customer Journey Management (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.163783.html": "Studienabschlussarbeit Optimierung integrierter Energiesysteme",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192519.html": "Werkstudent Tooling Anforderungsentwicklung Elektrik/Elektronik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192506.html": "Masterarbeit Entwicklung eines KI-Agenten zur Ursachenanalyse im Karosseriebau",
