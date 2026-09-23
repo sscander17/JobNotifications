@@ -15,7 +15,6 @@
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": "AI Research Intern (PhD) \u2013 3D Computer Vision",
     "https://helsing.ai/jobs/4944070101?gh_jid=4944070101": "Associate Programme Manager - Land",
     "https://helsing.ai/jobs/4878635101?gh_jid=4878635101": "Avionics Hardware Engineer",
-    "https://helsing.ai/jobs/4945398101?gh_jid=4945398101": "Brand Manager - Marketing & Communications",
     "https://helsing.ai/jobs/4939591101?gh_jid=4939591101": "Camera Engineer ",
     "https://helsing.ai/jobs/4981320101?gh_jid=4981320101": "Careers Fair - Schwieberdingen",
     "https://helsing.ai/jobs/4978367101?gh_jid=4978367101": "Chief of Staff, S&O (AUS)",
@@ -140,8 +139,8 @@
     "https://helsing.ai/jobs/4876451101?gh_jid=4876451101": "Systems Technical Writer",
     "https://helsing.ai/jobs/4962178101?gh_jid=4962178101": "Talent Operations Coordinator",
     "https://helsing.ai/jobs/4957296101?gh_jid=4957296101": "Talent Operations Coordinator - 12-month FTC",
-    "https://helsing.ai/jobs/4980899101?gh_jid=4980899101": "Team Assistant",
     "https://helsing.ai/jobs/4977427101?gh_jid=4977427101": "Team Assistant",
+    "https://helsing.ai/jobs/4980899101?gh_jid=4980899101": "Team Assistant",
     "https://helsing.ai/jobs/4966173101?gh_jid=4966173101": "Team Lead - Training and Mission Success - International",
     "https://helsing.ai/jobs/4888975101?gh_jid=4888975101": "Technical Lead Engineer, UAV Development",
     "https://helsing.ai/jobs/4948293101?gh_jid=4948293101": "Technical Logistical Support (TLB) Manager",
@@ -159,6 +158,7 @@
   },
   "ARX Robotics": {
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4955791101": "Junior Procurement Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4973110101": "Logistics Coordinator (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953147101": "Mission Operations Project Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876122101": "Production Supervisor (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4952088101": "Production Technician Electronics (m/f/d)",
@@ -574,8 +574,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Projektmanagerin-oder-Projektmanager-%28wmd%29-f%C3%BCr-die-Forschungsflugzeuge/1421744333/": "Oberpfaffenhofen Projektmanagerin oder Projektmanager (wmd) f\u00fcr die Forschungsflugzeuge",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28mfx%29-Design-and-development-of-real-time-systems-for-robotics-hardware-platforms/1417120933/": "Oberpfaffenhofen Engineer (mfx) Design and development of real time systems for robotics hardware platforms",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-Luft-und-Raumfahrt%2C-Physik%2C-Mathematik/1419516833/": "Oberpfaffenhofen Masterstudentin (wmd) Luft und Raumfahrt, Physik, Mathematik",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Aerospace%2C-Physics%2C-Mathematics%2C-mwd/1419516933/": "Oberpfaffenhofen Master Thesis Student in Aerospace, Physics, Mathematics, mwd",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-GPU-beschleunigte-Implementierung-und-Optimierung/1412288233/": "Oberpfaffenhofen Masterarbeit (wmd) GPU beschleunigte Implementierung und Optimierung",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Implementation-of-an-OKF-based-LLM-chatbot-for-the-Aerospace-Industry/1435462733/": "Oberpfaffenhofen Master Thesis (fmx) Implementation of an OKF based LLM chatbot for the Aerospace Industry",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Signalverarbeitung-f%C3%BCr-die-Satellitenkommunikation-mit-SDR-Kenntnisse/1431133933/": "Oberpfaffenhofen Ingenieurin (wmd) Signalverarbeitung f\u00fcr die Satellitenkommunikation mit SDR Kenntnisse",
@@ -622,7 +620,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-thesis-%28fmx%29-Development-of-a-Motion-Cueing-Algorithm-using-MPC-and-RL/1429580933/": "Oberpfaffenhofen Master thesis (fmx) Development of a Motion Cueing Algorithm using MPC and RL",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Luft-und-Raumfahrttechnik-%28wmd%29-SAR-Techniken/1429581433/": "Oberpfaffenhofen Ingenieurin Luft und Raumfahrttechnik (wmd) SAR Techniken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-Student-%28fmx%29-LiDAR-Sensors-Integration-on-a-Drone-Swarm/1402901333/": "Oberpfaffenhofen Working Student (fmx) LiDAR Sensors Integration on a Drone Swarm",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-Luft-und-Raumfahrt%2C-Physik%2C-Mathematik/1419516833/": "Oberpfaffenhofen Masterstudentin (wmd) Luft und Raumfahrt, Physik, Mathematik",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Aerospace%2C-Physics%2C-Mathematics%2C-mwd/1419516933/": "Oberpfaffenhofen Master Thesis Student in Aerospace, Physics, Mathematics, mwd"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -630,6 +630,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Intern--D---M---W----Talent---Executive-Management_JR10434906": "Intern (D / M / W) - Talent & Executive Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Security-Integrator--d-m-w-_JR10436987-1": "Cyber Security Integrator (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Project-and-Bid-Manager--d-m-w-_JR10434860-1": "Project Manager / Bid Manager \u2013 Cyber Security (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
@@ -668,8 +669,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Satellite-Control-Center--SCC--Systems-Engineer-HW-SW--d-m-w_JR10423307": "Satellite Control Center (SCC) Systems Engineer HW/SW (d/m/w",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Fachinformatiker-Systemintegration--d-m-w--zum-01092027_JR10416533": "Ausbildung Fachinformatiker Systemintegration (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Data-Science-und-Knstliche-Intelligenz--d-m-w--zum-01092027_JR10416527": "Duales Studium B.Sc. Data Science und K\u00fcnstliche Intelligenz (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Assessor---Team-Lead--f-m-d-_R-10066860": "Safety Assessor (f/m/d)",
