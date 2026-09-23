@@ -500,6 +500,8 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523584": "Systeminbetriebsetzer (w/m/d) in Geb\u00e4udetechnik f\u00fcr Mess-, Steuer- und Regelungstechnik",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523454": "Werkstudent (w/m/d) Cyber Security",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/498458": "PLM Consultant / Teamcenter Archtitect / Polarion Consultant  / Presales Consultant (all genders) - DI Software Partner Talent Portal",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521712": "Head of Global Research & Development and Technology\u202f (f/m/d)",
@@ -523,7 +525,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gesch%C3%A4ftsfeldentwicklerin-%28wmd%29/1428378633/": "Oberpfaffenhofen Gesch\u00e4ftsfeldentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434296633/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%C3%BCber-maschinelles-Lernen-f%C3%BCr-die-Konnektivit%C3%A4t-in-Non-Terrestrial-Networks-%28wmd%29/1383527633/": "Oberpfaffenhofen Masterarbeit \u00fcber maschinelles Lernen f\u00fcr die Konnektivit\u00e4t in Non Terrestrial Networks (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-System-engineer-Voice-Communications-System-%28fmx%29/1428217233/": "Oberpfaffenhofen System engineer Voice Communications System (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld",
@@ -593,7 +594,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Industriemechanikerin-%28wmd%29/1428305433/": "Oberpfaffenhofen Ausbildung zurzum Industriemechanikerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767033/": "Oberpfaffenhofen Masterandin (wmd) Federated Learning for Internet of Things (IoT) Systems",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Systemingenieurin-%28wmd%29-Voice-System/1428217133/": "Oberpfaffenhofen Systemingenieurin (wmd) Voice System",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Multimodale-Navigation/1412776633/": "Oberpfaffenhofen Gruppenleitung (wmd) Multimodale Navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Entwicklung-und-Analyse-eines-softwarebasierten-SpaceWire-zu-Ethernet-Moduls/1435468033/": "Oberpfaffenhofen Masterarbeit (wmd) Entwicklung und Analyse eines softwarebasierten SpaceWire zu Ethernet Moduls",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Bachelor-oder-Masterarbeit-%28wmd%29-Maschinenbau%2C-Luft-und-Raumfahrt%2C-Elektrotechnik/1429111133/": "Oberpfaffenhofen Bachelor oder Masterarbeit (wmd) Maschinenbau, Luft und Raumfahrt, Elektrotechnik",
@@ -620,7 +620,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Aerospace%2C-Physics%2C-Mathematics%2C-mwd/1419516933/": "Oberpfaffenhofen Master Thesis Student in Aerospace, Physics, Mathematics, mwd",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-Forschung-und-Entwicklung-von-Payload-Software-f%C3%BCr-Raumfahrtsysteme/1430754933/": "Oberpfaffenhofen Informatikerin (wmd) Forschung und Entwicklung von Payload Software f\u00fcr Raumfahrtsysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmx%29-Machine-Learning/1383892733/": "Oberpfaffenhofen Working student (fmx) Machine Learning",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Systemingenieurin-%28wmd%29-Voice-System/1428217133/": "Oberpfaffenhofen Systemingenieurin (wmd) Voice System",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-System-engineer-Voice-Communications-System-%28fmx%29/1428217233/": "Oberpfaffenhofen System engineer Voice Communications System (fmx)"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -628,7 +630,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Intern--D---M---W----Talent---Executive-Management_JR10434906": "Intern (D / M / W) - Talent & Executive Management",
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Intern--D---M---W----Talent---Executive-Management_JR10434906": "Intern (d/f/m) - Talent & Executive Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Security-Integrator--d-m-w-_JR10436987-1": "Cyber Security Integrator (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Project-and-Bid-Manager--d-m-w-_JR10434860-1": "Project Manager / Bid Manager \u2013 Cyber Security (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
