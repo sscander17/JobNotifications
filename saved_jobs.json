@@ -70,7 +70,7 @@
     "https://helsing.ai/jobs/4929769101?gh_jid=4929769101": "Programme Manager",
     "https://helsing.ai/jobs/4636978101?gh_jid=4636978101": "Programme Manager ",
     "https://helsing.ai/jobs/4944089101?gh_jid=4944089101": "Programme Manager - Land",
-    "https://helsing.ai/jobs/4983527101?gh_jid=4983527101": "Programme Manager UK \u2013 Land",
+    "https://helsing.ai/jobs/4983527101?gh_jid=4983527101": "Programme Manager \u2013 Land",
     "https://helsing.ai/jobs/4923775101?gh_jid=4923775101": "Prototyping Engineer",
     "https://helsing.ai/jobs/4872445101?gh_jid=4872445101": "Quality Assurance Engineer - Development ",
     "https://helsing.ai/jobs/4862586101?gh_jid=4862586101": "Quality Inspector - Production Quality",
@@ -107,9 +107,9 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4912850101?gh_jid=4912850101": "Senior Talent Acquisition Partner",
+    "https://helsing.ai/jobs/4948430101?gh_jid=4948430101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
-    "https://helsing.ai/jobs/4948430101?gh_jid=4948430101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -123,11 +123,11 @@
     "https://helsing.ai/jobs/4741242101?gh_jid=4741242101": "Software Engineer - Ground to Air HMI",
     "https://helsing.ai/jobs/4953565101?gh_jid=4953565101": "Software Engineer, Platform Engineering",
     "https://helsing.ai/jobs/4953558101?gh_jid=4953558101": "Software Engineer, Rust",
-    "https://helsing.ai/jobs/4983519101?gh_jid=4983519101": "Software Programme Manager UK \u2013 Land",
+    "https://helsing.ai/jobs/4983519101?gh_jid=4983519101": "Software Programme Manager \u2013 Land",
     "https://helsing.ai/jobs/4923741101?gh_jid=4923741101": "Staff Software Engineer ",
     "https://helsing.ai/jobs/4876328101?gh_jid=4876328101": "Stress & Dynamics Engineer",
-    "https://helsing.ai/jobs/4983549101?gh_jid=4983549101": "System Engineer",
     "https://helsing.ai/jobs/4782364101?gh_jid=4782364101": "Systems Architect - Electronic Warfare",
+    "https://helsing.ai/jobs/4983549101?gh_jid=4983549101": "Systems Engineer",
     "https://helsing.ai/jobs/4902679101?gh_jid=4902679101": "Systems Engineer (Avionics)",
     "https://helsing.ai/jobs/4787205101?gh_jid=4787205101": "Systems Engineer - Command and Control (Air)",
     "https://helsing.ai/jobs/4865559101?gh_jid=4865559101": "Systems Engineer - Electromagnetic Interference (EMI)",
@@ -139,8 +139,8 @@
     "https://helsing.ai/jobs/4876451101?gh_jid=4876451101": "Systems Technical Writer",
     "https://helsing.ai/jobs/4962178101?gh_jid=4962178101": "Talent Operations Coordinator",
     "https://helsing.ai/jobs/4957296101?gh_jid=4957296101": "Talent Operations Coordinator - 12-month FTC",
-    "https://helsing.ai/jobs/4977427101?gh_jid=4977427101": "Team Assistant",
     "https://helsing.ai/jobs/4980899101?gh_jid=4980899101": "Team Assistant",
+    "https://helsing.ai/jobs/4977427101?gh_jid=4977427101": "Team Assistant",
     "https://helsing.ai/jobs/4966173101?gh_jid=4966173101": "Team Lead - Training and Mission Success - International",
     "https://helsing.ai/jobs/4888975101?gh_jid=4888975101": "Technical Lead Engineer, UAV Development",
     "https://helsing.ai/jobs/4948293101?gh_jid=4948293101": "Technical Logistical Support (TLB) Manager",
@@ -595,7 +595,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-f%C3%BCr-Messung%2C-Automatisierung-und-Komponentensteuerung-f%C3%BCr-opt_-Transceiver-Stufen/1429128033/": "Oberpfaffenhofen Studentin (wmd) f\u00fcr Messung, Automatisierung und Komponentensteuerung f\u00fcr opt_ Transceiver Stufen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29/1428306833/": "Oberpfaffenhofen Ausbildung zurzum Elektronikerin f\u00fcr Ger\u00e4te und Systeme (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-for-optical-communication-and-ground-stations-%28fmx%29/1429120633/": "Oberpfaffenhofen Internship for optical communication and ground stations (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Development-and-analysis-of-a-software-based-SpaceWire-to-Ethernet-bridge/1435468133/": "Oberpfaffenhofen Master Thesis (fmx) Development and analysis of a software based SpaceWire to Ethernet bridge",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Adaptive-Optics-Technologies-for-Free-Space-Optical-Communication/1424193233/": "Oberpfaffenhofen Engineer (fmx) Adaptive Optics Technologies for Free Space Optical Communication",
@@ -615,7 +614,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-student-assistant-%28mfx%29-Learning-about-surface-treatment-strategies/1419789833/": "Oberpfaffenhofen student assistant (mfx) Learning about surface treatment strategies",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Projektmanagerin-oder-Projektmanager-%28wmd%29-f%C3%BCr-die-Forschungsflugzeuge/1421744333/": "Oberpfaffenhofen Projektmanagerin oder Projektmanager (wmd) f\u00fcr die Forschungsflugzeuge",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-Entwurf-und-Validierung-eines-Roboterwerkzeugs/1440604033/": "Oberpfaffenhofen studentische Aushilfe (wmd) Entwurf und Validierung eines Roboterwerkzeugs"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-Entwurf-und-Validierung-eines-Roboterwerkzeugs/1440604033/": "Oberpfaffenhofen studentische Aushilfe (wmd) Entwurf und Validierung eines Roboterwerkzeugs",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -623,6 +623,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship--Curing-kinetics-investigations-d-f-m-_JR10443797": "Internship: Curing kinetics investigations d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Intern--D---M---W----Talent---Executive-Management_JR10434906": "Intern (d/f/m) - Talent & Executive Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Security-Integrator--d-m-w-_JR10436987-1": "Cyber Security Integrator (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Project-and-Bid-Manager--d-m-w-_JR10434860-1": "Project Manager / Bid Manager \u2013 Cyber Security (d/m/w)",
@@ -661,8 +662,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Fachinformatiker-Systemintegration--d-m-w--zum-01092027_JR10416533": "Ausbildung Fachinformatiker Systemintegration (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Data-Science-und-Knstliche-Intelligenz--d-m-w--zum-01092027_JR10416527": "Duales Studium B.Sc. Data Science und K\u00fcnstliche Intelligenz (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--Agentic-AI-for-Signal-Processing-in-Embedded-Systems_R-10064059": "Intern (f/m/d) Agentic AI for Signal Processing in Embedded Systems",
