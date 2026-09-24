@@ -106,8 +106,8 @@
     "https://helsing.ai/jobs/4924427101?gh_jid=4924427101": "Senior Systems Engineer \u2013 EA Antenna & Payload Design ",
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4948430101?gh_jid=4948430101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
@@ -231,7 +231,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/security-operations-compliance-intern-mfd": "Security Operations & Compliance Intern (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/learning-development-and-culture-manager-mfd": "Learning, Development and Culture Manager (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/working-student-people-and-culture-site-operations-fmd": "Working Student - People and Culture (Site operations) (f/m/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/uav-and-flight-test-engineer-fmd": "UAV and Flight Test Engineer (f/m/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/flight-test-manager-fmd": "Flight Test Manager (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/sales-manager-dach-mfd": "Sales Manager - DACH (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-flight-testing-mfd": "Unsolicited Application: Working Student - Flight Testing (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-software-engineering-mfd": "Unsolicited Application: Working Student - Software Engineering (m/f/d)",
@@ -345,9 +345,9 @@
     "https://career.quantum-systems.com/o/working-student-event-management-mfd": "Working Student - Event Management (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-returns-management-mfd": "Working Student - Returns Management (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-software-engineering-mfd": "Working Student - Software Engineering (m/f/d)",
+    "https://career.quantum-systems.com/o/working-student-intern-industrialization-land-ugv-mfd": "Working Student / Intern \u2013 Industrialization Land / UGV (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-full-stack-software-development-mfd": "Working Student Full-Stack Software Development (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-ground-robotics-mfd": "Working Student Ground Robotics (m/f/d)",
-    "https://career.quantum-systems.com/o/workingstudentpool": "Working Student Pool - Your start at Quantum-Systems",
     "https://career.quantum-systems.com/o/category-manager-software-ai-digital-platforms-mfd": "Category Manager \u2013Software, AI & Digital Platforms (m/f/d)",
     "https://career.quantum-systems.com/o/manager-of-logistics-mfd-quantum-frontline-industries-1": "Manager of Logistics (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/material-planner-disponent": "Material Planner/ Disponent",
@@ -623,7 +623,6 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student-within-General-Procurement--d-f-m-_JR10439055": "Working Student within General Procurement (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship--Curing-kinetics-investigations-d-f-m-_JR10443797": "Internship: Curing kinetics investigations d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Intern--D---M---W----Talent---Executive-Management_JR10434906": "Intern (d/f/m) - Talent & Executive Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Security-Integrator--d-m-w-_JR10436987-1": "Cyber Security Integrator (d/m/w)",
@@ -662,9 +661,11 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Data-Science-und-Knstliche-Intelligenz--d-m-w--zum-01092027_JR10416527": "Duales Studium B.Sc. Data Science und K\u00fcnstliche Intelligenz (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027",
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-als-Mechatroniker--d-m-w--zum-01092027_JR10416553-1": "Ausbildung als Mechatroniker (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Global-Public-Relations-Manager--f-m-d----Automotive-and-Mobility_R-10066746": "Global Public Relations Manager (f/m/d) \u2013 Automotive and Mobility",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--Agentic-AI-for-Signal-Processing-in-Embedded-Systems_R-10064059": "Intern (f/m/d) Agentic AI for Signal Processing in Embedded Systems",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Director-Product-Definition---Product-Management---Automotive-Audio--f-m-d-_R-10066640": "Director Product Definition / Product Management \u2013 Automotive Audio (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Assessor---Team-Lead--f-m-d-_R-10066860": "Safety Assessor (f/m/d)",
