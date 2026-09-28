@@ -195,8 +195,18 @@ def fetch_scrape(company):
         title = link.get_text(strip=True)
         if href and company["url_filter"] in href and title:
             location_filter = company.get("location_filter", "").lower()
-            if location_filter and location_filter not in (title + href).lower():
-                continue
+            if location_filter:
+                context_text = (title + " " + href).lower()
+                parent_tr = link.find_parent('tr')
+                parent_li = link.find_parent('li')
+                
+                if parent_tr:
+                    context_text += " " + parent_tr.get_text(separator=' ', strip=True).lower()
+                elif parent_li:
+                    context_text += " " + parent_li.get_text(separator=' ', strip=True).lower()
+                    
+                if location_filter not in context_text:
+                    continue
                 
             if title.lower() not in ["view job", "apply now", "read more"]:
                 if not href.startswith("http"):

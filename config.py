@@ -4,7 +4,8 @@ COMPANIES = [
     {
         "name": "Helsing",
         "type": "greenhouse",
-        "id_or_url": "helsing"
+        "id_or_url": "helsing",
+        "location": "Munich"
     },
     {
         "name": "ARX Robotics",
@@ -28,7 +29,8 @@ COMPANIES = [
         "name": "Quantum-Systems",
         "type": "scrape",
         "url": "https://career.quantum-systems.com/",
-        "url_filter": "/o/"
+        "url_filter": "/o/",
+        "location_filter": "germany"
     },
     {
         "name": "Qualcomm",
