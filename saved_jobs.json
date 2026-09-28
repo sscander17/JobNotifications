@@ -108,9 +108,9 @@
     "https://helsing.ai/jobs/4924427101?gh_jid=4924427101": "Senior Systems Engineer \u2013 EA Antenna & Payload Design ",
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4948430101?gh_jid=4948430101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -383,7 +383,6 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4907775101": "Fluid Systems / Process Design Engineer",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4923491101": "GNC Engineer - Mission Analysis (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952519101": "Junior Calibration Technician (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940762101": "Lab Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974490101": "Launcher Assembly Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976916101": "Launch Vehicle Intern (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4943578101": "Mechanical Design & Routing Engineer (m/w/d)",
@@ -398,7 +397,6 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4765503101": "Senior Thermal Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4844867101": "Structural Manufacturing Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4844862101": "Struktur Fertigungstechniker (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952460101": "Working Student (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953152101": "Working Student Sales Operations (f/m/d)"
   },
   "Infineon": {
@@ -591,10 +589,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767033/": "Oberpfaffenhofen Masterandin (wmd) Federated Learning for Internet of Things (IoT) Systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767133/": "Oberpfaffenhofen Master Thesis on Federated Learning for Internet of Things (IoT) Systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-Masterandin-%28wmd%29-Optische-Technik-Elektrotechnik-Luft-und-Raumfahrt/1428369533/": "Oberpfaffenhofen Praktikantin Masterandin (wmd) Optische Technik Elektrotechnik Luft und Raumfahrt",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmx%29-Machine-Learning/1383892733/": "Oberpfaffenhofen Working student (fmx) Machine Learning",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-Masterandin-%28wmd%29-Optische-Technik-Elektrotechnik-Luft-und-Raumfahrt/1428369533/": "Oberpfaffenhofen Praktikantin Masterandin (wmd) Optische Technik Elektrotechnik Luft und Raumfahrt",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -1090,6 +1088,7 @@
     "https://stark.jobs.personio.com/job/2770523": "Working Student Export Control & Trade Compliance (all genders)"
   },
   "Renesas Electronics": {
+    "https://jobs.renesas.com/job/field-applications-engineering-manager-w-m-d-in-munich-germany-jid-7058": "Field Applications Engineering Manager (w/m/d)",
     "https://jobs.renesas.com/job/senior-staff-segment-strategy-industrial-and-building-applications-f-m-d-in-munich-germany-jid-7051": "Senior Staff Segment Strategy \u2013 Industrial and Building Applications (f/m/d)",
     "https://jobs.renesas.com/job/senior-staff-business-development-engineer-motor-drive-solutions-f-m-d-in-munich-germany-jid-7016": "Senior Staff Business Development Engineer - Motor Drive Solutions (f/m/d)",
     "https://jobs.renesas.com/job/senior-staff-business-development-engineer-xev-solutions-f-m-d-in-munich-germany-jid-7017": "Senior  Staff Business Development Engineer xEV Solutions (f/m/d)",
