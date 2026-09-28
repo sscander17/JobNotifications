@@ -108,9 +108,9 @@
     "https://helsing.ai/jobs/4924427101?gh_jid=4924427101": "Senior Systems Engineer \u2013 EA Antenna & Payload Design ",
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4948430101?gh_jid=4948430101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -398,7 +398,6 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4765503101": "Senior Thermal Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4844867101": "Structural Manufacturing Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4844862101": "Struktur Fertigungstechniker (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953179101": "Working Student, Avionics (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952460101": "Working Student (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953152101": "Working Student Sales Operations (f/m/d)"
   },
@@ -491,7 +490,6 @@
   },
   "DLR": {
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-Ortung-von-Z%C3%BCgen-mit-dem-zuk%C3%BCnftigen-mobilen-Kommunikationssystem/1440141333/": "Oberpfaffenhofen Masterrandin (wmd) Ortung von Z\u00fcgen mit dem zuk\u00fcnftigen mobilen Kommunikationssystem",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmx%29-Machine-Learning/1383892733/": "Oberpfaffenhofen Working student (fmx) Machine Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29/1437902633/": "Oberpfaffenhofen Softwareentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%C3%BCber-maschinelles-Lernen-f%C3%BCr-die-Konnektivit%C3%A4t-in-Non-Terrestrial-Networks-%28wmd%29/1383527633/": "Oberpfaffenhofen Masterarbeit \u00fcber maschinelles Lernen f\u00fcr die Konnektivit\u00e4t in Non Terrestrial Networks (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Physik-%28wmd%29-SAR-Techniken/1429578933/": "Oberpfaffenhofen Ingenieurin Physik (wmd) SAR Techniken",
@@ -532,7 +530,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-student-assistant-%28fmx%29/1409170433/": "Oberpfaffenhofen student assistant (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Neuro-Symbolic-AI-for-Resilient-On-Board-Decision-Making/1435629833/": "Oberpfaffenhofen Master Thesis (fmx) Neuro Symbolic AI for Resilient On Board Decision Making",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Entwicklung-und-Analyse-eines-softwarebasierten-SpaceWire-zu-Ethernet-Moduls/1435468033/": "Oberpfaffenhofen Masterarbeit (wmd) Entwicklung und Analyse eines softwarebasierten SpaceWire zu Ethernet Moduls",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-thesis-%28fmx%29-Development-of-a-Motion-Cueing-Algorithm-using-MPC-and-RL/1429580933/": "Oberpfaffenhofen Master thesis (fmx) Development of a Motion Cueing Algorithm using MPC and RL",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Betriebswirtin-oder-Betriebswirt-%28wmd%29-Projektmanagement/1385778433/": "Oberpfaffenhofen Betriebswirtin oder Betriebswirt (wmd) Projektmanagement",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
@@ -572,8 +569,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-Forschung-und-Entwicklung-von-Payload-Software-f%C3%BCr-Raumfahrtsysteme/1430754933/": "Oberpfaffenhofen Informatikerin (wmd) Forschung und Entwicklung von Payload Software f\u00fcr Raumfahrtsysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-f%C3%BCr-Messung%2C-Automatisierung-und-Komponentensteuerung-f%C3%BCr-opt_-Transceiver-Stufen/1429128033/": "Oberpfaffenhofen Studentin (wmd) f\u00fcr Messung, Automatisierung und Komponentensteuerung f\u00fcr opt_ Transceiver Stufen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-Masterandin-%28wmd%29-Optische-Technik-Elektrotechnik-Luft-und-Raumfahrt/1428369533/": "Oberpfaffenhofen Praktikantin Masterandin (wmd) Optische Technik Elektrotechnik Luft und Raumfahrt",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-for-optical-communication-and-ground-stations-%28fmx%29/1429120633/": "Oberpfaffenhofen Internship for optical communication and ground stations (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Embedded-Softwareentwicklung/1423796733/": "Oberpfaffenhofen Werkstudentin (wmd) Embedded Softwareentwicklung",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-KI-Methoden-in-der-Software-Qualit%C3%A4tssicherung-f%C3%BCr-die-Raumfahrt/1433339933/": "Oberpfaffenhofen Informatikerin (wmd) KI Methoden in der Software Qualit\u00e4tssicherung f\u00fcr die Raumfahrt",
@@ -595,7 +590,11 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-GNSS-Reflektometrie/1396080733/": "Oberpfaffenhofen Studentische Aushilfe (wmd) GNSS Reflektometrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767033/": "Oberpfaffenhofen Masterandin (wmd) Federated Learning for Internet of Things (IoT) Systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767133/": "Oberpfaffenhofen Master Thesis on Federated Learning for Internet of Things (IoT) Systems",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-Masterandin-%28wmd%29-Optische-Technik-Elektrotechnik-Luft-und-Raumfahrt/1428369533/": "Oberpfaffenhofen Praktikantin Masterandin (wmd) Optische Technik Elektrotechnik Luft und Raumfahrt",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmx%29-Machine-Learning/1383892733/": "Oberpfaffenhofen Working student (fmx) Machine Learning",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
