@@ -42,7 +42,6 @@
     "https://helsing.ai/jobs/4924405101?gh_jid=4924405101": "Lead Systems Engineer \u2013 Military Communications",
     "https://helsing.ai/jobs/4888238101?gh_jid=4888238101": "Lead Systems Engineer - Passive RF Sensing",
     "https://helsing.ai/jobs/4988772101?gh_jid=4988772101": "Learning and Enablement Manager",
-    "https://helsing.ai/jobs/4934633101?gh_jid=4934633101": "Legal Counsel Contracts & Commercial",
     "https://helsing.ai/jobs/4948287101?gh_jid=4948287101": "LSA Engineer ",
     "https://helsing.ai/jobs/4878160101?gh_jid=4878160101": "M&A Integration Manager",
     "https://helsing.ai/jobs/4971997101?gh_jid=4971997101": "Mechanical Engineer",
@@ -487,12 +486,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Semantisch-orientierte-PHY-Techniken-f%C3%BCr-Kommunikation-in-Drohnenschw%C3%A4rmen/1419818233/": "Oberpfaffenhofen Masterarbeit (wmd) Semantisch orientierte PHY Techniken f\u00fcr Kommunikation in Drohnenschw\u00e4rmen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Missions-Engineering/1435220533/": "Oberpfaffenhofen Masterarbeit (wmd) Missions Engineering",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Adaptive-Optics-Technologies-for-Free-Space-Optical-Communication/1424193233/": "Oberpfaffenhofen Engineer (fmx) Adaptive Optics Technologies for Free Space Optical Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Informatik-oder-Physik/1412801733/": "Oberpfaffenhofen Masterarbeit (wmd) Informatik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29/1440837833/": "Oberpfaffenhofen studentische Aushilfe (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Aerospace%2C-Physics%2C-Mathematics%2C-mwd/1419516933/": "Oberpfaffenhofen Master Thesis Student in Aerospace, Physics, Mathematics, mwd",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kommunikationsprotokolle-in-SDR-unterst%C3%BCtzt-durch-Flugplattformen/1431142233/": "Oberpfaffenhofen Ingenieurin (wmd) Kommunikationsprotokolle in SDR unterst\u00fctzt durch Flugplattformen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Error-modelling-and-spatial-AI-for-safe-multisensor-navigation/1413693133/": "Oberpfaffenhofen Engineer (fmd) Error modelling and spatial AI for safe multisensor navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Luft-und-Raumfahrttechnik-%28wmd%29-SAR-Techniken/1429581433/": "Oberpfaffenhofen Ingenieurin Luft und Raumfahrttechnik (wmd) SAR Techniken",
@@ -528,7 +525,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-Final-Year-Thesis-%28mfd%29-Design-and-Validation-of-a-Robotic-Finger/1418200633/": "Oberpfaffenhofen Undergraduate and Final Year Thesis (mfd) Design and Validation of a Robotic Finger",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Embedded-Softwareentwicklung/1423796733/": "Oberpfaffenhofen Werkstudentin (wmd) Embedded Softwareentwicklung",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-Student-%28fmx%29-Embedded-Software-Development-for-Swarm-Navigation-and-Communications/1423796833/": "Oberpfaffenhofen Working Student (fmx) Embedded Software Development for Swarm Navigation and Communications"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-Student-%28fmx%29-Embedded-Software-Development-for-Swarm-Navigation-and-Communications/1423796833/": "Oberpfaffenhofen Working Student (fmx) Embedded Software Development for Swarm Navigation and Communications",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Adaptive-Optics-Technologies-for-Free-Space-Optical-Communication/1424193233/": "Oberpfaffenhofen Engineer (fmx) Adaptive Optics Technologies for Free Space Optical Communication"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -620,7 +619,9 @@
     "https://careers.ti.com/en/sites/CX/job/25017425/": "Equipment Engineering Technician Multiprobe m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017697/": "Techniker (m/w/d) im Outgoing Quality Team (FFAB)"
   },
-  "Intel": {},
+  "Intel": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineering-Manager--f-m-d-_JR0287443": "Development Tools Software Engineering Manager (f/m/d)"
+  },
   "Analog Devices": {
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Customer-System-Measurement-Engineer_R265672": "Principal ATE Customer System Measurement Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Staff-Customer-System-Measurement-Engineer_R265671": "Staff ATE Customer System Measurement Engineer",
