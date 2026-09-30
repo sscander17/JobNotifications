@@ -49,6 +49,7 @@
     "https://helsing.ai/jobs/4938743101?gh_jid=4938743101": "Multimodal Sensing and Fusion Engineer ",
     "https://helsing.ai/jobs/4947489101?gh_jid=4947489101": "Multimodal Sensing Test Engineer ",
     "https://helsing.ai/jobs/4948277101?gh_jid=4948277101": "Obsolescence Manager ",
+    "https://helsing.ai/jobs/4977408101?gh_jid=4977408101": "Payroll Lead",
     "https://helsing.ai/jobs/4876698101?gh_jid=4876698101": "Payroll Specialist",
     "https://helsing.ai/jobs/4841774101?gh_jid=4841774101": "People Business Partner - Munich",
     "https://helsing.ai/jobs/4974214101?gh_jid=4974214101": "Procurement Manager \u2013 Professional Services & Marketing",
@@ -403,7 +404,6 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4989897101": "Marketing & Communications Coordinator (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4785034101": "Product Safety & Certification Engineer \u2013 Unmanned Aircraft Systems (UAS) (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4699459101": "Project Manager (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789084101": "Robotics Engineer \u2014 Agent Control & UAV Autonomy (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
@@ -526,9 +526,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-PhysikLuft-und-Raumfahrttechnik/1407550033/": "Oberpfaffenhofen Masterstudentin (wmd) PhysikLuft und Raumfahrttechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-KI-gest%C3%BCtzte-Systemdynamik-und-Regelungstechnik/1432265233/": "Oberpfaffenhofen Ingenieurin (wmd) KI gest\u00fctzte Systemdynamik und Regelungstechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Projektmanagerin-oder-Projektmanager-%28wmd%29-f%C3%BCr-die-Forschungsflugzeuge/1421744333/": "Oberpfaffenhofen Projektmanagerin oder Projektmanager (wmd) f\u00fcr die Forschungsflugzeuge",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Bauingenieurin-%28wmd%29-CAD-BIM-Spezialistin-Region-S%C3%BCd/1425483733/": "Oberpfaffenhofen Bauingenieurin (wmd) CAD BIM Spezialistin Region S\u00fcd",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -536,13 +536,13 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Security-Integrator--d-m-w-_JR10436987-1": "Cyber Security Integrator (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Engineer--d-m-w-_JR10216124": "Cyber-Security-Engineer (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Head-of-Business-Continuity-Manager--m-w-d-_JR10394442": "Head of Business Continuity Manager (m/w/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student-in-Marketing---Sales--d-f-m-_JR10439169": "Working Student in Marketing & Sales (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--im-Bereich-Employer-Branding_JR10426148": "Werkstudent (d/m/w) im Bereich Employer Branding",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Security-Administrator-in--d-w-m-_JR10444319": "IT Network Security Administrator/in (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Intern--D---M---W----Talent---Executive-Management_JR10434906": "Intern (d/f/m) - Talent & Executive Management",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Security-Integrator--d-m-w-_JR10436987-1": "Cyber Security Integrator (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Project-and-Bid-Manager--d-m-w-_JR10434860-1": "Project Manager / Bid Manager \u2013 Cyber Security (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027",
