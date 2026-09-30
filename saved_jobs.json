@@ -393,6 +393,19 @@
     "https://jobs.infineon.com/careers/job/563808972054857-data-scientist-digital-finance-transformation-engineer-munich?domain=infineon.com": "Data Scientist Digital Finance Transformation Engineer Munich",
     "https://jobs.infineon.com/careers/job/563808972051781-working-student-asic-product-marketing-and-business-intelligence-munich?domain=infineon.com": "Working Student Asic Product Marketing And Business Intelligence Munich"
   },
+  "Alpine Eagle": {
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4714147101": "Chief of Staff (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4687181101": "Computer Vision Engineer for Drone Systems (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789058101": "Flight Physics & Flight Controls Engineer (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4966334101": "Full Stack Engineer \u2013 Frontend Focus (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4967950101": "Head of Communications & Marketing (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4807744101": "Head of C-UAS Mission Management System (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4989897101": "Marketing & Communications Coordinator (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4785034101": "Product Safety & Certification Engineer \u2013 Unmanned Aircraft Systems (UAS) (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4699459101": "Project Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789084101": "Robotics Engineer \u2014 Agent Control & UAV Autonomy (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
+  },
   "Siemens": {
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523613": "Werkstudent (w/m/d) Technical Management",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
@@ -597,7 +610,6 @@
     "https://careers.ti.com/en/sites/CX/job/25012458/": "Product Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25012459/": "Product Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25018140/": "EMEA Accounts Payable Specialist (m/f/d)",
-    "https://careers.ti.com/en/sites/CX/job/25017920/": "Software Applications Engineer",
     "https://careers.ti.com/en/sites/CX/job/25001591/": "Customer Support Representative (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25008000/": "Equipment Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25009931/": "Zerspanungsmechaniker / CNC-Fr\u00e4ser (m/f/d) - Instandhaltung & Fertigung",
@@ -606,7 +618,8 @@
     "https://careers.ti.com/en/sites/CX/job/25012515/": "Applications Engineering Intern / Student Worker - Evaluation/Test of analog IC's Power Management Devices m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017374/": "Validation Technician m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017425/": "Equipment Engineering Technician Multiprobe m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25017697/": "Techniker (m/w/d) im Outgoing Quality Team (FFAB)"
+    "https://careers.ti.com/en/sites/CX/job/25017697/": "Techniker (m/w/d) im Outgoing Quality Team (FFAB)",
+    "https://careers.ti.com/en/sites/CX/job/25017920/": "Software Applications Engineer"
   },
   "Intel": {
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineering-Manager--f-m-d-_JR0287443": "Development Tools Software Engineering Manager (f/m/d)"
