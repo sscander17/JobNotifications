@@ -83,8 +83,8 @@
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Security Engineer \u2013 Combat Aircraft",
     "https://helsing.ai/jobs/4875282101?gh_jid=4875282101": "Senior Talent Acquisition Partner",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -312,6 +312,7 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950930101": "Application Software Engineer (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4720039101": "Avionics Engineer - Thrust Vector Control Actuator (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4695891101": "Avionics Technician (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940749101": "Chief Quality  Inspector (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4912131101": "Electrical Harness Design Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4933869101": "Electrician Ground Systems (m/w/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4920269101": "Embedded Software Engineer (m/f/d)",
@@ -621,6 +622,21 @@
   },
   "Intel": {
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineering-Manager--f-m-d-_JR0287443": "Development Tools Software Engineering Manager (f/m/d)"
+  },
+  "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Customer-System-Measurement-Engineer_R265672": "Principal ATE Customer System Measurement Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Customer-System-Measurement-Engineer_R265671": "Staff ATE Customer System Measurement Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Global-Account-Director_R265895": "Global Account Director",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Lead-Engineer--Systems-Applications---Power-Solutions_R265321": "Lead Engineer, Systems Applications \u2013 Power Solutions",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R265841": "Staff Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R261161": "Staff Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Account-Manager--Field-Sales_R265618": "Principal Account Manager, Field Sales",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Sales-Director-EMEA_R261852": "Senior Sales Director EMEA",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-AI-ML-Engineer--Robotics-_R265198": "Principal AI/ML Engineer (Robotics)",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Digital-Design-Engineer_R264207": "Staff Digital Design Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Newbury/Staff-Mixed-Signal-Design-Engineer_R264622": "Staff Mixed-Signal Design Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-Algorithm-Development-Engineer---Battery-Insights_R262834": "Principal  AI/ ML Algorithm Development Engineer - Battery Insights"
   },
   "Engineering Minds Munich": {
     "https://www.em-munich.de/_files/ugd/1c2914_e136ad49ddef40d88a06d6d9c56b14a4.pdf": "Ingenieur*in (m/w/d) Elektronik / FPGA-Embedded-Systeme",
