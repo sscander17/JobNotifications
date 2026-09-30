@@ -20,6 +20,7 @@
     "https://helsing.ai/jobs/4972108101?gh_jid=4972108101": "Deployed Hardware Engineer ",
     "https://helsing.ai/jobs/4390825101?gh_jid=4390825101": "Drone Field Engineer",
     "https://helsing.ai/jobs/4972029101?gh_jid=4972029101": "Electrical & Electronics Engineer ",
+    "https://helsing.ai/jobs/4911660101?gh_jid=4911660101": "Electrical Harness Engineer ",
     "https://helsing.ai/jobs/4791366101?gh_jid=4791366101": "Executive Assistant ",
     "https://helsing.ai/jobs/4871604101?gh_jid=4871604101": "Finance Data Engineer",
     "https://helsing.ai/jobs/4975282101?gh_jid=4975282101": "Finanzbuchhalterin (m/w/d)",
@@ -229,6 +230,7 @@
     "https://career.quantum-systems.com/o/program-manager-mfd-5": "Program Manager (m/f/d)",
     "https://career.quantum-systems.com/o/returns-manager-mfd": "Returns Manager (m/f/d)",
     "https://career.quantum-systems.com/o/training-manager-mfd-18": "Training Manager (m/f/d)",
+    "https://career.quantum-systems.com/o/training-operations-coordinator-mfd-1": "Training Operations Coordinator (m/f/d)",
     "https://career.quantum-systems.com/o/uxs-training-demo-manager-mfd-6": "UXS Training & Demo Manager (m/f/d)",
     "https://career.quantum-systems.com/o/certification-compliance-confirmity-manager-mfd": "Certification, Compliance & Confirmity Manager (m/f/d)",
     "https://career.quantum-systems.com/o/development-engineer-production-mfd-fokus-hardware": "Development Engineer Production (m/f/d) -  Focus Hardware",
@@ -518,7 +520,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Betriebswirtin-oder-Betriebswirt-%28wmd%29-Projektmanagement/1385778433/": "Oberpfaffenhofen Betriebswirtin oder Betriebswirt (wmd) Projektmanagement",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-Forschung-und-Entwicklung-von-Payload-Software-f%C3%BCr-Raumfahrtsysteme/1430754933/": "Oberpfaffenhofen Informatikerin (wmd) Forschung und Entwicklung von Payload Software f\u00fcr Raumfahrtsysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Signalverarbeitung-f%C3%BCr-die-Satellitenkommunikation-mit-SDR-Kenntnisse/1431133933/": "Oberpfaffenhofen Ingenieurin (wmd) Signalverarbeitung f\u00fcr die Satellitenkommunikation mit SDR Kenntnisse",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Missionskontroll-und-Datensysteme/1428222133/": "Oberpfaffenhofen Gruppenleitung (wmd) Missionskontroll und Datensysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt",
@@ -528,7 +529,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Projektmanagerin-oder-Projektmanager-%28wmd%29-f%C3%BCr-die-Forschungsflugzeuge/1421744333/": "Oberpfaffenhofen Projektmanagerin oder Projektmanager (wmd) f\u00fcr die Forschungsflugzeuge",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Bauingenieurin-%28wmd%29-CAD-BIM-Spezialistin-Region-S%C3%BCd/1425483733/": "Oberpfaffenhofen Bauingenieurin (wmd) CAD BIM Spezialistin Region S\u00fcd",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-Forschung-und-Entwicklung-von-Payload-Software-f%C3%BCr-Raumfahrtsysteme/1430754933/": "Oberpfaffenhofen Informatikerin (wmd) Forschung und Entwicklung von Payload Software f\u00fcr Raumfahrtsysteme"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -547,7 +549,6 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/AI---Analytics-DevOps-Engineer-Germany_JR10434313-1": "AI & Analytics DevOps Engineer Germany",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Mission-Analysis-and-Flight-Dynamics-Engineer_JR10439364": "Mission Analysis and Flight Dynamics Engineer",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/Digital-Product-Owner-for-Data-Regulatory-Compliance-Solutions-H-F_JR10417363": "Digital Product Owner for Data Regulatory Compliance Solutions H/F",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Optical-Instruments-Performance-Engineer--d-f-m-_JR10434476-1": "Optical Instruments Performance Engineer (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Finance-and-Controlling-for-Facility-Management-and-Real-Estate--d-f-m-_JR10391539-1": "Finance and Controlling for Facility Management and Real Estate (d/f/m)",
@@ -575,14 +576,15 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-als-Mechatroniker--d-m-w--zum-01092027_JR10416553-1": "Ausbildung als Mechatroniker (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/IT-Experte-Backup---Storage--d-f-m-_JR10420467": "IT-Experte Backup & Storage (d/f/m)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/IT-Experte-Backup---Storage--d-f-m-_JR10420467": "IT-Experte Backup & Storage (d/f/m)",
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Service-Communciation-Engineer-Satcom--d-m-w-_JR10361896-1": "IT Network Specialist (d/m/w)"
   },
   "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Assessor---Team-Lead--f-m-d-_R-10066860": "Safety Assessor (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Global-Key-Account-Manager--f-m-d-_R-10063314": "Global Key Account Manager Automotive Aumovio (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Global-Public-Relations-Manager--f-m-d----Automotive-and-Mobility_R-10066746": "Global Public Relations Manager (f/m/d) \u2013 Automotive and Mobility",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--Agentic-AI-for-Signal-Processing-in-Embedded-Systems_R-10064059": "Intern (f/m/d) Agentic AI for Signal Processing in Embedded Systems",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Director-Product-Definition---Product-Management---Automotive-Audio--f-m-d-_R-10066640": "Director Product Definition / Product Management \u2013 Automotive Audio (f/m/d)",
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Assessor---Team-Lead--f-m-d-_R-10066860": "Safety Assessor (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Engineer--f-m-d-_R-10066849": "Safety Engineer (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Digital-IP-Design-Engineer--f-m-d-_R-10066892": "Digital IP Design Engineer (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Functional-Safety-Architect--f-m-d-_R-10066838": "Principal Functional Safety Architect (f/m/d)",
@@ -652,9 +654,6 @@
   },
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197452.html": "Werkstudent Forschung Softwareentwicklung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197386.html": "Praktikant Unternehmensstrategie und Wettbewerbsanalyse (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197044.html": "Praktikant Motorrad Gesamtfahrzeug Innovationen Konzepte Architekturen und Integration (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.179583.html": "Praktikant KI-gest\u00fctzte Softwareentwicklung Fahrzeuginnenraum BMW M (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197200.html": "Praktikant Anlaufmanagement Gesamtfahrzeug (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197170.html": "Praktikant Wettbewerbsanalyse und Design Benchmarking (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197169.html": "Praktikant Kundenintegration Design (w/m/x)",
