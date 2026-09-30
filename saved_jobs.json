@@ -336,7 +336,6 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974349101": "Senior DevX Engineer (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4756747101": "Senior Project Manager - Ground Systems Infrastructure (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4869206101": "Senior Safety & Compliance Specialist (f/m/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4765503101": "Senior Thermal Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4844867101": "Structural Manufacturing Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4844862101": "Struktur Fertigungstechniker (m/w/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4953152101": "Working Student Sales Operations (f/m/d)"
@@ -539,6 +538,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/Procurement-Contracts-Manager--m--f--d-_JR10429112": "Contract Manager\u00a0for Procurement (m,w,d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Security-Integrator--d-m-w-_JR10436987-1": "Cyber Security Integrator (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Engineer--d-m-w-_JR10216124": "Cyber-Security-Engineer (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Head-of-Business-Continuity-Manager--m-w-d-_JR10394442": "Head of Business Continuity Manager (m/w/d)",
@@ -577,8 +577,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-als-Mechatroniker--d-m-w--zum-01092027_JR10416553-1": "Ausbildung als Mechatroniker (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/IT-Experte-Backup---Storage--d-f-m-_JR10420467": "IT-Experte Backup & Storage (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Service-Communciation-Engineer-Satcom--d-m-w-_JR10361896-1": "IT Network Specialist (d/m/w)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/IT-Experte-Backup---Storage--d-f-m-_JR10420467": "IT-Experte Backup & Storage (d/f/m)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Assessor---Team-Lead--f-m-d-_R-10066860": "Safety Assessor (f/m/d)",
@@ -952,7 +951,6 @@
     "https://stark.jobs.personio.com/job/2760115": "Associate IT Support (all genders)",
     "https://stark.jobs.personio.com/job/2801644": "Associate IT Systems Administrator (all genders)",
     "https://stark.jobs.personio.com/job/2324258": "Berufskraftfahrer / Standortlogistik (m/w/d)",
-    "https://stark.jobs.personio.com/job/2590853": "Business Development Lead Software",
     "https://stark.jobs.personio.com/job/2684099": "C-UAS Electronics Engineer (All genders)",
     "https://stark.jobs.personio.com/job/2675469": "C-UAS Flight Test Coordinator",
     "https://stark.jobs.personio.com/job/2675467": "C-UAS Payload Integration Engineer",
@@ -971,7 +969,6 @@
     "https://stark.jobs.personio.com/job/2591275": "Flight Test Safety & Compliance Specialist",
     "https://stark.jobs.personio.com/job/2736500": "Group Accounting Manager (all genders)",
     "https://stark.jobs.personio.com/job/2654579": "Hardware Engineer",
-    "https://stark.jobs.personio.com/job/2590921": "Head of  Mission Delivery and Operations",
     "https://stark.jobs.personio.com/job/2657783": "Head of AI",
     "https://stark.jobs.personio.com/job/2748192": "Head of Flight Control System (FCS) (all genders)",
     "https://stark.jobs.personio.com/job/2714928": "Head of Flight Test (all genders)",
