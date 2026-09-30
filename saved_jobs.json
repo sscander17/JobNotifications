@@ -83,8 +83,8 @@
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Security Engineer \u2013 Combat Aircraft",
     "https://helsing.ai/jobs/4875282101?gh_jid=4875282101": "Senior Talent Acquisition Partner",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -158,6 +158,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
+    "https://tytantechnologiesgmbh.recruitee.com/o/flight-simulation-software-engineer-mfd": "Flight Simulation Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-software-architect-mfd": "Senior Software Architect (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/office-manager-part-time-fmd": "Office Manager (Part-Time) - (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/full-stack-engineer-fmd": "Full-stack Engineer (f/m/d)",
@@ -409,7 +410,6 @@
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523613": "Werkstudent (w/m/d) Technical Management",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523584": "Systeminbetriebsetzer (w/m/d) in Geb\u00e4udetechnik f\u00fcr Mess-, Steuer- und Regelungstechnik",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523454": "Werkstudent (w/m/d) Cyber Security",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/498458": "PLM Consultant / Teamcenter Archtitect / Polarion Consultant  / Presales Consultant (all genders) - DI Software Partner Talent Portal",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521712": "Head of Global Research & Development and Technology\u202f (f/m/d)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521732": "Werkstudent (w/m/d) Requirements Management",
@@ -622,22 +622,6 @@
   "Intel": {
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineering-Manager--f-m-d-_JR0287443": "Development Tools Software Engineering Manager (f/m/d)"
   },
-  "Analog Devices": {
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Customer-System-Measurement-Engineer_R265672": "Principal ATE Customer System Measurement Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Customer-System-Measurement-Engineer_R265671": "Staff ATE Customer System Measurement Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Global-Account-Director_R265895": "Global Account Director",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-NC-Durham/Lead-Engineer--Systems-Applications---Power-Solutions_R265321": "Lead Engineer, Systems Applications \u2013 Power Solutions",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R265841": "Staff Engineer, Field Applications",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R261161": "Staff Engineer, Field Applications",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Account-Manager--Field-Sales_R265618": "Principal Account Manager, Field Sales",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Sales-Director-EMEA_R261852": "Senior Sales Director EMEA",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-AI-ML-Engineer--Robotics-_R265198": "Principal AI/ML Engineer (Robotics)",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Digital-Design-Engineer_R264207": "Staff Digital Design Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Newbury/Staff-Mixed-Signal-Design-Engineer_R264622": "Staff Mixed-Signal Design Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Staff-Analog-Design-Engineer_R264209": "Staff Analog Design Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-Algorithm-Development-Engineer---Battery-Insights_R262834": "Principal  AI/ ML Algorithm Development Engineer - Battery Insights"
-  },
   "Engineering Minds Munich": {
     "https://www.em-munich.de/_files/ugd/1c2914_e136ad49ddef40d88a06d6d9c56b14a4.pdf": "Ingenieur*in (m/w/d) Elektronik / FPGA-Embedded-Systeme",
     "https://www.em-munich.de/_files/ugd/1c2914_e17d6a4a9e744809aff82848dc5b39b5.pdf": "[Werkstudent/Teilzeit] PCB-Designer*in (m/w/d)",
@@ -652,6 +636,9 @@
   },
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197452.html": "Werkstudent Forschung Softwareentwicklung (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197386.html": "Praktikant Unternehmensstrategie und Wettbewerbsanalyse (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197044.html": "Praktikant Motorrad Gesamtfahrzeug Innovationen Konzepte Architekturen und Integration (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.179583.html": "Praktikant KI-gest\u00fctzte Softwareentwicklung Fahrzeuginnenraum BMW M (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197200.html": "Praktikant Anlaufmanagement Gesamtfahrzeug (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197170.html": "Praktikant Wettbewerbsanalyse und Design Benchmarking (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197169.html": "Praktikant Kundenintegration Design (w/m/x)",
