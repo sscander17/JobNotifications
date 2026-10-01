@@ -83,8 +83,8 @@
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
     "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Security Engineer \u2013 Combat Aircraft",
     "https://helsing.ai/jobs/4875282101?gh_jid=4875282101": "Senior Talent Acquisition Partner",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -252,7 +252,6 @@
     "https://career.quantum-systems.com/o/commis-de-cuisine-mwd": "Commis de Cuisine (m/w/d)",
     "https://career.quantum-systems.com/o/demi-chef-de-partie-mwd-1": "Demi Chef de Partie (m/w/d)",
     "https://career.quantum-systems.com/o/embedded-linux-release-engineer-mfd": "Embedded Linux & Release Engineer (m/f/d)",
-    "https://career.quantum-systems.com/o/warehouse-logistics-specialist-cuas-mfd": "Warehouse & logistics Specialist\u2013 cUAs (m/f/d)",
     "https://career.quantum-systems.com/o/kreditorenbuchhaltung-mfd": "Accounts Payable Accountant (m/f/d)",
     "https://career.quantum-systems.com/o/chef-de-partie-mwd-1": "Chef de Partie (m/f/d)",
     "https://career.quantum-systems.com/o/financial-controller-mfd-quantum-frontline-industries": "Financial Controller (m/f/d) - Quantum Frontline Industries",
@@ -447,7 +446,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Signalverarbeitung-f%C3%BCr-die-Satellitenkommunikation-mit-SDR-Kenntnisse/1431133933/": "Oberpfaffenhofen Ingenieurin (wmd) Signalverarbeitung f\u00fcr die Satellitenkommunikation mit SDR Kenntnisse",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28mfx%29-Design-and-development-of-real-time-systems-for-robotics-hardware-platforms/1417120933/": "Oberpfaffenhofen Engineer (mfx) Design and development of real time systems for robotics hardware platforms",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Konzeption-und-Entwicklung-von-Echtzeitsystemen-f%C3%BCr-Robotik-Hardwareplattform/1417120833/": "Oberpfaffenhofen Ingenieurin (wmd) Konzeption und Entwicklung von Echtzeitsystemen f\u00fcr Robotik Hardwareplattform",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
@@ -471,7 +469,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Physics-or-Aerospace-Engineering-for-investigating-multi-aperture-concept/1407550133/": "Oberpfaffenhofen Master Thesis Student in Physics or Aerospace Engineering for investigating multi aperture concept",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Luft-und-Raumfahrttechnik-%28wmd%29-SAR-Techniken/1429581433/": "Oberpfaffenhofen Ingenieurin Luft und Raumfahrttechnik (wmd) SAR Techniken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1429074033/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-GNSS-Reflektometrie/1396080733/": "Oberpfaffenhofen Studentische Aushilfe (wmd) GNSS Reflektometrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29/1437898533/": "Oberpfaffenhofen Softwareentwicklerin (wmd)",
@@ -529,7 +526,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-oder-Masterandin-%28wmd%29-Multipfad-Transportprotokolle/1443070933/": "Oberpfaffenhofen Praktikantin oder Masterandin (wmd) Multipfad Transportprotokolle",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Missions-Engineering/1435220533/": "Oberpfaffenhofen Masterarbeit (wmd) Missions Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Neuro-symbolische-KI-f%C3%BCr-resiliente-On-Board-Entscheidungen/1435629933/": "Oberpfaffenhofen Masterarbeit (wmd) Neuro symbolische KI f\u00fcr resiliente On Board Entscheidungen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Neuro-Symbolic-AI-for-Resilient-On-Board-Decision-Making/1435629833/": "Oberpfaffenhofen Master Thesis (fmx) Neuro Symbolic AI for Resilient On Board Decision Making"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Neuro-Symbolic-AI-for-Resilient-On-Board-Decision-Making/1435629833/": "Oberpfaffenhofen Master Thesis (fmx) Neuro Symbolic AI for Resilient On Board Decision Making",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -651,9 +649,6 @@
   },
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197452.html": "Werkstudent Forschung Softwareentwicklung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197386.html": "Praktikant Unternehmensstrategie und Wettbewerbsanalyse (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197044.html": "Praktikant Motorrad Gesamtfahrzeug Innovationen Konzepte Architekturen und Integration (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.179583.html": "Praktikant KI-gest\u00fctzte Softwareentwicklung Fahrzeuginnenraum BMW M (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197200.html": "Praktikant Anlaufmanagement Gesamtfahrzeug (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197170.html": "Praktikant Wettbewerbsanalyse und Design Benchmarking (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197169.html": "Praktikant Kundenintegration Design (w/m/x)",
