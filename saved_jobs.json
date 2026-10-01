@@ -84,8 +84,8 @@
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
     "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Security Engineer \u2013 Combat Aircraft",
     "https://helsing.ai/jobs/4875282101?gh_jid=4875282101": "Senior Talent Acquisition Partner",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -454,7 +454,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1435220933/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Assistentin-%28wmd%29-des-Institutsdirektors/1385763433/": "Oberpfaffenhofen Assistentin (wmd) des Institutsdirektors",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Software-development-of-secure-IP-based-protocols-for-satellite-communications/1407538233/": "Oberpfaffenhofen Engineer (fmx) Software development of secure IP based protocols for satellite communications",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Software-Entw_-von-sicheren-IP-basierten-Protokollen-f%C3%BCr-Satellitenkomm_/1407538133/": "Oberpfaffenhofen Ingenieurin (wmd) Software Entw_ von sicheren IP basierten Protokollen f\u00fcr Satellitenkomm_",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-final-year-dissertation-%28mfd%29-Elastic-transmission-elements-in-robotic-hands/1423448433/": "Oberpfaffenhofen Undergraduate and final year dissertation (mfd) Elastic transmission elements in robotic hands",
@@ -529,7 +528,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-for-Measurement%2C-automation-and-component-control-for-optical-transceiver-stages/1429127933/": "Oberpfaffenhofen Student (fmx) for Measurement, automation and component control for optical transceiver stages",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Personalreferentin-%28wmd%29/1417290133/": "Oberpfaffenhofen Personalreferentin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Systemingenieurin-%28wmd%29-Voice-System/1428217133/": "Oberpfaffenhofen Systemingenieurin (wmd) Voice System",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-Student-%28fmx%29-LiDAR-Sensors-Integration-on-a-Drone-Swarm/1402901333/": "Oberpfaffenhofen Working Student (fmx) LiDAR Sensors Integration on a Drone Swarm"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-Student-%28fmx%29-LiDAR-Sensors-Integration-on-a-Drone-Swarm/1402901333/": "Oberpfaffenhofen Working Student (fmx) LiDAR Sensors Integration on a Drone Swarm",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Assistentin-%28wmd%29-des-Institutsdirektors/1385763433/": "Oberpfaffenhofen Assistentin (wmd) des Institutsdirektors"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -653,9 +653,6 @@
   },
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197452.html": "Werkstudent Forschung Softwareentwicklung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197386.html": "Praktikant Unternehmensstrategie und Wettbewerbsanalyse (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197044.html": "Praktikant Motorrad Gesamtfahrzeug Innovationen Konzepte Architekturen und Integration (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.179583.html": "Praktikant KI-gest\u00fctzte Softwareentwicklung Fahrzeuginnenraum BMW M (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197200.html": "Praktikant Anlaufmanagement Gesamtfahrzeug (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197170.html": "Praktikant Wettbewerbsanalyse und Design Benchmarking (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197169.html": "Praktikant Kundenintegration Design (w/m/x)",
