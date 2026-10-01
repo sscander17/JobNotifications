@@ -24,6 +24,7 @@
     "https://helsing.ai/jobs/4791366101?gh_jid=4791366101": "Executive Assistant ",
     "https://helsing.ai/jobs/4871604101?gh_jid=4871604101": "Finance Data Engineer",
     "https://helsing.ai/jobs/4975282101?gh_jid=4975282101": "Finanzbuchhalterin (m/w/d)",
+    "https://helsing.ai/jobs/4743310101?gh_jid=4743310101": "Flight Control Systems Engineer",
     "https://helsing.ai/jobs/4538119101?gh_jid=4538119101": "Forward Strategist",
     "https://helsing.ai/jobs/4835300101?gh_jid=4835300101": "Front Office Coordinator / Guest Service Agent",
     "https://helsing.ai/jobs/4972083101?gh_jid=4972083101": "Guidance, Navigation, & Control Engineer ",
@@ -82,7 +83,6 @@
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
     "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Security Engineer \u2013 Combat Aircraft",
-    "https://helsing.ai/jobs/4875282101?gh_jid=4875282101": "Senior Talent Acquisition Partner",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
@@ -288,13 +288,13 @@
     "https://career.quantum-systems.com/o/working-student-intern-industrialization-land-ugv-mfd": "Working Student / Intern \u2013 Industrialization Land / UGV (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-full-stack-software-development-mfd": "Working Student Full-Stack Software Development (m/f/d)",
     "https://career.quantum-systems.com/o/category-manager-software-ai-digital-platforms-mfd": "Category Manager \u2013Software, AI & Digital Platforms (m/f/d)",
+    "https://career.quantum-systems.com/o/lager-logistikmitarbeiter-fmd-7": "Lager-/Logistikmitarbeiter (f/m/d)",
     "https://career.quantum-systems.com/o/logistikmitarbeiter-mfd-ugv": "Logistics Technician (m/f/d) - UGV",
     "https://career.quantum-systems.com/o/manager-of-logistics-mfd-quantum-frontline-industries-1": "Manager of Logistics (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/order-processing-and-export-manager-mfd-5": "Order Processing and Export Manager (m/f/d)",
     "https://career.quantum-systems.com/o/production-quality-specialist-mfd": "Production Quality Specialist  (m/f/d)",
     "https://career.quantum-systems.com/o/production-quality-technician-mfd": "Production Quality Technician (m/f/d)",
-    "https://career.quantum-systems.com/o/quality-control-technician-mfd-4": "Quality Control Technician (m/f/d)",
-    "https://career.quantum-systems.com/o/senior-purchasing-manager-cuas-mfd": "Senior Purchasing Manager- cUAS  (m/f/d)"
+    "https://career.quantum-systems.com/o/quality-control-technician-mfd-4": "Quality Control Technician (m/f/d)"
   },
   "Qualcomm": {
     "https://careers.qualcomm.com/careers/job/446719814300-senior-staff-engineer-technical-standards-%E2%80%93-wired-data-center-qualcomm-remote-germany-munich-remote-germany?domain=qualcomm.com": "Senior Staff Engineer Technical Standards \u2013 Wired Data Center Qualcomm Remote Germany Munich Remote Germany",
@@ -321,7 +321,6 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4864857101": "Fluids Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976524101": "Fluid Systems Engineer (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4907775101": "Fluid Systems / Process Design Engineer",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4923491101": "GNC Engineer - Mission Analysis (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952519101": "Junior Calibration Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974490101": "Launcher Assembly Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976916101": "Launch Vehicle Intern (f/m/d)",
@@ -395,17 +394,6 @@
     "https://jobs.infineon.com/careers/job/563808972090854-master-thesis-development-of-trustworthy-agentic-ai-munich?domain=infineon.com": "Master Thesis Development Of Trustworthy Agentic Ai Munich",
     "https://jobs.infineon.com/careers/job/563808972051781-working-student-asic-product-marketing-and-business-intelligence-munich?domain=infineon.com": "Working Student Asic Product Marketing And Business Intelligence Munich"
   },
-  "Alpine Eagle": {
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4714147101": "Chief of Staff (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4687181101": "Computer Vision Engineer for Drone Systems (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789058101": "Flight Physics & Flight Controls Engineer (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4966334101": "Full Stack Engineer \u2013 Frontend Focus (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4967950101": "Head of Communications & Marketing (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4807744101": "Head of C-UAS Mission Management System (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4989897101": "Marketing & Communications Coordinator (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4699459101": "Project Manager (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
-  },
   "Siemens": {
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523613": "Werkstudent (w/m/d) Technical Management",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
@@ -446,8 +434,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-Forschung-und-Entwicklung-von-Payload-Software-f%C3%BCr-Raumfahrtsysteme/1430754933/": "Oberpfaffenhofen Informatikerin (wmd) Forschung und Entwicklung von Payload Software f\u00fcr Raumfahrtsysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Signalverarbeitung-f%C3%BCr-die-Satellitenkommunikation-mit-SDR-Kenntnisse/1431133933/": "Oberpfaffenhofen Ingenieurin (wmd) Signalverarbeitung f\u00fcr die Satellitenkommunikation mit SDR Kenntnisse",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28mfx%29-Design-and-development-of-real-time-systems-for-robotics-hardware-platforms/1417120933/": "Oberpfaffenhofen Engineer (mfx) Design and development of real time systems for robotics hardware platforms",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Konzeption-und-Entwicklung-von-Echtzeitsystemen-f%C3%BCr-Robotik-Hardwareplattform/1417120833/": "Oberpfaffenhofen Ingenieurin (wmd) Konzeption und Entwicklung von Echtzeitsystemen f\u00fcr Robotik Hardwareplattform",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1435220933/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
@@ -528,7 +514,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Missions-Engineering/1435220533/": "Oberpfaffenhofen Masterarbeit (wmd) Missions Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Neuro-symbolische-KI-f%C3%BCr-resiliente-On-Board-Entscheidungen/1435629933/": "Oberpfaffenhofen Masterarbeit (wmd) Neuro symbolische KI f\u00fcr resiliente On Board Entscheidungen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Neuro-Symbolic-AI-for-Resilient-On-Board-Decision-Making/1435629833/": "Oberpfaffenhofen Master Thesis (fmx) Neuro Symbolic AI for Resilient On Board Decision Making"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Neuro-Symbolic-AI-for-Resilient-On-Board-Decision-Making/1435629833/": "Oberpfaffenhofen Master Thesis (fmx) Neuro Symbolic AI for Resilient On Board Decision Making",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28mfx%29-Design-and-development-of-real-time-systems-for-robotics-hardware-platforms/1417120933/": "Oberpfaffenhofen Engineer (mfx) Design and development of real time systems for robotics hardware platforms",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Konzeption-und-Entwicklung-von-Echtzeitsystemen-f%C3%BCr-Robotik-Hardwareplattform/1417120833/": "Oberpfaffenhofen Ingenieurin (wmd) Konzeption und Entwicklung von Echtzeitsystemen f\u00fcr Robotik Hardwareplattform"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
