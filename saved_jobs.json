@@ -83,8 +83,8 @@
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
     "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Security Engineer \u2013 Combat Aircraft",
     "https://helsing.ai/jobs/4875282101?gh_jid=4875282101": "Senior Talent Acquisition Partner",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -535,6 +535,8 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Optical-Architect--d-f-m--for-Optical-Instruments_JR10430570-1": "Optical Architect (d/f/m) for Optical Instruments",
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Development-Responsible-Optical-Subsystems--d-f-m-_JR10430561-1": "Development Responsible Optical Subsystems (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/Procurement-Contracts-Manager--m--f--d-_JR10429112": "Contract Manager\u00a0for Procurement (m,w,d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Security-Integrator--d-m-w-_JR10436987-1": "Cyber Security Integrator (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Engineer--d-m-w-_JR10216124": "Cyber-Security-Engineer (d/m/w)",
@@ -572,9 +574,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Data-Science-und-Knstliche-Intelligenz--d-m-w--zum-01092027_JR10416527": "Duales Studium B.Sc. Data Science und K\u00fcnstliche Intelligenz (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-als-Mechatroniker--d-m-w--zum-01092027_JR10416553-1": "Ausbildung als Mechatroniker (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/IT-Experte-Backup---Storage--d-f-m-_JR10420467": "IT-Experte Backup & Storage (d/f/m)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Assessor---Team-Lead--f-m-d-_R-10066860": "Safety Assessor (f/m/d)",
@@ -649,6 +649,9 @@
   },
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197452.html": "Werkstudent Forschung Softwareentwicklung (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197386.html": "Praktikant Unternehmensstrategie und Wettbewerbsanalyse (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197044.html": "Praktikant Motorrad Gesamtfahrzeug Innovationen Konzepte Architekturen und Integration (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.179583.html": "Praktikant KI-gest\u00fctzte Softwareentwicklung Fahrzeuginnenraum BMW M (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197200.html": "Praktikant Anlaufmanagement Gesamtfahrzeug (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197170.html": "Praktikant Wettbewerbsanalyse und Design Benchmarking (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197169.html": "Praktikant Kundenintegration Design (w/m/x)",
