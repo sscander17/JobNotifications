@@ -155,5 +155,10 @@ COMPANIES = [
     {
         "name": "MTU Aero Engines",
         "type": "mtu"
+    },
+    {
+        "name": "Cariad",
+        "type": "successfactors",
+        "url_template": "https://jobs.volkswagen-group.com/cariad/search/?searchby=location&locationsearch=munich&startrow={}"
     }
 ]

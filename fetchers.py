@@ -538,6 +538,45 @@ def fetch_mtu(company):
                 
     return filtered_jobs
 
+def fetch_successfactors(company):
+    url_template = company["url_template"]
+    base_domain = company.get("base_domain", "https://jobs.volkswagen-group.com")
+    
+    headers = {"User-Agent": "Mozilla/5.0"}
+    filtered_jobs = {}
+    startrow = 0
+    
+    while True:
+        url = url_template.format(startrow)
+        response = requests.get(url, headers=headers, timeout=30)
+        response.raise_for_status()
+        response.encoding = 'utf-8'
+        
+        soup = BeautifulSoup(response.text, 'html.parser')
+        jobs = soup.find_all('tr', class_='data-row')
+        
+        if not jobs:
+            break
+            
+        new_jobs = 0
+        for job in jobs:
+            a = job.find('a', class_='jobTitle-link')
+            if a:
+                href = a.get('href', '')
+                title = a.get_text(strip=True)
+                if href and title:
+                    full_link = base_domain + href if href.startswith('/') else href
+                    if full_link not in filtered_jobs:
+                        filtered_jobs[full_link] = title
+                        new_jobs += 1
+                        
+        if new_jobs == 0:
+            break
+            
+        startrow += len(jobs)
+        
+    return filtered_jobs
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "workday": fetch_workday,
@@ -552,5 +591,6 @@ FETCHERS = {
     "jibe": fetch_jibe,
     "bmw": fetch_bmw,
     "renesas": fetch_renesas,
-    "mtu": fetch_mtu
+    "mtu": fetch_mtu,
+    "successfactors": fetch_successfactors
 }
