@@ -166,5 +166,11 @@ COMPANIES = [
         "type": "greenhouse",
         "id_or_url": "navvis",
         "location": "munich"
+    },
+    {
+        "name": "Nvidia",
+        "type": "eightfold",
+        "career_site": "jobs.nvidia.com",
+        "location": ["munich", "remote-germany", "remote-europe", "remote-uk", "remote-france", "remote-italy", "remote-spain", "remote-poland", "remote-netherlands", "remote-sweden", "remote-switzerland", "remote-ireland"]
     }
 ]

@@ -83,7 +83,11 @@ def fetch_eightfold(company):
     import urllib.parse
     
     career_site = company["career_site"]
-    location_filter = company.get("location", "").lower()
+    location_filters = company.get("location", [])
+    if isinstance(location_filters, str):
+        location_filters = [location_filters.split(',')[0].strip().lower()]
+    else:
+        location_filters = [loc.lower() for loc in location_filters]
     
     # We use the sitemap approach to bypass Cloudflare 403 on the API
     url = f"https://{career_site}/careers/sitemap.xml"
@@ -100,9 +104,6 @@ def fetch_eightfold(company):
 
     urls = re.findall(r'<loc>(.*?)</loc>', response.text)
     
-    # Simple heuristic to extract the main city name for filtering the URL slug
-    primary_location_word = location_filter.split(',')[0].strip() if location_filter else ""
-    
     filtered_jobs = {}
     
     for job_url in urls:
@@ -110,8 +111,9 @@ def fetch_eightfold(company):
             continue
             
         decoded_url = urllib.parse.unquote(job_url)
-        if primary_location_word and primary_location_word not in decoded_url.lower():
-            continue
+        if location_filters:
+            if not any(loc in decoded_url.lower() for loc in location_filters):
+                continue
             
         # The URL structure is typically .../job/123456-job-title-slug
         parts = decoded_url.rstrip('/').split('/')
