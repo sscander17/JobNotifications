@@ -82,8 +82,8 @@
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
     "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Security Engineer \u2013 Combat Aircraft",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -155,7 +155,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4951244101": "Senior Strategic Supply Chain Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4828818101": "Senior Systems Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4880312101": "Senior Test Engineer (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4877733101": "Software Quality Control Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4981422101": "Software Technical Support Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975246101": "Staff Embedded Software Engineer (m/f/d), Safety & Security Platform ",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875205101": "Staff Engineer, Robotics Perception (m/f/d)",
@@ -186,7 +185,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/embedded-software-engineer-mfd": "Embedded Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-embedded-linux-platform-mfd": "Senior Embedded Software Engineer \u2013 Embedded Linux Platform (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-real-time-flight-software-mfd": "Senior Embedded Software Engineer \u2013 Real-Time Flight Software (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/finance-intern-german-speaker-mfd": "Finance Intern (German Speaker) - (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/hr-systems-analytics-intern-mfd": "HR Systems & Analytics Intern (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-hr-administration-specialist-compensation-payroll-mfd": "Senior HR Administration Specialist \u2013 Compensation & Payroll (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-backend-engineer-mfd": "Senior Backend Engineer (m/f/d)",
@@ -200,7 +198,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/strategic-development-manager-fmd": "Strategic Development Manager (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/export-control-customs-compliance-lead-defense": "Export Control & Customs Compliance Lead - Defense",
     "https://tytantechnologiesgmbh.recruitee.com/o/working-student-operations-fmd": "Working Student - Operations  (f/m/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/security-operations-compliance-intern-mfd": "Security Operations & Compliance Intern (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-learning-development-and-culture-manager-mfd": "Senior Learning, Development and Culture Manager (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/sales-manager-dach-mfd": "Sales Manager - DACH (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-flight-testing-mfd": "Unsolicited Application: Working Student - Flight Testing (m/f/d)",
@@ -498,7 +495,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-GNSS-Reflektometrie/1396080733/": "Oberpfaffenhofen Studentische Aushilfe (wmd) GNSS Reflektometrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-Entwurf-und-Validierung-eines-Roboterwerkzeugs/1440604033/": "Oberpfaffenhofen studentische Aushilfe (wmd) Entwurf und Validierung eines Roboterwerkzeugs",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-Master-Thesis-Student-Multi-Path-Transport-Protocols-%28mfd%29/1443071033/": "Oberpfaffenhofen Internship Master Thesis Student Multi Path Transport Protocols (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Assistentin-%28wmd%29-des-Institutsdirektors/1385763433/": "Oberpfaffenhofen Assistentin (wmd) des Institutsdirektors",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-Student-%28fmx%29-LiDAR-Sensors-Integration-on-a-Drone-Swarm/1402901333/": "Oberpfaffenhofen Working Student (fmx) LiDAR Sensors Integration on a Drone Swarm",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-Informationsextraktion/1407466233/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) Informationsextraktion",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-PhysikLuft-und-Raumfahrttechnik/1407550033/": "Oberpfaffenhofen Masterstudentin (wmd) PhysikLuft und Raumfahrttechnik",
@@ -538,7 +534,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Mesh-Netzwerke-f%C3%BCr-Drohnenschw%C3%A4rme/1417037133/": "Oberpfaffenhofen Masterarbeit (wmd) Mesh Netzwerke f\u00fcr Drohnenschw\u00e4rme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Physikerin-%28wmd%29-Durchf%C3%BChrung-und-Interpretation-von-Aerosol-und-Wolkenmessdaten/1443579833/": "Oberpfaffenhofen Physikerin (wmd) Durchf\u00fchrung und Interpretation von Aerosol und Wolkenmessdaten"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Physikerin-%28wmd%29-Durchf%C3%BChrung-und-Interpretation-von-Aerosol-und-Wolkenmessdaten/1443579833/": "Oberpfaffenhofen Physikerin (wmd) Durchf\u00fchrung und Interpretation von Aerosol und Wolkenmessdaten",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Assistentin-%28wmd%29-des-Institutsdirektors/1385763433/": "Oberpfaffenhofen Assistentin (wmd) des Institutsdirektors"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -612,6 +609,7 @@
   },
   "Texas Instruments": {
     "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25018407/": "Metrology Equipment Technician / Techniker Messtechnik m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25008344/": "Test Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25011604/": "Equipment Manager m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017343/": "Industrial Engineer m/f/d",
@@ -632,6 +630,7 @@
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineering-Manager--f-m-d-_JR0287443": "Development Tools Software Engineering Manager (f/m/d)"
   },
   "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Field-Applications-Engineer-Intern_R266838": "FY27 Field Applications Engineer Intern",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Sales-Director-EMEA_R261852": "Senior Principal Account Manager, Field Sales",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Customer-System-Measurement-Engineer_R265672": "Principal ATE Customer System Measurement Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Customer-System-Measurement-Engineer_R265671": "Staff ATE Customer System Measurement Engineer",
@@ -786,7 +785,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192027.html": "Praktikant Versuch und Absicherung Hochvoltspeicher (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.188610.html": "Praktikant Produktmanagement M Automobile (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.186649.html": "Werkstudent Technologieentwicklung Batteriezelle und Data Analytics (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.183178.html": "Doktorand Entwicklung dateneffizienter Optimierungsstrategien f\u00fcr die funktionale Auslegung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196059.html": "Praktikant Controlling und Finanzen (m/w/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195731.html": "Praktikant Softwareentwicklung Antrieb (m/w/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195697.html": "Praktikant Versuchszellfertig xSSB (m/w/x)",
@@ -851,7 +849,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194861.html": "Praktikant Absicherung Batteriezelle (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193904.html": "Praktikant Softwareentwicklung und K\u00fcnstliche Intelligenz (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193396.html": "Praktikant Konstruktion elektrischer Antrieb (m/w/d)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192648.html": "Praktikant Gesch\u00e4ftsentwicklung Service- und Wartungsprodukte (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191475.html": "Praktikant Elektrik- und Elektronikentwicklung Motorrad (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194927.html": "Werkstudent im Bereich Digitalisierung der Absicherung Fahrdynamikumf\u00e4nge (m/w/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193545.html": "Praktikant Bildungsmanagement Produktionstechnik (w/m/x)",
