@@ -160,5 +160,11 @@ COMPANIES = [
         "name": "Cariad",
         "type": "successfactors",
         "url_template": "https://jobs.volkswagen-group.com/cariad/search/?searchby=location&locationsearch=munich&startrow={}"
+    },
+    {
+        "name": "NavVis",
+        "type": "greenhouse",
+        "id_or_url": "navvis",
+        "location": "munich"
     }
 ]
