@@ -233,9 +233,9 @@
     "https://career.quantum-systems.com/o/forward-deployed-engineer-mfd": "Forward Deployed Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/program-manager-mfd-5": "Program Manager (m/f/d)",
     "https://career.quantum-systems.com/o/returns-manager-mfd": "Returns Manager (m/f/d)",
+    "https://career.quantum-systems.com/o/solution-architect-mfd-4": "Solution Architect (m/f/d)",
     "https://career.quantum-systems.com/o/training-manager-mfd-18": "Training Manager (m/f/d)",
     "https://career.quantum-systems.com/o/training-operations-coordinator-mfd-1": "Training Operations Coordinator (m/f/d)",
-    "https://career.quantum-systems.com/o/uxs-training-demo-manager-mfd-6": "UXS Training & Demo Manager (m/f/d)",
     "https://career.quantum-systems.com/o/certification-compliance-confirmity-manager-mfd": "Certification, Compliance & Confirmity Manager (m/f/d)",
     "https://career.quantum-systems.com/o/development-engineer-production-mfd-fokus-hardware": "Development Engineer Production (m/f/d) -  Focus Hardware",
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-4": "Electrical Engineer (m/f/d)",
@@ -449,7 +449,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29/1437898533/": "Oberpfaffenhofen Softwareentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29/1437902633/": "Oberpfaffenhofen Softwareentwicklerin (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-oder-Masterandin-%28wmd%29-Multipfad-Transportprotokolle/1443070933/": "Oberpfaffenhofen Praktikantin oder Masterandin (wmd) Multipfad Transportprotokolle",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Fehlermodellierung-und-Spatial-AI-f%C3%BCr-sichere%2C-multisensorielle-Navigation/1413693033/": "Oberpfaffenhofen Ingenieurin (wmd) Fehlermodellierung und Spatial AI f\u00fcr sichere, multisensorielle Navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Error-modelling-and-spatial-AI-for-safe-multisensor-navigation/1413693133/": "Oberpfaffenhofen Engineer (fmd) Error modelling and spatial AI for safe multisensor navigation",
@@ -533,7 +532,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-final-year-dissertation-%28mfd%29-Elastic-transmission-elements-in-robotic-hands/1423448433/": "Oberpfaffenhofen Undergraduate and final year dissertation (mfd) Elastic transmission elements in robotic hands",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-in-GPU-Accelerated-Implementation-and-Optimization-of-a-Packet-Level-Peeling-Decoder/1412288333/": "Oberpfaffenhofen Master Thesis in GPU Accelerated Implementation and Optimization of a Packet Level Peeling Decoder",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-dissertation-project-%28mfd%29-Zonal-communication-architecture-for-robotic-hands/1423443733/": "Oberpfaffenhofen Undergraduate and dissertation project (mfd) Zonal communication architecture for robotic hands",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Physikerin-%28wmd%29-Durchf%C3%BChrung-und-Interpretation-von-Aerosol-und-Wolkenmessdaten/1443579833/": "Oberpfaffenhofen Physikerin (wmd) Durchf\u00fchrung und Interpretation von Aerosol und Wolkenmessdaten"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Physikerin-%28wmd%29-Durchf%C3%BChrung-und-Interpretation-von-Aerosol-und-Wolkenmessdaten/1443579833/": "Oberpfaffenhofen Physikerin (wmd) Durchf\u00fchrung und Interpretation von Aerosol und Wolkenmessdaten",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Forschungs-Software-Ingenieurin-%28wmd%29-Weiterentwicklung-von-Gewittervorhersagen/1425215233/": "Oberpfaffenhofen Forschungs Software Ingenieurin (wmd) Weiterentwicklung von Gewittervorhersagen",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Research-Software-Engineer-%28mfd%29-Further-development-of-thunderstorm-forecasts/1425215333/": "Oberpfaffenhofen Research Software Engineer (mfd) Further development of thunderstorm forecasts",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
