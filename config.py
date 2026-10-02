@@ -151,5 +151,9 @@ COMPANIES = [
         "url": "https://www.omnisent.ai/careers",
         "url_filter": "join.com/companies/omnisent/",
         "location_filter": "munich"
+    },
+    {
+        "name": "MTU Aero Engines",
+        "type": "mtu"
     }
 ]

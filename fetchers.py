@@ -193,25 +193,30 @@ def fetch_scrape(company):
     for link in soup.find_all('a'):
         href = link.get('href')
         title = link.get_text(strip=True)
-        if href and company["url_filter"] in href and title:
-            location_filter = company.get("location_filter", "").lower()
-            if location_filter:
-                context_text = (title + " " + href).lower()
-                parent_tr = link.find_parent('tr')
-                parent_li = link.find_parent('li')
+        if href and title:
+            url_filters = company["url_filter"]
+            if isinstance(url_filters, str):
+                url_filters = [url_filters]
                 
-                if parent_tr:
-                    context_text += " " + parent_tr.get_text(separator=' ', strip=True).lower()
-                elif parent_li:
-                    context_text += " " + parent_li.get_text(separator=' ', strip=True).lower()
+            if any(f in href for f in url_filters):
+                location_filter = company.get("location_filter", "").lower()
+                if location_filter:
+                    context_text = (title + " " + href).lower()
+                    parent_tr = link.find_parent('tr')
+                    parent_li = link.find_parent('li')
                     
-                if location_filter not in context_text:
-                    continue
-                
-            if title.lower() not in ["view job", "apply now", "read more"]:
-                if not href.startswith("http"):
-                    href = company["base_url"].rstrip("/") + href if "base_url" in company else company["url"].rstrip("/") + href
-                current_jobs[href] = title
+                    if parent_tr:
+                        context_text += " " + parent_tr.get_text(separator=' ', strip=True).lower()
+                    elif parent_li:
+                        context_text += " " + parent_li.get_text(separator=' ', strip=True).lower()
+                        
+                    if location_filter not in context_text:
+                        continue
+                    
+                if title.lower() not in ["view job", "apply now", "read more"]:
+                    if not href.startswith("http"):
+                        href = company["base_url"].rstrip("/") + href if "base_url" in company else company["url"].rstrip("/") + href
+                    current_jobs[href] = title
     return current_jobs
 
 
@@ -500,6 +505,39 @@ def fetch_renesas(company):
             
     return filtered_jobs
 
+def fetch_mtu(company):
+    url = company.get("url", "https://www.mtu.de/careers/online-job-market/s/all/m%C3%BCnchen_ger/all/all/")
+    headers = {"User-Agent": "Mozilla/5.0"}
+    response = requests.get(url, headers=headers, timeout=30)
+    response.raise_for_status()
+    response.encoding = 'utf-8'
+    
+    soup = BeautifulSoup(response.text, 'html.parser')
+    filtered_jobs = {}
+    
+    for a in soup.find_all('a', class_='jobs-list__item_anchor'):
+        href = a.get('href', '')
+        if href:
+            title_tag = a.find('h3', class_='jobs-list__title')
+            
+            # Check location list items
+            location_text = ""
+            details_list = a.find('ul', class_='jobs-list__details')
+            if details_list:
+                for li in details_list.find_all('li'):
+                    if 'München' in li.text or 'Munich' in li.text or 'münchen' in li.text.lower():
+                        location_text = li.text
+                        break
+                        
+            if title_tag and location_text:
+                badge = title_tag.find('span', class_='jobs-list__badge')
+                if badge:
+                    badge.decompose()
+                title = title_tag.get_text(strip=True)
+                filtered_jobs[href] = title
+                
+    return filtered_jobs
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "workday": fetch_workday,
@@ -513,5 +551,6 @@ FETCHERS = {
     "em_munich": fetch_em_munich,
     "jibe": fetch_jibe,
     "bmw": fetch_bmw,
-    "renesas": fetch_renesas
+    "renesas": fetch_renesas,
+    "mtu": fetch_mtu
 }
