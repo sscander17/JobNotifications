@@ -70,12 +70,12 @@ def is_job_relevant(job_title: str) -> bool:
     # Check rejects first (e.g. to filter out "Senior Engineer" even though it has "Engineer")
     for word in AUTO_REJECT_WORDS:
         if word in title_lower:
-            print(f"  [Pre-Filter] Auto-rejecting: '{job_title}'")
+            print(f"  [Pre-Filter] Auto-rejecting: '{job_title}' (Matched: {word})")
             return False
 
     for word in AUTO_KEEP_WORDS:
         if word in title_lower:
-            # print(f"  [Pre-Filter] Auto-keeping: '{job_title}'")
+            print(f"  [Pre-Filter] Auto-keeping: '{job_title}' (Matched: {word})")
             return True
 
     # STAGE 2: AI FILTER (for ambiguous jobs)
@@ -115,9 +115,10 @@ def is_job_relevant(job_title: str) -> bool:
         
         # Safe check: Only filter out if "NO" is firmly in the response and not "YES"
         if "NO" in answer and "YES" not in answer:
-            print(f"  [AI Filter] Job '{job_title}' filtered out (Not technical).")
+            print(f"  [AI Filter] Auto-rejecting: '{job_title}'")
             return False
             
+        print(f"  [AI Filter] Auto-keeping: '{job_title}'")
         return True
     except Exception as e:
         print(f"  [AI Filter] Warning: API check failed for job '{job_title}': {e}. Keeping job by default.")
