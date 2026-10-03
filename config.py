@@ -192,5 +192,11 @@ COMPANIES = [
         "career_site": "stmicroelectronics.eightfold.ai",
         "domain": "stmicroelectronics.com",
         "location": ["munich", "muenchen", "münchen"]
+    },
+    {
+        "name": "Munich Electrification",
+        "type": "ashby",
+        "board_name": "munich-electrification",
+        "location": "munich"
     }
 ]

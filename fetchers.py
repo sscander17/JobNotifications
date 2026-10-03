@@ -742,6 +742,52 @@ def fetch_talentbrew(company):
             
     return jobs
 
+def fetch_ashby(company):
+    import requests
+    
+    board_name = company["board_name"]
+    location_filters = company.get("location", [])
+    if isinstance(location_filters, str):
+        location_filters = [location_filters.lower()]
+    else:
+        location_filters = [loc.lower() for loc in location_filters]
+        
+    url = 'https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiJobBoardWithTeams'
+    payload = {
+        "operationName": "ApiJobBoardWithTeams",
+        "variables": {
+            "organizationHostedJobsPageName": board_name
+        },
+        "query": "query ApiJobBoardWithTeams($organizationHostedJobsPageName: String!) { jobBoard: jobBoardWithTeams(organizationHostedJobsPageName: $organizationHostedJobsPageName) { jobPostings { id title locationName } } }"
+    }
+    
+    headers = {"User-Agent": "Mozilla/5.0"}
+    r = requests.post(url, json=payload, headers=headers, timeout=15)
+    r.raise_for_status()
+    data = r.json()
+    
+    filtered_jobs = {}
+    job_board = data.get('data', {}).get('jobBoard')
+    if not job_board:
+        return filtered_jobs
+        
+    for job in job_board.get('jobPostings', []):
+        job_id = job.get('id')
+        title = job.get('title')
+        location = job.get('locationName', '').lower()
+        
+        if not job_id or not title:
+            continue
+            
+        if location_filters:
+            if not any(loc in location for loc in location_filters):
+                continue
+                
+        job_url = f"https://jobs.ashbyhq.com/{board_name}/{job_id}"
+        filtered_jobs[job_url] = title
+        
+    return filtered_jobs
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "workday": fetch_workday,
@@ -759,5 +805,6 @@ FETCHERS = {
     "mtu": fetch_mtu,
     "successfactors": fetch_successfactors,
     "csod": fetch_csod,
-    "talentbrew": fetch_talentbrew
+    "talentbrew": fetch_talentbrew,
+    "ashby": fetch_ashby
 }
