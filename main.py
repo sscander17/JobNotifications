@@ -45,12 +45,11 @@ def main():
                     job_title = jobs[url]
                     if is_job_relevant(job_title):
                         if not company_header_added:
+                            if notification_body:
+                                notification_body += "\n"
                             notification_body += f"<b>=== {html.escape(name).upper()} ===</b>\n"
                             company_header_added = True
-                        notification_body += f"• <a href=\"{html.escape(url)}\">{html.escape(job_title)}</a>\n"
-                
-                if company_header_added:
-                    notification_body += "\n"
+                        notification_body += f"- <b>{html.escape(job_title)}</b>\n<a href=\"{html.escape(url)}\">Apply Here</a>\n\n"
 
         except Exception as e:
             print(f"Error checking {name}: {e}")
