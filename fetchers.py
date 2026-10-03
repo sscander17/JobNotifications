@@ -81,20 +81,69 @@ def fetch_greenhouse(company):
 def fetch_eightfold(company):
     import re
     import urllib.parse
+    import requests
     
     career_site = company["career_site"]
+    domain = company.get("domain", career_site)
     location_filters = company.get("location", [])
     if isinstance(location_filters, str):
         location_filters = [location_filters.split(',')[0].strip().lower()]
     else:
         location_filters = [loc.lower() for loc in location_filters]
     
-    # We use the sitemap approach to bypass Cloudflare 403 on the API
-    url = f"https://{career_site}/careers/sitemap.xml"
-    
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     }
+
+    filtered_jobs = {}
+    
+    # --- 1. TRY API APPROACH ---
+    try:
+        start = 0
+        num = 100
+        while True:
+            api_url = f"https://{career_site}/api/apply/v2/jobs"
+            params = {"domain": domain, "start": start, "num": num}
+            
+            r = requests.get(api_url, params=params, headers=headers, timeout=15)
+            
+            if r.status_code == 403:
+                raise Exception("403 Forbidden")
+                
+            r.raise_for_status()
+            data = r.json()
+            positions = data.get("positions", [])
+            
+            if not positions:
+                break
+                
+            for job in positions:
+                title = job.get("name", "")
+                job_id = job.get("id", "")
+                job_location = job.get("location", "").lower()
+                
+                if not title or not job_id:
+                    continue
+                    
+                if location_filters:
+                    if not any(loc in job_location for loc in location_filters):
+                        continue
+                        
+                job_url = f"https://{career_site}/careers/job/{job_id}"
+                filtered_jobs[job_url] = title
+            
+            count = data.get("count", 0)
+            start += num
+            if start >= count:
+                break
+                
+        return filtered_jobs
+    except Exception as e:
+        print(f"Eightfold API unavailable for {career_site}, falling back to sitemap. ({e})")
+
+    # --- 2. SITEMAP FALLBACK ---
+    # We use the sitemap approach to bypass Cloudflare 403 on the API
+    url = f"https://{career_site}/careers/sitemap.xml"
     
     response = requests.get(url, headers=headers, timeout=15)
     
@@ -103,8 +152,6 @@ def fetch_eightfold(company):
         return {}
 
     urls = re.findall(r'<loc>(.*?)</loc>', response.text)
-    
-    filtered_jobs = {}
     
     for job_url in urls:
         if '/job/' not in job_url:

@@ -185,5 +185,12 @@ COMPANIES = [
         "name": "ARM",
         "type": "talentbrew",
         "search_url": "https://careers.arm.com/search-jobs/Germany?orgIds=33099&alp=2921044&alt=2"
+    },
+    {
+        "name": "STMicroelectronics",
+        "type": "eightfold",
+        "career_site": "stmicroelectronics.eightfold.ai",
+        "domain": "stmicroelectronics.com",
+        "location": ["munich", "muenchen", "münchen"]
     }
 ]
