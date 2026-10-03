@@ -172,5 +172,13 @@ COMPANIES = [
         "type": "eightfold",
         "career_site": "jobs.nvidia.com",
         "location": ["munich", "remote-germany", "remote-europe", "remote-uk", "remote-france", "remote-italy", "remote-spain", "remote-poland", "remote-netherlands", "remote-sweden", "remote-switzerland", "remote-ireland"]
+    },
+    {
+        "name": "OHB System AG",
+        "type": "csod",
+        "base_url": "https://career-ohb.csod.com",
+        "site_id": "4",
+        "corp": "career-ohb",
+        "location": ["weßling", "münchen", "munich", "wessling"]
     }
 ]

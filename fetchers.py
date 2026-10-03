@@ -579,6 +579,89 @@ def fetch_successfactors(company):
         
     return filtered_jobs
 
+def fetch_csod(company):
+    import re
+    
+    base_url = company["base_url"].rstrip("/")
+    site_id = company["site_id"]
+    corp = company["corp"]
+    location_filters = company.get("location", [])
+    if isinstance(location_filters, str):
+        location_filters = [location_filters.lower()]
+    else:
+        location_filters = [loc.lower() for loc in location_filters]
+        
+    home_url = f"{base_url}/ux/ats/careersite/{site_id}/home?c={corp}"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    r1 = requests.get(home_url, headers=headers, timeout=15)
+    r1.raise_for_status()
+    
+    token_match = re.search(r'"token"\s*:\s*"([^"]+)"', r1.text)
+    if not token_match:
+        print(f"Warning: Could not find CSOD token for {corp}.")
+        return {}
+    token = token_match.group(1)
+    
+    api_url = f"{base_url}/services/x/career-site/v1/search"
+    api_headers = {
+        "User-Agent": "Mozilla/5.0",
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json"
+    }
+    
+    page_number = 1
+    page_size = 50
+    filtered_jobs = {}
+    
+    while True:
+        payload = {
+            "careerSiteId": int(site_id),
+            "careerSitePageId": int(site_id),
+            "pageNumber": page_number,
+            "pageSize": page_size,
+            "cultureId": 1,
+            "searchText": "",
+            "cultureName": "en-US",
+            "states": [],
+            "countryId": 0,
+            "applicantUserId": None
+        }
+        
+        r2 = requests.post(api_url, json=payload, headers=api_headers, timeout=15)
+        r2.raise_for_status()
+        
+        data = r2.json().get("data", {})
+        requisitions = data.get("requisitions", [])
+        
+        if not requisitions:
+            break
+            
+        for req in requisitions:
+            req_id = req.get("requisitionId")
+            title = req.get("displayJobTitle", "")
+            
+            locations = req.get("locations", [])
+            matches = False
+            if not location_filters:
+                matches = True
+            else:
+                for loc in locations:
+                    loc_str = f"{loc.get('city') or ''} {loc.get('state') or ''} {loc.get('country') or ''}".lower()
+                    if any(f in loc_str for f in location_filters):
+                        matches = True
+                        break
+                        
+            if matches and req_id and title:
+                job_url = f"{base_url}/ux/ats/careersite/{site_id}/home/requisition/{req_id}?c={corp}"
+                filtered_jobs[job_url] = title
+                
+        if len(requisitions) < page_size:
+            break
+            
+        page_number += 1
+        
+    return filtered_jobs
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "workday": fetch_workday,
@@ -594,5 +677,6 @@ FETCHERS = {
     "bmw": fetch_bmw,
     "renesas": fetch_renesas,
     "mtu": fetch_mtu,
-    "successfactors": fetch_successfactors
+    "successfactors": fetch_successfactors,
+    "csod": fetch_csod
 }
