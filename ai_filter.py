@@ -51,7 +51,7 @@ AUTO_REJECT_WORDS = [
     " hr ", "human resources", "marketing", "sales", "recruiter", 
     "accountant", "legal", "finance", "buyer", "purchasing", "talent",
     "counsel", "tax", "facility", "business partner", "communications",
-    "event ", "payroll"
+    "event ", "payroll", "senior", "lead", "head of", "principal", "manager"
 ]
 
 def is_job_relevant(job_title: str) -> bool:
@@ -67,15 +67,16 @@ def is_job_relevant(job_title: str) -> bool:
     title_lower = job_title.lower()
     
     # STAGE 1: LOCAL PRE-FILTER
+    # Check rejects first (e.g. to filter out "Senior Engineer" even though it has "Engineer")
+    for word in AUTO_REJECT_WORDS:
+        if word in title_lower:
+            print(f"  [Pre-Filter] Auto-rejecting: '{job_title}'")
+            return False
+
     for word in AUTO_KEEP_WORDS:
         if word in title_lower:
             # print(f"  [Pre-Filter] Auto-keeping: '{job_title}'")
             return True
-            
-    for word in AUTO_REJECT_WORDS:
-        if word in title_lower:
-            print(f"  [Pre-Filter] Auto-rejecting (Non-Technical): '{job_title}'")
-            return False
 
     # STAGE 2: AI FILTER (for ambiguous jobs)
     if not client:
