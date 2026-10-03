@@ -42,14 +42,24 @@ def main():
             if new_urls:
                 company_header_added = False
                 for url in new_urls:
-                    job_title = jobs[url]
+                    original_job_title = jobs[url]
+                    
+                    from translator import translate_to_english
+                    job_title = translate_to_english(original_job_title)
+                    
                     if is_job_relevant(job_title):
                         if not company_header_added:
                             if notification_body:
                                 notification_body += "\n"
                             notification_body += f"<b>=== {html.escape(name).upper()} ===</b>\n"
                             company_header_added = True
-                        notification_body += f"- <b>{html.escape(job_title)}</b>\n<a href=\"{html.escape(url)}\">Apply Here</a>\n\n"
+                        
+                        # We append the original German in parenthesis if it was translated
+                        display_title = job_title
+                        if display_title.lower() != original_job_title.lower():
+                            display_title = f"{job_title} ({original_job_title})"
+                            
+                        notification_body += f"- <b>{html.escape(display_title)}</b>\n<a href=\"{html.escape(url)}\">Apply Here</a>\n\n"
 
         except Exception as e:
             print(f"Error checking {name}: {e}")
