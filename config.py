@@ -180,5 +180,10 @@ COMPANIES = [
         "site_id": "4",
         "corp": "career-ohb",
         "location": ["weßling", "münchen", "munich", "wessling"]
+    },
+    {
+        "name": "ARM",
+        "type": "talentbrew",
+        "search_url": "https://careers.arm.com/search-jobs/Germany?orgIds=33099&alp=2921044&alt=2"
     }
 ]

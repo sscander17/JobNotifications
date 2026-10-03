@@ -662,6 +662,39 @@ def fetch_csod(company):
         
     return filtered_jobs
 
+def fetch_talentbrew(company):
+    from bs4 import BeautifulSoup
+    import requests
+    
+    url = company["search_url"]
+    base_url = company.get("base_url", "https://" + url.split("/")[2])
+    
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    r = requests.get(url, headers=headers, timeout=15)
+    r.raise_for_status()
+    
+    soup = BeautifulSoup(r.text, 'html.parser')
+    jobs = {}
+    
+    results = soup.find(id='search-results-list')
+    if not results:
+        return jobs
+        
+    for a in results.find_all('a'):
+        href = a.get('href')
+        if not href or not href.startswith('/job/'):
+            continue
+            
+        full_url = base_url + href if href.startswith('/') else href
+        
+        h2 = a.find('h2')
+        title = h2.text.strip() if h2 else a.text.strip()
+            
+        if title:
+            jobs[full_url] = title
+            
+    return jobs
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "workday": fetch_workday,
@@ -678,5 +711,6 @@ FETCHERS = {
     "renesas": fetch_renesas,
     "mtu": fetch_mtu,
     "successfactors": fetch_successfactors,
-    "csod": fetch_csod
+    "csod": fetch_csod,
+    "talentbrew": fetch_talentbrew
 }
