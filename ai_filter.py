@@ -51,7 +51,7 @@ AUTO_REJECT_WORDS = [
     " hr ", "human resources", "marketing", "sales", "recruiter", 
     "accountant", "legal", "finance", "buyer", "purchasing", "talent",
     "counsel", "tax", "facility", "business partner", "communications",
-    "event ", "payroll", "senior", "lead", "head of", "principal", "manager", "staff"
+    "event ", "payroll", "senior", "lead", "head of", "principal", "manager"
 ]
 
 def is_job_relevant(job_title: str) -> bool:
