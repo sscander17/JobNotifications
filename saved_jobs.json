@@ -294,7 +294,7 @@
     "https://career.quantum-systems.com/o/working-student-returns-management-mfd": "Working Student - Returns Management (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-software-engineering-mfd": "Working Student - Software Engineering (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-intern-industrialization-land-ugv-mfd": "Working Student / Intern \u2013 Industrialization Land / UGV (m/f/d)",
-    "https://career.quantum-systems.com/o/working-student-full-stack-software-development-mfd": "Working Student Full-Stack Software Development (m/f/d)",
+    "https://career.quantum-systems.com/o/working-student-electronics-engineering-mfd": "Working Student Electronics Engineering (m/f/d)",
     "https://career.quantum-systems.com/o/category-manager-software-ai-digital-platforms-mfd": "Category Manager \u2013Software, AI & Digital Platforms (m/f/d)",
     "https://career.quantum-systems.com/o/lager-logistikmitarbeiter-fmd-7": "Lager-/Logistikmitarbeiter (f/m/d)",
     "https://career.quantum-systems.com/o/logistikmitarbeiter-mfd-ugv": "Logistics Technician (m/f/d) - UGV",
@@ -549,6 +549,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-student-on-5G-and-LEO-satellite-communication-signals--d-f-m-_JR10445545": "Working student on 5G and LEO satellite communication signals (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/IT-Network-Administrator--d-w-m-_JR10444320": "IT Network Administrator (d/w/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Senior-Business-Development-Manager---Space-Deutschland--m-w-d-_JR10426058": "Key Account Manager Schwerpunkt Geospatial Business Development  (m/w/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/HO-Executive-Protection---Fleet-Services--w--m--d-_JR10439635-1": "HO Executive Protection & Fleet Services (w, m, d)",
@@ -587,8 +588,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-als-Mechatroniker--d-m-w--zum-01092027_JR10416553-1": "Ausbildung als Mechatroniker (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/IT-Experte-Backup---Storage--d-f-m-_JR10420467": "IT-Experte Backup & Storage (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Service-Communciation-Engineer-Satcom--d-m-w-_JR10361896-1": "IT Network Specialist (d/m/w)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/IT-Experte-Backup---Storage--d-f-m-_JR10420467": "IT-Experte Backup & Storage (d/f/m)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Assessor---Team-Lead--f-m-d-_R-10066860": "Safety Assessor (f/m/d)",
@@ -635,6 +635,7 @@
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineering-Manager--f-m-d-_JR0287443": "Development Tools Software Engineering Manager (f/m/d)"
   },
   "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Mixed-Signal-Design-Engineer_R265283": "Principal Mixed-Signal Design Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Field-Applications-Engineer-Intern_R266838": "FY27 Field Applications Engineer Intern",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Sales-Director-EMEA_R261852": "Senior Principal Account Manager, Field Sales",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Customer-System-Measurement-Engineer_R265672": "Principal ATE Customer System Measurement Engineer",
