@@ -44,6 +44,7 @@
     "https://helsing.ai/jobs/4924405101?gh_jid=4924405101": "Lead Systems Engineer \u2013 Military Communications",
     "https://helsing.ai/jobs/4888238101?gh_jid=4888238101": "Lead Systems Engineer - Passive RF Sensing",
     "https://helsing.ai/jobs/4988772101?gh_jid=4988772101": "Learning and Enablement Manager",
+    "https://helsing.ai/jobs/4996521101?gh_jid=4996521101": "Legal Counsel IT & Privacy",
     "https://helsing.ai/jobs/4996583101?gh_jid=4996583101": "Logistics Manager",
     "https://helsing.ai/jobs/4948287101?gh_jid=4948287101": "LSA Engineer ",
     "https://helsing.ai/jobs/4878160101?gh_jid=4878160101": "M&A Integration Manager",
@@ -78,13 +79,13 @@
     "https://helsing.ai/jobs/4913312101?gh_jid=4913312101": "(Senior) Programme Manager - Integrated Logistics Support",
     "https://helsing.ai/jobs/4875025101?gh_jid=4875025101": "Senior Programme Manager - Maritime",
     "https://helsing.ai/jobs/4913364101?gh_jid=4913364101": "Senior Programme Manager - Militarisation",
+    "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Engineer \u2013 Combat Aircraft (Security)",
     "https://helsing.ai/jobs/4924427101?gh_jid=4924427101": "Senior Systems Engineer \u2013 EA Antenna & Payload Design ",
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
-    "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Security Engineer \u2013 Combat Aircraft",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -224,6 +225,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-fmd": "Drone Technician (f/m/d)"
   },
   "Samsung": {
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--m-f-d----Accounting--Munich-based-_R120002": "Working Student (m/f/d) - Accounting (Munich based)",
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--Project-Management---Automotive-SoC-Software_R120004-1": "Working Student, Project Management / Automotive SoC Software",
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory",
@@ -232,12 +234,12 @@
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Engineer--Technical-Marketing_R118101": "Field Application Engineer \u2013 Smartcard (Munich OR Paris based)"
   },
   "Quantum-Systems": {
+    "https://career.quantum-systems.com/o/customer-solution-manager-mfd-4": "Customer Solution Manager (m/f/d)",
     "https://career.quantum-systems.com/o/forward-deployed-engineer-mfd": "Forward Deployed Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/program-manager-mfd-5": "Program Manager (m/f/d)",
     "https://career.quantum-systems.com/o/solution-architect-mfd-4": "Solution Architect (m/f/d)",
     "https://career.quantum-systems.com/o/training-manager-mfd-18": "Training Manager (m/f/d)",
     "https://career.quantum-systems.com/o/training-operations-coordinator-mfd-1": "Training Operations Coordinator (m/f/d)",
-    "https://career.quantum-systems.com/o/uxs-training-demo-manager-mfd-6": "UXS Training & Demo Manager (m/f/d)",
     "https://career.quantum-systems.com/o/certification-compliance-confirmity-manager-mfd": "Certification, Compliance & Confirmity Manager (m/f/d)",
     "https://career.quantum-systems.com/o/development-engineer-production-mfd-fokus-hardware": "Development Engineer Production (m/f/d) -  Focus Hardware",
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-4": "Electrical Engineer (m/f/d)",
@@ -520,7 +522,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Industriemechanikerin-%28wmd%29/1428305433/": "Oberpfaffenhofen Ausbildung zurzum Industriemechanikerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-KI-Methoden-in-der-Software-Qualit%C3%A4tssicherung-f%C3%BCr-die-Raumfahrt/1433339933/": "Oberpfaffenhofen Informatikerin (wmd) KI Methoden in der Software Qualit\u00e4tssicherung f\u00fcr die Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-thesis-%28fmx%29-Development-of-a-Motion-Cueing-Algorithm-using-MPC-and-RL/1429580933/": "Oberpfaffenhofen Master thesis (fmx) Development of a Motion Cueing Algorithm using MPC and RL",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29/1440837833/": "Oberpfaffenhofen studentische Aushilfe (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Missionskontroll-und-Datensysteme/1428222133/": "Oberpfaffenhofen Gruppenleitung (wmd) Missionskontroll und Datensysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Neuro-Symbolic-AI-for-Resilient-On-Board-Decision-Making/1435629833/": "Oberpfaffenhofen Master Thesis (fmx) Neuro Symbolic AI for Resilient On Board Decision Making",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-Master-Thesis-Student-Multi-Path-Transport-Protocols-%28mfd%29/1443071033/": "Oberpfaffenhofen Internship Master Thesis Student Multi Path Transport Protocols (mfd)",
@@ -541,7 +542,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Fehlermodellierung-und-Spatial-AI-f%C3%BCr-sichere%2C-multisensorielle-Navigation/1413693033/": "Oberpfaffenhofen Ingenieurin (wmd) Fehlermodellierung und Spatial AI f\u00fcr sichere, multisensorielle Navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Forschungs-Software-Ingenieurin-%28wmd%29-Weiterentwicklung-von-Gewittervorhersagen/1425215233/": "Oberpfaffenhofen Forschungs Software Ingenieurin (wmd) Weiterentwicklung von Gewittervorhersagen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Research-Software-Engineer-%28mfd%29-Further-development-of-thunderstorm-forecasts/1425215333/": "Oberpfaffenhofen Research Software Engineer (mfd) Further development of thunderstorm forecasts",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29/1440837833/": "Oberpfaffenhofen studentische Aushilfe (wmd)"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -1244,14 +1246,15 @@
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Internship-Thesis-AI-Based-Semantic-Mapping-for-Autonomous-Driving-%28wmd%29-71297/1422904833/": "Internship / Thesis - AI-Based Semantic Mapping for Autonomous Driving (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Development-of-Innovative-Driving-Dynamics-Functions-%28mfd%29-85053/1432232933/": "Internship - Development of Innovative Driving Dynamics Functions (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Internship-Reinforcement-Learning-Research-for-Autonomous-Driving-%28mfd%29-80807/1421289433/": "Internship - Reinforcement Learning Research for Autonomous Driving (m/f/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Development-of-Innovative-Driving-Dynamics-Functions-%28mfd%29-85053/1432232933/": "Internship - Development of Innovative Driving Dynamics Functions (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-lnternship-User-Experience-User-Interaction-Pre-Development-AI-enabled-Experiences-%28wmd%29-85053/1441749833/": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Data-Analytics-in-Controlling-%28fmd%29-85053/1441342533/": "Working Student - Data Analytics in Controlling (f/m/d)"
   },
   "NavVis": {
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4790711101": "AI-Enabled Revenue Operations Specialist (F/M/D)",
+    "https://job-boards.eu.greenhouse.io/navvis/jobs/4987145101": "Business Intelligence Analyst (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4904613101": "Calibration Engineer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4917909101": "Electrical Engineer - 1 year Internship (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4971995101": "Electrical Engineer (F/M/D) \u2013 Maternity/Parental leave cover ~1 year",
@@ -1369,6 +1372,7 @@
   },
   "OHB System AG": {
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8539?c=career-ohb": "Digital Electronics Design Engineer (f/m/d)",
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8261?c=career-ohb": "Teamleiter:in f\u00fcr die Elektronik-Fertigung (m,w,d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8516?c=career-ohb": "Systems Engineering Manager Space System Studies (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8354?c=career-ohb": "Printed Circuit Board Layout Design Engineer (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8778?c=career-ohb": "Photonics / Systems Engineer (m/f/d) Quantum Technologies",
