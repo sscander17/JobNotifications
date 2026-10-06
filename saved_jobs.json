@@ -84,8 +84,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -614,6 +614,7 @@
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/EMC-Engineer--f-m-d-_R-10061511": "EMC Engineer (f/m/d)"
   },
   "Texas Instruments": {
+    "https://careers.ti.com/en/sites/CX/job/25012309/": "Analog Design Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018470/": "Analog Design Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d",
@@ -628,7 +629,6 @@
     "https://careers.ti.com/en/sites/CX/job/25010376/": "Layout Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25011262/": "Mechatroniker/Elektroniker in der Instandhaltung/Wartung m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25012515/": "Applications Engineering Intern / Student Worker - Evaluation/Test of analog IC's Power Management Devices m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25017374/": "Validation Technician m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017425/": "Equipment Engineering Technician Multiprobe m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017697/": "Techniker (m/w/d) im Outgoing Quality Team (FFAB)",
     "https://careers.ti.com/en/sites/CX/job/25017920/": "Software Applications Engineer"
@@ -669,6 +669,8 @@
   },
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197625.html": "Werkstudentent\u00e4tigkeit im Bereich Risikomanagement",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197595.html": "Werkstudentent\u00e4tigkeit im Bereich Vertrieb",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197215.html": "Praktikum im Bereich IT-Projektmanagement",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197473.html": "Werkstudentent\u00e4tigkeit im Bereich Rechnungswesen",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197379.html": "Praktikant Optimierung von Baukastenvarianten (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197288.html": "Praktikant Qualit\u00e4tssicherung Prototypenbau Hochvoltspeicher (w/m/x)",
@@ -679,7 +681,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196945.html": "Praktikant Logistikplanung Neue Klasse (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196833.html": "Praktikant Generative KI f\u00fcr Fahrzeugfunktionen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196760.html": "Praktikant Vernetzte Mobilit\u00e4t und Smart Home Integration (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196696.html": "Werkstudent Forschung / Entwicklung Fahrerassistenzsysteme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196293.html": "Intern Logistics Process Simulation (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196070.html": "Intern Computer Vision and Sensor Fusion (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195915.html": "Praktikant Internationale Consulting-Programme (w/m/x)",
@@ -772,7 +773,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195886.html": "Automobilverk\u00e4ufer MINI (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195799.html": "Thesis AI Assisted Fault Injection (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195514.html": "Thesis Causal ML for Prescriptive Decision Support in Automotive Goodwill (f/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194889.html": "Praktikum im Bereich Strategie",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192728.html": "Werkstudent Motorrad Datenanalysen und Cloudarchitektur (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.189221.html": "Intern Business Development Financial Services (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.187646.html": "Werkstudent Fahrzeug-Hochr\u00fcstung und Betreeung (w/m/x)",
@@ -904,7 +904,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193579.html": "Praktikant Handelsentwicklung Deutscher Markt (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192781.html": "Werkstudent Forschung Leistungselektronik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.167361.html": "Praktikant Corporate Communications BMW Automobile (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194334.html": "Praktikant Vorserienproduktion E-Antriebssysteme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194276.html": "Praktikant Cross-Industry Collaboration (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193944.html": "Praktikant Vertriebsaktivit\u00e4ten MINI (w/m/x",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192942.html": "Intern Strategic Sales Projects &amp; Business Development (f/m/x)",
