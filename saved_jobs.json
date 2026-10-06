@@ -84,8 +84,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -125,6 +125,7 @@
   },
   "ARX Robotics": {
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4996193101": "Bid & Proposal Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999163101": "Head of Business Development (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4994606101": "Head of Goverment Relations - EU",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4955791101": "Junior Procurement Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995751101": "Lead After-Sales Commercial & Service Supply (m/f/d)",
@@ -1223,8 +1224,8 @@
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Internship-Reinforcement-Learning-Research-for-Autonomous-Driving-%28mfd%29-80807/1421289433/": "Internship - Reinforcement Learning Research for Autonomous Driving (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Development-of-Innovative-Driving-Dynamics-Functions-%28mfd%29-85053/1432232933/": "Internship - Development of Innovative Driving Dynamics Functions (m/f/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-lnternship-User-Experience-User-Interaction-Pre-Development-AI-enabled-Experiences-%28wmd%29-85053/1441749833/": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Data-Analytics-in-Controlling-%28fmd%29-85053/1441342533/": "Working Student - Data Analytics in Controlling (f/m/d)"
   },
   "NavVis": {
