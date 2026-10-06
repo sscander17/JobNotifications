@@ -433,7 +433,6 @@
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/484063": "Elektroniker Betriebstechnik (w/m/d) \u2013 Montage von Eisenbahnsignaltechnik im Nahverkehr"
   },
   "DLR": {
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmx%29-Machine-Learning/1383892733/": "Oberpfaffenhofen Working student (fmx) Machine Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-student-assistant-%28mfx%29-Learning-about-surface-treatment-strategies/1419789833/": "Oberpfaffenhofen student assistant (mfx) Learning about surface treatment strategies",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-am-DLR_School_Lab-Oberpfaffenhofen/1427733933/": "Oberpfaffenhofen studentische Aushilfe (wmd) am DLR_School_Lab Oberpfaffenhofen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-Master-Thesis-Student-Multi-Path-Transport-Protocols-%28mfd%29/1443071033/": "Oberpfaffenhofen Internship Master Thesis Student Multi Path Transport Protocols (mfd)",
@@ -455,7 +454,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Unity-Developer-%28wmd%29/1429045433/": "Oberpfaffenhofen Unity Developer (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29/1409170333/": "Oberpfaffenhofen studentische Aushilfe (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Forschungs-Software-Ingenieurin-%28wmd%29-Weiterentwicklung-von-Gewittervorhersagen/1425215233/": "Oberpfaffenhofen Forschungs Software Ingenieurin (wmd) Weiterentwicklung von Gewittervorhersagen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-Forschung-und-Entwicklung-von-Payload-Software-f%C3%BCr-Raumfahrtsysteme/1430754933/": "Oberpfaffenhofen Informatikerin (wmd) Forschung und Entwicklung von Payload Software f\u00fcr Raumfahrtsysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434296733/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)",
@@ -538,7 +536,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434336633/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-for-AI-based-system-dynamics-and-control-engineering/1435325333/": "Oberpfaffenhofen Engineer (fmx) for AI based system dynamics and control engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Betriebswirtin-oder-Betriebswirt-%28wmd%29-Projektmanagement/1385778433/": "Oberpfaffenhofen Betriebswirtin oder Betriebswirt (wmd) Projektmanagement",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Missionskontroll-und-Datensysteme/1428222133/": "Oberpfaffenhofen Gruppenleitung (wmd) Missionskontroll und Datensysteme"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Missionskontroll-und-Datensysteme/1428222133/": "Oberpfaffenhofen Gruppenleitung (wmd) Missionskontroll und Datensysteme",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmx%29-Machine-Learning/1383892733/": "Oberpfaffenhofen Working student (fmx) Machine Learning",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-Machine-Learning/1383892833/": "Oberpfaffenhofen Studentische Aushilfe (wmd) Machine Learning"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -614,9 +614,9 @@
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/EMC-Engineer--f-m-d-_R-10061511": "EMC Engineer (f/m/d)"
   },
   "Texas Instruments": {
+    "https://careers.ti.com/en/sites/CX/job/25018470/": "Analog Design Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018407/": "Metrology Equipment Technician / Techniker Messtechnik m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25018470/": "Analog Design Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25008344/": "Test Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25011604/": "Equipment Manager m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25012458/": "Product Engineer (m/f/d)",
@@ -1241,8 +1241,8 @@
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Internship-Thesis-AI-Based-Semantic-Mapping-for-Autonomous-Driving-%28wmd%29-71297/1422904833/": "Internship / Thesis - AI-Based Semantic Mapping for Autonomous Driving (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Internship-Reinforcement-Learning-Research-for-Autonomous-Driving-%28mfd%29-80807/1421289433/": "Internship - Reinforcement Learning Research for Autonomous Driving (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Development-of-Innovative-Driving-Dynamics-Functions-%28mfd%29-85053/1432232933/": "Internship - Development of Innovative Driving Dynamics Functions (m/f/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Internship-Reinforcement-Learning-Research-for-Autonomous-Driving-%28mfd%29-80807/1421289433/": "Internship - Reinforcement Learning Research for Autonomous Driving (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-lnternship-User-Experience-User-Interaction-Pre-Development-AI-enabled-Experiences-%28wmd%29-85053/1441749833/": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Data-Analytics-in-Controlling-%28fmd%29-85053/1441342533/": "Working Student - Data Analytics in Controlling (f/m/d)"
