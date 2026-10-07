@@ -63,7 +63,6 @@
     "https://helsing.ai/jobs/4947377101?gh_jid=4947377101": "Product Manager, Autonomous Systems Command & Control",
     "https://helsing.ai/jobs/4869481101?gh_jid=4869481101": "Product Manager \u2014 Electronic Warfare (Offboard & Cross-Platform)",
     "https://helsing.ai/jobs/4944089101?gh_jid=4944089101": "Programme Manager - Land",
-    "https://helsing.ai/jobs/4872445101?gh_jid=4872445101": "Quality Assurance Engineer - Development ",
     "https://helsing.ai/jobs/4862586101?gh_jid=4862586101": "Quality Inspector - Production Quality",
     "https://helsing.ai/jobs/4954531101?gh_jid=4954531101": "Regional Sales Lead, DACH - Land ",
     "https://helsing.ai/jobs/4948063101?gh_jid=4948063101": "Safety Manager (System Safety) ",
@@ -84,8 +83,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -112,7 +111,6 @@
     "https://helsing.ai/jobs/4813822101?gh_jid=4813822101": "Systems Engineer V&V - Air",
     "https://helsing.ai/jobs/4995343101?gh_jid=4995343101": "Systems Engineer - Weapon Integration",
     "https://helsing.ai/jobs/4876451101?gh_jid=4876451101": "Systems Technical Writer",
-    "https://helsing.ai/jobs/4957296101?gh_jid=4957296101": "Talent Operations Coordinator - 12-month FTC",
     "https://helsing.ai/jobs/4977427101?gh_jid=4977427101": "Team Assistant",
     "https://helsing.ai/jobs/4888975101?gh_jid=4888975101": "Technical Lead Engineer, UAV Development",
     "https://helsing.ai/jobs/4948293101?gh_jid=4948293101": "Technical Logistical Support (TLB) Manager",
@@ -550,6 +548,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship-in-Flight-Control-Systems--d-f-m-_JR10446037-1": "Internship in Flight Control Systems (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Optical-Architect--d-f-m--for-Optical-Instruments_JR10430570-1": "Optical Architect (d/f/m) for Optical Instruments",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/AI-Use-Case-Portfolio-Manager_JR10434462-1": "AI Use Case Portfolio Manager",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-student-on-5G-and-LEO-satellite-communication-signals--d-f-m-_JR10445545": "Working student on 5G and LEO satellite communication signals (d/f/m)",
@@ -588,8 +587,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-als-Mechatroniker--d-m-w--zum-01092027_JR10416553-1": "Ausbildung als Mechatroniker (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/IT-Experte-Backup---Storage--d-f-m-_JR10420467": "IT-Experte Backup & Storage (d/f/m)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-als-Mechatroniker--d-m-w--zum-01092027_JR10416553-1": "Ausbildung als Mechatroniker (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sophia-Antipolis-Valbonne/Automotive-E-E-System-and-Software-architect_R-10066826": "Automotive E/E System and Software architect",
@@ -806,7 +804,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195696.html": "Praktikant Markenkommunikation und Customer Journey Management (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194712.html": "Praktikant Forschung und Entwicklung Gesamtfahrzeug (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193940.html": "Praktikant Architecture as Code (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193123.html": "Intern Software Engineering with Artificial Intelligence (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192027.html": "Praktikant Versuch und Absicherung Hochvoltspeicher (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.188610.html": "Praktikant Produktmanagement M Automobile (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.186649.html": "Werkstudent Technologieentwicklung Batteriezelle und Data Analytics (w/m/x)",
@@ -846,13 +843,11 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190220.html": "Praktikant Achstr\u00e4ger und Strukturkomponenten (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.186864.html": "Praktikant Risikomanagement Einkauf- und Lieferantennetzwerk (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195157.html": "Praktikant Prozessoptimierung Produktion Sitze (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195146.html": "Werkstudent Indirekte Steuern (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195145.html": "Praktikant Data &amp; AI Engineering E/E-Integration Antrieb (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194998.html": "Praktikant Entwicklung Integrale Sicherheit (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194779.html": "Praktikant Videoproduktion Service (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194716.html": "Praktikant Unternehmensstrategie und Business Development (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194628.html": "Praktikant Marketing BMW Motorrad Deutschland (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194536.html": "Werkstudent Digitalisierung im Karosseriebau (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194505.html": "Praktikant Batteriezellproduktion (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194496.html": "Praktikant BMW Motorrad Vertriebsstrategie und Transformation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194090.html": "Praktikant Simulationsmodell Batteriesicherheit (w/m/x)",
@@ -882,7 +877,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194992.html": "Praktikant KI und Automatisierung in der Fahrwerkentwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194365.html": "Praktikum im Bereich L\u00e4ndercontrolling",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192950.html": "Doktorand Multimodale KI Systeme zur Erkennung elektronischer Komponenten Cost Engineering (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.186871.html": "Praktikant Presse- und \u00d6ffentlichkeitsarbeit MINI (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194613.html": "Praktikant Softwareentwicklung Innovation/Digitalisierung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194436.html": "Praktikant/in Qualit\u00e4tsmanagement Einkauf und Lieferantennetzwerk (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194974.html": "Werkstudent Cloud Data Hub/Data &amp; AI Porta (w/m/x)",
@@ -1217,11 +1211,12 @@
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-InternThesis-Learning-based-Radar-Camera-Fusion-for-Simultaneous-Localization-and-Mapping-%28fmd%29-71297/1422905233/": "Intern/Thesis - Learning-based Radar-Camera Fusion for Simultaneous Localization and Mapping (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Internship-Reinforcement-Learning-Research-for-Autonomous-Driving-%28mfd%29-80807/1421289433/": "Internship - Reinforcement Learning Research for Autonomous Driving (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Development-of-Innovative-Driving-Dynamics-Functions-%28mfd%29-85053/1432232933/": "Internship - Development of Innovative Driving Dynamics Functions (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-lnternship-User-Experience-User-Interaction-Pre-Development-AI-enabled-Experiences-%28wmd%29-85053/1441749833/": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Data-Analytics-in-Controlling-%28fmd%29-85053/1441342533/": "Working Student - Data Analytics in Controlling (f/m/d)"
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Data-Analytics-in-Controlling-%28fmd%29-85053/1441342533/": "Working Student - Data Analytics in Controlling (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-%28Senior%29-Electronics-Hardware-Engineer-Group-ConMod-%28fmd%29-85053/1396507333/": "(Senior) Electronics Hardware Engineer - Group ConMod (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)"
   },
   "NavVis": {
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4790711101": "AI-Enabled Revenue Operations Specialist (F/M/D)",
