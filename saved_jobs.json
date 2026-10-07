@@ -623,7 +623,6 @@
     "https://careers.ti.com/en/sites/CX/job/25011604/": "Equipment Manager m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25012458/": "Product Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25012459/": "Product Engineer (m/f/d)",
-    "https://careers.ti.com/en/sites/CX/job/25018140/": "EMEA Accounts Payable Specialist (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25001591/": "Customer Support Representative (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25008000/": "Equipment Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25010376/": "Layout Engineering Intern m/f/d",
@@ -631,7 +630,8 @@
     "https://careers.ti.com/en/sites/CX/job/25012515/": "Applications Engineering Intern / Student Worker - Evaluation/Test of analog IC's Power Management Devices m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017425/": "Equipment Engineering Technician Multiprobe m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017697/": "Techniker (m/w/d) im Outgoing Quality Team (FFAB)",
-    "https://careers.ti.com/en/sites/CX/job/25017920/": "Software Applications Engineer"
+    "https://careers.ti.com/en/sites/CX/job/25017920/": "Software Applications Engineer",
+    "https://careers.ti.com/en/sites/CX/job/25018140/": "EMEA Accounts Payable Specialist (m/f/d)"
   },
   "Intel": {
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
@@ -669,6 +669,8 @@
   },
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197625.html": "Werkstudentent\u00e4tigkeit im Bereich Risikomanagement",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197595.html": "Werkstudentent\u00e4tigkeit im Bereich Vertrieb",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197215.html": "Praktikum im Bereich IT-Projektmanagement",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197473.html": "Werkstudentent\u00e4tigkeit im Bereich Rechnungswesen",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197379.html": "Praktikant Optimierung von Baukastenvarianten (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197288.html": "Praktikant Qualit\u00e4tssicherung Prototypenbau Hochvoltspeicher (w/m/x)",
@@ -679,7 +681,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196945.html": "Praktikant Logistikplanung Neue Klasse (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196833.html": "Praktikant Generative KI f\u00fcr Fahrzeugfunktionen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196760.html": "Praktikant Vernetzte Mobilit\u00e4t und Smart Home Integration (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196696.html": "Werkstudent Forschung / Entwicklung Fahrerassistenzsysteme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196293.html": "Intern Logistics Process Simulation (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196070.html": "Intern Computer Vision and Sensor Fusion (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195915.html": "Praktikant Internationale Consulting-Programme (w/m/x)",
@@ -772,7 +773,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195886.html": "Automobilverk\u00e4ufer MINI (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195799.html": "Thesis AI Assisted Fault Injection (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195514.html": "Thesis Causal ML for Prescriptive Decision Support in Automotive Goodwill (f/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194889.html": "Praktikum im Bereich Strategie",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192728.html": "Werkstudent Motorrad Datenanalysen und Cloudarchitektur (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.189221.html": "Intern Business Development Financial Services (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.187646.html": "Werkstudent Fahrzeug-Hochr\u00fcstung und Betreeung (w/m/x)",
@@ -904,7 +904,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193579.html": "Praktikant Handelsentwicklung Deutscher Markt (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192781.html": "Werkstudent Forschung Leistungselektronik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.167361.html": "Praktikant Corporate Communications BMW Automobile (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194334.html": "Praktikant Vorserienproduktion E-Antriebssysteme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194276.html": "Praktikant Cross-Industry Collaboration (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193944.html": "Praktikant Vertriebsaktivit\u00e4ten MINI (w/m/x",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192942.html": "Intern Strategic Sales Projects &amp; Business Development (f/m/x)",
@@ -1223,8 +1222,8 @@
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Internship-Reinforcement-Learning-Research-for-Autonomous-Driving-%28mfd%29-80807/1421289433/": "Internship - Reinforcement Learning Research for Autonomous Driving (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Development-of-Innovative-Driving-Dynamics-Functions-%28mfd%29-85053/1432232933/": "Internship - Development of Innovative Driving Dynamics Functions (m/f/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-lnternship-User-Experience-User-Interaction-Pre-Development-AI-enabled-Experiences-%28wmd%29-85053/1441749833/": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-lnternship-User-Experience-User-Interaction-Pre-Development-AI-enabled-Experiences-%28wmd%29-85053/1441749833/": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Data-Analytics-in-Controlling-%28fmd%29-85053/1441342533/": "Working Student - Data Analytics in Controlling (f/m/d)"
   },
   "NavVis": {
