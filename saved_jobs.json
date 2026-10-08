@@ -522,8 +522,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29/1440837833/": "Oberpfaffenhofen studentische Aushilfe (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-PhD-in-Physics-or-Chemistry-%28mfd%29-Laboratory-spectroscopy-of-atmospheric-trace-gases-for-climate/1444739833/": "Oberpfaffenhofen PhD in Physics or Chemistry (mfd) Laboratory spectroscopy of atmospheric trace gases for climate",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-%28fmx%29-Localizing-Trains-with-the-Future-Railway-Mobile-Communication-System/1440141233/": "Oberpfaffenhofen Master Thesis Student (fmx) Localizing Trains with the Future Railway Mobile Communication System",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-Ortung-von-Z%C3%BCgen-mit-dem-zuk%C3%BCnftigen-mobilen-Kommunikationssystem/1440141333/": "Oberpfaffenhofen Masterrandin (wmd) Ortung von Z\u00fcgen mit dem zuk\u00fcnftigen mobilen Kommunikationssystem",
@@ -545,7 +543,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-Lernen-von-Oberfl%C3%A4chenbearbeitungsstrategien/1419789733/": "Oberpfaffenhofen studentische Aushilfe (wmd) Lernen von Oberfl\u00e4chenbearbeitungsstrategien",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-student-assistant-%28mfx%29-Learning-about-surface-treatment-strategies/1419789833/": "Oberpfaffenhofen student assistant (mfx) Learning about surface treatment strategies"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-student-assistant-%28mfx%29-Learning-about-surface-treatment-strategies/1419789833/": "Oberpfaffenhofen student assistant (mfx) Learning about surface treatment strategies",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -934,7 +934,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.174348.html": "Praktikant Arbeitssicherheit &amp; Ergonomie (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.185622.html": "Praktikant im Bereich Motorrad Baureihe 1-, 2-Zylinder / Internationale Kooperation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.185543.html": "Praktikant Vertrieb und Marketing Gro\u00dfkunden (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.184268.html": "Werkstudent Interne Kommunikation Circular Economy (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.184636.html": "Praktikant KI-Agenten und Chatbot-Integration im Data Analytics Umfeld (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.183554.html": "Werkstudent Exterior UI Concepts (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.153540.html": "Intern LLM-enhanced in-vehicle personal assistants (f/m/x)",
@@ -1016,6 +1015,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-hr-global-mobility-all-genders/": "Werkstudent HR Global Mobility (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/sekretaerin-/-teamassistenz-all-genders/": "Sekret\u00e4rin / Teamassistenz (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-digitalisierung-prozessgestaltung-anlagenmanagement-all-genders/": "Werkstudent Digitalisierung & Prozessgestaltung Anlagenmanagement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-mechatronik-/-elektronik-automatisierungstechnik-22032027-25032027/": "Sch\u00fclerpraktikum Mechatronik / Elektronik Automatisierungstechnik 22.03.2027 - 25.03.2027",
