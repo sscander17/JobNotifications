@@ -82,8 +82,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -423,6 +423,7 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524971": "Werkstudent (w/m/d) Inbetriebsetzung, Automatisierung und Digitalisierung",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523584": "Systeminbetriebsetzer (w/m/d) in Geb\u00e4udetechnik f\u00fcr Mess-, Steuer- und Regelungstechnik",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/498458": "PLM Consultant / Teamcenter Archtitect / Polarion Consultant  / Presales Consultant (all genders) - DI Software Partner Talent Portal",
@@ -523,7 +524,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-PhD-in-Physics-or-Chemistry-%28mfd%29-Laboratory-spectroscopy-of-atmospheric-trace-gases-for-climate/1444739833/": "Oberpfaffenhofen PhD in Physics or Chemistry (mfd) Laboratory spectroscopy of atmospheric trace gases for climate",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-%28fmx%29-Localizing-Trains-with-the-Future-Railway-Mobile-Communication-System/1440141233/": "Oberpfaffenhofen Master Thesis Student (fmx) Localizing Trains with the Future Railway Mobile Communication System",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-Ortung-von-Z%C3%BCgen-mit-dem-zuk%C3%BCnftigen-mobilen-Kommunikationssystem/1440141333/": "Oberpfaffenhofen Masterrandin (wmd) Ortung von Z\u00fcgen mit dem zuk\u00fcnftigen mobilen Kommunikationssystem",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-Entwurf-und-Validierung-eines-Roboterwerkzeugs/1440604033/": "Oberpfaffenhofen studentische Aushilfe (wmd) Entwurf und Validierung eines Roboterwerkzeugs",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Senior-IT-Systems-Engineer-%28wmd%29-Bodensegment/1397660833/": "Oberpfaffenhofen Senior IT Systems Engineer (wmd) Bodensegment",
@@ -543,7 +543,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-Entwurf-und-Validierung-eines-Roboterwerkzeugs/1440604033/": "Oberpfaffenhofen studentische Aushilfe (wmd) Entwurf und Validierung eines Roboterwerkzeugs"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -1011,6 +1012,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-digitalisierung-prozessmanagement-sap-ai-all-genders/": "Praktikum Digitalisierung & Prozessmanagement SAP AI (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/cio-managementassistenz-all-genders/": "CIO Managementassistenz (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/instandhalter-mechanik-fokus-chemische-verfahrenstechnik-all-genders/": "Instandhalter Mechanik Fokus chemische Verfahrenstechnik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/organisationsentwickler-all-genders/": "Organisationsentwickler (all genders)",
@@ -1025,7 +1027,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/abschlussarbeit-machine-learning-all-genders/": "Abschlussarbeit Machine Learning (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-digitalisierung-und-m365-loesungen-all-genders/": "Werkstudent Digitalisierung und M365-L\u00f6sungen (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-technischer-standortbetrieb-all-genders/": "Werkstudent Technischer Standortbetrieb (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/leiter-konfiguration-lifecycle-digitale-maintenance-services-all-genders/": "Leiter Konfiguration Lifecycle & Digitale Maintenance Services (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/flugtriebwerkmechaniker-fuer-neubaumontage-/-instandhaltung-all-genders/": "Flugtriebwerkmechaniker f\u00fcr Neubaumontage / Instandhaltung (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-data-analysis-visualisation-all-genders/": "Werkstudent Data\u00a0Analysis &\u00a0Visualisation (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-bohren-schleifen-erodieren-all-genders/": "Zerspanungsfachkraft Bohren, Schleifen, Erodieren (all genders)",
