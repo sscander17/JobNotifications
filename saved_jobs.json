@@ -416,7 +416,6 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4714147101": "Chief of Staff (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789058101": "Flight Physics & Flight Controls Engineer (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4966334101": "Full Stack Engineer \u2013 Frontend Focus (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4967950101": "Head of Communications & Marketing (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4807744101": "Head of C-UAS Mission Management System (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4989897101": "Marketing & Communications Coordinator (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4699459101": "Project Manager (m/f/d)",
@@ -1016,6 +1015,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/sekretaerin-/-teamassistenz-all-genders/": "Sekret\u00e4rin / Teamassistenz (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-digitalisierung-prozessgestaltung-anlagenmanagement-all-genders/": "Werkstudent Digitalisierung & Prozessgestaltung Anlagenmanagement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-mechatronik-/-elektronik-automatisierungstechnik-22032027-25032027/": "Sch\u00fclerpraktikum Mechatronik / Elektronik Automatisierungstechnik 22.03.2027 - 25.03.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/oberflaechenbeschichter-als-verfahrensfachkraft-all-genders/": "Oberfl\u00e4chenbeschichter als Verfahrensfachkraft (all genders)",
@@ -1202,8 +1202,8 @@
     "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Development-of-Innovative-Driving-Dynamics-Functions-%28mfd%29-85053/1432232933/": "Internship - Development of Innovative Driving Dynamics Functions (m/f/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-lnternship-User-Experience-User-Interaction-Pre-Development-AI-enabled-Experiences-%28wmd%29-85053/1441749833/": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-lnternship-User-Experience-User-Interaction-Pre-Development-AI-enabled-Experiences-%28wmd%29-85053/1441749833/": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Data-Analytics-in-Controlling-%28fmd%29-85053/1441342533/": "Working Student - Data Analytics in Controlling (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-%28Senior%29-Electronics-Hardware-Engineer-Group-ConMod-%28fmd%29-85053/1396507333/": "(Senior) Electronics Hardware Engineer - Group ConMod (f/m/d)"
   },
