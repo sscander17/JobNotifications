@@ -82,8 +82,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -141,7 +141,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4973091101": "Security Manager - Physical Security (m/w/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995069101": " Senior Business Development Manager, Scandinavia (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4977372101": "Senior Cybersecurity Engineer (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4966372101": "Senior Data Engineer, Simulation & Cloud (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4858587101": "Senior Electrical Engineer  (m/f/d), Platform",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975323101": "Senior Embedded Software Test Engineer (m/f/d), Safety & Security Platform",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4768877101": "Senior Engineer, Robotics Software (m/f/d)",
@@ -1336,6 +1335,7 @@
     "https://jobs.nvidia.com/careers/job/893392140426-developer-relations-manager-artificial-intelligence-remote-uk?domain=nvidia.com": "Developer Relations Manager Artificial Intelligence Remote Uk"
   },
   "OHB System AG": {
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8807?c=career-ohb": "Werkstudent:in (m/w/d)- End User Services",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8829?c=career-ohb": "insert title of the position (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7356?c=career-ohb": "Fachkraft Materialwirtschaft / Lager (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8539?c=career-ohb": "Digital Electronics Design Engineer (f/m/d)",
