@@ -574,7 +574,6 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student-in-Marketing---Sales--d-f-m-_JR10439169": "Working Student in Marketing & Sales (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--im-Bereich-Employer-Branding_JR10426148": "Werkstudent (d/m/w) im Bereich Employer Branding",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Security-Administrator-in--d-w-m-_JR10444319": "IT Network Security Administrator/in (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Project-and-Bid-Manager--d-m-w-_JR10434860-1": "Project Manager / Bid Manager \u2013 Cyber Security (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/Digital-Product-Owner-for-Data-Regulatory-Compliance-Solutions-H-F_JR10417363": "Digital Product Owner for Data Regulatory Compliance Solutions H/F",
@@ -593,7 +592,8 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Security-Test-Engineer--d-f-m-_JR10370011": "Cyber Security Test Engineer (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SENIOR-CYBER-DEFENCE--MSS--ENGINEER--D-F-M-_JR10432401": "SENIOR CYBER DEFENCE (MSS) ENGINEER (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Satellite-Control-Center--SCC--Systems-Engineer-HW-SW--d-m-w_JR10423307": "Satellite Control Center (SCC) Systems Engineer HW/SW (d/m/w",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Fachinformatiker-Systemintegration--d-m-w--zum-01092027_JR10416533": "Ausbildung Fachinformatiker Systemintegration (d/m/w) zum 01.09.2027"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Fachinformatiker-Systemintegration--d-m-w--zum-01092027_JR10416533": "Ausbildung Fachinformatiker Systemintegration (d/m/w) zum 01.09.2027",
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Data-Science-und-Knstliche-Intelligenz--d-m-w--zum-01092027_JR10416527": "Duales Studium B.Sc. Data Science und K\u00fcnstliche Intelligenz (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Customer-Program-Manager--Europe--SDV---Vehicle-Compute-_R-10066996-1": "Customer Program Manager, Europe (SDV & Vehicle Compute)",
@@ -1364,7 +1364,8 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
-    "https://careers.arm.com/job/cambridge/staff-hardware-security-engineer/33099/95081028640": "Staff Hardware Security Engineer",
+    "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer",
+    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern",
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
   "STMicroelectronics": {},
