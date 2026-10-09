@@ -82,8 +82,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -246,7 +246,7 @@
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-4": "Electrical Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/electronics-design-engineer-interceptor-cuas-mfd": "Electronics Design Engineer Interceptor C\u2011UAS (m/f/d)",
     "https://career.quantum-systems.com/o/flight-test-field-systems-engineer-cuas-mfd": "Flight Test & Field Systems Engineer C\u2011UAS (m/f/d)",
-    "https://career.quantum-systems.com/o/mechanical-engineer-interceptor-cuas-mfd": "Mechanical Engineer Interceptor C\u2011UAS (m/f/d)",
+    "https://career.quantum-systems.com/o/mechanical-development-engineer-drone-technologies-mfd-7": "Mechanical Development Engineer - Drone Technologies (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-3": "Corporate Security Manager (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-quantum-frontline-industries": "Corporate Security Manager (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/executive-assistant-mfd-quantum-frontline-industries": "Executive Assistant (m/f/d) - Quantum Frontline Industries",
@@ -1017,6 +1017,8 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/logistiker-all-genders/": "Logistiker (all genders)",
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders/": "Qualit\u00e4tspr\u00fcfer (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-projektportfoliomanagement-all-genders/": "Werkstudent Projektportfoliomanagement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-digitalisierung-prozessmanagement-sap-ai-all-genders/": "Praktikum Digitalisierung & Prozessmanagement SAP AI (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/cio-managementassistenz-all-genders/": "CIO Managementassistenz (all genders)",
