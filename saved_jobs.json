@@ -1215,7 +1215,6 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4835158101": "IT Support Specialist (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4931997101": "Lead Machine Learning Engineer - Geometric Spatial AI (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4879815101": "Product Manager, SaaS (F/M/D)",
-    "https://job-boards.eu.greenhouse.io/navvis/jobs/4997683101": "Senior Brand Designer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4723895101": "Senior Cloud Software Engineer  (Python & AWS) (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4932274101": "Senior Full Stack Software Engineer - Angular/Typescript/Python + Robotics Backend (F/M/D) ",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4943654101": "Senior Linux Platform Engineer (F/M/D)",
@@ -1355,9 +1354,9 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
     "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer",
-    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern"
+    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern",
+    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
   "STMicroelectronics": {},
   "Munich Electrification": {
