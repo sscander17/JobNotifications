@@ -631,9 +631,9 @@
     "https://careers.ti.com/en/sites/CX/job/25018140/": "EMEA Accounts Payable Specialist (m/f/d)"
   },
   "Intel": {
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923": "Software Engineering Undergraduate Intern (f/m/d)",
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineering-Manager--f-m-d-_JR0287443": "Development Tools Software Engineering Manager (f/m/d)"
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineering-Manager--f-m-d-_JR0287443": "Development Tools Software Engineering Manager (f/m/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923": "Software Engineering Undergraduate Intern (f/m/d)"
   },
   "Analog Devices": {
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Engineering-Graduate--Field-Applications-_R266836": "FY27 Graduate Field Applications Engineer",
@@ -1004,6 +1004,8 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/ausbildung-industriemechaniker-all-genders-fuer-das-ausbildungsjahr-2027-2/": "Ausbildung Industriemechaniker (all genders) f\u00fcr das Ausbildungsjahr 2027",
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/masterarbeit-frequenzanalyseverfahrens-fuer-mehrfrequente-aeroelastische-cfd-simulationen/": "Masterarbeit: Frequenzanalyseverfahrens f\u00fcr mehrfrequente aeroelastische CFD-Simulationen",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-1/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/logistiker-all-genders/": "Logistiker (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders/": "Qualit\u00e4tspr\u00fcfer (all genders)",
@@ -1077,7 +1079,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/sap-solution-developer-all-genders/": "SAP Solution Developer (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/it-risiko-manager-all-genders/": "IT-Risiko Manager (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/cyber-security-analyst-all-genders/": "Cyber Security Analyst (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/bachelor-/masterarbeit-ki-wissensmanagement-fuer-nc-programme-bearbeitungsstrategien/": "Bachelor-/Masterarbeit - KI-Wissensmanagement f\u00fcr NC-Programme & Bearbeitungsstrategien",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-im-inhouse-consulting-all-genders/": "Praktikum im Inhouse Consulting (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-people-development-all-genders/": "Werkstudent People Development (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-elektronik-all-genders/": "Werkstudent Elektronik (all genders)",
@@ -1104,7 +1105,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-produktion-all-genders/": "Praktikum Produktion (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-it-projektmanagement-und-koordination-all-genders/": "Werkstudent IT-Projektmanagement und -koordination (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/archive-specialist-all-genders/": "Archive Specialist (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-fluggeraetmechanik-18052027-21052027/": "Sch\u00fclerpraktikum Flugger\u00e4tmechanik 18.05.2027 - 21.05.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-22032027-25032027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 22.03.2027 - 25.03.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-08022027-12022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 08.02.2027 - 12.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-01022027-05022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 01.02.2027 - 05.02.2027",
