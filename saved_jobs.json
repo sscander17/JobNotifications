@@ -146,7 +146,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4951244101": "Senior Strategic Supply Chain Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4828818101": "Senior Systems Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4880312101": "Senior Test Engineer (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4981422101": "Software Technical Support Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975246101": "Staff Embedded Software Engineer (m/f/d), Safety & Security Platform ",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875205101": "Staff Engineer, Robotics Perception (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875188101": "Staff Engineer, Sensor Fusion & Localization (m/f/d)",
@@ -962,7 +961,6 @@
     "https://jobs.renesas.com/job/account-manager-new-logo-in-munich-by-germany-jid-7175": "Account Manager - New Logo",
     "https://jobs.renesas.com/job/field-applications-engineer-w-m-d-in-munich-germany-jid-7171": "Field Applications Engineer (w/m/d)",
     "https://jobs.renesas.com/job/senior-staff-segment-strategy-industrial-and-building-applications-f-m-d-in-munich-germany-jid-7051": "Senior Staff Segment Strategy \u2013 Industrial and Building Applications (f/m/d)",
-    "https://jobs.renesas.com/job/senior-staff-business-development-engineer-motor-drive-solutions-f-m-d-in-munich-germany-jid-7016": "Senior Staff Business Development Engineer - Motor Drive Solutions (f/m/d)",
     "https://jobs.renesas.com/job/senior-staff-business-development-engineer-xev-solutions-f-m-d-in-munich-germany-jid-7017": "Senior  Staff Business Development Engineer xEV Solutions (f/m/d)",
     "https://jobs.renesas.com/job/partner-channel-manager-emea-in-munich-germany-jid-6991": "Partner Channel Manager (EMEA)",
     "https://jobs.renesas.com/job/impedance-sensor-application-engineer-f-m-d-in-munich-germany-jid-6938": "Impedance Sensor Application Engineer (f/m/d)",
@@ -1079,7 +1077,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-digitalisierung-im-einkauf-in-der-logistik-all-genders/": "Werkstudent Digitalisierung im Einkauf & in der Logistik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-projektmanagement-process-improvement-digitalization-all-genders/": "Werkstudent Projektmanagement Process Improvement & Digitalization (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/certifying-staff-/-qualitaetspruefer-all-genders/": "Certifying Staff / Qualit\u00e4tspr\u00fcfer (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/techniker-prototypenbau-all-genders-emosys-gmbh/": "Techniker Prototypenbau (all genders) - eMoSys GmbH",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/mechanical-engineer-electric-machines-all-genders-emosys-gmbh/": "Mechanical Engineer Electric Machines (all genders) - eMoSys GmbH",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/control-systems-engineer-/-electric-drives-all-genders-emosys-gmbh/": "Control Systems Engineer / Electric Drives (all genders) - eMoSys GmbH",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/systemingenieur-luftfahrtantriebe-all-genders-emosys-gmbh/": "Systemingenieur Luftfahrtantriebe (all genders) - eMoSys GmbH",
@@ -1331,9 +1328,9 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
+    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
     "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer",
-    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern",
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
+    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern"
   },
   "STMicroelectronics": {},
   "Munich Electrification": {
