@@ -240,6 +240,7 @@
     "https://career.quantum-systems.com/o/it-system-administrator-windows-mfd": "IT System Administrator Windows (m/f/d)",
     "https://career.quantum-systems.com/o/legal-counsel-mfd-3": "Legal Counsel (m/f/d)",
     "https://career.quantum-systems.com/o/legal-counsel-mfd-corporate-ma": "Legal Counsel (m/f/d) - Corporate / M&A",
+    "https://career.quantum-systems.com/o/graphic-media-designer-mfd-print-digital": "Graphic & Media Designer (m/f/d) \u2013 Print & Digital",
     "https://career.quantum-systems.com/o/product-marketing-manager-multi-domain-mfd": "Product Marketing Manager Multi-Domain (m/f/d)",
     "https://career.quantum-systems.com/o/social-creative-mfd-concepts-formats": "Social Creative (m/f/d) \u2013 Concepts & Formats",
     "https://career.quantum-systems.com/o/social-video-creator-mfd-shoot-edit": "Social Video Creator (m/f/d) \u2013 Shoot & Edit.",
@@ -267,6 +268,7 @@
     "https://career.quantum-systems.com/o/senior-embedded-software-engineer-reliant": "(Senior) Embedded Software Engineer - Reliant",
     "https://career.quantum-systems.com/o/senior-flight-control-system-engineer-mfd": "(Senior) Flight Control System Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/senior-frontend-engineer-cloud-solutions-mfd": "(Senior) Frontend Engineer \u2013 Cloud Solutions (m/f/d)",
+    "https://career.quantum-systems.com/o/senior-ml-platform-engineer-mfd": "(Senior) ML Platform Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/senior-software-engineer-developer-enablement-mfd": "(Senior) Software Engineer - Developer Enablement (m/f/d)",
     "https://career.quantum-systems.com/o/cloud-fleet-data-engineer-mfd": "Cloud & Fleet Data Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/development-engineer-production-automated-testing-fmd": "Development Engineer Production \u2013 Automated Testing (f/m/d)",
@@ -416,7 +418,6 @@
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/498458": "PLM Consultant / Teamcenter Archtitect / Polarion Consultant  / Presales Consultant (all genders) - DI Software Partner Talent Portal",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521712": "Head of Global Research & Development and Technology\u202f (f/m/d)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/504280": "Portfolio & Go-to-Market Manager (f/m/d) Energy Management",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516725": "R&D Engineering Manager \u2013 Industrial Data Fabric (m/f/d)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515794": "XPS Leadership Program 2026/2027",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509745": "Monteur (w/m/d) \u2013  Eisenbahnsignaltechnik im Nahverkehr - Raum M\u00fcnchen",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509742": "Junior Bauleiter (m/w/d) im Nahverkehr - Gro\u00dfraum M\u00fcnchen",
@@ -993,6 +994,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-people-development-all-genders/": "Werkstudent People Development (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-hr-operations-betreuung-von-studierenden-all-genders/": "Werkstudent HR Operations: Betreuung von Studierenden (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/ausbildung-industriemechaniker-all-genders-fuer-das-ausbildungsjahr-2027-2/": "Ausbildung Industriemechaniker (all genders) f\u00fcr das Ausbildungsjahr 2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/masterarbeit-frequenzanalyseverfahrens-fuer-mehrfrequente-aeroelastische-cfd-simulationen/": "Masterarbeit: Frequenzanalyseverfahrens f\u00fcr mehrfrequente aeroelastische CFD-Simulationen",
@@ -1069,7 +1071,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/it-risiko-manager-all-genders/": "IT-Risiko Manager (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/cyber-security-analyst-all-genders/": "Cyber Security Analyst (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-im-inhouse-consulting-all-genders/": "Praktikum im Inhouse Consulting (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-people-development-all-genders/": "Werkstudent People Development (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-elektronik-all-genders/": "Werkstudent Elektronik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer/certifying-staff-all-genders/": "Qualit\u00e4tspr\u00fcfer/Certifying Staff (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/verfahrensfachkraft-all-genders-3/": "Verfahrensfachkraft (all genders)",
@@ -1125,7 +1126,6 @@
     "https://www.mtu.de/careers/online-job-market/job-posting/working-student-digital-community-microsoft-365-communication-all-genders/": "Working Student Digital Community & Microsoft 365 Communication (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-manufacturing-engineering-produktionsplanung-/-automation-all-genders/": "Praktikum Manufacturing Engineering - Produktionsplanung / Automation (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/process-designer-record-to-report-finance-transformation-all-genders/": "Process Designer Record-to-Report - Finance Transformation (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/beteiligungscontroller-oem-all-genders/": "Beteiligungscontroller OEM (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/sap-security-specialist-all-genders/": "SAP Security Specialist (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/automation-specialist-all-genders/": "Automation Specialist (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/verfahrensfachkraft-all-genders/": "Verfahrensfachkraft (all genders)",
@@ -1300,6 +1300,9 @@
     "https://jobs.nvidia.com/careers/job/893398059860-senior-software-engineer-networking-remote-uk?domain=nvidia.com": "Senior Software Engineer Networking Remote Uk"
   },
   "OHB System AG": {
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8640?c=career-ohb": "Systems Engineer (m/f/d) - Navigation",
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7126?c=career-ohb": "Subsystem Ingenieur:in (m/w/d) Kommunikationstechnik",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8810?c=career-ohb": "Systems Engineer Quantum Technologies (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8807?c=career-ohb": "Werkstudent:in (m/w/d)- End User Services",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8829?c=career-ohb": "insert title of the position (m/f/d)",
@@ -1308,12 +1311,9 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8516?c=career-ohb": "Systems Engineering Manager Space System Studies (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8354?c=career-ohb": "Printed Circuit Board Layout Design Engineer (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8778?c=career-ohb": "Photonics / Systems Engineer (m/f/d) Quantum Technologies",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8773?c=career-ohb": "Senior Mechanisms, Mechatronics and Robotics Engineer (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8772?c=career-ohb": "Mechanisms, Mechatronics and Robotics Engineer (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8671?c=career-ohb": "QA Inspector (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8640?c=career-ohb": "Systems Engineer (m/f/d) - Navigation",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7126?c=career-ohb": "Subsystem Ingenieur:in (m/w/d) Kommunikationstechnik",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8382?c=career-ohb": "Software Architect / Product Owner Simulator (m/f/d) Defense & Space",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7900?c=career-ohb": "Systems Engineer Instruments (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8654?c=career-ohb": "IT System Specialist (m/w/d)",
@@ -1331,9 +1331,9 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
     "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer",
-    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern"
+    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern",
+    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
   "STMicroelectronics": {},
   "Munich Electrification": {
@@ -1346,7 +1346,6 @@
     "https://jobs.ashbyhq.com/munich-electrification/1f17fad1-7d8e-4355-9bc3-9aedd7e283c4": "IT Cloud Administrator (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/e536a980-8091-4c80-9f43-ea3eb9372c1b": "Manufacturing Technology Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/1ea0166b-fd1c-4638-9927-ed448388ea35": "NPI manager - Product Lifecycle Management (PLM) (f/m/d)",
-    "https://jobs.ashbyhq.com/munich-electrification/f000a76b-dcde-4909-a0d7-0eadf128aab2": "Office Management Minijob (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/5b6595f3-389f-401e-b308-c8f6ae49ddb6": "Principal Software Engineer (C/C++) (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/e94ef6e0-6c2d-4901-a931-32b772b1bc62": "Product Manager (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/e722087a-6129-4366-a638-d68814de2e3c": "Product Owner Hardware (Bauteilverantwortliche*r) - (f/m/d)",
