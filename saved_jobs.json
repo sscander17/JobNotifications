@@ -610,15 +610,15 @@
     "https://careers.ti.com/en/sites/CX/job/25012309/": "Analog Design Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25012568/": "Analog Design Eng Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25018470/": "Analog Design Engineering Intern m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25008344/": "Test Engineering Intern m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25011604/": "Equipment Manager m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018407/": "Metrology Equipment Technician / Techniker Messtechnik m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25018470/": "Analog Design Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25001591/": "Customer Support Representative (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25008000/": "Equipment Engineering Intern m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25008344/": "Test Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25010376/": "Layout Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25011262/": "Mechatroniker/Elektroniker in der Instandhaltung/Wartung m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25011604/": "Equipment Manager m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25012458/": "Product Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25012459/": "Product Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25012515/": "Applications Engineering Intern / Student Worker - Evaluation/Test of analog IC's Power Management Devices m/f/d",
@@ -1327,9 +1327,9 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
+    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
     "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer",
-    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern",
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
+    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern"
   },
   "STMicroelectronics": {},
   "Munich Electrification": {
