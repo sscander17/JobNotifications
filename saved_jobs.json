@@ -427,7 +427,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Mesh-Netzwerke-f%C3%BCr-Drohnenschw%C3%A4rme/1417037133/": "Oberpfaffenhofen Masterarbeit (wmd) Mesh Netzwerke f\u00fcr Drohnenschw\u00e4rme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-GNSS-Reflektometrie/1396080733/": "Oberpfaffenhofen Studentische Aushilfe (wmd) GNSS Reflektometrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Physikerin%2C-Chemikerin-o_%C3%A4_-%28wmd%29-f%C3%BCr-Laborspektroskopie-atmosph%C3%A4rischer-Spurengase/1441794433/": "Oberpfaffenhofen Physikerin, Chemikerin o_\u00e4_ (wmd) f\u00fcr Laborspektroskopie atmosph\u00e4rischer Spurengase",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Semantisch-orientierte-PHY-Techniken-f%C3%BCr-Kommunikation-in-Drohnenschw%C3%A4rmen/1419818233/": "Oberpfaffenhofen Masterarbeit (wmd) Semantisch orientierte PHY Techniken f\u00fcr Kommunikation in Drohnenschw\u00e4rmen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Semantic-aware-PHY-Layer-Techniques-for-Cooperative-Drone-Swarm-Communication-%28fmx%29/1419818333/": "Oberpfaffenhofen Master Thesis Semantic aware PHY Layer Techniques for Cooperative Drone Swarm Communication (fmx)",
@@ -522,7 +521,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-Student-%28fmx%29-Embedded-Software-Development-for-Swarm-Navigation-and-Communications/1423796833/": "Oberpfaffenhofen Working Student (fmx) Embedded Software Development for Swarm Navigation and Communications",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-Forschung-und-Entwicklung-von-Payload-Software-f%C3%BCr-Raumfahrtsysteme/1430754933/": "Oberpfaffenhofen Informatikerin (wmd) Forschung und Entwicklung von Payload Software f\u00fcr Raumfahrtsysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kommunikationsprotokolle-in-SDR-unterst%C3%BCtzt-durch-Flugplattformen/1431142233/": "Oberpfaffenhofen Ingenieurin (wmd) Kommunikationsprotokolle in SDR unterst\u00fctzt durch Flugplattformen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Betriebswirtin-oder-Betriebswirt-%28wmd%29-Projektmanagement/1385778433/": "Oberpfaffenhofen Betriebswirtin oder Betriebswirt (wmd) Projektmanagement"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Betriebswirtin-oder-Betriebswirt-%28wmd%29-Projektmanagement/1385778433/": "Oberpfaffenhofen Betriebswirtin oder Betriebswirt (wmd) Projektmanagement",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-GNSS-Reflektometrie/1396080733/": "Oberpfaffenhofen Studentische Aushilfe (wmd) GNSS Reflektometrie"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -1318,9 +1318,9 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
+    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
     "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer",
-    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern",
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
+    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern"
   },
   "STMicroelectronics": {},
   "Munich Electrification": {
