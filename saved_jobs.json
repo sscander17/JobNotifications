@@ -158,6 +158,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
+    "https://tytantechnologiesgmbh.recruitee.com/o/customer-success-manager-land-domain-mfd": "Customer Success Manager - Land Domain (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/controls-engineer-gis-ground-infrastructure-system": "Controls Engineer - GIS (Ground Infrastructure System)",
     "https://tytantechnologiesgmbh.recruitee.com/o/flight-simulation-software-engineer-mfd": "Flight Simulation Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/solutions-architect-working-student-mfd": "Solutions Architect Working Student (m/f/d)",
@@ -192,7 +193,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/internship-counterintelligence-support-mfd": "Internship - Counterintelligence Support (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/working-student-privacy-engineering-compliance-automation-fmd": "Working Student - Privacy Engineering & Compliance Automation (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-electronics-hardware-engineer-mfd": "Senior Electronics Hardware Engineer (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/controller-controlling-fpa-mfd": "Controller \u2013 Controlling & FP&A (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/technical-project-manager-mfd": "Technical Project Manager (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-avionics-engineer-fmd": "Senior Avionics Engineer (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/operations-trainee-fmd": "Operations Trainee (f/m/d)",
@@ -228,7 +228,7 @@
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-4": "Electrical Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/electronics-design-engineer-interceptor-cuas-mfd": "Electronics Design Engineer Interceptor C\u2011UAS (m/f/d)",
     "https://career.quantum-systems.com/o/flight-test-field-systems-engineer-cuas-mfd": "Flight Test & Field Systems Engineer C\u2011UAS (m/f/d)",
-    "https://career.quantum-systems.com/o/mechanical-development-engineer-drone-technologies-mfd-7": "Mechanical Development Engineer - Drone Technologies (m/f/d)",
+    "https://career.quantum-systems.com/o/industrialization-engineer-mfd-1": "Industrialization Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-3": "Corporate Security Manager (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-quantum-frontline-industries": "Corporate Security Manager (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/executive-assistant-mfd-quantum-frontline-industries": "Executive Assistant (m/f/d) - Quantum Frontline Industries",
@@ -245,6 +245,7 @@
     "https://career.quantum-systems.com/o/computer-vision-ai-engineer-interceptor-cuas-mfd-3": "Computer Vision & AI Engineer - Interceptor C\u2011UAS (m/f/d)",
     "https://career.quantum-systems.com/o/demi-chef-de-partie-mwd-1": "Demi Chef de Partie (m/w/d)",
     "https://career.quantum-systems.com/o/embedded-linux-release-engineer-mfd": "Embedded Linux & Release Engineer (m/f/d)",
+    "https://career.quantum-systems.com/o/senior-system-integration-engineer-mfd-1": "Senior System Integration Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/kreditorenbuchhaltung-mfd": "Accounts Payable Accountant (m/f/d)",
     "https://career.quantum-systems.com/o/chef-de-partie-mwd-1": "Chef de Partie (m/f/d)",
     "https://career.quantum-systems.com/o/financial-controller-mfd-quantum-frontline-industries": "Financial Controller (m/f/d) - Quantum Frontline Industries",
@@ -1308,9 +1309,9 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
+    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
     "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer",
-    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern",
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
+    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern"
   },
   "STMicroelectronics": {},
   "Munich Electrification": {
