@@ -131,7 +131,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4973091101": "Security Manager - Physical Security (m/w/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995069101": " Senior Business Development Manager, Scandinavia (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4977372101": "Senior Cybersecurity Engineer (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4858587101": "Senior Electrical Engineer  (m/f/d), Platform",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975323101": "Senior Embedded Software Test Engineer (m/f/d), Safety & Security Platform",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4768877101": "Senior Engineer, Robotics Software (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4940419101": "(Senior) Expansion Manager (m/f/d)",
@@ -627,6 +626,7 @@
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923": "Software Engineering Undergraduate Intern (f/m/d)"
   },
   "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R267209": "Staff Engineer, Field Applications",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-AI--ML-Robotics-Engineer---Environmental-Perception_R267084": "Principal AI/ ML Robotics Engineer - Environmental Perception",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Engineering-Graduate--Field-Applications-_R266836": "FY27 Graduate Field Applications Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Analog-Design-Engineering-Intern_R267032-1": "Analog Design Engineering Intern",
@@ -639,7 +639,6 @@
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Customer-System-Measurement-Engineer_R265672": "Principal ATE Customer System Measurement Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Customer-System-Measurement-Engineer_R265671": "Staff ATE Customer System Measurement Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R265841": "Staff Engineer, Field Applications",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R261161": "Staff Engineer, Field Applications",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Account-Manager--Field-Sales_R265618": "Principal Account Manager, Field Sales",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-AI-ML-Engineer--Robotics-_R265198": "Principal AI/ML Engineer (Robotics)",
@@ -1309,9 +1308,9 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
     "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer",
-    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern"
+    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern",
+    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
   "STMicroelectronics": {},
   "Munich Electrification": {
