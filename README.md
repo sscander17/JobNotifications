@@ -16,7 +16,7 @@ JobMonitor is an automated job tracking script that monitors career pages and Ap
 - `fetchers.py`: Includes specific scraping and API fetching logic for different ATS platforms (Workday, Greenhouse, etc.).
 - `ai_filter.py`: Evaluates job titles using keyword matching and the Google Gemini API to determine relevance.
 - `notifier.py`: Handles sending alerts via the Telegram Bot API.
-- `job_tracker.py`: Alternative entry point/legacy script.
+- `translator.py`: Translates job titles from German to English.
 - `saved_jobs.json`: The local state file storing previously discovered job listings.
 
 ## Prerequisites
