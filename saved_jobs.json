@@ -228,7 +228,7 @@
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-4": "Electrical Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/electronics-design-engineer-interceptor-cuas-mfd": "Electronics Design Engineer Interceptor C\u2011UAS (m/f/d)",
     "https://career.quantum-systems.com/o/flight-test-field-systems-engineer-cuas-mfd": "Flight Test & Field Systems Engineer C\u2011UAS (m/f/d)",
-    "https://career.quantum-systems.com/o/mechanical-development-engineer-drone-technologies-mfd-7": "Mechanical Development Engineer - Drone Technologies (m/f/d)",
+    "https://career.quantum-systems.com/o/mechanical-engineer-interceptor-cuas-mfd": "Mechanical Engineer Interceptor C\u2011UAS (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-3": "Corporate Security Manager (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-quantum-frontline-industries": "Corporate Security Manager (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/executive-assistant-mfd-quantum-frontline-industries": "Executive Assistant (m/f/d) - Quantum Frontline Industries",
@@ -984,6 +984,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-rohstoffkritikalitaet-und-kreislaufwirtschaft-all-genders/": "Werkstudent Rohstoffkritikalit\u00e4t und Kreislaufwirtschaft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-people-development-all-genders/": "Werkstudent People Development (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-hr-operations-betreuung-von-studierenden-all-genders/": "Werkstudent HR Operations: Betreuung von Studierenden (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/ausbildung-industriemechaniker-all-genders-fuer-das-ausbildungsjahr-2027-2/": "Ausbildung Industriemechaniker (all genders) f\u00fcr das Ausbildungsjahr 2027",
@@ -993,7 +994,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders/": "Qualit\u00e4tspr\u00fcfer (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-projektportfoliomanagement-all-genders/": "Werkstudent Projektportfoliomanagement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-digitalisierung-prozessmanagement-sap-ai-all-genders/": "Praktikum Digitalisierung & Prozessmanagement SAP AI (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/cio-managementassistenz-all-genders/": "CIO Managementassistenz (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/instandhalter-mechanik-fokus-chemische-verfahrenstechnik-all-genders/": "Instandhalter Mechanik Fokus chemische Verfahrenstechnik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/organisationsentwickler-all-genders/": "Organisationsentwickler (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-hr-global-mobility-all-genders/": "Werkstudent HR Global Mobility (all genders)",
@@ -1318,9 +1318,9 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
     "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer",
-    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern"
+    "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288": "Software Engineering Intern",
+    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
   "STMicroelectronics": {},
   "Munich Electrification": {
