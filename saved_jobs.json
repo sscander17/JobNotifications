@@ -127,6 +127,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4998863101": "People Analytics & AI Optimization Expert (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876122101": "Production Supervisor (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4952088101": "Production Technician Electronics (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5005798101": "Project Manager - Infrastructure & Expansion",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4951397101": "Quality Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875211101": "Robotics Software Architect (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4905678101": "Security Manager - Physical Security (m/f/d)",
@@ -136,6 +137,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975323101": "Senior Embedded Software Test Engineer (m/f/d), Safety & Security Platform",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4768877101": "Senior Engineer, Robotics Software (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4940419101": "(Senior) Expansion Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5005791101": "Senior Facility Manager (m,f,d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4768927101": "Senior Key Account Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4956235101": "Senior Procurement Manager - Indirect (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4970678101": "Senior Requirements Engineer (m/f/d)",
@@ -205,6 +207,15 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/manufacturing-production-technician-fmd": "Manufacturing & Production Technician (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-fmd": "Senior GNC Engineer (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-fmd": "Drone Technician (f/m/d)"
+  },
+  "Samsung": {
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--Talent-Management--Onsite-Munich-based-_R117907": "Working Student (f/m/d), Talent Management (Munich based)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--m-f-d----Accounting--Munich-based-_R120002": "Working Student (m/f/d) - Accounting (Munich based)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/HR-Business-Partner--m-f-d-_R119448-1": "HR Business Partner (m/f/d)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Legal---Compliance-Working-Student--Munich-based-_R118781": "Legal & Compliance Working Student (Munich based)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Engineer--Technical-Marketing_R118101": "Field Application Engineer \u2013 Smartcard (Munich OR Paris based)"
   },
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
@@ -523,6 +534,8 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Konfigurationsmanager--d-m-w-_JR10442844": "Konfigurationsmanager (d/m/w)",
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Configuration-and-Change-Management--d-m-w-_JR10442860-1": "Configuration and Change Management (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student--d-f-m---Composite-Manufacturing---AI-Driven-Data-Analytics--d-f-m-_JR10449441-1": "Working Student (d/f/m): Composite Manufacturing & AI-Driven Data Analytics",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
@@ -560,9 +573,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Supportability-Engineer--d-m-w-_JR10414448": "Supportability Engineer (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Detection-Engineering-Lead--d-f-m-_JR10428030": "Cyber Detection Engineering Lead (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Praktikant-Talent-Acquisition--d-m-w-_JR10433599": "Praktikant Talent Acquisition (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SAP-BI-Technology-Specialist-in-Germany---d-f-m-_JR10426822": "SAP BI Technology Specialist in Germany  (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bremen-Area/Contracts-Manager-Vertragsjurist--in-II--d-f-m-_JR10411487-1": "Contracts Manager/Vertragsjurist/-in II (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Security-Test-Engineer--d-f-m-_JR10370011": "Cyber Security Test Engineer (d/f/m)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SAP-BI-Technology-Specialist-in-Germany---d-f-m-_JR10426822": "SAP BI Technology Specialist in Germany  (d/f/m)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--AI-Automation-for-Safety-Engineering_R-10066700": "Intern (f/m/d) AI Automation for Safety Engineering",
