@@ -193,7 +193,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-flight-testing-mfd": "Unsolicited Application: Working Student - Flight Testing (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-software-engineering-mfd": "Unsolicited Application: Working Student - Software Engineering (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-project-analyst-business-performance-mfd": "Senior Project Analyst \u2013 Business Performance (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/internship-counterintelligence-support-mfd": "Internship - Counterintelligence Support (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/working-student-privacy-engineering-compliance-automation-fmd": "Working Student - Privacy Engineering & Compliance Automation (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-electronics-hardware-engineer-mfd": "Senior Electronics Hardware Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/technical-project-manager-mfd": "Technical Project Manager (m/f/d)",
@@ -207,15 +206,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/manufacturing-production-technician-fmd": "Manufacturing & Production Technician (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-fmd": "Senior GNC Engineer (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-fmd": "Drone Technician (f/m/d)"
-  },
-  "Samsung": {
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--Talent-Management--Onsite-Munich-based-_R117907": "Working Student (f/m/d), Talent Management (Munich based)",
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--m-f-d----Accounting--Munich-based-_R120002": "Working Student (m/f/d) - Accounting (Munich based)",
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory",
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/HR-Business-Partner--m-f-d-_R119448-1": "HR Business Partner (m/f/d)",
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Legal---Compliance-Working-Student--Munich-based-_R118781": "Legal & Compliance Working Student (Munich based)",
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Engineer--Technical-Marketing_R118101": "Field Application Engineer \u2013 Smartcard (Munich OR Paris based)"
   },
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
@@ -630,6 +620,7 @@
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923": "Software Engineering Undergraduate Intern (f/m/d)"
   },
   "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-AI-ML-Engineer--Robotics-_R265198": "Principal AI/ML Engineer (Robotics)",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R267209": "Staff Engineer, Field Applications",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-AI--ML-Robotics-Engineer---Environmental-Perception_R267084": "Principal AI/ ML Robotics Engineer - Environmental Perception",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Engineering-Graduate--Field-Applications-_R266836": "FY27 Graduate Field Applications Engineer",
@@ -644,7 +635,6 @@
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R265841": "Staff Engineer, Field Applications",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Account-Manager--Field-Sales_R265618": "Principal Account Manager, Field Sales",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-AI-ML-Engineer--Robotics-_R265198": "Principal AI/ML Engineer (Robotics)",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Digital-Design-Engineer_R264207": "Staff Digital Design Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Newbury/Staff-Mixed-Signal-Design-Engineer_R264622": "Staff Mixed-Signal Design Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-Algorithm-Development-Engineer---Battery-Insights_R262834": "Principal  AI/ ML Algorithm Development Engineer - Battery Insights"
