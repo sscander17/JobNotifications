@@ -25,6 +25,7 @@
     "https://helsing.ai/jobs/4963307101?gh_jid=4963307101": "Head of FP&A",
     "https://helsing.ai/jobs/4865788101?gh_jid=4865788101": "Helsing \u2013 Formula Student Programme ",
     "https://helsing.ai/jobs/4879386101?gh_jid=4879386101": "HPC Systems Administrator",
+    "https://helsing.ai/jobs/4861198101?gh_jid=4861198101": "Incoming Inspector - Production Quality",
     "https://helsing.ai/jobs/4976946101?gh_jid=4976946101": "Kreditorenbuchhalter (m/w/d)",
     "https://helsing.ai/jobs/4997901101?gh_jid=4997901101": "Lead IT Engineer",
     "https://helsing.ai/jobs/4934651101?gh_jid=4934651101": "Lead Legal Counsel Corporate Office",
@@ -39,6 +40,7 @@
     "https://helsing.ai/jobs/4888238101?gh_jid=4888238101": "Lead Systems Engineer - Passive RF Sensing",
     "https://helsing.ai/jobs/4988772101?gh_jid=4988772101": "Learning and Enablement Manager",
     "https://helsing.ai/jobs/4996521101?gh_jid=4996521101": "Legal Counsel IT & Privacy",
+    "https://helsing.ai/jobs/4996583101?gh_jid=4996583101": "Logistics Manager",
     "https://helsing.ai/jobs/4948287101?gh_jid=4948287101": "LSA Engineer ",
     "https://helsing.ai/jobs/4878160101?gh_jid=4878160101": "M&A Integration Manager",
     "https://helsing.ai/jobs/4876267101?gh_jid=4876267101": "Mechanical Designer",
@@ -56,8 +58,10 @@
     "https://helsing.ai/jobs/4947377101?gh_jid=4947377101": "Product Manager, Autonomous Systems Command & Control",
     "https://helsing.ai/jobs/4869481101?gh_jid=4869481101": "Product Manager \u2014 Electronic Warfare (Offboard & Cross-Platform)",
     "https://helsing.ai/jobs/4999686101?gh_jid=4999686101": "Product Manager \u2013 Perception & Sensor Fusion",
+    "https://helsing.ai/jobs/4862586101?gh_jid=4862586101": "Quality Inspector - Production Quality",
     "https://helsing.ai/jobs/4954531101?gh_jid=4954531101": "Regional Sales Lead, DACH - Land ",
     "https://helsing.ai/jobs/4948063101?gh_jid=4948063101": "Safety Manager (System Safety) ",
+    "https://helsing.ai/jobs/4823231101?gh_jid=4823231101": "Schichtleiter in der Produktion",
     "https://helsing.ai/jobs/4852743101?gh_jid=4852743101": "Security Guard ",
     "https://helsing.ai/jobs/4976906101?gh_jid=4976906101": "Senior Accountant Accounts Payable",
     "https://helsing.ai/jobs/4963868101?gh_jid=4963868101": "Senior Commercial Finance Business Partner ",
@@ -107,6 +111,8 @@
     "https://helsing.ai/jobs/4948293101?gh_jid=4948293101": "Technical Logistical Support (TLB) Manager",
     "https://helsing.ai/jobs/4980357101?gh_jid=4980357101": "Treasury Manager",
     "https://helsing.ai/jobs/4979778101?gh_jid=4979778101": "UAS Flight Operations Manager - Germany",
+    "https://helsing.ai/jobs/4964970101?gh_jid=4964970101": "Warehouse Clerk ",
+    "https://helsing.ai/jobs/4963213101?gh_jid=4963213101": "Warehouse Operator",
     "https://helsing.ai/jobs/4982899101?gh_jid=4982899101": "Workplace Planning Lead"
   },
   "ARX Robotics": {
@@ -956,6 +962,7 @@
     "https://stark.jobs.personio.com/job/2735706": "UAV Operations Engineer / Pilot \u2013 Data Operations (all genders)"
   },
   "Renesas Electronics": {
+    "https://jobs.renesas.com/job/application-engineering-intern-sensor-systems-in-munich-germany-jid-7266": "Application Engineering Intern, Sensor Systems",
     "https://jobs.renesas.com/job/account-manager-new-logo-in-munich-by-germany-jid-7175": "Account Manager - New Logo",
     "https://jobs.renesas.com/job/field-applications-engineer-w-m-d-in-munich-germany-jid-7171": "Field Applications Engineer (w/m/d)",
     "https://jobs.renesas.com/job/senior-staff-segment-strategy-industrial-and-building-applications-f-m-d-in-munich-germany-jid-7051": "Senior Staff Segment Strategy \u2013 Industrial and Building Applications (f/m/d)",
@@ -1074,7 +1081,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-digitalisierung-im-einkauf-in-der-logistik-all-genders/": "Werkstudent Digitalisierung im Einkauf & in der Logistik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-projektmanagement-process-improvement-digitalization-all-genders/": "Werkstudent Projektmanagement Process Improvement & Digitalization (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/certifying-staff-/-qualitaetspruefer-all-genders/": "Certifying Staff / Qualit\u00e4tspr\u00fcfer (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/mechanical-engineer-electric-machines-all-genders-emosys-gmbh/": "Mechanical Engineer Electric Machines (all genders) - eMoSys GmbH",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/control-systems-engineer-/-electric-drives-all-genders-emosys-gmbh/": "Control Systems Engineer / Electric Drives (all genders) - eMoSys GmbH",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/systems-engineer-for-electric-aviation-propulsion-all-genders-emosys-gmbh/": "Systems Engineer for Electric Aviation Propulsion (all genders) - eMoSys GmbH",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-softwareentwicklung-it/ot-integration-fuer-industrielle-automatisierung-all-genders/": "Werkstudent Softwareentwicklung & IT/OT-Integration f\u00fcr industrielle Automatisierung (all genders)",
@@ -1168,8 +1174,8 @@
   "Cariad": {
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Automotive-Software-Development-for-Parking-Functions-%28mfd%29-85053/1447900133/": "Working Student - Automotive Software Development for Parking Functions (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-lnternship-User-Experience-User-Interaction-Pre-Development-AI-enabled-Experiences-%28wmd%29-85053/1441749833/": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)"
   },
