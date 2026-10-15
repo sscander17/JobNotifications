@@ -43,6 +43,7 @@
     "https://helsing.ai/jobs/4878160101?gh_jid=4878160101": "M&A Integration Manager",
     "https://helsing.ai/jobs/4876267101?gh_jid=4876267101": "Mechanical Designer",
     "https://helsing.ai/jobs/4971997101?gh_jid=4971997101": "Mechanical Engineer",
+    "https://helsing.ai/jobs/4880174101?gh_jid=4880174101": "Mechanical Engineer, Kinematic Systems and Mechanisms",
     "https://helsing.ai/jobs/4986867101?gh_jid=4986867101": "Mitarbeiter/in im internen Werk-und Objektschutz",
     "https://helsing.ai/jobs/4938743101?gh_jid=4938743101": "Multimodal Sensing and Fusion Engineer ",
     "https://helsing.ai/jobs/4947489101?gh_jid=4947489101": "Multimodal Sensing Test Engineer ",
@@ -158,14 +159,14 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
-    "https://tytantechnologiesgmbh.recruitee.com/o/uav-sensors-systems-engineer-fmd": "UAV Sensors Systems Engineer (f/m/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-propulsion-actuation-thermal-mfd": "UAV Systems Engineer \u2013 Propulsion, Actuation & Thermal (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/uav-sensors-systems-engineer-mfd": "UAV Sensors Systems Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/hr-operations-process-specialist-mfd": "HR Operations & Process Specialist (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/customer-success-manager-land-domain-mfd": "Customer Success Manager - Land Domain (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/controls-engineer-gis-ground-infrastructure-system": "Controls Engineer - GIS (Ground Infrastructure System)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/flight-simulation-software-engineer-mfd": "Flight Simulation Software Engineer (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-propulsion-actuation-thermal-mfd": "UAV Systems Engineer \u2013 Propulsion, Actuation & Thermal (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/hr-business-partner-fmd": "HR Business Partner (f/m/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/controls-engineer-gis-ground-infrastructure-system-mfd": "Controls Engineer - GIS (Ground Infrastructure System) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/solutions-architect-working-student-mfd": "Solutions Architect Working Student (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/flight-simulation-software-engineer-mfd": "Flight Simulation Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-software-architect-mfd": "Senior Software Architect (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/office-manager-part-time-fmd": "Office Manager (Part-Time) - (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/full-stack-engineer-fmd": "Full-stack Engineer (f/m/d)",
@@ -175,7 +176,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/people-operations-specialist-mfd": "People Operations Specialist (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/office-management-support-aushilfe-mfd": "Office Management Support (Aushilfe) - (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/materials-planning-specialist-mfd-1": "Materials & Planning Specialist (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/battery-engineer-pack-design-cell-characterization": "Battery Engineer (Pack Design & Cell Characterization)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/battery-engineer-pack-design-cell-characterization-mfd": "Battery Engineer (Pack Design & Cell Characterization) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/aerodynamics-engineer-mfd": "Aerodynamics Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/embedded-software-engineer-mfd": "Embedded Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-embedded-linux-platform-mfd": "Senior Embedded Software Engineer \u2013 Embedded Linux Platform (m/f/d)",
@@ -193,19 +194,26 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-flight-testing-mfd": "Unsolicited Application: Working Student - Flight Testing (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-software-engineering-mfd": "Unsolicited Application: Working Student - Software Engineering (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-project-analyst-business-performance-mfd": "Senior Project Analyst \u2013 Business Performance (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/working-student-privacy-engineering-compliance-automation-fmd": "Working Student - Privacy Engineering & Compliance Automation (f/m/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/working-student-privacy-engineering-compliance-automation-mfd": "Working Student - Privacy Engineering & Compliance Automation (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-electronics-hardware-engineer-mfd": "Senior Electronics Hardware Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/technical-project-manager-mfd": "Technical Project Manager (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/senior-avionics-engineer-fmd": "Senior Avionics Engineer (f/m/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/senior-avionics-engineer-mfd": "Senior Avionics Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/operations-trainee-fmd": "Operations Trainee (f/m/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/senior-computer-vision-engineer-fmd": "Senior Computer Vision Engineer (f/m/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/senior-computer-vision-engineer-mfd": "Senior Computer Vision Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/join-our-talent-pool": "Join Our Talent Pool",
     "https://tytantechnologiesgmbh.recruitee.com/o/venture-development-intern-fmd": "Venture Development Intern (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/manufacturing-uavdrone-working-student-fmd": "Manufacturing (UAV/Drone) Working Student (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-procurement-specialist-fmd": "Senior Procurement Specialist (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/manufacturing-production-technician-fmd": "Manufacturing & Production Technician (f/m/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-fmd": "Senior GNC Engineer (f/m/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-mfd": "Senior GNC Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-fmd": "Drone Technician (f/m/d)"
+  },
+  "Samsung": {
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--Talent-Management--Onsite-Munich-based-_R117907": "Working Student (f/m/d), Talent Management (Munich based)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--m-f-d----Accounting--Munich-based-_R120002": "Working Student (m/f/d) - Accounting (Munich based)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/HR-Business-Partner--m-f-d-_R119448-1": "HR Business Partner (m/f/d)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Engineer--Technical-Marketing_R118101": "Field Application Engineer \u2013 Smartcard (Munich OR Paris based)"
   },
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
@@ -523,6 +531,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Kostenstellencontroller-fr-Engineering-FHN-OTN-BRE--d-m-w-_JR10445128-1": "Kostenstellencontroller f\u00fcr Engineering FHN/OTN/BRE (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Domain-Architect-for-Data---Analytics--D-F-M-_JR10443132-1": "Domain Architect for Data & Analytics (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Technical-Specialist--d-w-m--for-Identity-and-Access-Management_JR10447526": "Technical Specialist (d/w/m) for Identity and Access Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Data-Handling-System-Engineer--d-m-w-_JR10433693-1": "Data Handling System Engineer (d/m/w)",
@@ -561,8 +570,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Musterbauer-Brennstoffzelle--d-m-w-_JR10434408": "Musterbauer Brennstoffzelle (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student--d-f-m--Procurement-Air-Power-Commodity-IT---Ground-Systems_JR10438573": "Working Student (d/f/m) Procurement Air Power Commodity IT & Ground Systems",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Senior-ABAP-Developer--D-M-W-_JR10406791-1": "Senior ABAP Developer (D/M/W)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cybersecurity-Researcher--d-f-m-_JR10437656": "Cybersecurity Researcher (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Material-Data-Manager--Material-Support-Manager---d-w-m-_JR10414451": "Material Data Manager/ Material Support Manager  (d/w/m)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cybersecurity-Researcher--d-f-m-_JR10437656": "Cybersecurity Researcher (d/f/m)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sindelfingen/Key-Account-Manager-Automotive--f-m-d-_R-10067218-1": "Key Account Manager Automotive (f/m/d)",
