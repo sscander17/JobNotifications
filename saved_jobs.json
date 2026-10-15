@@ -3,7 +3,6 @@
     "https://helsing.ai/jobs/4927641101?gh_jid=4927641101": "Accountant",
     "https://helsing.ai/jobs/4974612101?gh_jid=4974612101": "Accountant - Part time",
     "https://helsing.ai/jobs/4334842101?gh_jid=4334842101": "AI Research Engineer -  Computer Vision",
-    "https://helsing.ai/jobs/4766708101?gh_jid=4766708101": "AI Research Engineer - Foundation Models",
     "https://helsing.ai/jobs/4953387101?gh_jid=4953387101": "AI Research Engineer - GPU Simulation",
     "https://helsing.ai/jobs/4372802101?gh_jid=4372802101": "AI Research Engineer - ML & Signal Processing",
     "https://helsing.ai/jobs/4676357101?gh_jid=4676357101": "AI Research Engineer - Reinforcement Learning",
@@ -165,6 +164,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/customer-success-manager-land-domain-mfd": "Customer Success Manager - Land Domain (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/controls-engineer-gis-ground-infrastructure-system": "Controls Engineer - GIS (Ground Infrastructure System)",
     "https://tytantechnologiesgmbh.recruitee.com/o/flight-simulation-software-engineer-mfd": "Flight Simulation Software Engineer (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/hr-business-partner-fmd": "HR Business Partner (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/solutions-architect-working-student-mfd": "Solutions Architect Working Student (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-software-architect-mfd": "Senior Software Architect (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/office-manager-part-time-fmd": "Office Manager (Part-Time) - (f/m/d)",
@@ -190,7 +190,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-strategic-procurement-engineer-mfd": "Senior Strategic Procurement Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/strategic-development-manager-fmd": "Strategic Development Manager (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/export-control-customs-compliance-lead-defense": "Export Control & Customs Compliance Lead - Defense",
-    "https://tytantechnologiesgmbh.recruitee.com/o/senior-learning-development-and-culture-manager-mfd": "Senior Learning, Development and Culture Manager (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-flight-testing-mfd": "Unsolicited Application: Working Student - Flight Testing (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-software-engineering-mfd": "Unsolicited Application: Working Student - Software Engineering (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-project-analyst-business-performance-mfd": "Senior Project Analyst \u2013 Business Performance (m/f/d)",
@@ -406,6 +405,18 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5004565101": "Technical Recruiter (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
+  "Siemens": {
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520031": "Unit Lead Cloud Unit",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523584": "Systeminbetriebsetzer (w/m/d) in Geb\u00e4udetechnik f\u00fcr Mess-, Steuer- und Regelungstechnik",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/498458": "PLM Consultant / Teamcenter Archtitect / Polarion Consultant  / Presales Consultant (all genders) - DI Software Partner Talent Portal",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521712": "Head of Global Research & Development and Technology\u202f (f/m/d)",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/504280": "Portfolio & Go-to-Market Manager (f/m/d) Energy Management",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515794": "XPS Leadership Program 2026/2027",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509745": "Monteur (w/m/d) \u2013  Eisenbahnsignaltechnik im Nahverkehr - Raum M\u00fcnchen",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509742": "Junior Bauleiter (m/w/d) im Nahverkehr - Gro\u00dfraum M\u00fcnchen",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/484063": "Elektroniker Betriebstechnik (w/m/d) \u2013 Montage von Eisenbahnsignaltechnik im Nahverkehr"
+  },
   "DLR": {
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Multimodale-Navigation/1412776633/": "Oberpfaffenhofen Gruppenleitung (wmd) Multimodale Navigation",
@@ -564,6 +575,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cyber-Detection-Engineering-Lead--d-f-m-_JR10428030": "Cyber Detection Engineering Lead (d/f/m)"
   },
   "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sindelfingen/Key-Account-Manager-Automotive--f-m-d-_R-10067218-1": "Key Account Manager Automotive (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--AI-Automation-for-Safety-Engineering_R-10066700": "Intern (f/m/d) AI Automation for Safety Engineering",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Customer-Program-Manager--Europe--SDV---Vehicle-Compute-_R-10066996-1": "Customer Program Manager, Europe (SDV & Vehicle Compute)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Toulouse/CoreRide-Program-Manager--f-m-d--_R-10066866": "CoreRide Program Manager (f/m/d)\u202f",
@@ -1091,7 +1103,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-26042027-30042027/": "Sch\u00fclerpraktikum Industriemechanik 26.04.2027 - 30.04.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-19042027-23042027/": "Sch\u00fclerpraktikum Industriemechanik 19.04.2027 - 23.04.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-30032027-02042027/": "Sch\u00fclerpraktikum Industriemechanik 30.03.2027 - 02.04.2027",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-22032027-25032027/": "Sch\u00fclerpraktikum Industriemechanik 22.03.2027 - 25.03.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-08032027-12032027/": "Sch\u00fclerpraktikum Industriemechanik 08.03.2027 - 12.03.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-manufacturing-engineering-nc-programmierung-all-genders/": "Praktikum Manufacturing Engineering NC-Programmierung (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/hr-it-architekt-all-genders/": "HR IT Architekt (all genders)",
@@ -1156,6 +1167,7 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/power-electronics-engineer-all-genders-emosys-gmbh/": "Power Electronics Engineer (all genders) - eMoSys GmbH"
   },
   "Cariad": {
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Automotive-Software-Development-for-Parking-Functions-%28mfd%29-85053/1447900133/": "Working Student - Automotive Software Development for Parking Functions (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
@@ -1177,7 +1189,6 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4949662101": "Senior Revenue Operations Manager (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4714167101": "Senior Security Engineer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4809045101": "Senior Software Engineer, 3D Perception (C++ and Python) (F/M/D)",
-    "https://job-boards.eu.greenhouse.io/navvis/jobs/4835172101": "Senior Software Engineer Android (Kotlin) (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4764555101": "Senior Software Quality Engineer - 3D Performance Computing (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4840884101": "Software Engineer SLAM (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4908211101": "Team Lead Assembly (F/M/D)",
