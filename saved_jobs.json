@@ -152,6 +152,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999879101": "Staff Safety Engineer (m/f/d) Safety Engineering",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876061101": "Staff Safety Engineer (m/f/d) Technical Solution",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4877536101": "Staff Software Engineer, Robotics Platform (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5006373101": "Staff V&V Engineer (m/f/d), E/E Development",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4936173101": "Technical Writer (Engineering) (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4967694101": "Tender Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5006078101": "Unsolicited Application - ARX Robotics",
@@ -404,18 +405,6 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4999743101": "Sensor Fusion Engineer \u2013 Multi-Sensor Integration (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5004565101": "Technical Recruiter (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
-  },
-  "Siemens": {
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520031": "Unit Lead Cloud Unit",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523584": "Systeminbetriebsetzer (w/m/d) in Geb\u00e4udetechnik f\u00fcr Mess-, Steuer- und Regelungstechnik",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/498458": "PLM Consultant / Teamcenter Archtitect / Polarion Consultant  / Presales Consultant (all genders) - DI Software Partner Talent Portal",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521712": "Head of Global Research & Development and Technology\u202f (f/m/d)",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/504280": "Portfolio & Go-to-Market Manager (f/m/d) Energy Management",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515794": "XPS Leadership Program 2026/2027",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509745": "Monteur (w/m/d) \u2013  Eisenbahnsignaltechnik im Nahverkehr - Raum M\u00fcnchen",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509742": "Junior Bauleiter (m/w/d) im Nahverkehr - Gro\u00dfraum M\u00fcnchen",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/484063": "Elektroniker Betriebstechnik (w/m/d) \u2013 Montage von Eisenbahnsignaltechnik im Nahverkehr"
   },
   "DLR": {
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
@@ -991,7 +980,6 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/disponent-all-genders/": "Disponent (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-rohstoffkritikalitaet-und-kreislaufwirtschaft-all-genders/": "Werkstudent Rohstoffkritikalit\u00e4t und Kreislaufwirtschaft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-people-development-all-genders/": "Werkstudent People Development (all genders)",
