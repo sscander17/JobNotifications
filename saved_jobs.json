@@ -533,6 +533,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--im-Bereich-Solar-Array-Operations_JR10450247": "Werkstudent (d/m/w) im Bereich Solar Array Operations",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student-for-Quality-Communications--d-f-m-_JR10449079": "Working Student for Quality Communications (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Kostenstellencontroller-fr-Engineering-FHN-OTN-BRE--d-m-w-_JR10445128-1": "Kostenstellencontroller f\u00fcr Engineering FHN/OTN/BRE (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Domain-Architect-for-Data---Analytics--D-F-M-_JR10443132-1": "Domain Architect for Data & Analytics (D/F/M)",
@@ -571,8 +572,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Musterbauer-Brennstoffzelle--d-m-w-_JR10434408": "Musterbauer Brennstoffzelle (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student--d-f-m--Procurement-Air-Power-Commodity-IT---Ground-Systems_JR10438573": "Working Student (d/f/m) Procurement Air Power Commodity IT & Ground Systems",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Senior-ABAP-Developer--D-M-W-_JR10406791-1": "Senior ABAP Developer (D/M/W)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cybersecurity-Researcher--d-f-m-_JR10437656": "Cybersecurity Researcher (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Material-Data-Manager--Material-Support-Manager---d-w-m-_JR10414451": "Material Data Manager/ Material Support Manager  (d/w/m)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cybersecurity-Researcher--d-f-m-_JR10437656": "Cybersecurity Researcher (d/f/m)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sindelfingen/Key-Account-Manager-Automotive--f-m-d-_R-10067218-1": "Key Account Manager Automotive (f/m/d)",
@@ -956,6 +956,7 @@
     "https://stark.jobs.personio.com/job/2735706": "UAV Operations Engineer / Pilot \u2013 Data Operations (all genders)"
   },
   "Renesas Electronics": {
+    "https://jobs.renesas.com/job/system-engineer-technical-product-manager-f-m-d-in-munich-by-germany-jid-7286": "System Engineer / Technical Product Manager (f/m/d)",
     "https://jobs.renesas.com/job/application-engineering-intern-sensor-systems-in-munich-germany-jid-7266": "Application Engineering Intern, Sensor Systems",
     "https://jobs.renesas.com/job/account-manager-new-logo-in-munich-by-germany-jid-7175": "Account Manager - New Logo",
     "https://jobs.renesas.com/job/field-applications-engineer-w-m-d-in-munich-germany-jid-7171": "Field Applications Engineer (w/m/d)",
@@ -1181,7 +1182,6 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4931997101": "Lead Machine Learning Engineer - Geometric Spatial AI (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/5007210101": "Lead Software Engineer - Computer Graphics for the Web (WebGL/WebGPU) (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4879815101": "Product Manager, SaaS (F/M/D)",
-    "https://job-boards.eu.greenhouse.io/navvis/jobs/4997683101": "Senior Brand and Motion Designer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4723895101": "Senior Cloud Software Engineer  (Python & AWS) (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4932274101": "Senior Full Stack Software Engineer - Angular/Typescript/Python + Robotics Backend (F/M/D) ",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4943654101": "Senior Linux Platform Engineer (F/M/D)",
@@ -1191,6 +1191,7 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4714167101": "Senior Security Engineer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4809045101": "Senior Software Engineer, 3D Perception (C++ and Python) (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4764555101": "Senior Software Quality Engineer - 3D Performance Computing (F/M/D)",
+    "https://job-boards.eu.greenhouse.io/navvis/jobs/4997683101": "Senior Visual and Motion Designer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4840884101": "Software Engineer SLAM (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4908211101": "Team Lead Assembly (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4917473101": "Team Lead, System Software/UI - Embedded Linux, ROS, C++ (F/M/D)",
