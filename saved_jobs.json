@@ -606,7 +606,6 @@
   "Texas Instruments": {
     "https://careers.ti.com/en/sites/CX/job/25012309/": "Analog Design Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25012568/": "Analog Design Eng Intern m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018470/": "Analog Design Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25001591/": "Customer Support Representative (m/f/d)",
@@ -618,6 +617,7 @@
     "https://careers.ti.com/en/sites/CX/job/25012458/": "Product Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25012459/": "Product Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25012515/": "Applications Engineering Intern / Student Worker - Evaluation/Test of analog IC's Power Management Devices m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017425/": "Equipment Engineering Technician Multiprobe m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25017697/": "Techniker (m/w/d) im Outgoing Quality Team (FFAB)",
     "https://careers.ti.com/en/sites/CX/job/25017920/": "Software Applications Engineer",
@@ -1169,8 +1169,8 @@
   "Cariad": {
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Automotive-Software-Development-for-Parking-Functions-%28mfd%29-85053/1447900133/": "Working Student - Automotive Software Development for Parking Functions (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-lnternship-User-Experience-User-Interaction-Pre-Development-AI-enabled-Experiences-%28wmd%29-85053/1441749833/": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)"
   },
