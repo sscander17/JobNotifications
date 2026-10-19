@@ -154,7 +154,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4966605101": "Staff Robotics Data Engineer, Validation & Metrics (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999879101": "Staff Safety Engineer (m/f/d) Safety Engineering",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876061101": "Staff Safety Engineer (m/f/d) Technical Solution",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4877536101": "Staff Software Engineer, Robotics Platform (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5006373101": "Staff V&V Engineer (m/f/d), E/E Development",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4936173101": "Technical Writer (Engineering) (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4967694101": "Tender Manager (m/f/d)",
@@ -185,7 +184,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/embedded-software-engineer-mfd": "Embedded Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-embedded-linux-platform-mfd": "Senior Embedded Software Engineer \u2013 Embedded Linux Platform (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-real-time-flight-software-mfd": "Senior Embedded Software Engineer \u2013 Real-Time Flight Software (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/hr-systems-analytics-intern-mfd": "HR Systems & Analytics Intern (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-hr-administration-specialist-compensation-payroll-mfd": "Senior HR Administration Specialist \u2013 Compensation & Payroll (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/field-solutions-engineer-mfd": "Field Solutions Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/governmental-public-affairs-internshipworking-student-mfd": "Governmental & Public Affairs Internship/Working Student -  (m/f/d)",
@@ -196,6 +194,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/strategic-development-manager-mfd": "Strategic Development Manager (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/export-control-customs-compliance-lead-defense-mfd": "Export Control & Customs Compliance Lead - Defense (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-flight-testing-mfd": "Unsolicited Application: Working Student - Flight Testing (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/working-student-hardware-engineering-fmd": "Working Student - Hardware Engineering (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-software-engineering-mfd": "Unsolicited Application: Working Student - Software Engineering (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-project-analyst-business-performance-mfd": "Senior Project Analyst \u2013 Business Performance (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/working-student-privacy-engineering-compliance-automation-mfd": "Working Student - Privacy Engineering & Compliance Automation (m/f/d)",
@@ -519,12 +518,12 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Betriebswirtin-oder-Betriebswirt-%28wmd%29-Projektmanagement/1385778433/": "Oberpfaffenhofen Betriebswirtin oder Betriebswirt (wmd) Projektmanagement",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Informatik-oder-Physik/1439294433/": "Oberpfaffenhofen Masterstudentin (wmd) in Informatik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Software-development-of-secure-IP-based-protocols-for-satellite-communications/1407538233/": "Oberpfaffenhofen Engineer (fmx) Software development of secure IP based protocols for satellite communications",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Software-Entw_-von-sicheren-IP-basierten-Protokollen-f%C3%BCr-Satellitenkomm_/1407538133/": "Oberpfaffenhofen Ingenieurin (wmd) Software Entw_ von sicheren IP basierten Protokollen f\u00fcr Satellitenkomm_",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Entwicklung-und-Analyse-eines-softwarebasierten-SpaceWire-zu-Ethernet-Moduls/1435468033/": "Oberpfaffenhofen Masterarbeit (wmd) Entwicklung und Analyse eines softwarebasierten SpaceWire zu Ethernet Moduls",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Development-and-analysis-of-a-software-based-SpaceWire-to-Ethernet-bridge/1435468133/": "Oberpfaffenhofen Master Thesis (fmx) Development and analysis of a software based SpaceWire to Ethernet bridge"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Development-and-analysis-of-a-software-based-SpaceWire-to-Ethernet-bridge/1435468133/": "Oberpfaffenhofen Master Thesis (fmx) Development and analysis of a software based SpaceWire to Ethernet bridge",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -534,6 +533,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent-Software-development--d-f-m-_JR10450258": "Werkstudent Software development (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship--d-f-m--within-AIT--Assembly-Integration-and-Test--for-optical-Instruments---Mechanical_JR10379016": "Internship within AIT (Assembly Integration and Test) for optical Instruments (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/AI---Analytics-DevOps-Engineer-Germany_JR10434313-1": "AI & Analytics DevOps Engineer Germany",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Security-Administrator-in--d-w-m-_JR10444319": "IT Network Security Administrator/in (d/f/m)",
@@ -572,8 +572,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student--d-f-m--Procurement-Air-Power-Commodity-IT---Ground-Systems_JR10438573": "Working Student (d/f/m) Procurement Air Power Commodity IT & Ground Systems",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Senior-ABAP-Developer--D-M-W-_JR10406791-1": "Senior ABAP Developer (D/M/W)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Cybersecurity-Researcher--d-f-m-_JR10437656": "Cybersecurity Researcher (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Material-Data-Manager--Material-Support-Manager---d-w-m-_JR10414451": "Material Data Manager/ Material Support Manager  (d/w/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Supportability-Engineer--d-m-w-_JR10414448": "Supportability Engineer (d/m/w)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Material-Data-Manager--Material-Support-Manager---d-w-m-_JR10414451": "Material Data Manager/ Material Support Manager  (d/w/m)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Functional-Safety-Architect-Hardware--f-m-d-_R-10067391-1": "Functional Safety Architect Hardware (f/m/d)",
