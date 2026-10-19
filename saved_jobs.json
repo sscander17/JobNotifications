@@ -159,7 +159,7 @@
   },
   "TYTAN Technologies": {
     "https://tytantechnologiesgmbh.recruitee.com/o/head-of-flight-testing-fmd": "Head of Flight Testing (f/m/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/uav-sensors-systems-engineer-mfd": "UAV Sensors Systems Engineer (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-sensors-mfd": "UAV Systems Engineer - Sensors (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-propulsion-actuation-thermal-mfd": "UAV Systems Engineer \u2013 Propulsion, Actuation & Thermal (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/hr-business-partner-mfd": "HR Business Partner (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/hr-operations-process-specialist-mfd": "HR Operations & Process Specialist (m/f/d)",
@@ -183,7 +183,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-real-time-flight-software-mfd": "Senior Embedded Software Engineer \u2013 Real-Time Flight Software (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-hr-administration-specialist-compensation-payroll-mfd": "Senior HR Administration Specialist \u2013 Compensation & Payroll (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/field-solutions-engineer-mfd": "Field Solutions Engineer (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/governmental-public-affairs-internshipworking-student-mfd": "Governmental & Public Affairs Internship/Working Student -  (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/qualified-electrician-elektrofachkraft-vefk-mfd": "Qualified Electrician - Elektrofachkraft (vEFK) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/elektronikermechatroniker-mfd": "Elektroniker/Mechatroniker (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/production-team-lead-mfd": "Production Team Lead (m/f/d)",
@@ -529,9 +528,9 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--d-m-w-_JR10436709": "IT-Server-Administrator f\u00fcr Unix/Linux-Infrastrukturen (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--d-m-w-_JR10436695": "IT-Server-Administrator f\u00fcr Unix/Linux-Infrastrukturen (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student-within-Airbus-Procurement-Processes-and-Governance-Management--d-m-w-_JR10450046": "Working Student within Airbus Procurement Processes and Governance Management (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Junior-System-Ingenieur-in-Satellitennavigation---Galileo-PRS-Anwendungen--d-f-m-_JR10435077-1": "Junior System-Ingenieur/in Satellitennavigation - Galileo PRS Anwendungen (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent-Software-development--d-f-m-_JR10450258": "Werkstudent Software development (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship--d-f-m--within-AIT--Assembly-Integration-and-Test--for-optical-Instruments---Mechanical_JR10379016": "Internship within AIT (Assembly Integration and Test) for optical Instruments (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/AI---Analytics-DevOps-Engineer-Germany_JR10434313-1": "AI & Analytics DevOps Engineer Germany",
@@ -618,6 +617,7 @@
     "https://careers.ti.com/en/sites/CX/job/25018140/": "EMEA Accounts Payable Specialist (m/f/d)"
   },
   "Intel": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205": "Development Tools Software Engineer Intern (m/f/d)",
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
@@ -991,6 +991,8 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/verfahrensfachkraft-all-genders-5/": "Verfahrensfachkraft (all genders)",
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/verfahrensfachkraft-thermisches-spritzen-all-genders/": "Verfahrensfachkraft - Thermisches Spritzen (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/ausbildung-fachinformatiker-systemintegration-all-genders-fuer-das-ausbildungsjahr-2027/": "Ausbildung Fachinformatiker Systemintegration (all genders) f\u00fcr das Ausbildungsjahr 2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/labortechniker-/-werkstoffpruefer-all-genders/": "Labortechniker / Werkstoffpr\u00fcfer (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-militaerische-bauteile-all-genders/": "Qualit\u00e4tspr\u00fcfer milit\u00e4rische Bauteile (all genders)",
