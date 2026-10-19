@@ -515,7 +515,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-project-and-final-thesis-%28mfd%29-Design-and-testing-of-coupled-kinematic-systems/1421326533/": "Oberpfaffenhofen Student project and final thesis (mfd) Design and testing of coupled kinematic systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Personalreferentin-%28wmd%29/1417290133/": "Oberpfaffenhofen Personalreferentin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-STRATOS-Ingenieurin-%28wmd%29/1447279833/": "Oberpfaffenhofen STRATOS Ingenieurin (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Betriebswirtin-oder-Betriebswirt-%28wmd%29-Projektmanagement/1385778433/": "Oberpfaffenhofen Betriebswirtin oder Betriebswirt (wmd) Projektmanagement",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gesch%C3%A4ftsfeldentwicklerin-%28wmd%29/1428378633/": "Oberpfaffenhofen Gesch\u00e4ftsfeldentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Produktsicherungsmanagerin-%28wmd%29-nach-ECSS-f%C3%BCr-%28Gro%C3%9F-%29Projekte-und-admin_-Projektmanagement/1437986433/": "Oberpfaffenhofen Produktsicherungsmanagerin (wmd) nach ECSS f\u00fcr (Gro\u00df )Projekte und admin_ Projektmanagement",
@@ -525,7 +524,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-PhD-in-Physics-or-Chemistry-%28mfd%29-Laboratory-spectroscopy-of-atmospheric-trace-gases-for-climate/1444739833/": "Oberpfaffenhofen PhD in Physics or Chemistry (mfd) Laboratory spectroscopy of atmospheric trace gases for climate",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29/1437898533/": "Oberpfaffenhofen Softwareentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Research-Software-Engineer-%28mfd%29-Further-development-of-thunderstorm-forecasts/1425215333/": "Oberpfaffenhofen Research Software Engineer (mfd) Further development of thunderstorm forecasts",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Senior-IT-Systems-Engineer-%28wmd%29-Bodensegment/1397660833/": "Oberpfaffenhofen Senior IT Systems Engineer (wmd) Bodensegment"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Senior-IT-Systems-Engineer-%28wmd%29-Bodensegment/1397660833/": "Oberpfaffenhofen Senior IT Systems Engineer (wmd) Bodensegment",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Betriebswirtin-oder-Betriebswirt-%28wmd%29-Projektmanagement/1385778433/": "Oberpfaffenhofen Betriebswirtin oder Betriebswirt (wmd) Projektmanagement"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Account Executive/Sales (m/f/d)",
@@ -1178,6 +1178,7 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4904613101": "Calibration Engineer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4917909101": "Electrical Engineer - 1 year Internship (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4971995101": "Electrical Engineer (F/M/D) \u2013 Maternity/Parental leave cover ~1 year",
+    "https://job-boards.eu.greenhouse.io/navvis/jobs/5003319101": "IFRS Group Reporting & Consolidation Specialist (F/M/D) ",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4931997101": "Lead Machine Learning Engineer - Geometric Spatial AI (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/5007210101": "Lead Software Engineer - Computer Graphics for the Web (WebGL/WebGPU) (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4879815101": "Product Manager, SaaS (F/M/D)",
