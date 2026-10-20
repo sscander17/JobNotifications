@@ -21,6 +21,7 @@
     "https://helsing.ai/jobs/4835300101?gh_jid=4835300101": "Front Office Coordinator / Guest Service Agent",
     "https://helsing.ai/jobs/4998730101?gh_jid=4998730101": "Front Office Coordinator / Guest Service Agent (m/w/d)",
     "https://helsing.ai/jobs/4972083101?gh_jid=4972083101": "Guidance, Navigation, & Control Engineer ",
+    "https://helsing.ai/jobs/5001623101?gh_jid=5001623101": "Head of Flight Test Management / Senior Flight Test M\u200banager ",
     "https://helsing.ai/jobs/4963307101?gh_jid=4963307101": "Head of FP&A",
     "https://helsing.ai/jobs/4865788101?gh_jid=4865788101": "Helsing \u2013 Formula Student Programme ",
     "https://helsing.ai/jobs/4879386101?gh_jid=4879386101": "HPC Systems Administrator",
@@ -37,7 +38,6 @@
     "https://helsing.ai/jobs/4908213101?gh_jid=4908213101": "Lead Systems Engineer - Maritime",
     "https://helsing.ai/jobs/4924405101?gh_jid=4924405101": "Lead Systems Engineer \u2013 Military Communications",
     "https://helsing.ai/jobs/4888238101?gh_jid=4888238101": "Lead Systems Engineer - Passive RF Sensing",
-    "https://helsing.ai/jobs/4988772101?gh_jid=4988772101": "Learning and Enablement Manager",
     "https://helsing.ai/jobs/4996521101?gh_jid=4996521101": "Legal Counsel IT & Privacy",
     "https://helsing.ai/jobs/4996583101?gh_jid=4996583101": "Logistics Manager",
     "https://helsing.ai/jobs/4948287101?gh_jid=4948287101": "LSA Engineer ",
@@ -160,6 +160,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
+    "https://tytantechnologiesgmbh.recruitee.com/o/marketing-design-intern-mfd": "Marketing Design Intern -  (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/head-of-flight-testing-fmd": "Head of Flight Testing (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-sensors-mfd": "UAV Systems Engineer - Sensors (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-propulsion-actuation-mfd": "UAV Systems Engineer - Propulsion & Actuation (m/f/d)",
@@ -202,7 +203,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-computer-vision-engineer-mfd": "Senior Computer Vision Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/join-our-talent-pool": "Join Our Talent Pool",
     "https://tytantechnologiesgmbh.recruitee.com/o/venture-development-intern-mfd": "Venture Development Intern (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/manufacturing-uavdrone-working-student-mfd": "Manufacturing (UAV/Drone) Working Student (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-procurement-specialist-mfd": "Senior Procurement Specialist (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/manufacturing-production-technician-mfd": "Manufacturing & Production Technician (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-mfd": "Senior GNC Engineer (m/f/d)",
@@ -511,7 +511,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29/1440837833/": "Oberpfaffenhofen studentische Aushilfe (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gesch%C3%A4ftsfeldentwicklerin-%28wmd%29/1428378633/": "Oberpfaffenhofen Gesch\u00e4ftsfeldentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Physikerin-%28wmd%29-Durchf%C3%BChrung-und-Interpretation-von-Aerosol-und-Wolkenmessdaten/1443579833/": "Oberpfaffenhofen Physikerin (wmd) Durchf\u00fchrung und Interpretation von Aerosol und Wolkenmessdaten",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-Student-%28fmx%29-LiDAR-Sensors-Integration-on-a-Drone-Swarm/1402901333/": "Oberpfaffenhofen Working Student (fmx) LiDAR Sensors Integration on a Drone Swarm",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Neuro-symbolische-KI-f%C3%BCr-resiliente-On-Board-Entscheidungen/1435629933/": "Oberpfaffenhofen Masterarbeit (wmd) Neuro symbolische KI f\u00fcr resiliente On Board Entscheidungen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
@@ -530,6 +529,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship-in-divisional-strategy-AD_JR10449873": "Internship in divisional strategy AD",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/PHD-Thesis--Quantum-Sensing-for-Navigation--d-f-m-_JR10416564": "PHD Thesis: Quantum Sensing for Navigation (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Business-Security-Manager--w--m--d-_JR10438174-1": "Business Security Manager (w, m, d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Finance-and-Controlling-for-Facility-Management-and-Real-Estate--d-f-m-_JR10391539-1": "Finance and Controlling for Facility Management and Real Estate (d/f/m)",
@@ -568,8 +568,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/AI-Use-Case-Portfolio-Manager_JR10434462-1": "AI Use Case Portfolio Manager",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/IT-Network-Administrator--d-w-m-_JR10444320": "IT Network Administrator (d/w/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Senior-Business-Development-Manager---Space-Deutschland--m-w-d-_JR10426058": "Key Account Manager Schwerpunkt Geospatial Business Development  (m/w/d)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Functional-Safety-Architect-Hardware--f-m-d-_R-10067391-1": "Functional Safety Architect Hardware (f/m/d)",
@@ -599,6 +598,7 @@
   },
   "Texas Instruments": {
     "https://careers.ti.com/en/sites/CX/job/25011950/": "Digital Process Solutions Intern m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25019104/": "Techniker f\u00fcr den Bereich Hardware-Entwicklung m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25012309/": "Analog Design Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25012568/": "Analog Design Eng Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d",
@@ -987,6 +987,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/e2e-project-manager-/-process-designer-qms-all-genders/": "E2E Project Manager / Process Designer QMS (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/einkaeufer-indirektes-material-all-genders/": "Eink\u00e4ufer indirektes Material (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/verfahrensfachkraft-all-genders-5/": "Verfahrensfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/verfahrensfachkraft-thermisches-spritzen-all-genders/": "Verfahrensfachkraft - Thermisches Spritzen (all genders)",
@@ -1119,7 +1120,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/automation-specialist-all-genders/": "Automation Specialist (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/verfahrensfachkraft-all-genders/": "Verfahrensfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/deutsch-und/oder-englischsprachige-fachkraft/erzieherin-all-genders/": "Deutsch- und/oder englischsprachige Fachkraft/Erzieher:in (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-softwareentwicklung-/-scientific-computing-all-genders/": "Werkstudent Softwareentwicklung / Scientific Computing (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-supply-chain-management-all-genders/": "Werkstudent Supply Chain Management (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-triebwerksinstandsetzung-neubau-all-genders/": "Praktikum Triebwerksinstandsetzung & Neubau (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-werkstofftechnik-all-genders/": "Werkstudent Werkstofftechnik (all genders)",
@@ -1173,6 +1173,7 @@
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)"
   },
   "NavVis": {
+    "https://job-boards.eu.greenhouse.io/navvis/jobs/4987145101": "Business Intelligence Analyst (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4904613101": "Calibration Engineer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4917909101": "Electrical Engineer - 1 year Internship (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4971995101": "Electrical Engineer (F/M/D) \u2013 Maternity/Parental leave cover ~1 year",
