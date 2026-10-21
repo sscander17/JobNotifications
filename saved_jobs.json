@@ -292,7 +292,8 @@
     "https://career.quantum-systems.com/o/production-quality-specialist-mfd": "Production Quality Specialist  (m/f/d)",
     "https://career.quantum-systems.com/o/production-quality-technician-mfd": "Production Quality Technician (m/f/d)",
     "https://career.quantum-systems.com/o/quality-control-technician-mfd-4": "Quality Control Technician (m/f/d)",
-    "https://career.quantum-systems.com/o/senior-purchasing-manager-cuas-mfd": "Senior Purchasing Manager- cUAS  (m/f/d)"
+    "https://career.quantum-systems.com/o/senior-purchasing-manager-cuas-mfd": "Senior Purchasing Manager- cUAS  (m/f/d)",
+    "https://career.quantum-systems.com/o/senior-quality-control-supplier-quality-specialist-mfd-1": "Senior Quality Control & Supplier Quality Specialist (m/f/d)"
   },
   "Qualcomm": {
     "https://careers.qualcomm.com/careers/job/446719814300-senior-staff-engineer-technical-standards-%E2%80%93-wired-data-center-qualcomm-remote-germany-munich-remote-germany?domain=qualcomm.com": "Senior Staff Engineer Technical Standards \u2013 Wired Data Center Qualcomm Remote Germany Munich Remote Germany",
@@ -321,7 +322,6 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974490101": "Launcher Assembly Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976916101": "Launch Vehicle Intern (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4943578101": "Mechanical Design & Routing Engineer (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950964101": "Mechanical Ground Systems Engineer (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940784101": "NDT Inspector (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4857035101": "Recovery Operations Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974306101": "Senior Data & Backend Software Engineer (f/m/d)",
@@ -483,8 +483,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Multimodale-Navigation/1412776633/": "Oberpfaffenhofen Gruppenleitung (wmd) Multimodale Navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29/1440837833/": "Oberpfaffenhofen studentische Aushilfe (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmd%29-Post-Breakup-Collision-Risk-Assessment-for-LEO-Constellations/1445982233/": "Oberpfaffenhofen Working student (fmd) Post Breakup Collision Risk Assessment for LEO Constellations",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Aerospace%2C-Physics%2C-Mathematics%2C-mwd/1419516933/": "Oberpfaffenhofen Master Thesis Student in Aerospace, Physics, Mathematics, mwd",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-Luft-und-Raumfahrt%2C-Physik%2C-Mathematik/1419516833/": "Oberpfaffenhofen Masterstudentin (wmd) Luft und Raumfahrt, Physik, Mathematik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Computer-Scientist-%28fmx%29-specialized-in-AI-methods-for-software-quality-assurance-in-space-systems/1433340033/": "Oberpfaffenhofen Computer Scientist (fmx) specialized in AI methods for software quality assurance in space systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-Final-Year-Thesis-%28mfd%29-Design-and-Validation-of-a-Robotic-Finger/1418200633/": "Oberpfaffenhofen Undergraduate and Final Year Thesis (mfd) Design and Validation of a Robotic Finger",
@@ -510,7 +508,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Semantisch-orientierte-PHY-Techniken-f%C3%BCr-Kommunikation-in-Drohnenschw%C3%A4rmen/1419818233/": "Oberpfaffenhofen Masterarbeit (wmd) Semantisch orientierte PHY Techniken f\u00fcr Kommunikation in Drohnenschw\u00e4rmen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-STRATOS-Ingenieurin-%28wmd%29/1447279833/": "Oberpfaffenhofen STRATOS Ingenieurin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-Luft-und-Raumfahrt%2C-Physik%2C-Mathematik/1419516833/": "Oberpfaffenhofen Masterstudentin (wmd) Luft und Raumfahrt, Physik, Mathematik",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Aerospace%2C-Physics%2C-Mathematics%2C-mwd/1419516933/": "Oberpfaffenhofen Master Thesis Student in Aerospace, Physics, Mathematics, mwd"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -974,6 +974,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/flugtriebwerkmechaniker-all-genders/": "Flugtriebwerkmechaniker (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-fachrichtung-schleifen-all-genders/": "Zerspanungsfachkraft Fachrichtung Schleifen (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/projektmanager-projektportfolio-projektmanagement-methoden-all-genders/": "Projektmanager Projektportfolio- & Projektmanagement Methoden (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/e2e-project-manager-/-process-designer-qms-all-genders/": "E2E Project Manager / Process Designer QMS (all genders)",
