@@ -398,6 +398,7 @@
   },
   "Alpine Eagle": {
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4714147101": "Chief of Staff (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5012500101": "Computer Radar Software Engineer for Drone Systems (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789058101": "Flight Physics & Flight Controls Engineer (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4966334101": "Full Stack Engineer \u2013 Frontend Focus (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4807744101": "Head of C-UAS Mission Management System (m/f/d)",
@@ -479,7 +480,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Zonale-Kommunikationsarchitektur-f%C3%BCr-robotische-H%C3%A4nde/1423443633/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Zonale Kommunikationsarchitektur f\u00fcr robotische H\u00e4nde",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Missionskontroll-und-Datensysteme/1428222133/": "Oberpfaffenhofen Gruppenleitung (wmd) Missionskontroll und Datensysteme",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-Masterandin-%28wmd%29-Optische-Technik-Elektrotechnik-Luft-und-Raumfahrt/1428369533/": "Oberpfaffenhofen Praktikantin Masterandin (wmd) Optische Technik Elektrotechnik Luft und Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Multimodale-Navigation/1412776633/": "Oberpfaffenhofen Gruppenleitung (wmd) Multimodale Navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29/1440837833/": "Oberpfaffenhofen studentische Aushilfe (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmd%29-Post-Breakup-Collision-Risk-Assessment-for-LEO-Constellations/1445982233/": "Oberpfaffenhofen Working student (fmd) Post Breakup Collision Risk Assessment for LEO Constellations",
@@ -487,7 +487,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-Final-Year-Thesis-%28mfd%29-Design-and-Validation-of-a-Robotic-Finger/1418200633/": "Oberpfaffenhofen Undergraduate and Final Year Thesis (mfd) Design and Validation of a Robotic Finger",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-dissertation-project-%28mfd%29-Zonal-communication-architecture-for-robotic-hands/1423443733/": "Oberpfaffenhofen Undergraduate and dissertation project (mfd) Zonal communication architecture for robotic hands",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
@@ -510,7 +509,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-Luft-und-Raumfahrt%2C-Physik%2C-Mathematik/1419516833/": "Oberpfaffenhofen Masterstudentin (wmd) Luft und Raumfahrt, Physik, Mathematik",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Aerospace%2C-Physics%2C-Mathematics%2C-mwd/1419516933/": "Oberpfaffenhofen Master Thesis Student in Aerospace, Physics, Mathematics, mwd"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Aerospace%2C-Physics%2C-Mathematics%2C-mwd/1419516933/": "Oberpfaffenhofen Master Thesis Student in Aerospace, Physics, Mathematics, mwd",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Optische-Technik-Elektrotechnik-Luft-und-Raumfahrt/1428369533/": "Oberpfaffenhofen Masterandin (wmd) Optische Technik Elektrotechnik Luft und Raumfahrt",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -654,6 +656,10 @@
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198919.html": "Werkstudent Versuch Antriebsentwicklung BMW M (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198916.html": "Praktikant Antriebsentwicklung und Antriebsabsicherung (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198853.html": "Praktikant Konzerncontrolling (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198681.html": "Praktikant Produktstrategie Antrieb und Nachhaltigkeit (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197707.html": "Praktikant Business Intelligence und Datenanalyse (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192561.html": "Werkstudent Fuhrparkmanagement BMW M Brand Experience (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190822.html": "Praktikant Produktmanagement Vertriebsregion (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198802.html": "Praktikant Serien-Prozessoptimierung Montage (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198610.html": "Praktikant Schwei\u00dftechnologie Elektromobilit\u00e4t (w/m/x)",
@@ -991,7 +997,6 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/5003319101": "IFRS Group Reporting & Consolidation Specialist (F/M/D) ",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4931997101": "Lead Machine Learning Engineer - Geometric Spatial AI (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/5007210101": "Lead Software Engineer - Computer Graphics for the Web (WebGL/WebGPU) (F/M/D)",
-    "https://job-boards.eu.greenhouse.io/navvis/jobs/4879815101": "Product Manager, SaaS (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4723895101": "Senior Cloud Software Engineer  (Python & AWS) (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4932274101": "Senior Full Stack Software Engineer - Angular/Typescript/Python + Robotics Backend (F/M/D) ",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4943654101": "Senior Linux Platform Engineer (F/M/D)",
