@@ -522,6 +522,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Infrastructure-Operations-Specialist--m-w-d----HPE---VMware_JR10447220": "IT Infrastructure Operations Specialist (m/w/d) \u2013 HPE & VMware",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ground-Segment-Systems-Engineer--d-f-m-_JR10407783": "Ground Segment Systems Engineer (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Testia-GmbH---R-D-Engineer---Computer-Vision---Optical-Systems--m-f-d-_JR10452388": "Testia GmbH - R&D Engineer - Computer Vision & Optical Systems (m/f/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/PHD-Thesis--Quantum-Sensing-for-Navigation--d-f-m-_JR10416564": "PHD Thesis: Quantum Sensing for Navigation (d/f/m)",
@@ -560,8 +561,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/IT-Network-Administrator--d-w-m-_JR10444320": "IT Network Administrator (d/w/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Senior-Business-Development-Manager---Space-Deutschland--m-w-d-_JR10426058": "Key Account Manager Schwerpunkt Geospatial Business Development  (m/w/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SpS-Procurement--Performance-Controlling_JR10410597-1": "Procurement: Performance Controlling"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Functional-Safety-Architect-Hardware--f-m-d-_R-10067391-1": "Functional Safety Architect Hardware (f/m/d)",
@@ -1133,9 +1133,7 @@
   "ARM": {
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
-  "STMicroelectronics": {
-    "https://stmicroelectronics.eightfold.ai/careers/job/563637172749386": "Technical Sales"
-  },
+  "STMicroelectronics": {},
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356": "AI Platform Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/716b8f7a-dc69-41d9-acb2-1ccfd83a4fcd": "Design Quality Engineer (f/m/d)",
