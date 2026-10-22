@@ -53,6 +53,7 @@
     "https://helsing.ai/jobs/4841774101?gh_jid=4841774101": "People Business Partner - Munich",
     "https://helsing.ai/jobs/4974214101?gh_jid=4974214101": "Procurement Manager \u2013 Professional Services & Marketing",
     "https://helsing.ai/jobs/4862537101?gh_jid=4862537101": "Procurement Project Manager",
+    "https://helsing.ai/jobs/4642812101?gh_jid=4642812101": "Production Engineer - Mechatronic Systems",
     "https://helsing.ai/jobs/4788891101?gh_jid=4788891101": "Production Engineer - Software Integration",
     "https://helsing.ai/jobs/4947377101?gh_jid=4947377101": "Product Manager, Autonomous Systems Command & Control",
     "https://helsing.ai/jobs/4869481101?gh_jid=4869481101": "Product Manager \u2014 Electronic Warfare (Offboard & Cross-Platform)",
@@ -69,7 +70,6 @@
     "https://helsing.ai/jobs/4967013101?gh_jid=4967013101": "Senior Flight Test Engineer",
     "https://helsing.ai/jobs/5004097101?gh_jid=5004097101": "Senior Product Graphic Designer",
     "https://helsing.ai/jobs/4468911101?gh_jid=4468911101": "(Senior) Product Marketing Manager",
-    "https://helsing.ai/jobs/4913312101?gh_jid=4913312101": "(Senior) Programme Manager - Integrated Logistics Support",
     "https://helsing.ai/jobs/5001597101?gh_jid=5001597101": "Senior Programme Manager - International Business Development Air",
     "https://helsing.ai/jobs/4875025101?gh_jid=4875025101": "Senior Programme Manager - Maritime",
     "https://helsing.ai/jobs/4913364101?gh_jid=4913364101": "Senior Programme Manager - Militarisation",
@@ -210,7 +210,6 @@
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--Talent-Management--Onsite-Munich-based-_R117907": "Working Student (f/m/d), Talent Management (Munich based)",
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--m-f-d----Accounting--Munich-based-_R120002": "Working Student (m/f/d) - Accounting (Munich based)",
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory",
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/HR-Business-Partner--m-f-d-_R119448-1": "HR Business Partner (m/f/d)",
     "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Engineer--Technical-Marketing_R118101": "Field Application Engineer \u2013 Smartcard (Munich OR Paris based)"
   },
   "Quantum-Systems": {
@@ -461,21 +460,17 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Implementierung-eines-OKF-basierten-LLM-Chatbots-f%C3%BCr-die-Luft-und-Raumfahrt/1435462633/": "Oberpfaffenhofen Masterarbeit (wmd) Implementierung eines OKF basierten LLM Chatbots f\u00fcr die Luft und Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Implementation-of-an-OKF-based-LLM-chatbot-for-the-Aerospace-Industry/1435462733/": "Oberpfaffenhofen Master Thesis (fmx) Implementation of an OKF based LLM chatbot for the Aerospace Industry",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434296733/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434336533/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-Final-Year-Thesis-%28mfd%29-Design-and-Validation-of-a-Robotic-Finger/1418200633/": "Oberpfaffenhofen Undergraduate and Final Year Thesis (mfd) Design and Validation of a Robotic Finger",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-project-and-final-thesis-%28mfd%29-Design-and-testing-of-coupled-kinematic-systems/1421326533/": "Oberpfaffenhofen Student project and final thesis (mfd) Design and testing of coupled kinematic systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Senior-IT-Systems-Engineer-%28wmd%29-Bodensegment/1397660833/": "Oberpfaffenhofen Senior IT Systems Engineer (wmd) Bodensegment",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Personalreferentin-%28wmd%29/1417290133/": "Oberpfaffenhofen Personalreferentin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29/1437898533/": "Oberpfaffenhofen Softwareentwicklerin (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434296633/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Produktsicherungsmanagerin-%28wmd%29-nach-ECSS-f%C3%BCr-%28Gro%C3%9F-%29Projekte-und-admin_-Projektmanagement/1437986433/": "Oberpfaffenhofen Produktsicherungsmanagerin (wmd) nach ECSS f\u00fcr (Gro\u00df )Projekte und admin_ Projektmanagement",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-STRATOS-Ingenieurin-%28wmd%29/1447279833/": "Oberpfaffenhofen STRATOS Ingenieurin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Forschungs-Software-Ingenieurin-%28wmd%29-Weiterentwicklung-von-Gewittervorhersagen/1425215233/": "Oberpfaffenhofen Forschungs Software Ingenieurin (wmd) Weiterentwicklung von Gewittervorhersagen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1435220933/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434336633/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-for-AI-based-system-dynamics-and-control-engineering/1435325333/": "Oberpfaffenhofen Engineer (fmx) for AI based system dynamics and control engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Physikerin%2C-Chemikerin-o_%C3%A4_-%28wmd%29-f%C3%BCr-Laborspektroskopie-atmosph%C3%A4rischer-Spurengase/1441794433/": "Oberpfaffenhofen Physikerin, Chemikerin o_\u00e4_ (wmd) f\u00fcr Laborspektroskopie atmosph\u00e4rischer Spurengase",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Konzeption-und-Entwicklung-von-Echtzeitsystemen-f%C3%BCr-Robotik-Hardwareplattform/1417120833/": "Oberpfaffenhofen Ingenieurin (wmd) Konzeption und Entwicklung von Echtzeitsystemen f\u00fcr Robotik Hardwareplattform",
@@ -508,7 +503,11 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434336533/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434336633/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434296733/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434296633/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -518,6 +517,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Flugdynamik-Ingenieur-fr-Satellitenbetrieb--m-w-d-_JR10450538": "Flugdynamik\u2011Ingenieur f\u00fcr Satellitenbetrieb (m/w/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Infrastructure-Operations-Specialist--m-w-d----HPE---VMware_JR10447220": "IT Infrastructure Operations Specialist (m/w/d) \u2013 HPE & VMware",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ground-Segment-Systems-Engineer--d-f-m-_JR10407783": "Ground Segment Systems Engineer (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Testia-GmbH---R-D-Engineer---Computer-Vision---Optical-Systems--m-f-d-_JR10452388": "Testia GmbH - R&D Engineer - Computer Vision & Optical Systems (m/f/d)",
@@ -556,8 +556,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/AI-Use-Case-Portfolio-Manager_JR10434462-1": "AI Use Case Portfolio Manager",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/IT-Network-Administrator--d-w-m-_JR10444320": "IT Network Administrator (d/w/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Senior-Business-Development-Manager---Space-Deutschland--m-w-d-_JR10426058": "Key Account Manager Schwerpunkt Geospatial Business Development  (m/w/d)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Engineer---AI-Enabled-Embedded-Software--Multi-GenAI-Orchestration-_R-10064751-1": "Principal Engineer \u2013 AI-Enabled Embedded Software / GenAI Orchestration (f/m/d)",
