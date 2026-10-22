@@ -47,8 +47,8 @@
     "https://helsing.ai/jobs/4880174101?gh_jid=4880174101": "Mechanical Engineer, Kinematic Systems and Mechanisms",
     "https://helsing.ai/jobs/4986867101?gh_jid=4986867101": "Mitarbeiter/in im internen Werk-und Objektschutz",
     "https://helsing.ai/jobs/4938743101?gh_jid=4938743101": "Multimodal Sensing and Fusion Engineer ",
-    "https://helsing.ai/jobs/4947489101?gh_jid=4947489101": "Multimodal Sensing Test Engineer ",
     "https://helsing.ai/jobs/4948277101?gh_jid=4948277101": "Obsolescence Manager ",
+    "https://helsing.ai/jobs/4947489101?gh_jid=4947489101": "Optical Sensing Test Engineer",
     "https://helsing.ai/jobs/4876698101?gh_jid=4876698101": "Payroll Specialist",
     "https://helsing.ai/jobs/4841774101?gh_jid=4841774101": "People Business Partner - Munich",
     "https://helsing.ai/jobs/4974214101?gh_jid=4974214101": "Procurement Manager \u2013 Professional Services & Marketing",
@@ -114,6 +114,47 @@
     "https://helsing.ai/jobs/4964970101?gh_jid=4964970101": "Warehouse Clerk ",
     "https://helsing.ai/jobs/4963213101?gh_jid=4963213101": "Warehouse Operator",
     "https://helsing.ai/jobs/4982899101?gh_jid=4982899101": "Workplace Planning Lead"
+  },
+  "ARX Robotics": {
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4996193101": "Bid & Proposal Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999163101": "Head of Business Development (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4994606101": "Head of Goverment Relations - EU",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4955791101": "Junior Procurement Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995751101": "Lead After-Sales Commercial & Service Supply (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995796101": "Lead Customer Hub & Local Service Operations (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995801101": "Lead Service Engineering - Integrated Product Support & Field Service Engineering (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995808101": "Lead Technical Service Center & Operations (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995812101": "Lead Training & Workforce Services (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4973110101": "Logistics Coordinator (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953147101": "Mission Operations Project Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4998863101": "People Analytics & AI Optimization Expert (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876122101": "Production Supervisor (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4952088101": "Production Technician Electronics (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5005798101": "Project Manager - Infrastructure & Expansion",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4951397101": "Quality Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995069101": " Senior Business Development Manager, Scandinavia (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975323101": "Senior Embedded Software Test Engineer (m/f/d), Safety & Security Platform",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4940419101": "(Senior) Expansion Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5005791101": "Senior Facility Manager (m,f,d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4768927101": "Senior Key Account Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4956235101": "Senior Procurement Manager - Indirect (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999821101": "Senior Safety Engineer (m/f/d) Safety Engineering",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4826680101": "Senior Safety Engineer (m/f/d) Technical Solution",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4966720101": "Senior Simulation Platform Engineer, Cloud & Robotics (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4951244101": "Senior Strategic Supply Chain Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4828818101": "Senior Systems Engineer (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4880312101": "Senior Test Engineer (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975246101": "Staff Embedded Software Engineer (m/f/d), Safety & Security Platform ",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875205101": "Staff Engineer, Robotics Perception (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875188101": "Staff Engineer, Sensor Fusion & Localization (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975306101": "Staff Firmware Engineer (m/f/d), Platform R&D",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4966605101": "Staff Robotics Data Engineer, Validation & Metrics (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999879101": "Staff Safety Engineer (m/f/d) Safety Engineering",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876061101": "Staff Safety Engineer (m/f/d) Technical Solution",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4936173101": "Technical Writer (Engineering) (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4967694101": "Tender Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5006078101": "Unsolicited Application - ARX Robotics",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
     "https://tytantechnologiesgmbh.recruitee.com/o/marketing-design-intern-mfd": "Marketing Design Intern -  (m/f/d)",
@@ -375,7 +416,6 @@
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509742": "Junior Bauleiter (m/w/d) im Nahverkehr - Gro\u00dfraum M\u00fcnchen"
   },
   "DLR": {
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-PhD-in-Physics-or-Chemistry-%28mfd%29-Laboratory-spectroscopy-of-atmospheric-trace-gases-for-climate/1444739833/": "Oberpfaffenhofen PhD in Physics or Chemistry (mfd) Laboratory spectroscopy of atmospheric trace gases for climate",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29/1428306833/": "Oberpfaffenhofen Ausbildung zurzum Elektronikerin f\u00fcr Ger\u00e4te und Systeme (wmd)",
@@ -469,7 +509,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767033/": "Oberpfaffenhofen Masterandin (wmd) Federated Learning for Internet of Things (IoT) Systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767133/": "Oberpfaffenhofen Master Thesis on Federated Learning for Internet of Things (IoT) Systems",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-Entwurf-und-Validierung-eines-Roboterwerkzeugs/1440604033/": "Oberpfaffenhofen studentische Aushilfe (wmd) Entwurf und Validierung eines Roboterwerkzeugs"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-Entwurf-und-Validierung-eines-Roboterwerkzeugs/1440604033/": "Oberpfaffenhofen studentische Aushilfe (wmd) Entwurf und Validierung eines Roboterwerkzeugs",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -521,6 +562,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027"
   },
   "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Engineer---AI-Enabled-Embedded-Software--Multi-GenAI-Orchestration-_R-10064751-1": "Principal Engineer \u2013 AI-Enabled Embedded Software / GenAI Orchestration (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Toulouse/Principal-Hardware---IC-Functional-Safety-Architect_R-10067377": "Principal Hardware & IC Functional Safety Architect",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Functional-Safety-Architect-Hardware--f-m-d-_R-10067391-1": "Functional Safety Architect Hardware (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sindelfingen/Key-Account-Manager-Automotive--f-m-d-_R-10067218-1": "Key Account Manager Automotive (f/m/d)",
@@ -543,7 +585,6 @@
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Field-Application-Engineer--FAE----MPU---DNPU---Robotics-Drones_R-10064554": "Senior Field Application Engineer (FAE) - MPU & DNPU (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Product-Marketing-Manager-Battery-Management-Systems----f-m-d-_R-10066320": "Product Marketing Manager Battery Management Systems - (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Energy-and-Power-System-Architect--f-m-d-_R-10063675": "Energy and Power System Architect (f/m/d)",
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Engineer---AI-Enabled-Embedded-Software--Multi-GenAI-Orchestration-_R-10064751-1": "Principal Engineer \u2013 AI-Enabled Embedded Software (Multi GenAI Orchestration)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Senior-Principle-Computer-Architect-AI-ML--f-m-d-_R-10064230": "Senior Principal Computer Architect AI/ML (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/EMC-Engineer--f-m-d-_R-10061511": "EMC Engineer (f/m/d)"
   },
@@ -940,6 +981,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-mechatronik-/-elektronik-automatisierungstechnik-22032027-25032027/": "Sch\u00fclerpraktikum Mechatronik / Elektronik Automatisierungstechnik 22.03.2027 - 25.03.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-reporting-business-partner-governance-all-genders/": "Praktikum Reporting Business Partner & Governance (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/flugtriebwerkmechaniker-all-genders/": "Flugtriebwerkmechaniker (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-fachrichtung-schleifen-all-genders/": "Zerspanungsfachkraft Fachrichtung Schleifen (all genders)",
