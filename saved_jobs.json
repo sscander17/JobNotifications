@@ -9,6 +9,7 @@
     "https://helsing.ai/jobs/4939591101?gh_jid=4939591101": "Camera Engineer ",
     "https://helsing.ai/jobs/4516967101?gh_jid=4516967101": "Deployed AI Engineer",
     "https://helsing.ai/jobs/4972108101?gh_jid=4972108101": "Deployed Hardware Engineer ",
+    "https://helsing.ai/jobs/4660594101?gh_jid=4660594101": "Design Engineer - Electronics",
     "https://helsing.ai/jobs/4972029101?gh_jid=4972029101": "Electrical & Electronics Engineer ",
     "https://helsing.ai/jobs/4911660101?gh_jid=4911660101": "Electrical Harness Engineer ",
     "https://helsing.ai/jobs/4791366101?gh_jid=4791366101": "Executive Assistant ",
@@ -230,7 +231,6 @@
     "https://career.quantum-systems.com/o/it-infrastructure-security-manager-mfd-1": "IT Infrastructure & Security Manager (m/f/d)",
     "https://career.quantum-systems.com/o/it-security-engineer-mfd-1": "IT Security Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/it-system-administrator-windows-mfd": "IT System Administrator Windows (m/f/d)",
-    "https://career.quantum-systems.com/o/legal-counsel-mfd-3": "Legal Counsel (m/f/d)",
     "https://career.quantum-systems.com/o/legal-counsel-mfd-corporate-ma": "Legal Counsel (m/f/d) - Corporate / M&A",
     "https://career.quantum-systems.com/o/graphic-media-designer-mfd-print-digital": "Graphic & Media Designer (m/f/d) \u2013 Print & Digital",
     "https://career.quantum-systems.com/o/product-marketing-manager-multi-domain-mfd": "Product Marketing Manager Multi-Domain (m/f/d)",
@@ -401,7 +401,6 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515779": "Senior / Distinguished Enterprise Architect (m/f/d)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523584": "Systeminbetriebsetzer (w/m/d) in Geb\u00e4udetechnik f\u00fcr Mess-, Steuer- und Regelungstechnik",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/498458": "PLM Consultant / Teamcenter Archtitect / Polarion Consultant  / Presales Consultant (all genders) - DI Software Partner Talent Portal",
