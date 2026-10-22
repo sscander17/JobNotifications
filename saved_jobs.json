@@ -6,7 +6,6 @@
     "https://helsing.ai/jobs/4372802101?gh_jid=4372802101": "AI Research Engineer - ML & Signal Processing",
     "https://helsing.ai/jobs/4676357101?gh_jid=4676357101": "AI Research Engineer - Reinforcement Learning",
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": "AI Research Intern (PhD) \u2013 3D Computer Vision",
-    "https://helsing.ai/jobs/4945398101?gh_jid=4945398101": "Brand Manager - Marketing & Communications",
     "https://helsing.ai/jobs/4939591101?gh_jid=4939591101": "Camera Engineer ",
     "https://helsing.ai/jobs/4516967101?gh_jid=4516967101": "Deployed AI Engineer",
     "https://helsing.ai/jobs/4972108101?gh_jid=4972108101": "Deployed Hardware Engineer ",
@@ -317,7 +316,6 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976524101": "Fluid Systems Engineer (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952519101": "Junior Calibration Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974490101": "Launcher Assembly Technician (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976916101": "Launch Vehicle Intern (f/m/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4943578101": "Mechanical Design & Routing Engineer (m/w/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940784101": "NDT Inspector (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4857035101": "Recovery Operations Engineer (m/f/d)",
@@ -504,10 +502,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434336533/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434336633/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434296733/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434296633/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434296633/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434336533/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434336633/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -559,6 +557,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)"
   },
   "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive) (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Engineer---AI-Enabled-Embedded-Software--Multi-GenAI-Orchestration-_R-10064751-1": "Principal Engineer \u2013 AI-Enabled Embedded Software / GenAI Orchestration (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Toulouse/Principal-Hardware---IC-Functional-Safety-Architect_R-10067377": "Principal Hardware & IC Functional Safety Architect",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Functional-Safety-Architect-Hardware--f-m-d-_R-10067391-1": "Functional Safety Architect Hardware (f/m/d)",
@@ -942,6 +941,7 @@
     "https://stark.jobs.personio.com/job/2735706": "UAV Operations Engineer / Pilot \u2013 Data Operations (all genders)"
   },
   "Renesas Electronics": {
+    "https://jobs.renesas.com/job/principal-eda-engineer-in-munich-by-germany-jid-7347": "Principal EDA Engineer",
     "https://jobs.renesas.com/job/senior-staff-segment-strategy-automotive-and-emobility-applications-f-m-d-in-munich-germany-jid-7296": "Senior Staff Segment Strategy \u2013 Automotive and eMobility Applications (f/m/d)",
     "https://jobs.renesas.com/job/system-engineer-technical-product-manager-f-m-d-in-munich-by-germany-jid-7286": "System Engineer / Technical Product Manager (f/m/d)",
     "https://jobs.renesas.com/job/application-engineering-intern-sensor-systems-in-munich-germany-jid-7266": "Application Engineering Intern, Sensor Systems",
@@ -1310,7 +1310,9 @@
   "ARM": {
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
-  "STMicroelectronics": {},
+  "STMicroelectronics": {
+    "https://stmicroelectronics.eightfold.ai/careers/job/563637172749386": "Technical Sales"
+  },
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356": "AI Platform Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/716b8f7a-dc69-41d9-acb2-1ccfd83a4fcd": "Design Quality Engineer (f/m/d)",
