@@ -119,7 +119,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4996193101": "Bid & Proposal Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999163101": "Head of Business Development (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4994606101": "Head of Goverment Relations - EU",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4955791101": "Junior Procurement Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995751101": "Lead After-Sales Commercial & Service Supply (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995796101": "Lead Customer Hub & Local Service Operations (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995801101": "Lead Service Engineering - Integrated Product Support & Field Service Engineering (m/f/d)",
@@ -306,6 +305,26 @@
     "https://careers.qualcomm.com/careers/job/446720790054-manager-compute-asus-business-development-qualcomm-germany-or-france-emea-remote--munich-remote-germany?domain=qualcomm.com": "Manager Compute Asus Business Development Qualcomm Germany Or France Emea Remote Munich Remote Germany",
     "https://careers.qualcomm.com/careers/job/446719425631-principal-technical-standards-%E2%80%93-risc-v-sw-qualcomm-europe-munich-germany?domain=qualcomm.com": "Principal Technical Standards \u2013 Risc V Sw Qualcomm Europe Munich Germany",
     "https://careers.qualcomm.com/careers/job/446721265210-european-patent-attorney-m-f-d-munich-munich-germany?domain=qualcomm.com": "European Patent Attorney M F D Munich Munich Germany"
+  },
+  "Isar Aerospace": {
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4843468101": "AIT Operations Engineer - Launch Vehicle (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950930101": "Application Software Engineer (f/m/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4720039101": "Avionics Engineer - Thrust Vector Control Actuator (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940749101": "Chief Quality  Inspector (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4933869101": "Electrician Ground Systems (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4920269101": "Embedded Software Engineer (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4695889101": "Flugger\u00e4tmechaniker (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4864857101": "Fluids Engineer (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976524101": "Fluid Systems Engineer (f/m/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4952519101": "Junior Calibration Technician (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974490101": "Launcher Assembly Technician (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4943578101": "Mechanical Design & Routing Engineer (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940784101": "NDT Inspector (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4857035101": "Recovery Operations Engineer (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974306101": "Senior Data & Backend Software Engineer (f/m/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4869206101": "Senior Safety & Compliance Specialist (f/m/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4844867101": "Structural Manufacturing Technician (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4844862101": "Struktur Fertigungstechniker (m/w/d)"
   },
   "Infineon": {
     "https://jobs.infineon.com/careers/job/563808969520244-senior-staff-engineer-automation-digitalization-for-ip-development-munich-germany-?domain=infineon.com": "Senior Staff Engineer Automation Digitalization For Ip Development Munich Germany",
@@ -1241,13 +1260,14 @@
     "https://jobs.nvidia.com/careers/job/893392240790-director-emea-ai-initiatives-remote-germany?domain=nvidia.com": "Director Emea Ai Initiatives Remote Germany"
   },
   "OHB System AG": {
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8510?c=career-ohb": "Business Development Manager:in (m/w/d) - Earth Observation",
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8690?c=career-ohb": "Requirements and V&V Engineer Instruments  (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8539?c=career-ohb": "Digital Electronics Design Engineer (f/m/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8538?c=career-ohb": "Analog Electronics Design Engineer (f/m/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8261?c=career-ohb": "Teamleiter:in f\u00fcr die Elektronik-Fertigung (m,w,d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7900?c=career-ohb": "Technical Product Owner Software - Space & Defence Simulation (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8640?c=career-ohb": "Systems Engineer (m/f/d) - Navigation",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7126?c=career-ohb": "Subsystem Ingenieur:in (m/w/d) Kommunikationstechnik",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8810?c=career-ohb": "Systems Engineer Quantum Technologies (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8807?c=career-ohb": "Werkstudent:in (m/w/d)- End User Services",
@@ -1270,7 +1290,6 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8548?c=career-ohb": "(Senior) Projektleiter:in (m/w/d) Satellitensysteme Aufkl\u00e4rung und Fr\u00fchwarnsysteme",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8547?c=career-ohb": "(Senior) Projektleiter:in (m/w/d) Gesamtsysteme Aufkl\u00e4rung und Fr\u00fchwarnsysteme",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8564?c=career-ohb": "insert title of the position (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8510?c=career-ohb": "Business Development Manager:in (m/w/d) - Earth Observation",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7255?c=career-ohb": "Students (working students, internships, thesis) unsolicited (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
