@@ -234,6 +234,7 @@
     "https://career.quantum-systems.com/o/legal-counsel-mfd-corporate-ma": "Legal Counsel (m/f/d) - Corporate / M&A",
     "https://career.quantum-systems.com/o/graphic-media-designer-mfd-print-digital": "Graphic & Media Designer (m/f/d) \u2013 Print & Digital",
     "https://career.quantum-systems.com/o/product-marketing-manager-multi-domain-mfd": "Product Marketing Manager Multi-Domain (m/f/d)",
+    "https://career.quantum-systems.com/o/senior-crm-hubspot-marketing-automation-expert-mfd": "Senior CRM (HubSpot) & Marketing Automation Expert (m/f/d)",
     "https://career.quantum-systems.com/o/social-creative-mfd-concepts-formats": "Social Creative (m/f/d) \u2013 Concepts & Formats",
     "https://career.quantum-systems.com/o/social-video-creator-mfd-shoot-edit": "Social Video Creator (m/f/d) \u2013 Shoot & Edit.",
     "https://career.quantum-systems.com/o/commis-de-cuisine-mwd": "Commis de Cuisine (m/w/d)",
@@ -637,10 +638,8 @@
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Newbury/Staff-Mixed-Signal-Design-Engineer_R264622": "Staff Mixed-Signal Design Engineer"
   },
   "Engineering Minds Munich": {
-    "https://www.em-munich.de/_files/ugd/1c2914_e136ad49ddef40d88a06d6d9c56b14a4.pdf": "Ingenieur*in (m/w/d) Elektronik / FPGA-Embedded-Systeme",
-    "https://www.em-munich.de/_files/ugd/1c2914_e17d6a4a9e744809aff82848dc5b39b5.pdf": "[Werkstudent/Teilzeit] PCB-Designer*in (m/w/d)",
-    "https://www.em-munich.de/_files/ugd/1c2914_e5cf714c703d48f79423537e96fcba2f.pdf": "[Praktikum/Praxissemester] Technische Informatik - Entwicklung von FPGA- Embedded-Systemen",
-    "https://www.em-munich.de/_files/ugd/1c2914_4a0502ee3b30449c937b17235f4f3156.pdf": "[Masterarbeit] Entwicklung einer Steuerungselektronik f\u00fcr das Testsystem einer Erdbeobachtungskamera"
+    "https://em-munich.space/wp-content/uploads/2026/09/EMM_MissionCore_Flyer_2026-1.pdf": "Explore MissionCore \u2197 Fact Sheet \u2193",
+    "https://em-munich.space/wp-content/uploads/2026/09/EMM_HRT_Flyer_2026-1.pdf": "Explore HRT \u2197 Fact Sheet \u2193"
   },
   "AMD": {
     "https://careers.amd.com/careers-home/jobs/84927": "Senior Manager, AI Field Applications Engineering - EMEA",
@@ -651,6 +650,10 @@
   },
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199046.html": "Praktikant Marketingkommunikation und Digital Marketing f\u00fcr MINI Deutschland (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198696.html": "Praktikant International Supplier Qualification (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198514.html": "Werkstudent Agiles Prozessmanagement im Einkauf- und Lieferantennetzwerk (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198132.html": "Praktikant Regelungsalgorithmen f\u00fcr Fahrsimulatoren (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194782.html": "Intern AI-Based Context Engineering (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194650.html": "Werkstudent Datenanalyse Automatisiertes Fahren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.180706.html": "Intern Integration of AI Agents in Vehicle Systems (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198468.html": "Praktikum im Bereich Kreditwesen",
@@ -927,8 +930,8 @@
     "https://stark.jobs.personio.com/job/2407218": "Senior Safety Engineer - Loitering Systems (all genders)"
   },
   "Renesas Electronics": {
-    "https://jobs.renesas.com/job/principal-eda-engineer-in-munich-by-germany-jid-7347": "Principal EDA Engineer",
     "https://jobs.renesas.com/job/senior-staff-segment-strategy-automotive-and-emobility-applications-f-m-d-in-munich-germany-jid-7296": "Senior Staff Segment Strategy \u2013 Automotive and eMobility Applications (f/m/d)",
+    "https://jobs.renesas.com/job/principal-eda-engineer-in-munich-by-germany-jid-7347": "Principal EDA Engineer",
     "https://jobs.renesas.com/job/system-engineer-technical-product-manager-f-m-d-in-munich-by-germany-jid-7286": "System Engineer / Technical Product Manager (f/m/d)",
     "https://jobs.renesas.com/job/application-engineering-intern-sensor-systems-in-munich-germany-jid-7266": "Application Engineering Intern, Sensor Systems",
     "https://jobs.renesas.com/job/account-manager-new-logo-in-munich-by-germany-jid-7175": "Account Manager - New Logo",
