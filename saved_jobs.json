@@ -59,7 +59,6 @@
     "https://helsing.ai/jobs/4869481101?gh_jid=4869481101": "Product Manager \u2014 Electronic Warfare (Offboard & Cross-Platform)",
     "https://helsing.ai/jobs/4999686101?gh_jid=4999686101": "Product Manager \u2013 Perception & Sensor Fusion",
     "https://helsing.ai/jobs/4862586101?gh_jid=4862586101": "Quality Inspector - Production Quality",
-    "https://helsing.ai/jobs/4865734101?gh_jid=4865734101": "Radio Engineer",
     "https://helsing.ai/jobs/4954531101?gh_jid=4954531101": "Regional Sales Lead, DACH - Land ",
     "https://helsing.ai/jobs/4948063101?gh_jid=4948063101": "Safety Manager (System Safety) ",
     "https://helsing.ai/jobs/4823231101?gh_jid=4823231101": "Schichtleiter in der Produktion",
@@ -157,6 +156,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
+    "https://tytantechnologiesgmbh.recruitee.com/o/working-student-3d-printing-area-prototyping-lab-mfd": "Working Student - 3D Printing Area (Prototyping Lab) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/marketing-design-intern-mfd": "Marketing Design Intern -  (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/head-of-flight-testing-fmd": "Head of Flight Testing (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-sensors-mfd": "UAV Systems Engineer - Sensors (m/f/d)",
@@ -168,7 +168,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/solutions-architect-working-student-mfd": "Solutions Architect Working Student (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/flight-simulation-software-engineer-mfd": "Flight Simulation Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-software-architect-mfd": "Senior Software Architect (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/office-manager-part-time-mfd": "Office Manager (Part-Time) - (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/full-stack-engineer-fmd": "Full-stack Engineer (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/requirements-engineer-mfd": "Requirements Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/system-safety-engineer-warhead-integration-mfd": "System Safety Engineer \u2013 Warhead Integration (m/f/d)",
@@ -285,6 +284,7 @@
     "https://career.quantum-systems.com/o/working-student-electronics-engineering-mfd": "Working Student Electronics Engineering (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-ground-robotics-mfd": "Working Student Ground Robotics (m/f/d)",
     "https://career.quantum-systems.com/o/workingstudentpool": "Working Student Pool - Your start at Quantum-Systems",
+    "https://career.quantum-systems.com/o/junior-procurement-specialist-rd-projekte-mwd-1": "Junior Procurement Specialist R&D & Projekte (m/w/d) (2)",
     "https://career.quantum-systems.com/o/lager-logistikmitarbeiter-fmd-7": "Lager-/Logistikmitarbeiter (f/m/d)",
     "https://career.quantum-systems.com/o/logistikmitarbeiter-mfd-ugv": "Logistics Technician (m/f/d) - UGV",
     "https://career.quantum-systems.com/o/order-processing-and-export-manager-mfd-5": "Order Processing and Export Manager (m/f/d)",
@@ -292,8 +292,7 @@
     "https://career.quantum-systems.com/o/production-quality-specialist-mfd": "Production Quality Specialist  (m/f/d)",
     "https://career.quantum-systems.com/o/production-quality-technician-mfd": "Production Quality Technician (m/f/d)",
     "https://career.quantum-systems.com/o/quality-control-technician-mfd-4": "Quality Control Technician (m/f/d)",
-    "https://career.quantum-systems.com/o/senior-purchasing-manager-cuas-mfd": "Senior Purchasing Manager- cUAS  (m/f/d)",
-    "https://career.quantum-systems.com/o/senior-quality-control-supplier-quality-specialist-mfd-1": "Senior Quality Control & Supplier Quality Specialist (m/f/d)"
+    "https://career.quantum-systems.com/o/senior-purchasing-manager-cuas-mfd": "Senior Purchasing Manager- cUAS  (m/f/d)"
   },
   "Qualcomm": {
     "https://careers.qualcomm.com/careers/job/446721265210-european-patent-attorney-m-f-d-munich-munich-germany?domain=qualcomm.com": "European Patent Attorney M F D Munich Munich Germany",
@@ -407,6 +406,7 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521646": "Global Commodity Engineer (f/m/d) \u2013 Integrated Circuits",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526920": "Werkstudent (w/m/d) Fahrzeugkonzeption und 3D-Modellierung (Creo)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523584": "Systeminbetriebsetzer (w/m/d) in Geb\u00e4udetechnik f\u00fcr Mess-, Steuer- und Regelungstechnik",
@@ -578,7 +578,6 @@
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Digital-Verification-Engineer_R-10065444-1": "Digital Verification Engineer (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Key-Account-Manager-Industrial---Smart-City--f-m-d-_R-10064749": "Key Account Manager Industrial & Smart City (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Automotive-Business-Development-Manager--m-f-d----Software_R-10066665-1": "Automotive Business Development Manager (m/f/d) \u2013 Software",
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Field-Application-Engineer--FAE----MPU---DNPU---Robotics-Drones_R-10064554": "Senior Field Application Engineer (FAE) - MPU & DNPU (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Product-Marketing-Manager-Battery-Management-Systems----f-m-d-_R-10066320": "Product Marketing Manager Battery Management Systems - (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Energy-and-Power-System-Architect--f-m-d-_R-10063675": "Energy and Power System Architect (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Senior-Principle-Computer-Architect-AI-ML--f-m-d-_R-10064230": "Senior Principal Computer Architect AI/ML (f/m/d)",
