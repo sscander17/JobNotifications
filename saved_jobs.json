@@ -443,7 +443,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Physics-or-Aerospace-Engineering-for-investigating-multi-aperture-concept/1407550133/": "Oberpfaffenhofen Master Thesis Student in Physics or Aerospace Engineering for investigating multi aperture concept",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Forschungs-Software-Ingenieurin-%28wmd%29-Weiterentwicklung-von-Gewittervorhersagen/1425215233/": "Oberpfaffenhofen Forschungs Software Ingenieurin (wmd) Weiterentwicklung von Gewittervorhersagen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28mfx%29-Design-and-development-of-real-time-systems-for-robotics-hardware-platforms/1417120933/": "Oberpfaffenhofen Engineer (mfx) Design and development of real time systems for robotics hardware platforms",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434296633/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt",
@@ -468,7 +467,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-PhD-in-Physics-or-Chemistry-%28mfd%29-Laboratory-spectroscopy-of-atmospheric-trace-gases-for-climate/1444739833/": "Oberpfaffenhofen PhD in Physics or Chemistry (mfd) Laboratory spectroscopy of atmospheric trace gases for climate",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Softwareentwicklerin-%28wmd%29/1437898533/": "Oberpfaffenhofen Softwareentwicklerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Implementierung-eines-OKF-basierten-LLM-Chatbots-f%C3%BCr-die-Luft-und-Raumfahrt/1435462633/": "Oberpfaffenhofen Masterarbeit (wmd) Implementierung eines OKF basierten LLM Chatbots f\u00fcr die Luft und Raumfahrt",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Senior-IT-Systems-Engineer-%28wmd%29-Bodensegment/1397660833/": "Oberpfaffenhofen Senior IT Systems Engineer (wmd) Bodensegment",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Personalreferentin-%28wmd%29/1417290133/": "Oberpfaffenhofen Personalreferentin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-KI-gest%C3%BCtzte-Systemdynamik-und-Regelungstechnik/1432265233/": "Oberpfaffenhofen Ingenieurin (wmd) KI gest\u00fctzte Systemdynamik und Regelungstechnik",
@@ -505,7 +503,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmd%29-Post-Breakup-Collision-Risk-Assessment-for-LEO-Constellations/1445982233/": "Oberpfaffenhofen Working student (fmd) Post Breakup Collision Risk Assessment for LEO Constellations",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Unity-Developer-%28wmd%29/1429045433/": "Oberpfaffenhofen Unity Developer (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Mesh-Netzwerke-f%C3%BCr-Drohnenschw%C3%A4rme/1417037133/": "Oberpfaffenhofen Masterarbeit (wmd) Mesh Netzwerke f\u00fcr Drohnenschw\u00e4rme",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -647,12 +647,20 @@
     "https://careers.amd.com/careers-home/jobs/91379": "Partner Manager - Supermicro"
   },
   "BMW Group": {
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199133.html": "Praktikant Handels- und Eventmarketing MINI (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199132.html": "Praktikant Handels- und Eventmarketing MINI (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199046.html": "Praktikant Marketingkommunikation und Digital Marketing f\u00fcr MINI Deutschland (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198697.html": "Praktikant Konzepte und Grundauslegung elektrische Antriebsmaschine (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198696.html": "Praktikant International Supplier Qualification (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198691.html": "Praktikant Gesamtfahrzeugentwicklung und Integration (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198676.html": "Praktikant GenAI-Algorithmen f\u00fcr Fahrzeugfunktionen (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198675.html": "Praktikant GenAI-Algorithmen f\u00fcr Fahrzeugfunktionen (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198674.html": "Werkstudent Generative KI f\u00fcr Fahrzeugfunktionen (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198554.html": "Working Student Multi-Fidelity Test Optimization (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198514.html": "Werkstudent Agiles Prozessmanagement im Einkauf- und Lieferantennetzwerk (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198132.html": "Praktikant Regelungsalgorithmen f\u00fcr Fahrsimulatoren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197985.html": "Werkstudent Entwicklung und Industrialisierung von Hochvoltspeichern (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197268.html": "Praktikant Marketing und Kommunikation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196932.html": "Working Student Future Technologies Research (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196139.html": "Master Thesis Multi-Fidelity Test Optimization (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194863.html": "Praktikant Serienentwicklung Gen6-Batteriezellen (w/m/x)",
@@ -889,7 +897,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191835.html": "Doktorand Direkte Flussregelung f\u00fcr Synchronmotoren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194928.html": "Werkstudent Serienentwicklung zylindrische Batteriezelle Gen6 (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.184635.html": "Praktikant Full-Stack Webentwicklung mit KI (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194992.html": "Praktikant KI und Automatisierung in der Fahrwerkentwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192950.html": "Doktorand Multimodale KI Systeme zur Erkennung elektronischer Komponenten Cost Engineering (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194262.html": "AI Infrastructure Engineer (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.188324.html": "Praktikant Produktion - Projekte fr\u00fche Phase (w/m/x)",
@@ -1171,7 +1178,6 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4714167101": "Senior Security Engineer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4809045101": "Senior Software Engineer, 3D Perception (C++ and Python) (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4835172101": "Senior Software Engineer Android (Kotlin) (F/M/D)",
-    "https://job-boards.eu.greenhouse.io/navvis/jobs/4764555101": "Senior Software Quality Engineer - 3D Performance Computing (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4997683101": "Senior Visual and Motion Designer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4840884101": "Software Engineer SLAM (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4908211101": "Team Lead Assembly (F/M/D)",
@@ -1296,9 +1302,7 @@
   "ARM": {
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
-  "STMicroelectronics": {
-    "https://stmicroelectronics.eightfold.ai/careers/job/563637172749386": "Technical Sales"
-  },
+  "STMicroelectronics": {},
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356": "AI Platform Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/716b8f7a-dc69-41d9-acb2-1ccfd83a4fcd": "Design Quality Engineer (f/m/d)",
