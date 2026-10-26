@@ -17,12 +17,12 @@
     "https://helsing.ai/jobs/4871604101?gh_jid=4871604101": "Finance Data Engineer",
     "https://helsing.ai/jobs/4975282101?gh_jid=4975282101": "Finanzbuchhalterin (m/w/d)",
     "https://helsing.ai/jobs/4743310101?gh_jid=4743310101": "Flight Control Systems Engineer",
+    "https://helsing.ai/jobs/4995452101?gh_jid=4995452101": "Flight Dynamics Modelling Engineer",
     "https://helsing.ai/jobs/4538119101?gh_jid=4538119101": "Forward Strategist",
     "https://helsing.ai/jobs/4835300101?gh_jid=4835300101": "Front Office Coordinator / Guest Service Agent",
     "https://helsing.ai/jobs/4998730101?gh_jid=4998730101": "Front Office Coordinator / Guest Service Agent (m/w/d)",
     "https://helsing.ai/jobs/4972083101?gh_jid=4972083101": "Guidance, Navigation, & Control Engineer ",
     "https://helsing.ai/jobs/5001623101?gh_jid=5001623101": "Head of Flight Test Management / Senior Flight Test M\u200banager ",
-    "https://helsing.ai/jobs/4963307101?gh_jid=4963307101": "Head of FP&A",
     "https://helsing.ai/jobs/4865788101?gh_jid=4865788101": "Helsing \u2013 Formula Student Programme ",
     "https://helsing.ai/jobs/4879386101?gh_jid=4879386101": "HPC Systems Administrator",
     "https://helsing.ai/jobs/4861198101?gh_jid=4861198101": "Incoming Inspector - Production Quality",
@@ -161,6 +161,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/working-student-3d-printing-area-prototyping-lab-mfd": "Working Student - 3D Printing Area (Prototyping Lab) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/marketing-design-intern-mfd": "Marketing Design Intern -  (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/head-of-flight-testing-fmd": "Head of Flight Testing (f/m/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/senior-seeker-specialist-fmd": "Senior Seeker Specialist (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-sensors-mfd": "UAV Systems Engineer - Sensors (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-propulsion-actuation-mfd": "UAV Systems Engineer - Propulsion & Actuation (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/hr-business-partner-mfd": "HR Business Partner (m/f/d)",
@@ -501,13 +502,13 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Bewertung-des-Kollisionsrisikos-nach-der-Trennung-bei-LEO-Konstellationen/1445982133/": "Oberpfaffenhofen Studentin (wmd) Bewertung des Kollisionsrisikos nach der Trennung bei LEO Konstellationen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmd%29-Post-Breakup-Collision-Risk-Assessment-for-LEO-Constellations/1445982233/": "Oberpfaffenhofen Working student (fmd) Post Breakup Collision Risk Assessment for LEO Constellations",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Unity-Developer-%28wmd%29/1429045433/": "Oberpfaffenhofen Unity Developer (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Mesh-Netzwerke-f%C3%BCr-Drohnenschw%C3%A4rme/1417037133/": "Oberpfaffenhofen Masterarbeit (wmd) Mesh Netzwerke f\u00fcr Drohnenschw\u00e4rme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Software-Entw_-von-sicheren-IP-basierten-Protokollen-f%C3%BCr-Satellitenkomm_/1407538133/": "Oberpfaffenhofen Ingenieurin (wmd) Software Entw_ von sicheren IP basierten Protokollen f\u00fcr Satellitenkomm_",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Software-development-of-secure-IP-based-protocols-for-satellite-communications/1407538233/": "Oberpfaffenhofen Engineer (fmx) Software development of secure IP based protocols for satellite communications"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Software-development-of-secure-IP-based-protocols-for-satellite-communications/1407538233/": "Oberpfaffenhofen Engineer (fmx) Software development of secure IP based protocols for satellite communications",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Bewertung-des-Kollisionsrisikos-nach-der-Trennung-bei-LEO-Konstellationen/1445982133/": "Oberpfaffenhofen Studentin (wmd) Bewertung des Kollisionsrisikos nach der Trennung bei LEO Konstellationen",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmd%29-Post-Breakup-Collision-Risk-Assessment-for-LEO-Constellations/1445982233/": "Oberpfaffenhofen Working student (fmd) Post Breakup Collision Risk Assessment for LEO Constellations"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -517,6 +518,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SATCOMBw-Projektleiter-PMS-Software--m-w-d-_JR10448226-1": "SATCOMBw Projektleiter PMS Software (m/w/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Engineer--d-m-w-_JR10216124": "Cyber-Security-Engineer (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Satellite-Mission-Operations-Service-Architect--d-m-w-_JR10362220-1": "Satellite Mission Operations Service Architect (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student---Agile-SW-Development---Project-Support--d-m-w-_JR10442727-1": "Working Student (d/f/m) - Agile SW Development - Project Support",
@@ -555,8 +557,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/AI-Use-Case-Portfolio-Manager_JR10434462-1": "AI Use Case Portfolio Manager",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/IT-Network-Administrator--d-w-m-_JR10444320": "IT Network Administrator (d/w/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Senior-Business-Development-Manager---Space-Deutschland--m-w-d-_JR10426058": "Key Account Manager Schwerpunkt Geospatial Business Development  (m/w/d)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive) (f/m/d)",
@@ -586,6 +587,7 @@
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/EMC-Engineer--f-m-d-_R-10061511": "EMC Engineer (f/m/d)"
   },
   "Texas Instruments": {
+    "https://careers.ti.com/en/sites/CX/job/25013295/": "Test Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25011950/": "Digital Process Solutions Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015770/": "Manufacturing Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25019104/": "Techniker f\u00fcr den Bereich Hardware-Entwicklung m/f/d",
@@ -940,6 +942,7 @@
     "https://stark.jobs.personio.com/job/2407218": "Senior Safety Engineer - Loitering Systems (all genders)"
   },
   "Renesas Electronics": {
+    "https://jobs.renesas.com/job/senior-staff-cad-engineer-in-munich-by-germany-jid-7377": "Senior Staff CAD Engineer",
     "https://jobs.renesas.com/job/senior-staff-segment-strategy-automotive-and-emobility-applications-f-m-d-in-munich-germany-jid-7296": "Senior Staff Segment Strategy \u2013 Automotive and eMobility Applications (f/m/d)",
     "https://jobs.renesas.com/job/principal-eda-engineer-in-munich-by-germany-jid-7347": "Principal EDA Engineer",
     "https://jobs.renesas.com/job/system-engineer-technical-product-manager-f-m-d-in-munich-by-germany-jid-7286": "System Engineer / Technical Product Manager (f/m/d)",
