@@ -216,12 +216,12 @@
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
     "https://career.quantum-systems.com/o/customer-solution-manager-mfd-4": "Customer Solution Manager (m/f/d)",
-    "https://career.quantum-systems.com/o/forward-deployed-engineer-mfd": "Forward Deployed Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/obsoleszenzmanager-mfd": "Obsoleszenzmanager (m/f/d)",
     "https://career.quantum-systems.com/o/program-manager-mfd-5": "Program Manager (m/f/d)",
     "https://career.quantum-systems.com/o/sachbearbeiter-konfigurationskontrolle-mfd": "Sachbearbeiter Konfigurationskontrolle (m/f/d)",
     "https://career.quantum-systems.com/o/solution-architect-mfd-4": "Solution Architect (m/f/d)",
     "https://career.quantum-systems.com/o/training-manager-mfd-18": "Training Manager (m/f/d)",
+    "https://career.quantum-systems.com/o/training-operations-coordinator-mfd-1": "Training Operations Coordinator (m/f/d)",
     "https://career.quantum-systems.com/o/development-engineer-production-mfd-fokus-hardware": "Development Engineer Production (m/f/d) -  Focus Hardware",
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-4": "Electrical Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/electronics-design-engineer-interceptor-cuas-mfd-1": "Electronics Design Engineer Interceptor C\u2011UAS (m/f/d)",
@@ -505,9 +505,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767133/": "Oberpfaffenhofen Master Thesis on Federated Learning for Internet of Things (IoT) Systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767033/": "Oberpfaffenhofen Masterandin (wmd) Federated Learning for Internet of Things (IoT) Systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Physikerin%2C-Chemikerin-o_%C3%A4_-%28wmd%29-f%C3%BCr-Laborspektroskopie-atmosph%C3%A4rischer-Spurengase/1441794433/": "Oberpfaffenhofen Physikerin, Chemikerin o_\u00e4_ (wmd) f\u00fcr Laborspektroskopie atmosph\u00e4rischer Spurengase",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-GNSS-Reflektometrie/1396080733/": "Oberpfaffenhofen Studentische Aushilfe (wmd) GNSS Reflektometrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-GNSS-Reflektometrie/1396080733/": "Oberpfaffenhofen Studentische Aushilfe (wmd) GNSS Reflektometrie"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
