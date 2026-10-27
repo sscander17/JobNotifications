@@ -159,7 +159,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/working-student-3d-printing-area-prototyping-lab-mfd": "Working Student - 3D Printing Area (Prototyping Lab) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/head-of-flight-testing-fmd": "Head of Flight Testing (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/flight-physics-propulsion-engineer-mfd": "Flight Physics / Propulsion Engineer (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/senior-seeker-specialist-fmd": "Senior Seeker Specialist (f/m/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/senior-seeker-systems-engineer-eoir-radar-fmd": "Senior Seeker Systems Engineer (EO/IR & Radar) (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/aircraft-designer-mfd": "Aircraft Designer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/working-student-interceptor-data-analytics-mfd": "Working Student - Interceptor Data Analytics (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/marketing-design-intern-mfd": "Marketing Design Intern -  (m/f/d)",
@@ -218,12 +218,12 @@
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
     "https://career.quantum-systems.com/o/customer-solution-manager-mfd-4": "Customer Solution Manager (m/f/d)",
+    "https://career.quantum-systems.com/o/learning-experience-architect-mfd": "Learning Experience Architect (m/f/d)",
     "https://career.quantum-systems.com/o/obsoleszenzmanager-mfd": "Obsoleszenzmanager (m/f/d)",
     "https://career.quantum-systems.com/o/program-manager-mfd-5": "Program Manager (m/f/d)",
     "https://career.quantum-systems.com/o/sachbearbeiter-konfigurationskontrolle-mfd": "Sachbearbeiter Konfigurationskontrolle (m/f/d)",
     "https://career.quantum-systems.com/o/solution-architect-mfd-4": "Solution Architect (m/f/d)",
     "https://career.quantum-systems.com/o/training-manager-mfd-18": "Training Manager (m/f/d)",
-    "https://career.quantum-systems.com/o/training-operations-coordinator-mfd-1": "Training Operations Coordinator (m/f/d)",
     "https://career.quantum-systems.com/o/development-engineer-production-mfd-fokus-hardware": "Development Engineer Production (m/f/d) -  Focus Hardware",
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-4": "Electrical Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/electronics-design-engineer-interceptor-cuas-mfd-1": "Electronics Design Engineer Interceptor C\u2011UAS (m/f/d)",
@@ -542,7 +542,6 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Domain-Architect-for-Data---Analytics--D-F-M-_JR10443132-1": "Domain Architect for Data & Analytics (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Technical-Specialist--d-w-m--for-Identity-and-Access-Management_JR10447526": "Technical Specialist (d/w/m) for Identity and Access Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Data-Handling-System-Engineer--d-m-w-_JR10433693-1": "Data Handling System Engineer (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth-Airbus-Protect/Line-Manager-Engineering-Helicopters-GE--D-F-M-_JR10444659": "Line Manager Engineering Helicopters GE (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student--d-f-m--for-Satellite-Navigation-Engineering_JR10446177": "Working Student (d/f/m) for Satellite Navigation Engineering",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
@@ -558,7 +557,8 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/AI-Use-Case-Portfolio-Manager_JR10434462-1": "AI Use Case Portfolio Manager",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/IT-Network-Administrator--d-w-m-_JR10444320": "IT Network Administrator (d/w/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Senior-Business-Development-Manager---Space-Deutschland--m-w-d-_JR10426058": "Key Account Manager Schwerpunkt Geospatial Business Development  (m/w/d)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PRODUCT-SECURITY-CONSULTANT--D-F-M-_JR10440178": "PRODUCT SECURITY CONSULTANT (D/F/M)",
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Kaufmann--frau-fr-Bromanagement--d-m-w--mit-Zusatzqualifikation-Englisch-zum-01092027_JR10416567": "Ausbildung Kaufmann/-frau f\u00fcr B\u00fcromanagement (d/m/w) mit Zusatzqualifikation Englisch zum 01.09.2027"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive) (f/m/d)",
@@ -588,6 +588,7 @@
   },
   "Texas Instruments": {
     "https://careers.ti.com/en/sites/CX/job/25013295/": "Test Engineering Intern m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25013293/": "Analog IC Design Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25011950/": "Digital Process Solutions Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015770/": "Manufacturing Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25019104/": "Techniker f\u00fcr den Bereich Hardware-Entwicklung m/f/d",
@@ -1296,9 +1297,7 @@
   "ARM": {
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
-  "STMicroelectronics": {
-    "https://stmicroelectronics.eightfold.ai/careers/job/563637172749386": "Technical Sales"
-  },
+  "STMicroelectronics": {},
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356": "AI Platform Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/716b8f7a-dc69-41d9-acb2-1ccfd83a4fcd": "Design Quality Engineer (f/m/d)",
