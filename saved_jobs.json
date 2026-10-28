@@ -407,7 +407,6 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523613": "Werkstudent (w/m/d) Technical Management",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521732": "Werkstudent (w/m/d) Requirements Management",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521646": "Global Commodity Engineer (f/m/d) \u2013 Integrated Circuits",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526920": "Werkstudent (w/m/d) Fahrzeugkonzeption und 3D-Modellierung (Creo)",
@@ -430,7 +429,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-project-and-final-thesis-%28mfd%29-Design-and-testing-of-coupled-kinematic-systems/1421326533/": "Oberpfaffenhofen Student project and final thesis (mfd) Design and testing of coupled kinematic systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Senior-IT-Systems-Engineer-%28wmd%29-Bodensegment/1397660833/": "Oberpfaffenhofen Senior IT Systems Engineer (wmd) Bodensegment",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1435220933/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29/1428306833/": "Oberpfaffenhofen Ausbildung zurzum Elektronikerin f\u00fcr Ger\u00e4te und Systeme (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
@@ -449,13 +447,11 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Bewertung-des-Kollisionsrisikos-nach-der-Trennung-bei-LEO-Konstellationen/1445982133/": "Oberpfaffenhofen Studentin (wmd) Bewertung des Kollisionsrisikos nach der Trennung bei LEO Konstellationen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Working-student-%28fmd%29-Post-Breakup-Collision-Risk-Assessment-for-LEO-Constellations/1445982233/": "Oberpfaffenhofen Working student (fmd) Post Breakup Collision Risk Assessment for LEO Constellations",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Optische-Technik-Elektrotechnik-Luft-und-Raumfahrt/1428369533/": "Oberpfaffenhofen Masterandin (wmd) Optische Technik Elektrotechnik Luft und Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-in-GPU-Accelerated-Implementation-and-Optimization-of-a-Packet-Level-Peeling-Decoder/1412288333/": "Oberpfaffenhofen Master Thesis in GPU Accelerated Implementation and Optimization of a Packet Level Peeling Decoder",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767033/": "Oberpfaffenhofen Masterandin (wmd) Federated Learning for Internet of Things (IoT) Systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Migration-und-Inbetriebnahme-eines-mechatronischen-15-Pr%C3%BCfstands-auf-dSPACE/1429074833/": "Oberpfaffenhofen Studentin (wmd) Migration und Inbetriebnahme eines mechatronischen 15 Pr\u00fcfstands auf dSPACE",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-KI-Methoden-in-der-Software-Qualit%C3%A4tssicherung-f%C3%BCr-die-Raumfahrt/1433339933/": "Oberpfaffenhofen Informatikerin (wmd) KI Methoden in der Software Qualit\u00e4tssicherung f\u00fcr die Raumfahrt",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Adaptive-Optics-Technologies-for-Free-Space-Optical-Communication/1424193233/": "Oberpfaffenhofen Engineer (fmx) Adaptive Optics Technologies for Free Space Optical Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
@@ -506,7 +502,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-for-AI-based-system-dynamics-and-control-engineering/1435325333/": "Oberpfaffenhofen Engineer (fmx) for AI based system dynamics and control engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-f%C3%BCr-Messung%2C-Automatisierung-und-Komponentensteuerung-f%C3%BCr-opt_-Transceiver-Stufen/1429128033/": "Oberpfaffenhofen Studentin (wmd) f\u00fcr Messung, Automatisierung und Komponentensteuerung f\u00fcr opt_ Transceiver Stufen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-for-Measurement%2C-automation-and-component-control-for-optical-transceiver-stages/1429127933/": "Oberpfaffenhofen Student (fmx) for Measurement, automation and component control for optical transceiver stages"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-for-Measurement%2C-automation-and-component-control-for-optical-transceiver-stages/1429127933/": "Oberpfaffenhofen Student (fmx) for Measurement, automation and component control for optical transceiver stages",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1435220933/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Optische-Technik-Elektrotechnik-Luft-und-Raumfahrt/1428369533/": "Oberpfaffenhofen Masterandin (wmd) Optische Technik Elektrotechnik Luft und Raumfahrt",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -516,6 +515,7 @@
     "https://hive-robotics.jobs.personio.com/job/2861381": "Working Student / Intern Product Marketing (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Berlin-Area/IT-Infrastructure-Specialist--d-m-w-_JR10422173-1": "IT Infrastructure Specialist (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788": "Internship within Commodity Management for IT Infrastructure (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT---Ground--d-f-m-_JR10451782": "Internship within Commodity Management for IT & Ground (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Cloud-Engineer---d-m-w-_JR10449365": "IT Cloud Engineer  (d/m/w)",
@@ -554,8 +554,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Satellite-Operations-Training-and-Simulation-Instructor--d-m-w-_JR10377552": "Satellite Operations Training and Simulation Instructor (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Optical-Architect--d-f-m--for-Optical-Instruments_JR10430570-1": "Optical Architect (d/f/m) for Optical Instruments",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/AI-Use-Case-Portfolio-Manager_JR10434462-1": "AI Use Case Portfolio Manager",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/IT-Network-Administrator--d-w-m-_JR10444320": "IT Network Administrator (d/w/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Senior-Business-Development-Manager---Space-Deutschland--m-w-d-_JR10426058": "Key Account Manager Schwerpunkt Geospatial Business Development  (m/w/d)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/IT-Network-Administrator--d-w-m-_JR10444320": "IT Network Administrator (d/w/m)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive) (f/m/d)",
@@ -606,6 +605,13 @@
     "https://careers.ti.com/en/sites/CX/job/25017920/": "Software Applications Engineer",
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018470/": "Analog Design Engineering Intern m/f/d"
+  },
+  "Intel": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215": "Software Development Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205": "Development Tools Software Engineer Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)"
   },
   "Analog Devices": {
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Director--DataX-Business---Ecosystem_R267244": "Senior Director, DataX Business & Ecosystem",
