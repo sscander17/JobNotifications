@@ -396,6 +396,18 @@
     "https://jobs.infineon.com/careers/job/563808972257629-thermal-simulation-and-automation-munich?domain=infineon.com": "Thermal Simulation And Automation Munich",
     "https://jobs.infineon.com/careers/job/563808972165823-senior-staff-specialist-system-application-engineer-%E2%80%93-robotics-munich?domain=infineon.com": "Senior Staff Specialist System Application Engineer \u2013 Robotics Munich"
   },
+  "Alpine Eagle": {
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4714147101": "Chief of Staff (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5012500101": "Computer Radar Software Engineer for Drone Systems (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789058101": "Flight Physics & Flight Controls Engineer (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4966334101": "Full Stack Engineer \u2013 Frontend Focus (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4807744101": "Head of C-UAS Mission Management System (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4989897101": "Marketing & Communications Coordinator (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4699459101": "Project Manager (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4999743101": "Sensor Fusion Engineer \u2013 Multi-Sensor Integration (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5004565101": "Technical Recruiter (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
+  },
   "Siemens": {
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523613": "Werkstudent (w/m/d) Technical Management",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521732": "Werkstudent (w/m/d) Requirements Management",
@@ -1157,8 +1169,8 @@
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Internship-Master&apos;s-Thesis-Physics-Informed-ML-for-Vehicle-Dynamics-Identification-%28mfd%29-80807/1449263633/": "Internship / Master's Thesis: Physics-Informed ML for Vehicle Dynamics Identification (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Automotive-Software-Development-for-Parking-Functions-%28mfd%29-85053/1447900133/": "Working Student - Automotive Software Development for Parking Functions (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)"
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)"
   },
   "NavVis": {
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4790711101": "AI-Enabled Revenue Operations Specialist (F/M/D)",
