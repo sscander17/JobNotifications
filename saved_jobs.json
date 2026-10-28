@@ -144,6 +144,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4951244101": "Senior Strategic Supply Chain Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4828818101": "Senior Systems Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4880312101": "Senior Test Engineer (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5018936101": "Software Release Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975246101": "Staff Embedded Software Engineer (m/f/d), Safety & Security Platform ",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875205101": "Staff Engineer, Robotics Perception (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4875188101": "Staff Engineer, Sensor Fusion & Localization (m/f/d)",
@@ -223,7 +224,6 @@
     "https://career.quantum-systems.com/o/program-manager-mfd-5": "Program Manager (m/f/d)",
     "https://career.quantum-systems.com/o/sachbearbeiter-konfigurationskontrolle-mfd": "Sachbearbeiter Konfigurationskontrolle (m/f/d)",
     "https://career.quantum-systems.com/o/solution-architect-mfd-4": "Solution Architect (m/f/d)",
-    "https://career.quantum-systems.com/o/training-manager-mfd-18": "Training Manager (m/f/d)",
     "https://career.quantum-systems.com/o/development-engineer-production-mfd-fokus-hardware": "Development Engineer Production (m/f/d) -  Focus Hardware",
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-4": "Electrical Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/electronics-design-engineer-interceptor-cuas-mfd-1": "Electronics Design Engineer Interceptor C\u2011UAS (m/f/d)",
@@ -607,14 +607,6 @@
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018470/": "Analog Design Engineering Intern m/f/d"
   },
-  "Intel": {
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215": "Software Development Intern (m/f/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205": "Development Tools Software Engineer Intern (m/f/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923": "Software Engineering Undergraduate Intern (f/m/d)"
-  },
   "Analog Devices": {
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Director--DataX-Business---Ecosystem_R267244": "Senior Director, DataX Business & Ecosystem",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Applications-Engineering---Field-Applications-Intern_R267087": "Applications Engineering - Field Applications Intern",
@@ -982,7 +974,6 @@
     "https://www.mtu.de/careers/online-job-market/job-posting/intern-business-development-all-genders/": "Intern Business Development (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-projektunterstuetzung-und-digitale-transformation-all-genders/": "Praktikum Projektunterst\u00fctzung und digitale Transformation (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-programm-management-all-genders/": "Werkstudent Programm - Management (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders-1/": "Qualit\u00e4tspr\u00fcfer (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-reporting-business-partner-governance-all-genders/": "Praktikum Reporting Business Partner & Governance (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/flugtriebwerkmechaniker-all-genders/": "Flugtriebwerkmechaniker (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-fachrichtung-schleifen-all-genders/": "Zerspanungsfachkraft Fachrichtung Schleifen (all genders)",
