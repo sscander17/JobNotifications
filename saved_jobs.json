@@ -229,6 +229,7 @@
     "https://career.quantum-systems.com/o/flight-test-field-systems-engineer-cuas-mfd": "Flight Test & Field Systems Engineer C\u2011UAS (m/f/d)",
     "https://career.quantum-systems.com/o/in-field-service-technician-mfd": "In-Field Service Technician (m/f/d)",
     "https://career.quantum-systems.com/o/industrialization-engineer-mfd-1": "Industrialization Engineer (m/f/d)",
+    "https://career.quantum-systems.com/o/mechanical-development-engineer-drone-technologies-mfd-7": "Mechanical Development Engineer - Drone Technologies (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-3": "Corporate Security Manager (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-quantum-frontline-industries": "Corporate Security Manager (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/executive-assistant-mfd-quantum-frontline-industries": "Executive Assistant (m/f/d) - Quantum Frontline Industries",
@@ -311,7 +312,6 @@
     "https://careers.qualcomm.com/careers/job/446719425631-principal-technical-standards-%E2%80%93-risc-v-sw-qualcomm-europe-munich-germany?domain=qualcomm.com": "Principal Technical Standards \u2013 Risc V Sw Qualcomm Europe Munich Germany"
   },
   "Isar Aerospace": {
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4843468101": "AIT Operations Engineer - Launch Vehicle (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4720039101": "Avionics Engineer - Thrust Vector Control Actuator (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940749101": "Chief Quality  Inspector (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4920269101": "Embedded Software Engineer (m/f/d)",
@@ -509,10 +509,10 @@
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
-    "https://hive-robotics.jobs.personio.com/job/2702659": "Mechanical Design Engineer, Rugged Electronics Enclosures (m/f/d)",
     "https://hive-robotics.jobs.personio.com/job/2843297": "Senior Electronics PCB & ECAD Design Engineer - RF & Mixed Signal (m/f/d)",
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)",
-    "https://hive-robotics.jobs.personio.com/job/2861381": "Working Student / Intern Product Marketing (m/f/d)"
+    "https://hive-robotics.jobs.personio.com/job/2861381": "Working Student / Intern Product Marketing (m/f/d)",
+    "https://hive-robotics.jobs.personio.com/job/2777321": "Working Student HIL/SIL Test (m/f/d)"
   },
   "Airbus": {
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Berlin-Area/IT-Infrastructure-Specialist--d-m-w-_JR10422173-1": "IT Infrastructure Specialist (d/m/w)",
@@ -568,7 +568,6 @@
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sophia-Antipolis-Valbonne/Automotive-E-E-System-and-Software-architect_R-10066827": "Automotive E/E System and Software architect",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Assessor---Team-Lead--f-m-d-_R-10066860": "Safety Assessor (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Global-Key-Account-Manager--f-m-d-_R-10063314": "Global Key Account Manager Automotive Aumovio (f/m/d)",
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Global-Public-Relations-Manager--f-m-d----Automotive-and-Mobility_R-10066746": "Global Public Relations Manager (f/m/d) \u2013 Automotive and Mobility",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Director-Product-Definition---Product-Management---Automotive-Audio--f-m-d-_R-10066640": "Director Product Definition / Product Management \u2013 Automotive Audio (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Safety-Engineer--f-m-d-_R-10066849": "Safety Engineer (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Digital-IP-Design-Engineer--f-m-d-_R-10066892": "Digital IP Design Engineer (f/m/d)",
@@ -582,6 +581,7 @@
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/EMC-Engineer--f-m-d-_R-10061511": "EMC Engineer (f/m/d)"
   },
   "Texas Instruments": {
+    "https://careers.ti.com/en/sites/CX/job/25013090/": "Validation Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25013295/": "Test Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25013293/": "Analog IC Design Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015770/": "Manufacturing Engineering Intern m/f/d",
@@ -606,6 +606,7 @@
     "https://careers.ti.com/en/sites/CX/job/25018470/": "Analog Design Engineering Intern m/f/d"
   },
   "Intel": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-Software-Development-Engineer---Neuromorphic-Computing--m-f-d---Fixed-Term-_JR0287336": "AI Software Development Engineer - Neuromorphic Computing (m/f/d) (Fixed-Term)",
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215": "Software Development Intern (m/f/d)",
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205": "Development Tools Software Engineer Intern (m/f/d)",
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
@@ -975,6 +976,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-betriebsgastronomie-2026-/-2027/": "Sch\u00fclerpraktikum Betriebsgastronomie 2026 / 2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-22032027-25032027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 22.03.2027 - 25.03.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-archivierung-im-infrastrukturmanagement-all-genders/": "Werkstudent Archivierung im Infrastrukturmanagement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-hr-operations-payroll-all-genders/": "Werkstudent HR Operations Payroll (all genders)",
@@ -1173,7 +1175,7 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4835172101": "Senior Software Engineer Android (Kotlin) (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4997683101": "Senior Visual and Motion Designer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4840884101": "Software Engineer SLAM (F/M/D)",
-    "https://job-boards.eu.greenhouse.io/navvis/jobs/4908211101": "Team Lead Assembly (F/M/D)",
+    "https://job-boards.eu.greenhouse.io/navvis/jobs/4908211101": "Team Lead / Manager Production  (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4917473101": "Team Lead, System Software/UI - Embedded Linux, ROS, C++ (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4972247101": "Working Student \u2013 Legal Operations (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4955889101": "Working Student- Order Management and Financial Accounting (F/M/D)"
