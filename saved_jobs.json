@@ -121,9 +121,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4994606101": "Head of Goverment Relations - EU",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995751101": "Lead After-Sales Commercial & Service Supply (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995796101": "Lead Customer Hub & Local Service Operations (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995801101": "Lead Service Engineering - Integrated Product Support & Field Service Engineering (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995808101": "Lead Technical Service Center & Operations (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995812101": "Lead Training & Workforce Services (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4973110101": "Logistics Coordinator (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4998863101": "People Analytics & AI Optimization Expert (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876122101": "Production Supervisor (m/f/d)",
@@ -262,7 +259,7 @@
     "https://career.quantum-systems.com/o/drone-assembly-technician-mfd-quantum-frontline-industries-1": "Drone Assembly Technician (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/elektriker-mfd": "Electrician (m/f/d)",
     "https://career.quantum-systems.com/o/montagetechniker-fur-elektronik-mwd-quantum-frontline-industries": "Electronics Assembly Technician (m/f/d)",
-    "https://career.quantum-systems.com/o/electronics-test-debug-technician-mfd-quantum-frontline-industries": "Electronics Test & Debug Technician (m/f/d) - Quantum Frontline Industries",
+    "https://career.quantum-systems.com/o/hsse-manager-mwd-quantum-frontline-industries": "HSSE Manager (m/w/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/bid-proposal-manager-mfd-5": "Bid & Proposal Manager (m/f/d)",
     "https://career.quantum-systems.com/o/content-knowledge-base-manager-mfd": "Content & Knowledge Base Manager (m/f/d)",
     "https://career.quantum-systems.com/o/senior-embedded-software-engineer-reliant": "(Senior) Embedded Software Engineer - Reliant",
@@ -505,6 +502,7 @@
     "https://hive-robotics.jobs.personio.com/job/2777321": "Working Student HIL/SIL Test (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Specialist--d-m-w-_JR10423699": "IT Network Specialist (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/AI---Analytics-Adoption-Lead_JR10434449-1": "AI & Analytics Adoption Lead",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/CYBER-DEFENCE-ANALYST-L2--D-F-M-_JR10452387": "CYBER DEFENCE ANALYST L2 (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/VIE--d-f-m----HR-Project-Manager---H-F_JR10451106": "VIE (d/f/m) - HR Project Manager - H/F",
@@ -543,8 +541,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Data-Science-und-Knstliche-Intelligenz--d-m-w--zum-01092027_JR10416527": "Duales Studium B.Sc. Data Science und K\u00fcnstliche Intelligenz (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Fachinformatiker-Systemintegration--d-m-w--zum-01092027_JR10416533": "Ausbildung Fachinformatiker Systemintegration (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Aerospace--Cyber-Security-System-Architect--d-m-w-_JR10443449": "Aerospace  Cyber Security System Architect (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BA-BWL---Industrial-Business-Management--d-m-w--zum-01092027_JR10416563": "Duales Studium B.A. BWL - Industrial Business Management (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/SAP-ERP-Functional-Expert-PS--d-w-m-_JR10431203": "SAP ERP Functional Expert PS (d/w/m)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BA-BWL---Industrial-Business-Management--d-m-w--zum-01092027_JR10416563": "Duales Studium B.A. BWL - Industrial Business Management (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive) (f/m/d)",
@@ -1257,6 +1254,7 @@
     "https://jobs.nvidia.com/careers/job/893392240790-director-emea-ai-initiatives-remote-germany?domain=nvidia.com": "Director Emea Ai Initiatives Remote Germany"
   },
   "OHB System AG": {
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8300?c=career-ohb": "(Senior) Project Controlling & Contracts Manager (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8569?c=career-ohb": "Structural Engineer (m/fwd)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8510?c=career-ohb": "Business Development Manager:in (m/w/d) - Earth Observation",
