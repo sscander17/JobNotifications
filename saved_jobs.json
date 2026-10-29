@@ -308,7 +308,6 @@
     "https://careers.qualcomm.com/careers/job/446721587832-account-manager-m-f-d-robotics-europe-munich-germany?domain=qualcomm.com": "Account Manager M F D Robotics Europe Munich Germany"
   },
   "Isar Aerospace": {
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4720039101": "Avionics Engineer - Thrust Vector Control Actuator (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940749101": "Chief Quality  Inspector (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4920269101": "Embedded Software Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4695889101": "Flugger\u00e4tmechaniker (m/w/d)",
@@ -1295,7 +1294,9 @@
   "ARM": {
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
-  "STMicroelectronics": {},
+  "STMicroelectronics": {
+    "https://stmicroelectronics.eightfold.ai/careers/job/563637172671770": "Sales Account Manager"
+  },
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356": "AI Platform Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/716b8f7a-dc69-41d9-acb2-1ccfd83a4fcd": "Design Quality Engineer (f/m/d)",
