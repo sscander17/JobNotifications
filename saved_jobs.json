@@ -475,8 +475,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-STRATOS-Ingenieurin-%28wmd%29/1447279833/": "Oberpfaffenhofen STRATOS Ingenieurin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434296633/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Personalreferentin-%28wmd%29/1417290133/": "Oberpfaffenhofen Personalreferentin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Produktsicherungsmanagerin-%28wmd%29-nach-ECSS-f%C3%BCr-%28Gro%C3%9F-%29Projekte-und-admin_-Projektmanagement/1437986433/": "Oberpfaffenhofen Produktsicherungsmanagerin (wmd) nach ECSS f\u00fcr (Gro\u00df )Projekte und admin_ Projektmanagement",
@@ -492,7 +490,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Entwicklung-und-Analyse-eines-softwarebasierten-SpaceWire-zu-Ethernet-Moduls/1435468033/": "Oberpfaffenhofen Masterarbeit (wmd) Entwicklung und Analyse eines softwarebasierten SpaceWire zu Ethernet Moduls",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-oder-Masterandin-%28wmd%29-Multipfad-Transportprotokolle/1443070933/": "Oberpfaffenhofen Praktikantin oder Masterandin (wmd) Multipfad Transportprotokolle",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-Master-Thesis-Student-Multi-Path-Transport-Protocols-%28mfd%29/1443071033/": "Oberpfaffenhofen Internship Master Thesis Student Multi Path Transport Protocols (mfd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-Master-Thesis-Student-Multi-Path-Transport-Protocols-%28mfd%29/1443071033/": "Oberpfaffenhofen Internship Master Thesis Student Multi Path Transport Protocols (mfd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -1149,7 +1149,6 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4790711101": "AI-Enabled Revenue Operations Specialist (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4987145101": "Business Intelligence Analyst (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4904613101": "Calibration Engineer (F/M/D)",
-    "https://job-boards.eu.greenhouse.io/navvis/jobs/4971995101": "Electrical Engineer (F/M/D) \u2013 Maternity/Parental leave cover ~1 year",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4940422101": "Full-Stack Software Engineer (F/M/D) ",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/5003319101": "IFRS Group Reporting & Consolidation Specialist (F/M/D) ",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4723895101": "Senior Cloud Software Engineer  (Python & AWS) (F/M/D)",
