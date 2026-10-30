@@ -63,6 +63,7 @@
     "https://helsing.ai/jobs/4963868101?gh_jid=4963868101": "Senior Commercial Finance Business Partner ",
     "https://helsing.ai/jobs/4880212101?gh_jid=4880212101": "Senior Commercial Manager - Air",
     "https://helsing.ai/jobs/4967013101?gh_jid=4967013101": "Senior Flight Test Engineer",
+    "https://helsing.ai/jobs/5017459101?gh_jid=5017459101": "Senior FP&A Analyst",
     "https://helsing.ai/jobs/5018705101?gh_jid=5018705101": "Senior Operational Architect/Analyst (UCAV)",
     "https://helsing.ai/jobs/5004097101?gh_jid=5004097101": "Senior Product Graphic Designer",
     "https://helsing.ai/jobs/4468911101?gh_jid=4468911101": "(Senior) Product Marketing Manager",
@@ -245,8 +246,8 @@
     "https://career.quantum-systems.com/o/kreditorenbuchhaltung-mfd": "Accounts Payable Accountant (m/f/d)",
     "https://career.quantum-systems.com/o/chef-de-partie-mwd-1": "Chef de Partie (m/f/d)",
     "https://career.quantum-systems.com/o/demi-chef-de-partie-mwd-1": "Demi Chef de Partie (m/w/d)",
+    "https://career.quantum-systems.com/o/mitarbeiterin-im-spulbereich-mfd": "Dishwasher (m/f/d)",
     "https://career.quantum-systems.com/o/hr-manager-mfd-quantum-frontline-industries": "HR Manager (m/f/d) - Quantum Frontline Industries",
-    "https://career.quantum-systems.com/o/junior-sous-chef-mwd-1": "Junior Sous Chef (m/f/d)",
     "https://career.quantum-systems.com/o/product-manager-autonomous-trucking-mfd-1": "Product Manager Autonomous Trucking (m/f/d)",
     "https://career.quantum-systems.com/o/product-manager-mission-payload-land-mfd": "Product Manager Mission Payload Land (m/f/d)",
     "https://career.quantum-systems.com/o/project-manager-mfd-quantum-frontline-industries": "Project Manager (m/f/d) Quantum Frontline Industries",
@@ -502,6 +503,7 @@
     "https://hive-robotics.jobs.personio.com/job/2777321": "Working Student HIL/SIL Test (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SW-Engineer---Onboard-Software--m-f-d-_JR10434584-1": "SW Engineer - Onboard Software (m/f/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Software-Development-Engineer---Embedded-Real-time-SW---m-f-d-_JR10434577-1": "Software Development Engineer - Embedded Real-time SW  (m/f/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Infrastructure-Operations-Specialist--m-w-d----HPE---VMware_JR10447220": "IT Infrastructure Operations Specialist (m/w/d) \u2013 HPE & VMware",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/IT-Product-Manager---Digital-Workplace---IP-Telephony--d-f-m-_JR10427884": "IT Product Manager \u2013 Digital Workplace - IP Telephony (d/f/m)",
@@ -531,7 +533,6 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--d-m-w-_JR10436695": "IT-Server-Administrator f\u00fcr Unix/Linux-Infrastrukturen (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent-Software-development--d-f-m-_JR10450258": "Werkstudent Software development (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Security-Administrator-in--d-w-m-_JR10444319": "IT Network Security Administrator/in (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student-for-Quality-Communications--d-f-m-_JR10449079": "Working Student for Quality Communications (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Domain-Architect-for-Data---Analytics--D-F-M-_JR10443132-1": "Domain Architect for Data & Analytics (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Technical-Specialist--d-w-m--for-Identity-and-Access-Management_JR10447526": "Technical Specialist (d/w/m) for Identity and Access Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Data-Handling-System-Engineer--d-m-w-_JR10433693-1": "Data Handling System Engineer (d/m/w)",
@@ -544,6 +545,8 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BA-BWL---Industrial-Business-Management--d-m-w--zum-01092027_JR10416563": "Duales Studium B.A. BWL - Industrial Business Management (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Energy-and-Power-System-Architect--f-m-d-_R-10063675": "Energy and Power System Architect (f/m/d)",
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/IP-Patent-Counsel--f-m-d-_R-10062555": "IP/Patent Counsel (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive) (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Engineer---AI-Enabled-Embedded-Software--Multi-GenAI-Orchestration-_R-10064751-1": "Principal Engineer \u2013 AI-Enabled Embedded Software / GenAI Orchestration (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Toulouse/Principal-Hardware---IC-Functional-Safety-Architect_R-10067377": "Principal Hardware & IC Functional Safety Architect",
@@ -882,6 +885,7 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194496.html": "Praktikant BMW Motorrad Vertriebsstrategie und Transformation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194090.html": "Praktikant Simulationsmodell Batteriesicherheit (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193946.html": "Abschlussarbeit K\u00fcnstliche Intelligenz und Large Language Models (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193813.html": "Praktikant Experiential Marketing (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194466.html": "Praktikant Sensorverbund f\u00fcr Automatisiertes Fahren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194175.html": "Praktikant AI Engineering E/E-Absicherung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190920.html": "Doktorand Finite-Elemente-Simulation f\u00fcr Hochvoltspeicher-Fertigung (w/m/x)",
