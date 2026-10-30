@@ -78,6 +78,7 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
@@ -288,7 +289,7 @@
     "https://career.quantum-systems.com/o/procurement-systems-manager-netsuite-mwd": "Procurement Systems Manager \u2013 NetSuite (m/w/d)",
     "https://career.quantum-systems.com/o/production-quality-specialist-mfd": "Production Quality Specialist  (m/f/d)",
     "https://career.quantum-systems.com/o/production-quality-technician-mfd": "Production Quality Technician (m/f/d)",
-    "https://career.quantum-systems.com/o/program-procurement-manager-land-domain-ugv-mfd": "Program Procurement Manager \u2013 Land Domain / UGV (m/f/d)"
+    "https://career.quantum-systems.com/o/quality-control-technician-mfd-4": "Quality Control Technician (m/f/d)"
   },
   "Qualcomm": {
     "https://careers.qualcomm.com/careers/job/446719708950-senior-director-sales-m-f-d-tier-i-automotive-munich-germany-qualcomm-munich-germany?domain=qualcomm.com": "Senior Director Sales M F D Tier I Automotive Munich Germany Qualcomm Munich Germany",
@@ -500,48 +501,6 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)",
     "https://hive-robotics.jobs.personio.com/job/2861381": "Working Student / Intern Product Marketing (m/f/d)",
     "https://hive-robotics.jobs.personio.com/job/2777321": "Working Student HIL/SIL Test (m/f/d)"
-  },
-  "Airbus": {
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Infrastructure-Operations-Specialist--m-w-d----HPE---VMware_JR10447220": "IT Infrastructure Operations Specialist (m/w/d) \u2013 HPE & VMware",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/IT-Product-Manager---Digital-Workplace---IP-Telephony--d-f-m-_JR10427884": "IT Product Manager \u2013 Digital Workplace - IP Telephony (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Specialist--d-m-w-_JR10423699": "IT Network Specialist (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/AI---Analytics-Adoption-Lead_JR10434449-1": "AI & Analytics Adoption Lead",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/CYBER-DEFENCE-ANALYST-L2--D-F-M-_JR10452387": "CYBER DEFENCE ANALYST L2 (D/F/M)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/VIE--d-f-m----HR-Project-Manager---H-F_JR10451106": "VIE (d/f/m) - HR Project Manager - H/F",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-in-fr-Linux-Infrastrukturen--d-w-m-_JR10449193": "IT-Server-Administrator/in f\u00fcr Linux-Infrastrukturen (d/w/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Berlin-Area/IT-Infrastructure-Specialist--d-m-w-_JR10422173-1": "IT Infrastructure Specialist (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788": "Internship within Commodity Management for IT Infrastructure (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT---Ground--d-f-m-_JR10451782": "Internship within Commodity Management for IT & Ground (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Cloud-Engineer---d-m-w-_JR10449365": "IT Cloud Engineer  (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth-Airbus-Protect/Line-Manager-Engineering-Helicopters-GE--D-F-M-_JR10444659": "Line Manager Engineering Helicopters GE (D/F/M)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Systems-Engineer--d-m-w-_JR10417940": "IT Systems Engineer (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/In-Service-Supply-Manager--d-m-w-_JR10449432-1": "In-Service Supply Manager (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SATCOMBw-Projektleiter-PMS-Software--m-w-d-_JR10448226-1": "SATCOMBw Projektleiter PMS Software (m/w/d)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Engineer--d-m-w-_JR10216124": "Cyber-Security-Engineer (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Satellite-Mission-Operations-Service-Architect--d-m-w-_JR10362220-1": "Satellite Mission Operations Service Architect (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student---Agile-SW-Development---Project-Support--d-m-w-_JR10442727-1": "Working Student (d/f/m) - Agile SW Development - Project Support",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/Junior--Technical--Project-Manager-Cloud-PSL--D-F-M-_JR10430337": "Junior (Technical) Project Manager Cloud PSL (D/F/M)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Flugdynamik-Ingenieur-fr-Satellitenbetrieb--m-w-d-_JR10450538": "Flugdynamik\u2011Ingenieur f\u00fcr Satellitenbetrieb (m/w/d)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ground-Segment-Systems-Engineer--d-f-m-_JR10407783": "Ground Segment Systems Engineer (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/PHD-Thesis--Quantum-Sensing-for-Navigation--d-f-m-_JR10416564": "PHD Thesis: Quantum Sensing for Navigation (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Business-Security-Manager--w--m--d-_JR10438174-1": "Business Security Manager (w, m, d)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Finance-and-Controlling-for-Facility-Management-and-Real-Estate--d-f-m-_JR10391539-1": "Finance and Controlling for Facility Management and Real Estate (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--d-m-w-_JR10436709": "IT-Server-Administrator f\u00fcr Unix/Linux-Infrastrukturen (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--d-m-w-_JR10436695": "IT-Server-Administrator f\u00fcr Unix/Linux-Infrastrukturen (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent-Software-development--d-f-m-_JR10450258": "Werkstudent Software development (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/AI---Analytics-DevOps-Engineer-Germany_JR10434313-1": "AI & Analytics DevOps Engineer Germany",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Security-Administrator-in--d-w-m-_JR10444319": "IT Network Security Administrator/in (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--im-Bereich-Solar-Array-Operations_JR10450247": "Werkstudent (d/m/w) im Bereich Solar Array Operations",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student-for-Quality-Communications--d-f-m-_JR10449079": "Working Student for Quality Communications (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Domain-Architect-for-Data---Analytics--D-F-M-_JR10443132-1": "Domain Architect for Data & Analytics (D/F/M)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Technical-Specialist--d-w-m--for-Identity-and-Access-Management_JR10447526": "Technical Specialist (d/w/m) for Identity and Access Management",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Data-Handling-System-Engineer--d-m-w-_JR10433693-1": "Data Handling System Engineer (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Data-Science-und-Knstliche-Intelligenz--d-m-w--zum-01092027_JR10416527": "Duales Studium B.Sc. Data Science und K\u00fcnstliche Intelligenz (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Fachinformatiker-Systemintegration--d-m-w--zum-01092027_JR10416533": "Ausbildung Fachinformatiker Systemintegration (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Aerospace--Cyber-Security-System-Architect--d-m-w-_JR10443449": "Aerospace  Cyber Security System Architect (d/m/w)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive) (f/m/d)",
@@ -965,6 +924,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/industriemechaniker-manuelle-reparatur-all-genders/": "Industriemechaniker manuelle Reparatur (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-08022027-12022027/": "Sch\u00fclerpraktikum Industriemechanik 08.02.2027 - 12.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-hr-executive-management-all-genders/": "Werkstudent HR - Executive Management (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-eventmanagement-azubimarketing-all-genders/": "Praktikum Eventmanagement & Azubimarketing (all genders)",
@@ -1292,9 +1252,7 @@
     "https://careers.arm.com/job/munich/senior-software-engineer/33099/102283981216": "Senior Software Engineer",
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
-  "STMicroelectronics": {
-    "https://stmicroelectronics.eightfold.ai/careers/job/563637172671770": "Sales Account Manager"
-  },
+  "STMicroelectronics": {},
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356": "AI Platform Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/716b8f7a-dc69-41d9-acb2-1ccfd83a4fcd": "Design Quality Engineer (f/m/d)",
