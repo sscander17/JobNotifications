@@ -237,8 +237,6 @@
     "https://career.quantum-systems.com/o/social-creative-mfd-concepts-formats": "Social Creative (m/f/d) \u2013 Concepts & Formats",
     "https://career.quantum-systems.com/o/social-video-creator-mfd-shoot-edit": "Social Video Creator (m/f/d) \u2013 Shoot & Edit.",
     "https://career.quantum-systems.com/o/commis-de-cuisine-mwd": "Commis de Cuisine (m/w/d)",
-    "https://career.quantum-systems.com/o/computer-vision-ai-engineer-interceptor-cuas-mfd-3": "Computer Vision & AI Engineer - Interceptor C\u2011UAS (m/f/d)",
-    "https://career.quantum-systems.com/o/embedded-linux-release-engineer-mfd": "Embedded Linux & Release Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/head-of-group-assurance-mfd": "Head of Group Assurance (m/f/d)",
     "https://career.quantum-systems.com/o/head-of-risk-governance-mfd": "Head of Risk Governance (m/f/d)",
     "https://career.quantum-systems.com/o/senior-manager-business-ethics-speak-up-investigations-mfd": "Senior Manager Business Ethics, Speak-up & Investigations (m/f/d)",
@@ -267,9 +265,10 @@
     "https://career.quantum-systems.com/o/senior-frontend-engineer-cloud-solutions-mfd": "(Senior) Frontend Engineer \u2013 Cloud Solutions (m/f/d)",
     "https://career.quantum-systems.com/o/senior-ml-platform-engineer-mfd": "(Senior) ML Platform Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/senior-software-engineer-developer-enablement-mfd": "(Senior) Software Engineer - Developer Enablement (m/f/d)",
+    "https://career.quantum-systems.com/o/computer-vision-ai-engineer-interceptor-cuas-mfd-3": "Computer Vision & AI Engineer - Interceptor C\u2011UAS (m/f/d)",
     "https://career.quantum-systems.com/o/development-engineer-production-automated-testing-fmd": "Development Engineer Production \u2013 Automated Testing (f/m/d)",
+    "https://career.quantum-systems.com/o/embedded-linux-release-engineer-mfd": "Embedded Linux & Release Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/embedded-rust-engineer-mfd": "Embedded RUST Engineer (m/f/d)",
-    "https://career.quantum-systems.com/o/embedded-software-engineer-mfd-3": "Embedded Software Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/initiativbewerbung": "Unsolicited application (m/f/d)",
     "https://career.quantum-systems.com/o/master-thesis-advanced-sensor-processing-for-navigation-mfd": "Master Thesis - Advanced Sensor Processing for Navigation (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-order-processing-export-master-data-administration-mfd": "Werkstudent \u2013 Auftragsabwicklung, Export & Stammdatenmanagement (m/w/d)",
@@ -289,7 +288,7 @@
     "https://career.quantum-systems.com/o/procurement-systems-manager-netsuite-mwd": "Procurement Systems Manager \u2013 NetSuite (m/w/d)",
     "https://career.quantum-systems.com/o/production-quality-specialist-mfd": "Production Quality Specialist  (m/f/d)",
     "https://career.quantum-systems.com/o/production-quality-technician-mfd": "Production Quality Technician (m/f/d)",
-    "https://career.quantum-systems.com/o/quality-control-technician-mfd-4": "Quality Control Technician (m/f/d)"
+    "https://career.quantum-systems.com/o/quality-compliance-manager-mfd": "Quality & Compliance Manager (m/f/d)"
   },
   "Qualcomm": {
     "https://careers.qualcomm.com/careers/job/446719708950-senior-director-sales-m-f-d-tier-i-automotive-munich-germany-qualcomm-munich-germany?domain=qualcomm.com": "Senior Director Sales M F D Tier I Automotive Munich Germany Qualcomm Munich Germany",
@@ -503,6 +502,7 @@
     "https://hive-robotics.jobs.personio.com/job/2777321": "Working Student HIL/SIL Test (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Software-Development-Engineer---Embedded-Real-time-SW---m-f-d-_JR10434577-1": "Software Development Engineer - Embedded Real-time SW  (m/f/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Infrastructure-Operations-Specialist--m-w-d----HPE---VMware_JR10447220": "IT Infrastructure Operations Specialist (m/w/d) \u2013 HPE & VMware",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/IT-Product-Manager---Digital-Workplace---IP-Telephony--d-f-m-_JR10427884": "IT Product Manager \u2013 Digital Workplace - IP Telephony (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Specialist--d-m-w-_JR10423699": "IT Network Specialist (d/m/w)",
@@ -541,12 +541,9 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Data-Science-und-Knstliche-Intelligenz--d-m-w--zum-01092027_JR10416527": "Duales Studium B.Sc. Data Science und K\u00fcnstliche Intelligenz (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Fachinformatiker-Systemintegration--d-m-w--zum-01092027_JR10416533": "Ausbildung Fachinformatiker Systemintegration (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Aerospace--Cyber-Security-System-Architect--d-m-w-_JR10443449": "Aerospace  Cyber Security System Architect (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BA-BWL---Industrial-Business-Management--d-m-w--zum-01092027_JR10416563": "Duales Studium B.A. BWL - Industrial Business Management (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/SAP-ERP-Functional-Expert-PS--d-w-m-_JR10431203": "SAP ERP Functional Expert PS (d/w/m)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BA-BWL---Industrial-Business-Management--d-m-w--zum-01092027_JR10416563": "Duales Studium B.A. BWL - Industrial Business Management (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Energy-and-Power-System-Architect--f-m-d-_R-10063675": "Energy and Power System Architect (f/m/d)",
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/IP-Patent-Counsel--f-m-d-_R-10062555": "IP/Patent Counsel (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive) (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Principal-Engineer---AI-Enabled-Embedded-Software--Multi-GenAI-Orchestration-_R-10064751-1": "Principal Engineer \u2013 AI-Enabled Embedded Software / GenAI Orchestration (f/m/d)",
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Toulouse/Principal-Hardware---IC-Functional-Safety-Architect_R-10067377": "Principal Hardware & IC Functional Safety Architect",
@@ -885,7 +882,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194496.html": "Praktikant BMW Motorrad Vertriebsstrategie und Transformation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194090.html": "Praktikant Simulationsmodell Batteriesicherheit (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193946.html": "Abschlussarbeit K\u00fcnstliche Intelligenz und Large Language Models (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193813.html": "Praktikant Experiential Marketing (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194466.html": "Praktikant Sensorverbund f\u00fcr Automatisiertes Fahren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194175.html": "Praktikant AI Engineering E/E-Absicherung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190920.html": "Doktorand Finite-Elemente-Simulation f\u00fcr Hochvoltspeicher-Fertigung (w/m/x)",
@@ -1134,8 +1130,8 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/power-electronics-engineer-all-genders-emosys-gmbh/": "Power Electronics Engineer (all genders) - eMoSys GmbH"
   },
   "Cariad": {
-    "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Working-Student-Market-&-Technology-Intelligence-%28wmd%29-85053/1452400633/": "Internship / Working Student - Market & Technology Intelligence (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internship-UX-Research-%28mfd%29-10587/1450128533/": "Internship - UX Research (m/f/d)",
@@ -1292,9 +1288,7 @@
     "https://careers.arm.com/job/munich/senior-software-engineer/33099/102283981216": "Senior Software Engineer",
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
-  "STMicroelectronics": {
-    "https://stmicroelectronics.eightfold.ai/careers/job/563637172671770": "Sales Account Manager"
-  },
+  "STMicroelectronics": {},
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356": "AI Platform Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/716b8f7a-dc69-41d9-acb2-1ccfd83a4fcd": "Design Quality Engineer (f/m/d)",
