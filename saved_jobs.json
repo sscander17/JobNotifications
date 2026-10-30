@@ -426,7 +426,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-for-AI-based-system-dynamics-and-control-engineering/1435325333/": "Oberpfaffenhofen Engineer (fmx) for AI based system dynamics and control engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Fehlermodellierung-und-Spatial-AI-f%C3%BCr-sichere%2C-multisensorielle-Navigation/1413693033/": "Oberpfaffenhofen Ingenieurin (wmd) Fehlermodellierung und Spatial AI f\u00fcr sichere, multisensorielle Navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-dissertation-project-%28mfd%29-Zonal-communication-architecture-for-robotic-hands/1423443733/": "Oberpfaffenhofen Undergraduate and dissertation project (mfd) Zonal communication architecture for robotic hands",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-Master-Thesis-Student-Multi-Path-Transport-Protocols-%28mfd%29/1443071033/": "Oberpfaffenhofen Internship Master Thesis Student Multi Path Transport Protocols (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Industriemechanikerin-%28wmd%29/1428305433/": "Oberpfaffenhofen Ausbildung zurzum Industriemechanikerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Adaptive-Optics-Technologies-for-Free-Space-Optical-Communication/1424193233/": "Oberpfaffenhofen Engineer (fmx) Adaptive Optics Technologies for Free Space Optical Communication",
@@ -466,7 +465,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Semantic-aware-PHY-Layer-Techniques-for-Cooperative-Drone-Swarm-Communication-%28fmx%29/1419818333/": "Oberpfaffenhofen Master Thesis Semantic aware PHY Layer Techniques for Cooperative Drone Swarm Communication (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-oder-Masterandin-%28wmd%29-Multipfad-Transportprotokolle/1443070933/": "Oberpfaffenhofen Praktikantin oder Masterandin (wmd) Multipfad Transportprotokolle",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-GPU-beschleunigte-Implementierung-und-Optimierung/1412288233/": "Oberpfaffenhofen Masterarbeit (wmd) GPU beschleunigte Implementierung und Optimierung",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Informatik-oder-Physik/1439294433/": "Oberpfaffenhofen Masterstudentin (wmd) in Informatik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1435220933/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
@@ -492,7 +490,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Gruppenleitung-%28wmd%29-Missionskontroll-und-Datensysteme/1428222133/": "Oberpfaffenhofen Gruppenleitung (wmd) Missionskontroll und Datensysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Entwicklung-und-Analyse-eines-softwarebasierten-SpaceWire-zu-Ethernet-Moduls/1435468033/": "Oberpfaffenhofen Masterarbeit (wmd) Entwicklung und Analyse eines softwarebasierten SpaceWire zu Ethernet Moduls",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-oder-Masterandin-%28wmd%29-Multipfad-Transportprotokolle/1443070933/": "Oberpfaffenhofen Praktikantin oder Masterandin (wmd) Multipfad Transportprotokolle",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-Master-Thesis-Student-Multi-Path-Transport-Protocols-%28mfd%29/1443071033/": "Oberpfaffenhofen Internship Master Thesis Student Multi Path Transport Protocols (mfd)"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -1136,14 +1136,14 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/power-electronics-engineer-all-genders-emosys-gmbh/": "Power Electronics Engineer (all genders) - eMoSys GmbH"
   },
   "Cariad": {
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Working-Student-Market-&-Technology-Intelligence-%28wmd%29-85053/1452400633/": "Internship / Working Student - Market & Technology Intelligence (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internship-UX-Research-%28mfd%29-10587/1450128533/": "Internship - UX Research (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Internship-Master&apos;s-Thesis-Physics-Informed-ML-for-Vehicle-Dynamics-Identification-%28mfd%29-80807/1449263633/": "Internship / Master's Thesis: Physics-Informed ML for Vehicle Dynamics Identification (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Automotive-Software-Development-for-Parking-Functions-%28mfd%29-85053/1447900133/": "Working Student - Automotive Software Development for Parking Functions (m/f/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633/": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)"
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)"
   },
   "NavVis": {
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4790711101": "AI-Enabled Revenue Operations Specialist (F/M/D)",
@@ -1290,6 +1290,8 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
+    "https://careers.arm.com/job/munich/staff-software-engineer-release-and-defect-lead/33099/97895593504": "Staff Software Engineer \u2013 Release & Defect Lead",
+    "https://careers.arm.com/job/munich/senior-software-engineer/33099/102283981216": "Senior Software Engineer",
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
   "STMicroelectronics": {
