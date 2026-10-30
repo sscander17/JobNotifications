@@ -78,8 +78,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/4776546101?gh_jid=4776546101": "(Senior) Systems Safety Engineer - Air",
     "https://helsing.ai/jobs/4924017101?gh_jid=4924017101": "(Senior) Systems Safety Engineer - Land",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -502,6 +502,7 @@
     "https://hive-robotics.jobs.personio.com/job/2777321": "Working Student HIL/SIL Test (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-student-on-5G-and-LEO-satellite-communication-signals--d-f-m-_JR10445545": "Werkstudent (d/m/w) im Bereich 5G- und LEO- Satellitenkommunikationssignale",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SW-Engineer---Onboard-Software--m-f-d-_JR10434584-1": "SW Engineer - Onboard Software (m/f/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Software-Development-Engineer---Embedded-Real-time-SW---m-f-d-_JR10434577-1": "Software Development Engineer - Embedded Real-time SW  (m/f/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Infrastructure-Operations-Specialist--m-w-d----HPE---VMware_JR10447220": "IT Infrastructure Operations Specialist (m/w/d) \u2013 HPE & VMware",
@@ -540,8 +541,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Data-Science-und-Knstliche-Intelligenz--d-m-w--zum-01092027_JR10416527": "Duales Studium B.Sc. Data Science und K\u00fcnstliche Intelligenz (d/m/w) zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ausbildung-Fachinformatiker-Systemintegration--d-m-w--zum-01092027_JR10416533": "Ausbildung Fachinformatiker Systemintegration (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Aerospace--Cyber-Security-System-Architect--d-m-w-_JR10443449": "Aerospace  Cyber Security System Architect (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BA-BWL---Industrial-Business-Management--d-m-w--zum-01092027_JR10416563": "Duales Studium B.A. BWL - Industrial Business Management (d/m/w) zum 01.09.2027"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Aerospace--Cyber-Security-System-Architect--d-m-w-_JR10443449": "Aerospace  Cyber Security System Architect (d/m/w)"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Energy-and-Power-System-Architect--f-m-d-_R-10063675": "Energy and Power System Architect (f/m/d)",
