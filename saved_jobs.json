@@ -48,7 +48,6 @@
     "https://helsing.ai/jobs/4948277101?gh_jid=4948277101": "Obsolescence Manager ",
     "https://helsing.ai/jobs/4947489101?gh_jid=4947489101": "Optical Sensing Test Engineer",
     "https://helsing.ai/jobs/4876698101?gh_jid=4876698101": "Payroll Specialist",
-    "https://helsing.ai/jobs/4841774101?gh_jid=4841774101": "People Business Partner - Munich",
     "https://helsing.ai/jobs/4862537101?gh_jid=4862537101": "Procurement Project Manager",
     "https://helsing.ai/jobs/4642812101?gh_jid=4642812101": "Production Engineer - Mechatronic Systems",
     "https://helsing.ai/jobs/4788891101?gh_jid=4788891101": "Production Engineer - Software Integration",
@@ -184,6 +183,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-strategic-procurement-engineer-mfd": "Senior Strategic Procurement Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/strategic-development-manager-mfd": "Strategic Development Manager (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-export-control-manager-defense-mfd": "Senior Export Control Manager - Defense (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/growth-manager-dach-mfd": "Growth Manager - DACH (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-flight-testing-mfd": "Unsolicited Application: Working Student - Flight Testing (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-hardware-engineering-working-student-fmd": "Unsolicited - Hardware Engineering Working Student (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/unsolicited-application-working-student-software-engineering-mfd": "Unsolicited Application: Working Student - Software Engineering (m/f/d)",
@@ -468,7 +468,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-Master-Thesis-Student-Multi-Path-Transport-Protocols-%28mfd%29/1443071033/": "Oberpfaffenhofen Internship Master Thesis Student Multi Path Transport Protocols (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-for-optical-communication-and-ground-stations-%28fmx%29/1429120633/": "Oberpfaffenhofen Internship for optical communication and ground stations (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Missions-Engineering/1435220533/": "Oberpfaffenhofen Masterarbeit (wmd) Missions Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Senior-IT-Systems-Engineer-%28wmd%29-Bodensegment/1397660833/": "Oberpfaffenhofen Senior IT Systems Engineer (wmd) Bodensegment",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
@@ -488,7 +487,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-KI-Methoden-in-der-Software-Qualit%C3%A4tssicherung-f%C3%BCr-die-Raumfahrt/1433339933/": "Oberpfaffenhofen Informatikerin (wmd) KI Methoden in der Software Qualit\u00e4tssicherung f\u00fcr die Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Adaptive-Optics-Technologies-for-Free-Space-Optical-Communication/1424193233/": "Oberpfaffenhofen Engineer (fmx) Adaptive Optics Technologies for Free Space Optical Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin-%28wmd%29-Experimentaldesign-in-der-verteilten-akustischen-Sensorik/1452145233/": "Oberpfaffenhofen Geophysikerin (wmd) Experimentaldesign in der verteilten akustischen Sensorik"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin-%28wmd%29-Experimentaldesign-in-der-verteilten-akustischen-Sensorik/1452145233/": "Oberpfaffenhofen Geophysikerin (wmd) Experimentaldesign in der verteilten akustischen Sensorik",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Missions-Engineering/1435220533/": "Oberpfaffenhofen Masterarbeit (wmd) Missions Engineering"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -590,17 +590,8 @@
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018470/": "Analog Design Engineering Intern m/f/d"
   },
-  "Intel": {
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/HPC-Customer-Workload-Optimization-Engineer--m-f-d-_JR0288726": "HPC Customer Workload Optimization Engineer (m/f/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Sales-Account-Manager-Manager---Robotics-and-Physical-AI--EMEA---m-f-d-_JR0288477-1": "Sales Account Manager Manager \u2014 Robotics and Physical AI (EMEA) (m/f/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-Software-Development-Engineer---Neuromorphic-Computing--m-f-d---Fixed-Term-_JR0287336": "AI Software Development Engineer - Neuromorphic Computing (m/f/d) (Fixed-Term)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215": "Software Development Intern (m/f/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205": "Development Tools Software Engineer Intern (m/f/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)"
-  },
   "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Analog-Design-Engineering-Intern_R267032-1": "Analog Design Engineering Intern",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Director--DataX-Business---Ecosystem_R267244": "Senior Director, DataX Business & Ecosystem",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Applications-Engineering---Field-Applications-Intern_R267087": "Applications Engineering - Field Applications Intern",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Engineer--Field-Applications_R267397": "Engineer, Field Applications",
@@ -612,7 +603,6 @@
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R267209": "Staff Engineer, Field Applications",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-AI--ML-Robotics-Engineer---Environmental-Perception_R267084": "Principal AI/ ML Robotics Engineer - Environmental Perception",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Engineering-Graduate--Field-Applications-_R266836": "FY27 Graduate Field Applications Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Analog-Design-Engineering-Intern_R267032-1": "Analog Design Engineering Intern",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Design-Analysis-Enablement-Engineer_R266599": "CAD Engineer - Mixed Signal Simulations",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Electronic-Engineering-Graduate-Opportunities_R266924": "FY27 Electronic Engineering Graduate Opportunities",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Field-Applications-Engineer-Intern_R266838": "FY27 Field Applications Engineer Intern",
@@ -934,9 +924,9 @@
     "https://stark.jobs.personio.com/job/2407218": "Senior Safety Engineer - Loitering Systems (all genders)"
   },
   "Renesas Electronics": {
+    "https://jobs.renesas.com/job/graduate-junior-technical-sales-engineer-f-m-d-in-munich-germany-jid-7407": "Graduate/Junior Technical Sales Engineer (f/m/d)",
     "https://jobs.renesas.com/job/account-manager-new-logo-german-speaking-w-m-d-in-munich-by-germany-jid-6371": "Account Manager - New Logo (German speaking, w/m/d)",
     "https://jobs.renesas.com/job/senior-staff-cad-engineer-in-munich-by-germany-jid-7377": "Senior Staff CAD Engineer",
-    "https://jobs.renesas.com/job/graduate-junior-technical-sales-engineer-f-m-d-in-munich-germany-jid-7407": "Graduate/Junior Technical Sales Engineer (f/m/d)",
     "https://jobs.renesas.com/job/account-manager-new-logo-italian-or-french-speaking-in-munich-by-germany-jid-7175": "Account Manager - New Logo (Italian or French speaking)",
     "https://jobs.renesas.com/job/senior-staff-segment-strategy-automotive-and-emobility-applications-f-m-d-in-munich-germany-jid-7296": "Senior Staff Segment Strategy \u2013 Automotive and eMobility Applications (f/m/d)",
     "https://jobs.renesas.com/job/principal-eda-engineer-in-munich-by-germany-jid-7347": "Principal EDA Engineer",
@@ -1001,7 +991,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-digitalisierung-prozessmanagement-sap-ai-all-genders/": "Praktikum Digitalisierung & Prozessmanagement SAP AI (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/instandhalter-mechanik-fokus-chemische-verfahrenstechnik-all-genders/": "Instandhalter Mechanik Fokus chemische Verfahrenstechnik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-hr-global-mobility-all-genders/": "Werkstudent HR Global Mobility (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/sekretaerin-/-teamassistenz-all-genders/": "Sekret\u00e4rin / Teamassistenz (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-digitalisierung-prozessgestaltung-anlagenmanagement-all-genders/": "Werkstudent Digitalisierung & Prozessgestaltung Anlagenmanagement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/oberflaechenbeschichter-als-verfahrensfachkraft-all-genders/": "Oberfl\u00e4chenbeschichter als Verfahrensfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/abschlussarbeit-machine-learning-all-genders/": "Abschlussarbeit Machine Learning (all genders)",
@@ -1282,7 +1271,9 @@
     "https://careers.arm.com/job/munich/senior-software-engineer/33099/102283981216": "Senior Software Engineer",
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
-  "STMicroelectronics": {},
+  "STMicroelectronics": {
+    "https://stmicroelectronics.eightfold.ai/careers/job/563637172749386": "Technical Sales"
+  },
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356": "AI Platform Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/716b8f7a-dc69-41d9-acb2-1ccfd83a4fcd": "Design Quality Engineer (f/m/d)",
