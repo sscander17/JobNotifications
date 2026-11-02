@@ -162,7 +162,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-hr-operations-process-specialist-mfd": "Senior HR Operations & Process Specialist (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/customer-success-manager-land-domain-mfd": "Customer Success Manager - Land Domain (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/controls-engineer-gis-ground-infrastructure-system-mfd": "Controls Engineer - GIS (Ground Infrastructure System) (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/solutions-architect-working-student-mfd": "Solutions Architect Working Student (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/flight-simulation-software-engineer-mfd": "Flight Simulation Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/full-stack-engineer-fmd": "Full-stack Engineer (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/requirements-engineer-mfd": "Requirements Engineer (m/f/d)",
@@ -595,31 +594,6 @@
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)"
   },
-  "Analog Devices": {
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/NCG---Business-FAE-Track_R267693": "NCG - Business FAE Track",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/NCG---System-Platform-FAE-Track_R267692": "NCG - System Platform FAE Track",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Analog-Design-Engineering-Intern_R267032-1": "Analog Design Engineering Intern",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Director--DataX-Business---Ecosystem_R267244": "Senior Director, DataX Business & Ecosystem",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Applications-Engineering---Field-Applications-Intern_R267087": "Applications Engineering - Field Applications Intern",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Engineer--Field-Applications_R267397": "Engineer, Field Applications",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Field-Sales-Engineer_R267485": "Field Sales Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Engineer--Analog-Design-Engineering_R267438": "Engineer, Analog Design Engineering",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Engineer--Field-Applications_R267181": "Principal Engineer, Field Applications",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Digital-Design-Engineer_R264207": "Senior Digital Design Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Principal-AI-ML-Engineer--Robotics-_R265198": "Principal AI/ML Engineer (Robotics)",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R267209": "Staff Engineer, Field Applications",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-AI--ML-Robotics-Engineer---Environmental-Perception_R267084": "Principal AI/ ML Robotics Engineer - Environmental Perception",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Engineering-Graduate--Field-Applications-_R266836": "FY27 Graduate Field Applications Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Design-Analysis-Enablement-Engineer_R266599": "CAD Engineer - Mixed Signal Simulations",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Electronic-Engineering-Graduate-Opportunities_R266924": "FY27 Electronic Engineering Graduate Opportunities",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Field-Applications-Engineer-Intern_R266838": "FY27 Field Applications Engineer Intern",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Customer-System-Measurement-Engineer_R265672": "Principal ATE Customer System Measurement Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Customer-System-Measurement-Engineer_R265671": "Staff ATE Customer System Measurement Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R265841": "Staff Engineer, Field Applications",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Account-Manager--Field-Sales_R265618": "Principal Account Manager, Field Sales",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Newbury/Staff-Mixed-Signal-Design-Engineer_R264622": "Staff Mixed-Signal Design Engineer"
-  },
   "Engineering Minds Munich": {
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_MissionCore_Flyer_2026-1.pdf": "Explore MissionCore \u2197 Fact Sheet \u2193",
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_HRT_Flyer_2026-1.pdf": "Explore HRT \u2197 Fact Sheet \u2193"
@@ -935,7 +909,6 @@
     "https://jobs.renesas.com/job/senior-staff-business-development-engineer-xev-solutions-f-m-d-in-munich-germany-jid-7017": "Senior  Staff Business Development Engineer xEV Solutions (f/m/d)",
     "https://jobs.renesas.com/job/partner-channel-manager-emea-in-munich-germany-jid-6991": "Partner Channel Manager (EMEA)",
     "https://jobs.renesas.com/job/impedance-sensor-application-engineer-f-m-d-in-munich-germany-jid-6938": "Impedance Sensor Application Engineer (f/m/d)",
-    "https://jobs.renesas.com/job/account-manager-german-speaking-w-m-d-in-munich-by-germany-jid-6081": "Account Manager - German speaking (w/m/d)",
     "https://jobs.renesas.com/job/principal-sr-principal-engineer-application-engineering-f-m-d-in-munich-germany-jid-6327": "Principal/Sr Principal Engineer, Application Engineering (f/m/d)",
     "https://jobs.renesas.com/job/principal-technical-leader-for-automotive-systems-power-in-munich-bavaria-germany-jid-6285": "Principal Technical Leader for Automotive Systems Power",
     "https://jobs.renesas.com/job/principal-analog-engineer-intelligent-power-devices-in-munich-germany-jid-6183": "Principal Analog Engineer - Intelligent Power Devices",
@@ -1016,7 +989,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-energy-management-machine-connectivity-all-genders/": "Werkstudent Energy Management - Machine Connectivity (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/finance-business-partner-business-development-/-aero-solutions-all-genders/": "Finance Business Partner Business Development / Aero Solutions (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/process-designer-record-to-report-general-accounting-all-genders/": "Process Designer Record-to-Report - General Accounting (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/process-designer-record-to-report-asset-accounting-all-genders/": "Process Designer Record-to-Report - Asset Accounting (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/abschlussarbeit-im-bereich-der-additiven-fertigung-all-genders/": "Abschlussarbeit im Bereich der Additiven Fertigung (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-fachkraft-fuer-lagerlogistik-2026-/-2027/": "Sch\u00fclerpraktikum Fachkraft f\u00fcr Lagerlogistik 2026 / 2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-fraesen-all-genders/": "Zerspanungsfachkraft Fr\u00e4sen (all genders)",
@@ -1237,6 +1209,7 @@
     "https://jobs.nvidia.com/careers/job/893382452913-senior-software-and-system-architect-remote-france?domain=nvidia.com": "Senior Software And System Architect Remote France"
   },
   "OHB System AG": {
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8938?c=career-ohb": "Electro-Functional Systems Engineer Instrument (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8300?c=career-ohb": "(Senior) Project Controlling & Contracts Manager (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8569?c=career-ohb": "Structural Engineer (m/fwd)",
