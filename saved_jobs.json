@@ -53,6 +53,7 @@
     "https://helsing.ai/jobs/4947377101?gh_jid=4947377101": "Product Manager, Autonomous Systems Command & Control",
     "https://helsing.ai/jobs/4869481101?gh_jid=4869481101": "Product Manager \u2014 Electronic Warfare (Offboard & Cross-Platform)",
     "https://helsing.ai/jobs/4999686101?gh_jid=4999686101": "Product Manager \u2013 Perception & Sensor Fusion - Air",
+    "https://helsing.ai/jobs/5025576101?gh_jid=5025576101": "Programme Procurement and Partnership Manager",
     "https://helsing.ai/jobs/4862586101?gh_jid=4862586101": "Quality Inspector - Production Quality",
     "https://helsing.ai/jobs/4948063101?gh_jid=4948063101": "Safety Manager (System Safety) ",
     "https://helsing.ai/jobs/4823231101?gh_jid=4823231101": "Schichtleiter in der Produktion",
@@ -96,6 +97,7 @@
     "https://helsing.ai/jobs/4902679101?gh_jid=4902679101": "Systems Engineer (Avionics)",
     "https://helsing.ai/jobs/4787205101?gh_jid=4787205101": "Systems Engineer - Command and Control (Air)",
     "https://helsing.ai/jobs/4865559101?gh_jid=4865559101": "Systems Engineer - Electromagnetic Interference (EMI)",
+    "https://helsing.ai/jobs/5024730101?gh_jid=5024730101": "Systems Engineer - Interceptors",
     "https://helsing.ai/jobs/4327973101?gh_jid=4327973101": "Systems Engineer - Land",
     "https://helsing.ai/jobs/4995384101?gh_jid=4995384101": "Systems Engineer - Low Observability Testing",
     "https://helsing.ai/jobs/4839745101?gh_jid=4839745101": "Systems Engineer - Physical Products",
@@ -283,7 +285,8 @@
     "https://career.quantum-systems.com/o/procurement-systems-manager-netsuite-mwd": "Procurement Systems Manager \u2013 NetSuite (m/w/d)",
     "https://career.quantum-systems.com/o/production-quality-specialist-mfd": "Production Quality Specialist  (m/f/d)",
     "https://career.quantum-systems.com/o/production-quality-technician-mfd": "Production Quality Technician (m/f/d)",
-    "https://career.quantum-systems.com/o/quality-compliance-manager-mfd": "Quality & Compliance Manager (m/f/d)"
+    "https://career.quantum-systems.com/o/quality-compliance-manager-mfd": "Quality & Compliance Manager (m/f/d)",
+    "https://career.quantum-systems.com/o/quality-control-technician-mfd-4": "Quality Control Technician (m/f/d)"
   },
   "Qualcomm": {
     "https://careers.qualcomm.com/careers/job/446721587936-robotics-product-expert-m-f-d-europe-munich-germany?domain=qualcomm.com": "Robotics Product Expert M F D Europe Munich Germany",
@@ -480,12 +483,12 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Fehlermodellierung-und-Spatial-AI-f%C3%BCr-sichere%2C-multisensorielle-Navigation/1413693033/": "Oberpfaffenhofen Ingenieurin (wmd) Fehlermodellierung und Spatial AI f\u00fcr sichere, multisensorielle Navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elec_-EngineeringPhysicsComputer-Science-InternshipMaster-Thesis-Student-%28MAC-Methods%29-%28mfd%29/1452946033/": "Oberpfaffenhofen Elec_ EngineeringPhysicsComputer Science InternshipMaster Thesis Student (MAC Methods) (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Antenna-Development-for-Satellite-Navigation-and-Communication/1453634333/": "Oberpfaffenhofen Engineer (fmd) Antenna Development for Satellite Navigation and Communication",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Antennenentwicklung-f%C3%BCr-Satellitennavigation-und-Kommunikation/1453634233/": "Oberpfaffenhofen Ingenieurin (wmd) Antennenentwicklung f\u00fcr Satellitennavigation und Kommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-Informatik-oder-Physik/1439294433/": "Oberpfaffenhofen Masterstudentin (wmd) Informatik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elektronik-und-Mechatronikingenieurin-%28wmd%29-Forschungsraketen/1398673833/": "Oberpfaffenhofen Elektronik und Mechatronikingenieurin (wmd) Forschungsraketen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Regelungs-und-Softwareingenieurin-%28wmd%29/1398668133/": "Oberpfaffenhofen Regelungs und Softwareingenieurin (wmd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Regelungs-und-Softwareingenieurin-%28wmd%29/1398668133/": "Oberpfaffenhofen Regelungs und Softwareingenieurin (wmd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Antenna-Development-for-Satellite-Navigation-and-Communication/1453634333/": "Oberpfaffenhofen Engineer (fmd) Antenna Development for Satellite Navigation and Communication",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Antennenentwicklung-f%C3%BCr-Satellitennavigation-und-Kommunikation/1453634233/": "Oberpfaffenhofen Ingenieurin (wmd) Antennenentwicklung f\u00fcr Satellitennavigation und Kommunikation"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -950,6 +953,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/hr-integration-manager-all-genders/": "HR Integration Manager (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-2/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/cio-managementassistenz-all-genders/": "CIO Managementassistenz (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-ki-entwicklung-fuer-multi-agenten-systeme-in-der-triebwerkserprobung-all-genders-1/": "Werkstudent KI-Entwicklung f\u00fcr Multi-Agenten-Systeme in der Triebwerkserprobung (all genders)",
@@ -1049,7 +1053,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/archive-specialist-all-genders/": "Archive Specialist (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-mechatronik-/-elektronik-automatisierungstechnik-02082027-05082027/": "Sch\u00fclerpraktikum Mechatronik / Elektronik Automatisierungstechnik 02.08.2027 - 05.08.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-mechatronik-/-elektronik-automatisierungstechnik-18052027-21052027/": "Sch\u00fclerpraktikum Mechatronik / Elektronik Automatisierungstechnik 18.05.2027 - 21.05.2027",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-mechatronik-/-elektronik-automatisierungstechnik-30032027-02042027/": "Sch\u00fclerpraktikum Mechatronik / Elektronik Automatisierungstechnik 30.03.2027 - 02.04.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-12072027-16072027/": "Sch\u00fclerpraktikum Industriemechanik 12.07.2027 - 16.07.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-21062027-25062027/": "Sch\u00fclerpraktikum Industriemechanik 21.06.2027 - 25.06.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-07062027-11062027/": "Sch\u00fclerpraktikum Industriemechanik 07.06.2027 - 11.06.2027",
