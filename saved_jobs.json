@@ -444,10 +444,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Entwicklung-und-Analyse-eines-softwarebasierten-SpaceWire-zu-Ethernet-Moduls/1435468033/": "Oberpfaffenhofen Masterarbeit (wmd) Entwicklung und Analyse eines softwarebasierten SpaceWire zu Ethernet Moduls",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Computer-Scientist-%28fmx%29-specialized-in-AI-methods-for-software-quality-assurance-in-space-systems/1433340033/": "Oberpfaffenhofen Computer Scientist (fmx) specialized in AI methods for software quality assurance in space systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Federated-Learning-for-Internet-of-Things-%28IoT%29-Systems/1390767133/": "Oberpfaffenhofen Master Thesis on Federated Learning for Internet of Things (IoT) Systems",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Fehlermodellierung-und-Spatial-AI-f%C3%BCr-sichere%2C-multisensorielle-Navigation/1413693033/": "Oberpfaffenhofen Ingenieurin (wmd) Fehlermodellierung und Spatial AI f\u00fcr sichere, multisensorielle Navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-GPU-beschleunigte-Implementierung-und-Optimierung/1412288233/": "Oberpfaffenhofen Masterarbeit (wmd) GPU beschleunigte Implementierung und Optimierung",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-in-Information-Technology-or-Physics-%28fmd%29-adaptive-optics-software/1412801833/": "Oberpfaffenhofen Master student Internship in Information Technology or Physics (fmd) adaptive optics software",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Error-modelling-and-spatial-AI-for-safe-multisensor-navigation/1413693133/": "Oberpfaffenhofen Engineer (fmd) Error modelling and spatial AI for safe multisensor navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Unity-Developer-%28wmd%29/1429045433/": "Oberpfaffenhofen Unity Developer (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Software-Entw_-von-sicheren-IP-basierten-Protokollen-f%C3%BCr-Satellitenkomm_/1407538133/": "Oberpfaffenhofen Ingenieurin (wmd) Software Entw_ von sicheren IP basierten Protokollen f\u00fcr Satellitenkomm_",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
@@ -482,7 +480,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Optical-Engineering-Electrical-Engineering-Aerospace-Engineering/1428369433/": "Oberpfaffenhofen Student (fmx) Optical Engineering Electrical Engineering Aerospace Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Migration-und-Inbetriebnahme-eines-mechatronischen-15-Pr%C3%BCfstands-auf-dSPACE/1429074833/": "Oberpfaffenhofen Studentin (wmd) Migration und Inbetriebnahme eines mechatronischen 15 Pr\u00fcfstands auf dSPACE",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-KI-Methoden-in-der-Software-Qualit%C3%A4tssicherung-f%C3%BCr-die-Raumfahrt/1433339933/": "Oberpfaffenhofen Informatikerin (wmd) KI Methoden in der Software Qualit\u00e4tssicherung f\u00fcr die Raumfahrt",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Informatik-oder-Physik/1412801733/": "Oberpfaffenhofen Masterarbeit (wmd) Informatik oder Physik"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Informatik-oder-Physik/1412801733/": "Oberpfaffenhofen Masterarbeit (wmd) Informatik oder Physik",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Error-modelling-and-spatial-AI-for-safe-multisensor-navigation/1413693133/": "Oberpfaffenhofen Engineer (fmd) Error modelling and spatial AI for safe multisensor navigation",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Fehlermodellierung-und-Spatial-AI-f%C3%BCr-sichere%2C-multisensorielle-Navigation/1413693033/": "Oberpfaffenhofen Ingenieurin (wmd) Fehlermodellierung und Spatial AI f\u00fcr sichere, multisensorielle Navigation"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -1268,6 +1268,7 @@
   },
   "ARM": {
     "https://careers.arm.com/job/munich/staff-software-engineer-release-and-defect-lead/33099/97895593504": "Staff Software Engineer \u2013 Release & Defect Lead",
+    "https://careers.arm.com/job/munich/senior-software-engineer/33099/102283981216": "Senior Software Engineer",
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
   "STMicroelectronics": {
