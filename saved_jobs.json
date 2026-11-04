@@ -476,10 +476,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Error-modelling-and-spatial-AI-for-safe-multisensor-navigation/1413693133/": "Oberpfaffenhofen Engineer (fmd) Error modelling and spatial AI for safe multisensor navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-GPU-beschleunigte-Implementierung-und-Optimierung/1412288233/": "Oberpfaffenhofen Masterarbeit (wmd) GPU beschleunigte Implementierung und Optimierung",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Regelungs-und-Softwareingenieurin-%28wmd%29/1398668133/": "Oberpfaffenhofen Regelungs und Softwareingenieurin (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434336533/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434336633/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Quantum-Information-Technology-%28mfd%29/1434296733/": "Oberpfaffenhofen Master Thesis Student in Quantum Information Technology (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-im-Bereich-Quanteninformationstechnologie/1434296633/": "Oberpfaffenhofen Masterrandin (wmd) im Bereich Quanteninformationstechnologie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elektronik-und-Mechatronikingenieurin-%28wmd%29-Forschungsraketen/1398673833/": "Oberpfaffenhofen Elektronik und Mechatronikingenieurin (wmd) Forschungsraketen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elec_-EngineeringPhysicsComputer-Science-InternshipMaster-Thesis-Student-%28MAC-Methods%29-%28mfd%29/1452946033/": "Oberpfaffenhofen Elec_ EngineeringPhysicsComputer Science InternshipMaster Thesis Student (MAC Methods) (mfd)",
@@ -496,6 +492,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student--m-f-d----Development-of-GNSS-Solutions-for-Navigation-Applications_JR10445261": "Working Student (m/f/d) \u2013 Development of GNSS Solutions for Navigation Applications",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student--d-f-m--within-Compliance_JR10324606": "Working student (d/f/m) within Compliance",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BEng---BSc--d-m-w--Digital-Engineering-zum-01092027_JR10455388": "Duales Studium B.Eng. (d/m/w) Digital Engineering zum 01.09.2027",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Master-Thesis-on-Characterization-of-Sequence-Robustness-for-Secure-NTN-Communications--d-f-m-_JR10424504-1": "Master Thesis on Characterization of Sequence Robustness for Secure NTN Communications (d/f/m)",
@@ -534,8 +531,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Technical-Specialist--d-w-m--for-Identity-and-Access-Management_JR10447526": "Technical Specialist (d/w/m) for Identity and Access Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Data-Handling-System-Engineer--d-m-w-_JR10433693-1": "Data Handling System Engineer (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Energy-and-Power-System-Architect--f-m-d-_R-10063675": "Energy and Power System Architect (f/m/d)",
@@ -563,6 +559,7 @@
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/EMC-Engineer--f-m-d-_R-10061511": "EMC Engineer (f/m/d)"
   },
   "Texas Instruments": {
+    "https://careers.ti.com/en/sites/CX/job/25019748/": "System Engineer m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25013090/": "Validation Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25013295/": "Test Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25013293/": "Analog IC Design Engineering Intern m/f/d",
@@ -598,6 +595,7 @@
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)"
   },
   "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Principal-Account-Manager--Field-Sales_R267378": "Senior Principal Account Manager, Field Sales",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/NCG---Business-FAE-Track_R267693": "NCG - Business FAE Track",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/NCG---System-Platform-FAE-Track_R267692": "NCG - System Platform FAE Track",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Analog-Design-Engineering-Intern_R267032-1": "Analog Design Engineering Intern",
@@ -940,6 +938,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-3/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-data-science-/-data-engineering-all-genders/": "Werkstudent Data Science / Data Engineering (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-08022027-12022027/": "Sch\u00fclerpraktikum Industriemechanik 08.02.2027 - 12.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-08022027-12022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 08.02.2027 - 12.02.2027",
@@ -1218,6 +1217,7 @@
     "https://jobs.nvidia.com/careers/job/893392240790-director-emea-ai-initiatives-remote-germany?domain=nvidia.com": "Director Emea Ai Initiatives Remote Germany"
   },
   "OHB System AG": {
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8983?c=career-ohb": "Key Account Manager (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8640?c=career-ohb": "Systems Engineer (m/f/d) - Navigation",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8510?c=career-ohb": "Business Development Manager:in (m/w/d) - Earth Observation",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
