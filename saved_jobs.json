@@ -83,6 +83,7 @@
     "https://helsing.ai/jobs/4741565101?gh_jid=4741565101": "Software Engineer - Airborne Mission Systems",
     "https://helsing.ai/jobs/4741571101?gh_jid=4741571101": "Software Engineer - Autonomous Air Systems",
     "https://helsing.ai/jobs/4741219101?gh_jid=4741219101": "Software Engineer - Autonomous Air System V&V",
+    "https://helsing.ai/jobs/4125061101?gh_jid=4125061101": "Software Engineer - Backend",
     "https://helsing.ai/jobs/4741224101?gh_jid=4741224101": "Software Engineer - Frontend Autonomous Air System V&V",
     "https://helsing.ai/jobs/4741242101?gh_jid=4741242101": "Software Engineer - Ground to Air HMI",
     "https://helsing.ai/jobs/5015993101?gh_jid=5015993101": "Specialist Export Control ",
@@ -116,7 +117,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4996193101": "Bid & Proposal Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999163101": "Head of Business Development (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4994606101": "Head of Goverment Relations - EU",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4973110101": "Logistics Coordinator (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4998863101": "People Analytics & AI Optimization Expert (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876122101": "Production Supervisor (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4952088101": "Production Technician Electronics (m/f/d)",
@@ -141,6 +141,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4975306101": "Staff Firmware Engineer (m/f/d), Platform R&D",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999879101": "Staff Safety Engineer (m/f/d) Safety Engineering",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876061101": "Staff Safety Engineer (m/f/d) Technical Solution",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5006373101": "Staff V&V Engineer (m/f/d), E/E Development",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5024800101": "Technical Program Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4967694101": "Tender Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
@@ -207,7 +208,6 @@
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
     "https://career.quantum-systems.com/o/customer-solution-manager-mfd-5": "Customer Solution Manager (m/f/d)",
-    "https://career.quantum-systems.com/o/forward-deployed-engineer-mfd": "Forward Deployed Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/learning-experience-architect-mfd": "Learning Experience Architect (m/f/d)",
     "https://career.quantum-systems.com/o/obsoleszenzmanager-mfd": "Obsoleszenzmanager (m/f/d)",
     "https://career.quantum-systems.com/o/program-manager-mfd-5": "Program Manager (m/f/d)",
@@ -217,9 +217,9 @@
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-4": "Electrical Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/electronics-design-engineer-interceptor-cuas-mfd-1": "Electronics Design Engineer Interceptor C\u2011UAS (m/f/d)",
     "https://career.quantum-systems.com/o/flight-test-field-systems-engineer-cuas-mfd": "Flight Test & Field Systems Engineer C\u2011UAS (m/f/d)",
+    "https://career.quantum-systems.com/o/hardware-and-electronics-engineer-mfd": "Hardware and Electronics Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/in-field-service-technician-mfd": "In-Field Service Technician (m/f/d)",
     "https://career.quantum-systems.com/o/industrialization-engineer-mfd-1": "Industrialization Engineer (m/f/d)",
-    "https://career.quantum-systems.com/o/mechanical-development-engineer-drone-technologies-mfd-8": "Mechanical Development Engineer - Drone Technologies (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-3": "Corporate Security Manager (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-quantum-frontline-industries": "Corporate Security Manager (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/executive-assistant-mfd-quantum-frontline-industries": "Executive Assistant (m/f/d) - Quantum Frontline Industries",
@@ -492,6 +492,8 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Berlin-Area/IT-Infrastructure-Specialist--d-m-w-_JR10422173-1": "IT Infrastructure Specialist (d/m/w)",
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Intern--D---M---W----Talent---Executive-Management_JR10434906": "Intern (d/f/m) - Talent & Executive Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student--m-f-d----Development-of-GNSS-Solutions-for-Navigation-Applications_JR10445261": "Working Student (d/f/m) \u2013 Development of GNSS Solutions for Navigation Applications",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student--d-f-m--within-Compliance_JR10324606": "Working student (d/f/m) within Compliance",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BEng---BSc--d-m-w--Digital-Engineering-zum-01092027_JR10455388": "Duales Studium B.Eng. (d/m/w) Digital Engineering zum 01.09.2027",
@@ -507,7 +509,6 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/CYBER-DEFENCE-ANALYST-L2--D-F-M-_JR10452387": "CYBER DEFENCE ANALYST L2 (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/VIE--d-f-m----HR-Project-Manager---H-F_JR10451106": "VIE (d/f/m) - HR Project Manager - H/F",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-in-fr-Linux-Infrastrukturen--d-w-m-_JR10449193": "IT-Server-Administrator/in f\u00fcr Linux-Infrastrukturen (d/w/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Berlin-Area/IT-Infrastructure-Specialist--d-m-w-_JR10422173-1": "IT Infrastructure Specialist (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788": "Internship within Commodity Management for IT Infrastructure (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT---Ground--d-f-m-_JR10451782": "Internship within Commodity Management for IT & Ground (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Cloud-Engineer---d-m-w-_JR10449365": "IT Cloud Engineer  (d/m/w)",
@@ -530,8 +531,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Technical-Specialist--d-w-m--for-Identity-and-Access-Management_JR10447526": "Technical Specialist (d/w/m) for Identity and Access Management",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Data-Handling-System-Engineer--d-m-w-_JR10433693-1": "Data Handling System Engineer (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Wirtschaftsinformatik---Business-Engineering--d-m-w--zum-01092027_JR10416536": "Duales Studium B.Sc. Wirtschaftsinformatik - Business Engineering (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---IT-Security--d-m-w--zum-01092027_JR10416539": "Duales Studium B.Sc. Informatik - IT-Security (d/m/w) zum 01.09.2027"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Duales-Studium-BSc-Informatik---Angewandte-Informatik--d-m-w--zum-01092027_JR10417003": "Duales Studium B.Sc. Informatik - Angewandte Informatik (d/m/w) zum 01.09.2027"
   },
   "NXP Semiconductors": {
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Energy-and-Power-System-Architect--f-m-d-_R-10063675": "Energy and Power System Architect (f/m/d)",
@@ -633,6 +633,8 @@
   },
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199549.html": "Automobilverk\u00e4ufer Neue Automobile (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191769.html": "Praktikant Physikalische Analytik f\u00fcr Lithiumionen-Batteriezellen (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191125.html": "Praktikant Verifikationsmanagement Hardware und Fuhrpark (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196410.html": "Praktikant Personalservices Rentnerbetreuung und betriebliche Altersvorsorge (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.184635.html": "Praktikant Full-Stack Webentwicklung mit KI (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198397.html": "Stipendiat Fastlane Programm (w/m/x)",
@@ -865,7 +867,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194942.html": "Automotive AI Security Engineer (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194941.html": "Senior Automotive Security Engineer (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190518.html": "Doktorand Physical AI in der Wertsch\u00f6pfungskette: Entwicklung eines AI-Entscheidungsmodells (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191835.html": "Doktorand Direkte Flussregelung f\u00fcr Synchronmotoren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192950.html": "Doktorand Multimodale KI Systeme zur Erkennung elektronischer Komponenten Cost Engineering (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194262.html": "AI Infrastructure Engineer (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.188324.html": "Praktikant Produktion - Projekte fr\u00fche Phase (w/m/x)",
@@ -888,7 +889,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.182374.html": "Azubi zum Fachinformatiker f\u00fcr Daten- und Prozessanalyse (w/m/x) - Werk",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.182372.html": "Azubi zum Kaufmann f\u00fcr Digitalisierungsmanagement (w/m/x) - Werk",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.180932.html": "Azubi zum Elektroniker f\u00fcr Automatisierungstechnik (w/m/x) - Werk [25 Pl\u00e4tze]",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192159.html": "Patentanwaltsfachangestellter (w/m/x) - befristet f\u00fcr 2 Jahre",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.184798.html": "Werkstudent Technology Reporting und Innovation Scouting (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.170847.html": "Personensch\u00fctzer Vorstand (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.182365.html": "Praktikant Fahrwerk und Fahrdynamik Motorrad (w/m/x)",
@@ -1137,6 +1137,7 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4997683101": "Senior Visual and Motion Designer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4840884101": "Software Engineer SLAM (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/5007210101": "Staff Software Engineer - Computer Graphics for the Web (WebGL/WebGPU) (F/M/D)",
+    "https://job-boards.eu.greenhouse.io/navvis/jobs/4933317101": "Team Lead Embedded Software (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4908211101": "Team Lead / Manager Production  (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4917473101": "Team Lead, System Software/UI - Embedded Linux, ROS, C++ (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/5001671101": "Working Student - Electrical Engineering (F/M/D)",
@@ -1254,6 +1255,7 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
+    "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer",
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
   "STMicroelectronics": {},
