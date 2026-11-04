@@ -36,7 +36,6 @@
     "https://helsing.ai/jobs/4908213101?gh_jid=4908213101": "Lead Systems Engineer - Maritime",
     "https://helsing.ai/jobs/4924405101?gh_jid=4924405101": "Lead Systems Engineer \u2013 Military Communications",
     "https://helsing.ai/jobs/4888238101?gh_jid=4888238101": "Lead Systems Engineer - Passive RF Sensing",
-    "https://helsing.ai/jobs/4996521101?gh_jid=4996521101": "Legal Counsel IT & Privacy",
     "https://helsing.ai/jobs/4996583101?gh_jid=4996583101": "Logistics Manager",
     "https://helsing.ai/jobs/4948287101?gh_jid=4948287101": "LSA Engineer ",
     "https://helsing.ai/jobs/4878160101?gh_jid=4878160101": "M&A Integration Manager",
@@ -829,7 +828,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196242.html": "Praktikant Digitalisierung Shopfloor und Instandhaltung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194990.html": "Praktikant Datenmanagement E-Antrieb (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.193078.html": "Praktikant Antrieb Forschung und Entwicklung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.179713.html": "Praktikant Materialentwicklung textile Oberfl\u00e4chenmaterialien (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196762.html": "Praktikant Prozessautomatisierung und Datenanalyse Teilelogistik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196582.html": "Praktikant Unternehmenskommunikation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196375.html": "Praktikant Corporate Secretary und Gesellschaftsrecht (w/m/x)",
@@ -869,8 +867,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195248.html": "Praktikant Prozessoptimierung (m/w/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194859.html": "Praktikant Digitalisierung, KI und Inbound Logistik Management (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194032.html": "Praktikant Automation und Agentic AI Engineer im Produktionsumfeld (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195767.html": "Praktikant Qualit\u00e4t Gesamtfahrzeug (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195641.html": "Praktikant im Bereich virtuelles Fahrerlebnis (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194945.html": "Automotive Security Backend AI Engineer (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194943.html": "Unknown Title",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194942.html": "Automotive AI Security Engineer (f/m/x)",
@@ -949,6 +945,8 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-08022027-12022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 08.02.2027 - 12.02.2027",
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-01022027-05022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 01.02.2027 - 05.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-30032027-02042027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 30.03.2027 - 02.04.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders-1/": "Qualit\u00e4tspr\u00fcfer (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/hr-integration-manager-all-genders/": "HR Integration Manager (all genders)",
