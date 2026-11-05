@@ -226,7 +226,7 @@
     "https://career.quantum-systems.com/o/industrialization-engineer-mfd-1": "Industrialization Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-3": "Corporate Security Manager (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-quantum-frontline-industries": "Corporate Security Manager (m/f/d) - Quantum Frontline Industries",
-    "https://career.quantum-systems.com/o/it-infrastructure-security-manager-mfd-1": "IT Infrastructure & Security Manager (m/f/d)",
+    "https://career.quantum-systems.com/o/it-infrastructure-security-engineer-mfd": "IT Infrastructure & Security Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/it-security-engineer-mfd-1": "IT Security Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/it-system-administrator-windows-mfd": "IT System Administrator Windows (m/f/d)",
     "https://career.quantum-systems.com/o/legal-counsel-mfd-corporate-ma": "Legal Counsel (m/f/d) - Corporate / M&A",
@@ -1248,7 +1248,8 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
+    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
+    "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer"
   },
   "STMicroelectronics": {},
   "Munich Electrification": {
