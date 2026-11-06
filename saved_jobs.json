@@ -33,7 +33,6 @@
     "https://helsing.ai/jobs/4998692101?gh_jid=4998692101": "Lead Systems Engineer - LO Calculations & Supplier Parts",
     "https://helsing.ai/jobs/4782354101?gh_jid=4782354101": "Lead Systems Engineer - LO Emission Control & RF Interoperability",
     "https://helsing.ai/jobs/4844205101?gh_jid=4844205101": "Lead Systems Engineer - Low Observability Shaping & Materials",
-    "https://helsing.ai/jobs/4908213101?gh_jid=4908213101": "Lead Systems Engineer - Maritime",
     "https://helsing.ai/jobs/4924405101?gh_jid=4924405101": "Lead Systems Engineer \u2013 Military Communications",
     "https://helsing.ai/jobs/4888238101?gh_jid=4888238101": "Lead Systems Engineer - Passive RF Sensing",
     "https://helsing.ai/jobs/4996583101?gh_jid=4996583101": "Logistics Manager",
@@ -175,7 +174,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/system-safety-engineer-warhead-integration-mfd": "System Safety Engineer \u2013 Warhead Integration (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-solutions-architect-sales-engineer-mfd": "Senior Solutions Architect / Sales Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-people-operations-specialist-mfd": "Senior People Operations Specialist (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/materials-planning-specialist-mfd-1": "Materials & Planning Specialist (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/materials-planning-specialist-german-speaker-mfd": "Materials & Planning Specialist (German Speaker) - (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/battery-engineer-pack-design-cell-characterization-mfd": "Battery Engineer (Pack Design & Cell Characterization) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/embedded-software-engineer-mfd": "Embedded Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-embedded-linux-platform-mfd": "Senior Embedded Software Engineer \u2013 Embedded Linux Platform (m/f/d)",
@@ -204,6 +203,11 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/manufacturing-production-technician-mfd": "Manufacturing & Production Technician (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-mfd": "Senior GNC Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-mfd": "Drone Technician (m/f/d)"
+  },
+  "Samsung": {
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Working-Student--Talent-Management--Onsite-Munich-based-_R117907": "Working Student (f/m/d), Talent Management (Munich based)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory"
   },
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
@@ -545,6 +549,7 @@
   },
   "Texas Instruments": {
     "https://careers.ti.com/en/sites/CX/job/25013093/": "Project Management & Product Engineering Intern m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25013086/": "Analog Design Eng Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25019748/": "System Engineer m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25013090/": "Validation Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25013295/": "Test Engineering Intern m/f/d",
@@ -925,7 +930,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkfeuerwehrkraft-all-genders/": "Werkfeuerwehrkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-3/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-data-science-/-data-engineering-all-genders/": "Werkstudent Data Science / Data Engineering (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-industriemechanik-08022027-12022027/": "Sch\u00fclerpraktikum Industriemechanik 08.02.2027 - 12.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-08022027-12022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 08.02.2027 - 12.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-01022027-05022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 01.02.2027 - 05.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-30032027-02042027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 30.03.2027 - 02.04.2027",
