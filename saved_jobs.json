@@ -442,8 +442,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Fehlermodellierung-und-Spatial-AI-f%C3%BCr-sichere%2C-multisensorielle-Navigation/1413693033/": "Oberpfaffenhofen Ingenieurin (wmd) Fehlermodellierung und Spatial AI f\u00fcr sichere, multisensorielle Navigation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Physics-or-Aerospace-Engineering-for-investigating-multi-aperture-concept/1407550133/": "Oberpfaffenhofen Master Thesis Student in Physics or Aerospace Engineering for investigating multi aperture concept",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-%28fmx%29-Localizing-Trains-with-the-Future-Railway-Mobile-Communication-System/1440141233/": "Oberpfaffenhofen Master Thesis Student (fmx) Localizing Trains with the Future Railway Mobile Communication System",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Unity-Developer-%28wmd%29/1429045433/": "Oberpfaffenhofen Unity Developer (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-KI-Methoden-in-der-Software-Qualit%C3%A4tssicherung-f%C3%BCr-die-Raumfahrt/1433339933/": "Oberpfaffenhofen Informatikerin (wmd) KI Methoden in der Software Qualit\u00e4tssicherung f\u00fcr die Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften",
@@ -474,7 +472,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Antennenentwicklung-f%C3%BCr-Satellitennavigation-und-Kommunikation/1453634233/": "Oberpfaffenhofen Ingenieurin (wmd) Antennenentwicklung f\u00fcr Satellitennavigation und Kommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Antenna-Development-for-Satellite-Navigation-and-Communication/1453634333/": "Oberpfaffenhofen Engineer (fmd) Antenna Development for Satellite Navigation and Communication",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Regelungs-und-Softwareingenieurin-%28wmd%29/1398668133/": "Oberpfaffenhofen Regelungs und Softwareingenieurin (wmd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Regelungs-und-Softwareingenieurin-%28wmd%29/1398668133/": "Oberpfaffenhofen Regelungs und Softwareingenieurin (wmd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -935,7 +935,7 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-08022027-12022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 08.02.2027 - 12.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-01022027-05022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 01.02.2027 - 05.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-30032027-02042027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 30.03.2027 - 02.04.2027",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders-1/": "Qualit\u00e4tspr\u00fcfer (all genders)",
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders/": "Qualit\u00e4tspr\u00fcfer (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/hr-integration-manager-all-genders/": "HR Integration Manager (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-2/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/cio-managementassistenz-all-genders/": "CIO Managementassistenz (all genders)",
@@ -967,8 +967,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/ausbildung-industriemechaniker-all-genders-fuer-das-ausbildungsjahr-2027-2/": "Ausbildung Industriemechaniker (all genders) f\u00fcr das Ausbildungsjahr 2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/masterarbeit-frequenzanalyseverfahren-fuer-mehrfrequente-aeroelastische-cfd-simulationen/": "Masterarbeit: Frequenzanalyseverfahren f\u00fcr mehrfrequente aeroelastische CFD-Simulationen",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-1/": "Zerspanungsfachkraft (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/logistiker-all-genders/": "Logistiker (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders/": "Qualit\u00e4tspr\u00fcfer (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-projektportfoliomanagement-all-genders/": "Werkstudent Projektportfoliomanagement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-digitalisierung-prozessmanagement-sap-ai-all-genders/": "Praktikum Digitalisierung & Prozessmanagement SAP AI (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/instandhalter-mechanik-fokus-chemische-verfahrenstechnik-all-genders/": "Instandhalter Mechanik Fokus chemische Verfahrenstechnik (all genders)",
