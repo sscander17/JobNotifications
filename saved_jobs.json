@@ -409,7 +409,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-oder-Masterandin-%28wmd%29-Multipfad-Transportprotokolle/1443070933/": "Oberpfaffenhofen Praktikantin oder Masterandin (wmd) Multipfad Transportprotokolle",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-project-and-final-thesis-%28mfd%29-Design-and-testing-of-coupled-kinematic-systems/1421326533/": "Oberpfaffenhofen Student project and final thesis (mfd) Design and testing of coupled kinematic systems",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Antenna-Development-for-Satellite-Navigation-and-Communication/1453634333/": "Oberpfaffenhofen Engineer (fmd) Antenna Development for Satellite Navigation and Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Personalreferentin-%28wmd%29/1417290133/": "Oberpfaffenhofen Personalreferentin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-PhysikLuft-und-Raumfahrttechnik/1407550033/": "Oberpfaffenhofen Masterstudentin (wmd) PhysikLuft und Raumfahrttechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-Master-Thesis-Student-Multi-Path-Transport-Protocols-%28mfd%29/1443071033/": "Oberpfaffenhofen Internship Master Thesis Student Multi Path Transport Protocols (mfd)",
@@ -421,7 +420,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Semantic-aware-PHY-Layer-Techniques-for-Cooperative-Drone-Swarm-Communication-%28fmx%29/1419818333/": "Oberpfaffenhofen Master Thesis Semantic aware PHY Layer Techniques for Cooperative Drone Swarm Communication (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-dissertation-project-%28mfd%29-Zonal-communication-architecture-for-robotic-hands/1423443733/": "Oberpfaffenhofen Undergraduate and dissertation project (mfd) Zonal communication architecture for robotic hands",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Antennenentwicklung-f%C3%BCr-Satellitennavigation-und-Kommunikation/1453634233/": "Oberpfaffenhofen Ingenieurin (wmd) Antennenentwicklung f\u00fcr Satellitennavigation und Kommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin-%28wmd%29-Experimentaldesign-in-der-verteilten-akustischen-Sensorik/1452145233/": "Oberpfaffenhofen Geophysikerin (wmd) Experimentaldesign in der verteilten akustischen Sensorik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Error-modelling-and-spatial-AI-for-safe-multisensor-navigation/1413693133/": "Oberpfaffenhofen Engineer (fmd) Error modelling and spatial AI for safe multisensor navigation",
@@ -474,7 +472,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Implementierung-eines-OKF-basierten-LLM-Chatbots-f%C3%BCr-die-Luft-und-Raumfahrt/1435462633/": "Oberpfaffenhofen Masterarbeit (wmd) Implementierung eines OKF basierten LLM Chatbots f\u00fcr die Luft und Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-im-Bereich-Software-Engineering/1445529233/": "Oberpfaffenhofen Studentische Aushilfe (wmd) im Bereich Software Engineering",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-%28fmx%29-Software-Engineering-Training-Materials/1445529333/": "Oberpfaffenhofen Student (fmx) Software Engineering Training Materials",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Antennenentwicklung-f%C3%BCr-Satellitennavigation-und-Kommunikation/1453634233/": "Oberpfaffenhofen Ingenieurin (wmd) Antennenentwicklung f\u00fcr Satellitennavigation und Kommunikation",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Antenna-Development-for-Satellite-Navigation-and-Communication/1453634333/": "Oberpfaffenhofen Engineer (fmd) Antenna Development for Satellite Navigation and Communication"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -1255,7 +1255,8 @@
     "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer"
   },
   "STMicroelectronics": {
-    "https://stmicroelectronics.eightfold.ai/careers/job/563637173560084": "Internship Business Management GKA"
+    "https://stmicroelectronics.eightfold.ai/careers/job/563637173560084": "Internship Business Management GKA",
+    "https://stmicroelectronics.eightfold.ai/careers/job/563637172671770": "Sales Account Manager"
   },
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356": "AI Platform Engineer (f/m/d)",
