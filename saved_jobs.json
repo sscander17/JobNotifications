@@ -70,7 +70,6 @@
     "https://helsing.ai/jobs/4875025101?gh_jid=4875025101": "Senior Programme Manager - Maritime",
     "https://helsing.ai/jobs/4913364101?gh_jid=4913364101": "Senior Programme Manager - Militarisation - Air",
     "https://helsing.ai/jobs/5004102101?gh_jid=5004102101": "(Senior) Programme Manager - Military Exercises",
-    "https://helsing.ai/jobs/5015016101?gh_jid=5015016101": "Senior Studio Design Engineer",
     "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Engineer \u2013 Combat Aircraft (Security)",
     "https://helsing.ai/jobs/4924427101?gh_jid=4924427101": "Senior Systems Engineer \u2013 EA Antenna & Payload Design ",
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
@@ -154,15 +153,16 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
+    "https://tytantechnologiesgmbh.recruitee.com/o/business-apps-automation-lead-mfd": "Business apps & Automation Lead (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/business-development-capture-manager-mfd": "Business Development & Capture Manager (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/growth-manager-baltics-mfd": "Growth Manager - BALTICS (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-sensor-systems-architect-ground-based-detection-fmd": "Senior Sensor Systems Architect \u2013 Ground-Based Detection (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-propulsion-performance-engineer-mfd": "Senior Propulsion & Performance Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-seeker-systems-engineer-eoir-radar-fmd": "Senior Seeker Systems Engineer (EO/IR & Radar) (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/aircraft-designer-mfd": "Aircraft Designer (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/marketing-design-intern-mfd": "Marketing Design Intern -  (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/working-student-interceptor-data-analytics-mfd": "Working Student - Interceptor Data Analytics (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/working-student-3d-printing-area-prototyping-lab-mfd": "Working Student - 3D Printing Area (Prototyping Lab) (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/marketing-design-intern-mfd": "Marketing Design Intern -  (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-sensors-mfd": "UAV Systems Engineer - Sensors (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-propulsion-actuation-mfd": "UAV Systems Engineer - Propulsion & Actuation (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/hr-business-partner-mfd": "HR Business Partner (m/f/d)",
@@ -397,8 +397,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-KI-gest%C3%BCtzte-Systemdynamik-und-Regelungstechnik/1432265233/": "Oberpfaffenhofen Ingenieurin (wmd) KI gest\u00fctzte Systemdynamik und Regelungstechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-GNSS-Reflektometrie/1396080733/": "Oberpfaffenhofen Studentische Aushilfe (wmd) GNSS Reflektometrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29/1428306833/": "Oberpfaffenhofen Ausbildung zurzum Elektronikerin f\u00fcr Ger\u00e4te und Systeme (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-STRATOS-Ingenieurin-%28wmd%29/1447279833/": "Oberpfaffenhofen STRATOS Ingenieurin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Antenna-Development-for-Satellite-Navigation-and-Communication/1453634333/": "Oberpfaffenhofen Engineer (fmd) Antenna Development for Satellite Navigation and Communication",
@@ -472,7 +470,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Industriemechanikerin-%28wmd%29/1428305433/": "Oberpfaffenhofen Ausbildung zurzum Industriemechanikerin (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-am-DLR_School_Lab-Oberpfaffenhofen/1427733933/": "Oberpfaffenhofen studentische Aushilfe (wmd) am DLR_School_Lab Oberpfaffenhofen"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-am-DLR_School_Lab-Oberpfaffenhofen/1427733933/": "Oberpfaffenhofen studentische Aushilfe (wmd) am DLR_School_Lab Oberpfaffenhofen",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -938,7 +938,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-technischer-standortbetrieb-all-genders/": "Werkstudent Technischer Standortbetrieb (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-bohren-schleifen-erodieren-all-genders/": "Zerspanungsfachkraft Bohren, Schleifen, Erodieren (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/process-designer-record-to-report-management-accounting-all-genders/": "Process Designer Record-to-Report - Management Accounting (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-machining-simulation-and-analytics-all-genders/": "Werkstudent Machining Simulation and Analytics (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/instandhalter-elektronik-fokus-messtechnik-all-genders/": "Instandhalter Elektronik Fokus Messtechnik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/senior-spezialist-exportkontrolle-all-genders/": "Senior Spezialist Exportkontrolle (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-organisational-architecture-and-design-all-genders/": "Werkstudent Organisational Architecture and Design (all genders)",
