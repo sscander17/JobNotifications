@@ -156,6 +156,8 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
+    "https://tytantechnologiesgmbh.recruitee.com/o/hil-engineer-mfd": "HIL Engineer (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/senior-software-engineer-networked-systems-mfd": "Senior Software Engineer, Networked Systems (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/cyber-security-engineer-mfd": "Cyber Security Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/infrastructure-cloud-lead-mfd": "Infrastructure & Cloud Lead (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/business-apps-automation-lead-mfd": "Business apps & Automation Lead (m/f/d)",
@@ -447,7 +449,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elec_-EngineeringPhysicsComputer-Science-InternshipMaster-Thesis-Student-%28MAC-Methods%29-%28mfd%29/1452946033/": "Oberpfaffenhofen Elec_ EngineeringPhysicsComputer Science InternshipMaster Thesis Student (MAC Methods) (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Neuro-Symbolic-AI-for-Resilient-On-Board-Decision-Making/1435629833/": "Oberpfaffenhofen Master Thesis (fmx) Neuro Symbolic AI for Resilient On Board Decision Making",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kontaktdynamik-flexibler-Mehrk%C3%B6rpersysteme/1451843033/": "Oberpfaffenhofen Ingenieurin (wmd) Kontaktdynamik flexibler Mehrk\u00f6rpersysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Research-Software-Engineer-%28mfd%29-Further-development-of-thunderstorm-forecasts/1425215333/": "Oberpfaffenhofen Research Software Engineer (mfd) Further development of thunderstorm forecasts",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-%28fmx%29-Localizing-Trains-with-the-Future-Railway-Mobile-Communication-System/1440141233/": "Oberpfaffenhofen Master Thesis Student (fmx) Localizing Trains with the Future Railway Mobile Communication System",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-Informatik-oder-Physik/1439294433/": "Oberpfaffenhofen Masterstudentin (wmd) Informatik oder Physik",
@@ -475,7 +476,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Industriemechanikerin-%28wmd%29/1428305433/": "Oberpfaffenhofen Ausbildung zurzum Industriemechanikerin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-am-DLR_School_Lab-Oberpfaffenhofen/1427733933/": "Oberpfaffenhofen studentische Aushilfe (wmd) am DLR_School_Lab Oberpfaffenhofen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kontaktdynamik-flexibler-Mehrk%C3%B6rpersysteme/1451843033/": "Oberpfaffenhofen Ingenieurin (wmd) Kontaktdynamik flexibler Mehrk\u00f6rpersysteme"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
@@ -603,12 +605,24 @@
     "https://careers.amd.com/careers-home/jobs/93871": "Commercial Marketing Lead - Central Europe"
   },
   "BMW Group": {
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200088.html": "Praktikant Anforderungs- &amp; \u00c4nderungsmanagement Entwicklungsprozesse Hochvoltspeicher (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200025.html": "Praktikant Inventory Accounting (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200020.html": "Praktikant HR Management f\u00fcr das Handelsnetz Deutschland (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199839.html": "Praktikant Vermarktung und Partnermanagement BMW M Motorsport (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199838.html": "Praktikant Circular Economy und Nachhaltigkeit im Einkauf (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199834.html": "Praktikant Rollenpr\u00fcfstandsbetrieb Gesamtfahrzeuge (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199826.html": "Praktikant Software Entwicklung in der Logistikplanung (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199796.html": "Praktikant Eventmanagement (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199790.html": "Praktikant Arbeitssicherheit, Ergonomie und Umweltschutz (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199535.html": "Praktikant Fahrzeug- und Produktstrategie (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199532.html": "Praktikant Einkauf Cockpit und Mittelkonsole (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199424.html": "Praktikant Qualit\u00e4tsmanagement Fahrzeugdistribution KI und Analytics (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199126.html": "Werkstudent Funktionale Sicherheit Fahrzeugl\u00e4ngsdynamik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199214.html": "Praktikant KI Strategie (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199213.html": "Praktikant Softwareentwicklung AI Strategy (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199212.html": "Praktikant Softwareentwicklung AI Strategy (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199211.html": "Praktikant KI Strategie (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199166.html": "Praktikant Strategie Aftersales Customer Support (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199126.html": "Werkstudent Funktionale Sicherheit Fahrzeugl\u00e4ngsdynamik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199068.html": "Praktikant Internationale Markenkommunikation MINI (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198713.html": "Praktikant Markensprache und Produktkommunikation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198337.html": "Praktikant Projektmanagement Fahrzeugprojekte Oberklasse (w/m/x)",
@@ -739,7 +753,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198121.html": "Praktikant Halbleiter Strategie und Datenanalyse (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198118.html": "Praktikant Sportmarketing Markt Deutschland (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197923.html": "Praktikant Verpackungsentwicklung Lackierte Karosserie (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197663.html": "Praktikant Hardware- und Softwareentwicklung Hochvoltspeicher (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197591.html": "Praktikant Digitalisierung und K\u00fcnstliche Intelligenz im Prototypenbau (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197061.html": "Praktikant Data-Compliance, Daten-Governance Kunde, Marken und Vertrieb (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197055.html": "Praktikant Customer Journey Management, Markenkommunikation Markt Deutschland (w/m/x)",
@@ -810,7 +823,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195886.html": "Automobilverk\u00e4ufer MINI (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195514.html": "Thesis Causal ML for Prescriptive Decision Support in Automotive Goodwill (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192728.html": "Werkstudent Motorrad Datenanalysen und Cloudarchitektur (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.189221.html": "Intern Business Development Financial Services (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.187646.html": "Werkstudent Fahrzeug-Hochr\u00fcstung und Betreeung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.179801.html": "Doktorand In-Situ Charakterisierung und Modellierung transienter Polyurethanschaumsysteme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194477.html": "Praktikant Rohstoffmanagement Einkauf Chemische Produkte (w/m/x)",
@@ -1062,6 +1074,7 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/power-electronics-engineer-all-genders-emosys-gmbh/": "Power Electronics Engineer (all genders) - eMoSys GmbH"
   },
   "Cariad": {
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Apprenticeship%2C-Internship-&-Academic-Programs-%28fmd%29-85053/1455579233/": "Apprenticeship, Internship & Academic Programs (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Prinicipal-Component-Management-%28fmd%29-85053/1453246233/": "Prinicipal Component Management (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Android-Developer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452029833/": "Senior Android Developer - Boutique Store - (T2-CC) (f/m/d)",
@@ -1071,11 +1084,13 @@
   "NavVis": {
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4987145101": "Business Intelligence Analyst (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4904613101": "Calibration Engineer (F/M/D)",
+    "https://job-boards.eu.greenhouse.io/navvis/jobs/4940422101": "Full-Stack Software Engineer (F/M/D) ",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/5003319101": "IFRS Group Reporting & Consolidation Specialist (F/M/D) ",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4931997101": "Lead Machine Learning Engineer - Geometric Spatial AI (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4879815101": "Product Manager, SaaS (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4723895101": "Senior Cloud Software Engineer  (Python & AWS) (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4932274101": "Senior Full Stack Software Engineer - Angular/Typescript/Python + Robotics Backend (F/M/D) ",
+    "https://job-boards.eu.greenhouse.io/navvis/jobs/4792456101": "Senior Full-Stack Software Engineer (F/M/D) ",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4943654101": "Senior Linux Platform Engineer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4780959101": "Senior Product Analytics Manager (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4714167101": "Senior Security Engineer (F/M/D)",
