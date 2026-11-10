@@ -156,7 +156,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/cyber-security-engineer-mfd": "Cyber Security Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/infrastructure-cloud-lead-mfd": "Infrastructure & Cloud Lead (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/business-apps-automation-lead-mfd": "Business apps & Automation Lead (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/business-development-capture-manager-mfd": "Business Development & Capture Manager (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/capture-manager-mfd": "Capture Manager (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/growth-manager-baltics-mfd": "Growth Manager - BALTICS (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-sensor-systems-architect-ground-based-detection-fmd": "Senior Sensor Systems Architect \u2013 Ground-Based Detection (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-propulsion-performance-engineer-mfd": "Senior Propulsion & Performance Engineer (m/f/d)",
@@ -405,7 +405,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-for-optical-communication-and-ground-stations-%28fmx%29/1429120633/": "Oberpfaffenhofen Internship for optical communication and ground stations (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29/1428306833/": "Oberpfaffenhofen Ausbildung zurzum Elektronikerin f\u00fcr Ger\u00e4te und Systeme (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-GNSS-Reflektometrie/1396080733/": "Oberpfaffenhofen Studentische Aushilfe (wmd) GNSS Reflektometrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Implementation-of-an-OKF-based-LLM-chatbot-for-the-Aerospace-Industry/1435462733/": "Oberpfaffenhofen Master Thesis (fmx) Implementation of an OKF based LLM chatbot for the Aerospace Industry",
@@ -466,7 +465,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-GPU-beschleunigte-Implementierung-und-Optimierung/1412288233/": "Oberpfaffenhofen Masterarbeit (wmd) GPU beschleunigte Implementierung und Optimierung",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Adaptive-Optics-Technologies-for-Free-Space-Optical-Communication/1424193233/": "Oberpfaffenhofen Engineer (fmx) Adaptive Optics Technologies for Free Space Optical Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kommunikationsprotokolle-in-SDR-unterst%C3%BCtzt-durch-Flugplattformen/1431142233/": "Oberpfaffenhofen Ingenieurin (wmd) Kommunikationsprotokolle in SDR unterst\u00fctzt durch Flugplattformen"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kommunikationsprotokolle-in-SDR-unterst%C3%BCtzt-durch-Flugplattformen/1431142233/": "Oberpfaffenhofen Ingenieurin (wmd) Kommunikationsprotokolle in SDR unterst\u00fctzt durch Flugplattformen",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29/1428306833/": "Oberpfaffenhofen Ausbildung zurzum Elektronikerin f\u00fcr Ger\u00e4te und Systeme (wmd)"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
