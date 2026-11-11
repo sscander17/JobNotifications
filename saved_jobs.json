@@ -86,7 +86,6 @@
     "https://helsing.ai/jobs/4741242101?gh_jid=4741242101": "Software Engineer - Ground to Air HMI",
     "https://helsing.ai/jobs/5015993101?gh_jid=5015993101": "Specialist Export Control ",
     "https://helsing.ai/jobs/5028718101?gh_jid=5028718101": "Staff AI Research Engineer -  3D Computer Vision",
-    "https://helsing.ai/jobs/5028703101?gh_jid=5028703101": "Staff AI Research Engineer -  Computer Vision",
     "https://helsing.ai/jobs/4778869101?gh_jid=4778869101": "Staff AI Research Engineer - ML Engineering",
     "https://helsing.ai/jobs/4876328101?gh_jid=4876328101": "Stress & Dynamics Engineer",
     "https://helsing.ai/jobs/4782364101?gh_jid=4782364101": "Systems Architect - Electronic Warfare",
@@ -496,7 +495,6 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-student-on-5G-and-LEO-satellite-communication-signals--d-f-m-_JR10445545": "Werkstudent (d/m/w) im Bereich 5G- und LEO- Satellitenkommunikationssignale",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Software-Development-Engineer---Embedded-Real-time-SW---m-f-d-_JR10434577-1": "Software Development Engineer - Embedded Real-time SW  (m/f/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Specialist--d-m-w-_JR10423699": "IT Network Specialist (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/AI---Analytics-Adoption-Lead_JR10434449-1": "AI & Analytics Adoption Lead",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/CYBER-DEFENCE-ANALYST-L2--D-F-M-_JR10452387": "CYBER DEFENCE ANALYST L2 (D/F/M)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/VIE--d-f-m----HR-Project-Manager---H-F_JR10451106": "VIE (d/f/m) - HR Project Manager - H/F",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-in-fr-Linux-Infrastrukturen--d-w-m-_JR10449193": "IT-Server-Administrator/in f\u00fcr Linux-Infrastrukturen (d/w/m)",
@@ -515,7 +513,8 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--d-m-w-_JR10436709": "IT-Server-Administrator f\u00fcr Unix/Linux-Infrastrukturen (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--d-m-w-_JR10436695": "IT-Server-Administrator f\u00fcr Unix/Linux-Infrastrukturen (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Security-Administrator-in--d-w-m-_JR10444319": "IT Network Security Administrator/in (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Technical-Specialist--d-w-m--for-Identity-and-Access-Management_JR10447526": "Technical Specialist (d/w/m) for Identity and Access Management"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Technical-Specialist--d-w-m--for-Identity-and-Access-Management_JR10447526": "Technical Specialist (d/w/m) for Identity and Access Management",
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Data-Handling-System-Engineer--d-m-w-_JR10433693-1": "Data Handling System Engineer (d/m/w)"
   },
   "Texas Instruments": {
     "https://careers.ti.com/en/sites/CX/job/25012570/": "Analog Design Eng Intern m/f/d",
@@ -1041,7 +1040,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-im-bereich-chemische-technik-all-genders/": "Werkstudent im Bereich Chemische Technik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/masterarbeit-strukturmechanik/": "Masterarbeit: Strukturmechanik",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-projekt-management-technologie-entwicklung-all-genders/": "Werkstudent Projekt Management - Technologie & Entwicklung (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/it-system-engineer-pruefstands-it-it/ot-integration-all-genders/": "IT System Engineer - Pr\u00fcfstands-IT & IT/OT Integration (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-chemische-technik-all-genders/": "Praktikum Chemische Technik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikant-data-science-im-bereich-engine-health-monitoring-all-genders/": "Praktikant Data Science im Bereich Engine Health Monitoring (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-hr-operations-employee-relations-all-genders/": "Werkstudent - HR Operations Employee Relations (all genders)",
