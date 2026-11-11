@@ -259,6 +259,7 @@
     "https://career.quantum-systems.com/o/bid-proposal-manager-mfd-5": "Bid & Proposal Manager (m/f/d)",
     "https://career.quantum-systems.com/o/capture-market-intelligence-manager-mfd": "Capture & Market Intelligence Manager (m/f/d)",
     "https://career.quantum-systems.com/o/content-knowledge-base-manager-mfd": "Content & Knowledge Base Manager (m/f/d)",
+    "https://career.quantum-systems.com/o/sales-manager-governmental-benelux-mfd": "Sales Manager Governmental - BeNeLux (m/f/d)",
     "https://career.quantum-systems.com/o/senior-embedded-software-engineer-reliant": "(Senior) Embedded Software Engineer - Reliant",
     "https://career.quantum-systems.com/o/senior-flight-control-system-engineer-mfd": "(Senior) Flight Control System Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/senior-frontend-engineer-cloud-solutions-mfd": "(Senior) Frontend Engineer \u2013 Cloud Solutions (m/f/d)",
@@ -521,6 +522,7 @@
     "https://careers.ti.com/en/sites/CX/job/25012570/": "Analog Design Eng Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25012926/": "Product Marketing Eng Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25016335/": "Analog Design Eng Intern m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25018045/": "Applications Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018407/": "Metrology Equipment Technician / Techniker Messtechnik m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25019743/": "Production Specialist m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25013093/": "Project Management & Product Engineering Intern m/f/d",
@@ -541,8 +543,7 @@
     "https://careers.ti.com/en/sites/CX/job/25012515/": "Applications Engineering Intern / Student Worker - Evaluation/Test of analog IC's Power Management Devices m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25013295/": "Test Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25013293/": "Analog IC Design Engineering Intern m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25015770/": "Manufacturing Engineering Intern m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d"
+    "https://careers.ti.com/en/sites/CX/job/25015770/": "Manufacturing Engineering Intern m/f/d"
   },
   "Intel": {
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937": "Software Design Engineer Intern for Physical Design (m/f/d)",
@@ -886,6 +887,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/careers/online-job-market/job-posting/intern-graphical-user-interface-development-for-mechanical-predesign-calculations-all-genders/": "Intern Graphical user interface development for mechanical predesign calculations (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-eventmanagement-azubimarketing-all-genders/": "Praktikum Eventmanagement & Azubimarketing (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-arbeitsmedizin-all-genders/": "Werkstudent Arbeitsmedizin (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/spezialist-exportkontrolle-all-genders/": "Spezialist Exportkontrolle (all genders)",
@@ -1035,7 +1037,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-scrum-teams-all-genders-1/": "Werkstudent Scrum Teams (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-organisationsentwicklung-all-genders/": "Werkstudent Organisationsentwicklung (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-hr-operations-betreuung-von-studierenden-all-genders/": "Praktikum HR Operations: Betreuung von Studierenden (all genders)",
-    "https://www.mtu.de/careers/online-job-market/job-posting/intern-graphical-user-interface-development-for-mechanical-predesign-calculations-all-genders/": "Intern Graphical user interface development for mechanical predesign calculations (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-modellierung-und-simulation-von-brennstoffzellen-all-genders/": "Praktikum Modellierung und Simulation von Brennstoffzellen (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-compensation-benefits-mit-schwerpunkt-hr-analytics-all-genders/": "Werkstudent Compensation & Benefits mit Schwerpunkt HR Analytics (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-im-bereich-chemische-technik-all-genders/": "Werkstudent im Bereich Chemische Technik (all genders)",
