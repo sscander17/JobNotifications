@@ -366,18 +366,6 @@
     "https://jobs.infineon.com/careers/job/563808972294506-director-electrical-failure-analysis-munich?domain=infineon.com": "Director Electrical Failure Analysis Munich",
     "https://jobs.infineon.com/careers/job/563808972255103-staff-assistant-product-line-acoustics-munich-germany?domain=infineon.com": "Staff Assistant Product Line Acoustics Munich Germany"
   },
-  "Alpine Eagle": {
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4714147101": "Chief of Staff (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5012500101": "Computer Radar Software Engineer for Drone Systems (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789058101": "Flight Physics & Flight Controls Engineer (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4966334101": "Full Stack Engineer \u2013 Frontend Focus (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4807744101": "Head of C-UAS Mission Management System (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4989897101": "Marketing & Communications Coordinator (m/w/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4699459101": "Project Manager (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4999743101": "Sensor Fusion Engineer \u2013 Multi-Sensor Integration (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5004565101": "Technical Recruiter (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
-  },
   "Siemens": {
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527439": "Head (f/m/d) of Forward Deployed AI Engineers for Customer Projects",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521732": "Werkstudent (w/m/d) Requirements Management",
@@ -401,7 +389,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Messung-von-atmosph%C3%A4rischem-Wasserstoff-vom-Labor-ins-Feld/1437612433/": "Oberpfaffenhofen Masterarbeit (wmd) Messung von atmosph\u00e4rischem Wasserstoff vom Labor ins Feld",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-GPU-beschleunigte-Implementierung-und-Optimierung/1412288233/": "Oberpfaffenhofen Masterarbeit (wmd) GPU beschleunigte Implementierung und Optimierung",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Industriemechanikerin-%28wmd%29/1428305433/": "Oberpfaffenhofen Ausbildung zurzum Industriemechanikerin (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Computer-Scientist-%28fmx%29-specialized-in-AI-methods-for-software-quality-assurance-in-space-systems/1433340033/": "Oberpfaffenhofen Computer Scientist (fmx) specialized in AI methods for software quality assurance in space systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-am-DLR_School_Lab-Oberpfaffenhofen/1427733933/": "Oberpfaffenhofen studentische Aushilfe (wmd) am DLR_School_Lab Oberpfaffenhofen",
@@ -449,7 +436,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-Master-Thesis-Student-Multi-Path-Transport-Protocols-%28mfd%29/1443071033/": "Oberpfaffenhofen Internship Master Thesis Student Multi Path Transport Protocols (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-PhysikLuft-und-Raumfahrttechnik/1407550033/": "Oberpfaffenhofen Masterstudentin (wmd) PhysikLuft und Raumfahrttechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Informatik-oder-Physik/1412801733/": "Oberpfaffenhofen Masterarbeit (wmd) Informatik oder Physik",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-for-optical-communication-and-ground-stations-%28fmx%29/1429120633/": "Oberpfaffenhofen Internship for optical communication and ground stations (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Adaptive-Optics-Technologies-for-Free-Space-Optical-Communication/1424193233/": "Oberpfaffenhofen Engineer (fmx) Adaptive Optics Technologies for Free Space Optical Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Physics-or-Aerospace-Engineering-for-investigating-multi-aperture-concept/1407550133/": "Oberpfaffenhofen Master Thesis Student in Physics or Aerospace Engineering for investigating multi aperture concept",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
@@ -459,6 +445,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-in-GPU-Accelerated-Implementation-and-Optimization-of-a-Packet-Level-Peeling-Decoder/1412288333/": "Oberpfaffenhofen Master Thesis in GPU Accelerated Implementation and Optimization of a Packet Level Peeling Decoder",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-STRATOS-Ingenieurin-%28wmd%29/1447279833/": "Oberpfaffenhofen STRATOS Ingenieurin (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentische-Aushilfe-%28wmd%29-GNSS-Reflektometrie/1396080733/": "Oberpfaffenhofen Studentische Aushilfe (wmd) GNSS Reflektometrie",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-for-optical-communication-and-ground-stations-%28fmx%29/1429120633/": "Oberpfaffenhofen Internship for optical communication and ground stations (fmx)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Mesh-Netzwerke-f%C3%BCr-Drohnenschw%C3%A4rme/1417037133/": "Oberpfaffenhofen Masterarbeit (wmd) Mesh Netzwerke f\u00fcr Drohnenschw\u00e4rme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-der-Natur-oder-Geowissenschaften-%28wmd%29/1453745233/": "Oberpfaffenhofen Studierende (wmd) der Natur oder Geowissenschaften (wmd)",
