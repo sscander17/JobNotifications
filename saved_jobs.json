@@ -54,6 +54,7 @@
     "https://helsing.ai/jobs/4869481101?gh_jid=4869481101": "Product Manager \u2014 Electronic Warfare (Offboard & Cross-Platform)",
     "https://helsing.ai/jobs/4999686101?gh_jid=4999686101": "Product Manager \u2013 Perception & Sensor Fusion - Air",
     "https://helsing.ai/jobs/5025576101?gh_jid=5025576101": "Programme Procurement and Partnership Manager",
+    "https://helsing.ai/jobs/5033806101?gh_jid=5033806101": "Project Management Office (PMO) Lead - Site Development Programme",
     "https://helsing.ai/jobs/4862586101?gh_jid=4862586101": "Quality Inspector - Production Quality",
     "https://helsing.ai/jobs/4823231101?gh_jid=4823231101": "Schichtleiter in der Produktion",
     "https://helsing.ai/jobs/4852743101?gh_jid=4852743101": "Security Guard ",
@@ -278,8 +279,8 @@
     "https://career.quantum-systems.com/o/working-student-order-processing-export-master-data-administration-mfd": "Werkstudent \u2013 Auftragsabwicklung, Export & Stammdatenmanagement (m/w/d)",
     "https://career.quantum-systems.com/o/working-student-returns-management-mfd": "Working Student - Returns Management (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-software-engineering-mfd": "Working Student - Software Engineering (m/f/d)",
+    "https://career.quantum-systems.com/o/working-student-intern-product-management-air-domain-mfd": "Working Student / Intern - Product Management, Air Domain (m/f/d)",
     "https://career.quantum-systems.com/o/working-student-intern-industrialization-land-ugv-mfd": "Working Student / Intern \u2013 Industrialization Land / UGV (m/f/d)",
-    "https://career.quantum-systems.com/o/working-student-internship-hr-business-partner-mfd": "Working Student / Internship  HR Business Partner (m/f/d)",
     "https://career.quantum-systems.com/o/fahrer-mfd-quantum-frontline-industries": "Driver (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/lager-logistikmitarbeiter-fmd-7": "Lager-/Logistikmitarbeiter (f/m/d)",
     "https://career.quantum-systems.com/o/logistikmitarbeiter-mfd-ugv": "Logistics Technician (m/f/d) - UGV",
@@ -428,7 +429,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-der-Natur-oder-Geowissenschaften-%28wmd%29/1453745233/": "Oberpfaffenhofen Studierende (wmd) der Natur oder Geowissenschaften (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Migration-und-Inbetriebnahme-eines-mechatronischen-15-Pr%C3%BCfstands-auf-dSPACE/1429074833/": "Oberpfaffenhofen Studentin (wmd) Migration und Inbetriebnahme eines mechatronischen 15 Pr\u00fcfstands auf dSPACE",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-PhysikLuft-und-Raumfahrttechnik/1407550033/": "Oberpfaffenhofen Masterstudentin (wmd) PhysikLuft und Raumfahrttechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Zonale-Kommunikationsarchitektur-f%C3%BCr-robotische-H%C3%A4nde/1423443633/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Zonale Kommunikationsarchitektur f\u00fcr robotische H\u00e4nde",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Development-and-analysis-of-a-software-based-SpaceWire-to-Ethernet-bridge/1435468133/": "Oberpfaffenhofen Master Thesis (fmx) Development and analysis of a software based SpaceWire to Ethernet bridge",
@@ -459,7 +459,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Software-Entw_-von-sicheren-IP-basierten-Protokollen-f%C3%BCr-Satellitenkomm_/1407538133/": "Oberpfaffenhofen Ingenieurin (wmd) Software Entw_ von sicheren IP basierten Protokollen f\u00fcr Satellitenkomm_",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Research-Software-Engineer-%28mfd%29-Further-development-of-thunderstorm-forecasts/1425215333/": "Oberpfaffenhofen Research Software Engineer (mfd) Further development of thunderstorm forecasts",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-%28fmx%29-Localizing-Trains-with-the-Future-Railway-Mobile-Communication-System/1440141233/": "Oberpfaffenhofen Master Thesis Student (fmx) Localizing Trains with the Future Railway Mobile Communication System",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Lokalisierung-von-Signalquellen/1456338833/": "Oberpfaffenhofen Ingenieurin (wmd) Lokalisierung von Signalquellen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Semantisch-orientierte-PHY-Techniken-f%C3%BCr-Kommunikation-in-Drohnenschw%C3%A4rmen/1419818233/": "Oberpfaffenhofen Masterarbeit (wmd) Semantisch orientierte PHY Techniken f\u00fcr Kommunikation in Drohnenschw\u00e4rmen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterrandin-%28wmd%29-Ortung-von-Z%C3%BCgen-mit-dem-zuk%C3%BCnftigen-mobilen-Kommunikationssystem/1440141333/": "Oberpfaffenhofen Masterrandin (wmd) Ortung von Z\u00fcgen mit dem zuk\u00fcnftigen mobilen Kommunikationssystem",
@@ -471,7 +470,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Technikerin-%28wmd%29-f%C3%BCr-Robotersysteme-in-der-Raumfahrt-und-Industrie/1456687233/": "Oberpfaffenhofen Technikerin (wmd) f\u00fcr Robotersysteme in der Raumfahrt und Industrie",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Lokalisierung-von-Signalquellen/1456338833/": "Oberpfaffenhofen Ingenieurin (wmd) Lokalisierung von Signalquellen",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -1087,8 +1089,7 @@
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4908211101": "Team Lead / Manager Production  (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4917473101": "Team Lead, System Software/UI - Embedded Linux, ROS, C++ (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/5001671101": "Working Student - Electrical Engineering (F/M/D)",
-    "https://job-boards.eu.greenhouse.io/navvis/jobs/4972247101": "Working Student \u2013 Legal Operations (F/M/D)",
-    "https://job-boards.eu.greenhouse.io/navvis/jobs/4955889101": "Working Student- Order Management and Financial Accounting (F/M/D)"
+    "https://job-boards.eu.greenhouse.io/navvis/jobs/4972247101": "Working Student \u2013 Legal Operations (F/M/D)"
   },
   "Nvidia": {
     "https://jobs.nvidia.com/careers/job/893398658963-technical-account-manager-hpc-and-cloud-remote-switzerland?domain=nvidia.com": "Technical Account Manager Hpc And Cloud Remote Switzerland",
