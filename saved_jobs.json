@@ -8,6 +8,8 @@
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": "AI Research Intern (PhD) \u2013 3D Computer Vision",
     "https://helsing.ai/jobs/4516967101?gh_jid=4516967101": "Deployed AI Engineer",
     "https://helsing.ai/jobs/4972108101?gh_jid=4972108101": "Deployed Hardware Engineer ",
+    "https://helsing.ai/jobs/5035173101?gh_jid=5035173101": "Early Careers - Aerospace and Aeronautical Engineering ",
+    "https://helsing.ai/jobs/5035194101?gh_jid=5035194101": " Early Careers - Electronics and RF Engineering",
     "https://helsing.ai/jobs/4972029101?gh_jid=4972029101": "Electrical & Electronics Engineer ",
     "https://helsing.ai/jobs/4660594101?gh_jid=4660594101": "Electronics Engineer",
     "https://helsing.ai/jobs/4791366101?gh_jid=4791366101": "Executive Assistant ",
@@ -64,7 +66,6 @@
     "https://helsing.ai/jobs/4967013101?gh_jid=4967013101": "Senior Flight Test Engineer",
     "https://helsing.ai/jobs/5017459101?gh_jid=5017459101": "Senior FP&A Analyst",
     "https://helsing.ai/jobs/5018705101?gh_jid=5018705101": "Senior Operational Architect/Analyst (UCAV)",
-    "https://helsing.ai/jobs/5004097101?gh_jid=5004097101": "Senior Product Graphic Designer",
     "https://helsing.ai/jobs/4468911101?gh_jid=4468911101": "(Senior) Product Marketing Manager",
     "https://helsing.ai/jobs/5001597101?gh_jid=5001597101": "Senior Programme Manager - International Business Development Air",
     "https://helsing.ai/jobs/4944213101?gh_jid=4944213101": "(Senior) Programme Manager - Land",
@@ -76,8 +77,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/5029924101?gh_jid=5029924101": "(Senior) Systems Engineer \u2013 IT Architect",
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -379,7 +380,6 @@
     "https://jobs.infineon.com/careers/job/563808972352470-staff-specialist-sustainability-munich?domain=infineon.com": "Staff Specialist Sustainability Munich"
   },
   "Alpine Eagle": {
-    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4714147101": "Chief of Staff (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5012500101": "Computer Radar Software Engineer for Drone Systems (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789058101": "Flight Physics & Flight Controls Engineer (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4966334101": "Full Stack Engineer \u2013 Frontend Focus (m/f/d)",
@@ -485,6 +485,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Navigation-Signal-Experimentation-Engineer--d-f-m-_JR10435450-1": "Navigation Signal Experimentation Engineer (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Head-of--Systems-Engineering-PMS-Integration--TCAEDH_JR10451931-1": "Head of \"Systems Engineering PMS Integration\" TCAEDH",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Master-Thesis-Student--d-f-m--on-Physics-aware-surrogate-modelling-and-validation_JR10453339": "Master Thesis Student (d/f/m) on Physics-aware surrogate modelling and validation",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Master-Thesis-Student--d-f-m--on-Cloud-Data-Analytics---Pipelines_JR10453344": "Master Thesis Student (d/f/m) on Cloud Data Analytics & Pipelines",
@@ -523,8 +524,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/PHD-Thesis--Quantum-Sensing-for-Navigation--d-f-m-_JR10416564": "PHD Thesis: Quantum Sensing for Navigation (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Business-Security-Manager--w--m--d-_JR10438174-1": "Business Security Manager (w, m, d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--d-m-w-_JR10436709": "IT-Server-Administrator f\u00fcr Unix/Linux-Infrastrukturen (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--d-m-w-_JR10436695": "IT-Server-Administrator f\u00fcr Unix/Linux-Infrastrukturen (d/m/w)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Security-Administrator-in--d-w-m-_JR10444319": "IT Network Security Administrator/in (d/f/m)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--d-m-w-_JR10436695": "IT-Server-Administrator f\u00fcr Unix/Linux-Infrastrukturen (d/m/w)"
   },
   "Texas Instruments": {
     "https://careers.ti.com/en/sites/CX/job/25012570/": "Analog Design Eng Intern m/f/d",
@@ -606,6 +606,15 @@
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.7272.html": "Rechtsreferendar Gewerblicher Rechtsschutz BMW AG (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198318.html": "Praktikant Nachwuchs- und Bindungsprogramme (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197615.html": "Praktikant Projektmanagement Fahrzeugprojekt (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197557.html": "Praktikant KI- und AI-Strategie in der Fahrzeugentwicklung (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197378.html": "Praktikant Customer Experience BMW M (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197182.html": "Praktikant Recruiting und Betreuung von Zeitarbeitskr\u00e4ften (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196393.html": "Praktikant Logistikplanung f\u00fcr die Innenausstattung (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195478.html": "Praktikant Recruiting Auszubildende (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195447.html": "Praktikant Digitale Prozessentwicklung mit Microsoft Power Platform (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192532.html": "Praktikant HR Marketing Nachwuchszielgruppen (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.178120.html": "Praktikant UX/UI Design f\u00fcr interne Applikationen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.15650.html": "Rechtsreferendar Konzernrechtsabteilung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199243.html": "Doktorand Human Supervision f\u00fcr agentische KI-Workflows in Gesch\u00e4ftsprozessen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195003.html": "Werkstudentent\u00e4tigkeit im Bereich Digitale Services (Alphabet Online Konfigurator)",
@@ -641,7 +650,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196510.html": "Praktikant Digitalisierung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196428.html": "Praktikant Betriebliches Gesundheitsmanagement Gesundheitszentrum Nord (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199750.html": "Werkstudentent\u00e4tigkeit im Bereich Vertrieb",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198559.html": "PhD Development and Evaluation of World Action Models for Autonomous Driving (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192096.html": "Automobilverk\u00e4ufer Neue Automobile (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.191064.html": "Analyst Kreditw\u00fcrdigkeitspr\u00fcfung im Retailgesch\u00e4ft - Privat &amp; Gewerbe (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199549.html": "Automobilverk\u00e4ufer Neue Automobile (w/m/x)",
