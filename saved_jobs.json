@@ -46,7 +46,6 @@
     "https://helsing.ai/jobs/4948277101?gh_jid=4948277101": "Obsolescence Manager ",
     "https://helsing.ai/jobs/4947489101?gh_jid=4947489101": "Optical Sensing Test Engineer",
     "https://helsing.ai/jobs/4876698101?gh_jid=4876698101": "Payroll Specialist",
-    "https://helsing.ai/jobs/4862537101?gh_jid=4862537101": "Procurement Project Manager",
     "https://helsing.ai/jobs/4642812101?gh_jid=4642812101": "Production Engineer - Mechatronic Systems",
     "https://helsing.ai/jobs/4788891101?gh_jid=4788891101": "Production Engineer - Software Integration",
     "https://helsing.ai/jobs/4947377101?gh_jid=4947377101": "Product Manager, Autonomous Systems Command & Control",
@@ -77,6 +76,7 @@
     "https://helsing.ai/jobs/5029924101?gh_jid=5029924101": "(Senior) Systems Engineer \u2013 IT Architect",
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -121,7 +121,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4994606101": "Head of Goverment Relations - EU",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995801101": "Lead Service Engineering - Integrated Product Support & Field Service Engineering (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4998863101": "People Analytics & AI Optimization Expert (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4876122101": "Production Supervisor (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4952088101": "Production Technician Electronics (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5005798101": "Project Manager - Infrastructure & Expansion",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995069101": " Senior Business Development Manager, Scandinavia (m/f/d)",
@@ -151,6 +150,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
+    "https://tytantechnologiesgmbh.recruitee.com/o/drone-operator-mfd": "Drone Operator (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/production-planner-mfd": "Production Planner (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/manager-aftermarket-services-mro-lifecycle-support-mfd": "Manager Aftermarket Services (MRO & Lifecycle Support) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/internship-business-development-capture-management-mfd": "Internship Business Development & Capture Management (m/f/d)",
@@ -316,7 +316,8 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4943578101": "Mechanical Design & Routing Engineer (m/w/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940784101": "NDT Inspector (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4857035101": "Recovery Operations Engineer (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974306101": "Senior Data & Backend Software Engineer (f/m/d)"
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974306101": "Senior Data & Backend Software Engineer (f/m/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4802021101": "Working Student, Ground Systems (m/f/d)"
   },
   "Infineon": {
     "https://jobs.infineon.com/careers/job/563808970723894-senior-staff-engineer-analog-verification-methodology-munich-germany-?domain=infineon.com": "Senior Staff Engineer Analog Verification Methodology Munich Germany",
@@ -439,7 +440,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Adaptive-Optics-Technologies-for-Free-Space-Optical-Communication/1424193233/": "Oberpfaffenhofen Engineer (fmx) Adaptive Optics Technologies for Free Space Optical Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elec_-EngineeringPhysicsComputer-Science-InternshipMaster-Thesis-Student-%28MAC-Methods%29-%28mfd%29/1452946033/": "Oberpfaffenhofen Elec_ EngineeringPhysicsComputer Science InternshipMaster Thesis Student (MAC Methods) (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-final-year-dissertation-%28mfd%29-Elastic-transmission-elements-in-robotic-hands/1423448433/": "Oberpfaffenhofen Undergraduate and final year dissertation (mfd) Elastic transmission elements in robotic hands",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Entwicklung-und-Analyse-eines-softwarebasierten-SpaceWire-zu-Ethernet-Moduls/1435468033/": "Oberpfaffenhofen Masterarbeit (wmd) Entwicklung und Analyse eines softwarebasierten SpaceWire zu Ethernet Moduls",
@@ -474,7 +474,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-project-and-final-thesis-%28mfd%29-Design-and-testing-of-coupled-kinematic-systems/1421326533/": "Oberpfaffenhofen Student project and final thesis (mfd) Design and testing of coupled kinematic systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Lokalisierung-von-Signalquellen/1456338833/": "Oberpfaffenhofen Ingenieurin (wmd) Lokalisierung von Signalquellen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
