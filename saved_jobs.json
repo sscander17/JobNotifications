@@ -81,8 +81,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/5029924101?gh_jid=5029924101": "(Senior) Systems Engineer \u2013 IT Architect",
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -109,7 +109,6 @@
     "https://helsing.ai/jobs/5027572101?gh_jid=5027572101": "Systems Engineer - System Architecture - Contra",
     "https://helsing.ai/jobs/4813822101?gh_jid=4813822101": "Systems Engineer V&V - Air",
     "https://helsing.ai/jobs/4995343101?gh_jid=4995343101": "Systems Engineer - Weapon Integration",
-    "https://helsing.ai/jobs/4957296101?gh_jid=4957296101": "Talent Operations Partner",
     "https://helsing.ai/jobs/4888975101?gh_jid=4888975101": "Technical Lead Engineer, UAV Development",
     "https://helsing.ai/jobs/4948293101?gh_jid=4948293101": "Technical Logistical Support (TLB) Manager",
     "https://helsing.ai/jobs/5026460101?gh_jid=5026460101": "Test Engineer - Environmental ",
@@ -491,6 +490,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student-Procurement-Air-Power-Commodity-Avionics-and-IT-Ground-Systems---d-f-m-_JR10457170": "Working Student Procurement Air Power Commodity Avionics and IT/Ground Systems  (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Manager-HR-Technology---Automation---AI-Transformation--m-w-d-_JR10454342": "Manager HR Technology / Automation & AI Transformation (m/w/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/Werkstudent--d-m-w--im-Bereich-Site-Communications-Ottobrunn_JR10456881-1": "Werkstudent (d/m/w) im Bereich Site Communications Ottobrunn",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/Werkstudent--d-m-w--fr-Procurement-Operations-Digital-Solutions_JR10456848": "Werkstudent (d/m/w) f\u00fcr Procurement Operations Digital Solutions",
@@ -529,8 +529,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SATCOMBw-Projektleiter-PMS-Software--m-w-d-_JR10448226-1": "SATCOMBw Projektleiter PMS Software (m/w/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Satellite-Mission-Operations-Service-Architect--d-m-w-_JR10362220-1": "Satellite Mission Operations Service Architect (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Flugdynamik-Ingenieur-fr-Satellitenbetrieb--m-w-d-_JR10450538": "Flugdynamik\u2011Ingenieur f\u00fcr Satellitenbetrieb (m/w/d)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/PHD-Thesis--Quantum-Sensing-for-Navigation--d-f-m-_JR10416564": "PHD Thesis: Quantum Sensing for Navigation (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Business-Security-Manager--w--m--d-_JR10438174-1": "Business Security Manager (w, m, d)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/PHD-Thesis--Quantum-Sensing-for-Navigation--d-f-m-_JR10416564": "PHD Thesis: Quantum Sensing for Navigation (d/f/m)"
   },
   "Texas Instruments": {
     "https://careers.ti.com/en/sites/CX/job/25012570/": "Analog Design Eng Intern m/f/d",
@@ -571,6 +570,7 @@
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943": "MLIR Compiler Engineering Graduate Intern (f/m/d)"
   },
   "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Field-Robotics-Systems-Engineer_R267553": "Field Sales Engineer - Robotics",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Associate-Field-Applications-Engineer--Digital-Healthcare_R268084": "Associate Field Applications Engineer, Digital Healthcare",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Principal-Account-Manager--Field-Sales_R267378": "Senior Principal Account Manager, Field Sales",
@@ -594,7 +594,6 @@
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Customer-System-Measurement-Engineer_R265671": "Staff ATE Customer System Measurement Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R265841": "Staff Engineer, Field Applications",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Account-Manager--Field-Sales_R265618": "Principal Account Manager, Field Sales",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Newbury/Staff-Mixed-Signal-Design-Engineer_R264622": "Staff Mixed-Signal Design Engineer"
   },
   "Engineering Minds Munich": {
