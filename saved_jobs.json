@@ -81,8 +81,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/5029924101?gh_jid=5029924101": "(Senior) Systems Engineer \u2013 IT Architect",
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -490,6 +490,7 @@
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
   "Airbus": {
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/Working-student--d-f-m----5G-Positioning-Experimentation_JR10454752": "Working student (d/f/m) - 5G Positioning Experimentation",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student-Procurement-Air-Power-Commodity-Avionics-and-IT-Ground-Systems---d-f-m-_JR10457170": "Working Student Procurement Air Power Commodity Avionics and IT/Ground Systems  (d/f/m)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Manager-HR-Technology---Automation---AI-Transformation--m-w-d-_JR10454342": "Manager HR Technology / Automation & AI Transformation (m/w/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/Werkstudent--d-m-w--im-Bereich-Site-Communications-Ottobrunn_JR10456881-1": "Werkstudent (d/m/w) im Bereich Site Communications Ottobrunn",
@@ -528,8 +529,7 @@
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/SATCOMBw-Projektleiter-PMS-Software--m-w-d-_JR10448226-1": "SATCOMBw Projektleiter PMS Software (m/w/d)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Satellite-Mission-Operations-Service-Architect--d-m-w-_JR10362220-1": "Satellite Mission Operations Service Architect (d/m/w)",
     "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Flugdynamik-Ingenieur-fr-Satellitenbetrieb--m-w-d-_JR10450538": "Flugdynamik\u2011Ingenieur f\u00fcr Satellitenbetrieb (m/w/d)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/PHD-Thesis--Quantum-Sensing-for-Navigation--d-f-m-_JR10416564": "PHD Thesis: Quantum Sensing for Navigation (d/f/m)",
-    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Business-Security-Manager--w--m--d-_JR10438174-1": "Business Security Manager (w, m, d)"
+    "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/PHD-Thesis--Quantum-Sensing-for-Navigation--d-f-m-_JR10416564": "PHD Thesis: Quantum Sensing for Navigation (d/f/m)"
   },
   "Texas Instruments": {
     "https://careers.ti.com/en/sites/CX/job/25012570/": "Analog Design Eng Intern m/f/d",
