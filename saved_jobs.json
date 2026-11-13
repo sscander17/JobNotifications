@@ -858,6 +858,7 @@
     "https://stark.jobs.personio.com/job/2407218": "Senior Safety Engineer - Loitering Systems (all genders)"
   },
   "Renesas Electronics": {
+    "https://jobs.renesas.com/job/principal-system-engineer-f-m-d-in-munich-germany-jid-3577": "Principal System Engineer (f/m/d)",
     "https://jobs.renesas.com/job/principal-product-definition-engineer-f-m-d-in-munich-by-germany-jid-7365": "Principal Product Definition Engineer (f/m/d)",
     "https://jobs.renesas.com/job/graduate-junior-technical-sales-engineer-f-m-d-in-munich-germany-jid-7407": "Graduate/Junior Technical Sales Engineer (f/m/d)",
     "https://jobs.renesas.com/job/account-manager-new-logo-german-speaking-w-m-d-in-munich-by-germany-jid-6371": "Account Manager - New Logo (German speaking, w/m/d)",
@@ -1209,10 +1210,7 @@
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
     "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer"
   },
-  "STMicroelectronics": {
-    "https://stmicroelectronics.eightfold.ai/careers/job/563637172749386-technical-sales-muenchen-germany?domain=stmicroelectronics.com": "Technical Sales Muenchen Germany",
-    "https://stmicroelectronics.eightfold.ai/careers/job/563637172671770-sales-account-manager-muenchen-germany?domain=stmicroelectronics.com": "Sales Account Manager Muenchen Germany"
-  },
+  "STMicroelectronics": {},
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/716b8f7a-dc69-41d9-acb2-1ccfd83a4fcd": "Design Quality Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/4472cec3-8839-4e87-b9ee-7abe91421589": "Engineering Manager - Software and System Testing (f/m/d)",
