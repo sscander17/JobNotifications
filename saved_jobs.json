@@ -42,6 +42,7 @@
     "https://helsing.ai/jobs/4996583101?gh_jid=4996583101": "Logistics Manager",
     "https://helsing.ai/jobs/4948287101?gh_jid=4948287101": "LSA Engineer ",
     "https://helsing.ai/jobs/4878160101?gh_jid=4878160101": "M&A Integration Manager",
+    "https://helsing.ai/jobs/5035642101?gh_jid=5035642101": "Manager Exportkontrolle",
     "https://helsing.ai/jobs/4876267101?gh_jid=4876267101": "Mechanical Designer",
     "https://helsing.ai/jobs/4971997101?gh_jid=4971997101": "Mechanical Engineer",
     "https://helsing.ai/jobs/4880174101?gh_jid=4880174101": "Mechanical Engineer, Kinematic Systems and Mechanisms",
@@ -66,6 +67,7 @@
     "https://helsing.ai/jobs/4880212101?gh_jid=4880212101": "Senior Commercial Manager - Air",
     "https://helsing.ai/jobs/4967013101?gh_jid=4967013101": "Senior Flight Test Engineer",
     "https://helsing.ai/jobs/5017459101?gh_jid=5017459101": "Senior FP&A Analyst",
+    "https://helsing.ai/jobs/5033685101?gh_jid=5033685101": "Senior Manager, IFRS & Consolidation",
     "https://helsing.ai/jobs/5018705101?gh_jid=5018705101": "Senior Operational Architect/Analyst (UCAV)",
     "https://helsing.ai/jobs/4468911101?gh_jid=4468911101": "(Senior) Product Marketing Manager",
     "https://helsing.ai/jobs/5001597101?gh_jid=5001597101": "Senior Programme Manager - International Business Development Air",
@@ -78,8 +80,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/5029924101?gh_jid=5029924101": "(Senior) Systems Engineer \u2013 IT Architect",
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -568,8 +570,8 @@
     "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943": "MLIR Compiler Engineering Graduate Intern (f/m/d)"
   },
   "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Field-Robotics-Systems-Engineer_R267553": "Field Sales Engineer - Robotics",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Associate-Field-Applications-Engineer--Digital-Healthcare_R268084": "Associate Field Applications Engineer, Digital Healthcare",
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Field-Robotics-Systems-Engineer_R267553": "Field Robotics Systems Engineer",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Principal-Account-Manager--Field-Sales_R267378": "Senior Principal Account Manager, Field Sales",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/NCG---Business-FAE-Track_R267693": "NCG - Business FAE Track",
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/NCG---System-Platform-FAE-Track_R267692": "NCG - System Platform FAE Track",
@@ -893,7 +895,6 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/softwareentwickler-fuer-testsysteme-all-genders/": "Softwareentwickler f\u00fcr Testsysteme (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/hr-it-architekt-all-genders/": "HR IT Architekt (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-multiprojektmanagement-bau-industrialisierung-all-genders/": "Werkstudent Multiprojektmanagement Bau & Industrialisierung (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-organisationsentwicklung-unternehmenskultur-all-genders/": "Werkstudent Organisationsentwicklung & Unternehmenskultur (all genders)",
@@ -1064,8 +1065,8 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/power-electronics-engineer-all-genders-emosys-gmbh/": "Power Electronics Engineer (all genders) - eMoSys GmbH"
   },
   "Cariad": {
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-App-Store-&-Companion-App-Development-%28mfd%29-85053/1456711733/": "Internship - App Store & Companion App Development (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-student-PMT-Architect-Software-Engineering-85053/1456703533/": "Working student - PMT Architect - Software Engineering",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-App-Store-&-Companion-App-Development-%28mfd%29-85053/1456711733/": "Internship - App Store & Companion App Development (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Android-Developer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452029833/": "Senior Android Developer - Boutique Store - (T2-CC) (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Backend-Engineer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452027633/": "Backend Engineer - Boutique Store - (T2-CC) (f/m/d)",
