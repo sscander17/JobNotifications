@@ -38,6 +38,7 @@
     "https://helsing.ai/jobs/4844205101?gh_jid=4844205101": "Lead Systems Engineer - Low Observability Shaping & Materials",
     "https://helsing.ai/jobs/4924405101?gh_jid=4924405101": "Lead Systems Engineer \u2013 Military Communications",
     "https://helsing.ai/jobs/4888238101?gh_jid=4888238101": "Lead Systems Engineer - Passive RF Sensing",
+    "https://helsing.ai/jobs/4996521101?gh_jid=4996521101": "Legal Counsel IT & Privacy",
     "https://helsing.ai/jobs/4996583101?gh_jid=4996583101": "Logistics Manager",
     "https://helsing.ai/jobs/4948287101?gh_jid=4948287101": "LSA Engineer ",
     "https://helsing.ai/jobs/4878160101?gh_jid=4878160101": "M&A Integration Manager",
@@ -79,8 +80,8 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/5029924101?gh_jid=5029924101": "(Senior) Systems Engineer \u2013 IT Architect",
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -395,6 +396,10 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527266": "Agentic AI Architect \"Product\" (f/m/d)",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527265": "Senior Agentic AI Infrastructure and Digital Twin Engineer (f/m/d)",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527264": "Senior Agentic AI Software Integration Engineer (f/m/d)",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527263": "Agentic AI Software Skills and Workflow Engineer (f/m/d)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527439": "Head (f/m/d) of Forward Deployed AI Engineers for Customer Projects",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521732": "Werkstudent (w/m/d) Requirements Management",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521646": "Global Commodity Engineer (f/m/d) \u2013 Integrated Circuits",
@@ -815,7 +820,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-4/": "Zerspanungsfachkraft (all genders)",
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-2/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/hr-it-architekt-all-genders/": "HR IT Architekt (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-multiprojektmanagement-bau-industrialisierung-all-genders/": "Werkstudent Multiprojektmanagement Bau & Industrialisierung (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-organisationsentwicklung-unternehmenskultur-all-genders/": "Werkstudent Organisationsentwicklung & Unternehmenskultur (all genders)",
@@ -833,7 +838,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-01022027-05022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 01.02.2027 - 05.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-30032027-02042027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 30.03.2027 - 02.04.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders/": "Qualit\u00e4tspr\u00fcfer (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-2/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-ki-entwicklung-fuer-multi-agenten-systeme-in-der-triebwerkserprobung-all-genders-1/": "Werkstudent KI-Entwicklung f\u00fcr Multi-Agenten-Systeme in der Triebwerkserprobung (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-abweichungsmangement-all-genders/": "Werkstudent Abweichungsmangement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-entwicklung-einer-engineering-und-datenintegrationsplattform-all-genders/": "Werkstudent Entwicklung einer Engineering- und Datenintegrationsplattform (all genders)",
