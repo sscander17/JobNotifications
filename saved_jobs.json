@@ -1129,12 +1129,7 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7255?c=career-ohb": "Students (working students, internships, thesis) unsolicited (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
-  "ARM": {
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
-    "https://careers.arm.com/job/munich/principal-software-engineer-infrastructure-soc-software/33099/97895593504": "Principal Software Engineer \u2013 Infrastructure SoC Software",
-    "https://careers.arm.com/job/munich/senior-software-engineer-infrastructure-soc-software/33099/102283981216": "Senior Software Engineer - Infrastructure SoC Software",
-    "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer"
-  },
+  "ARM": {},
   "STMicroelectronics": {
     "https://stmicroelectronics.eightfold.ai/careers/job/563637172749386-technical-sales-muenchen-germany?domain=stmicroelectronics.com": "Technical Sales Muenchen Germany",
     "https://stmicroelectronics.eightfold.ai/careers/job/563637172671770-sales-account-manager-muenchen-germany?domain=stmicroelectronics.com": "Sales Account Manager Muenchen Germany"
