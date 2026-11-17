@@ -81,8 +81,8 @@
     "https://helsing.ai/jobs/5029924101?gh_jid=5029924101": "(Senior) Systems Engineer \u2013 IT Architect",
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
     "https://helsing.ai/jobs/5037050101?gh_jid=5037050101": "Simulation Architect \u2013 Defence & Combat Systems ",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -215,6 +215,10 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/manufacturing-production-technician-mfd": "Manufacturing & Production Technician (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-mfd": "Senior GNC Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-mfd": "Drone Technician (m/f/d)"
+  },
+  "Samsung": {
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory"
   },
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
@@ -490,7 +494,6 @@
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
-    "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
     "https://hive-robotics.jobs.personio.com/job/2843297": "Senior Electronics PCB & ECAD Design Engineer - RF & Mixed Signal (m/f/d)",
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
@@ -824,6 +827,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-4/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer/certifying-staff-all-genders/": "Qualit\u00e4tspr\u00fcfer/Certifying Staff (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-2/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/hr-it-architekt-all-genders/": "HR IT Architekt (all genders)",
