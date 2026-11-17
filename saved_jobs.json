@@ -217,6 +217,10 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-mfd": "Senior GNC Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-mfd": "Drone Technician (m/f/d)"
   },
+  "Samsung": {
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory"
+  },
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
     "https://career.quantum-systems.com/o/customer-solution-manager-mfd-5": "Customer Solution Manager (m/f/d)",
@@ -443,7 +447,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Semantic-aware-PHY-Layer-Techniques-for-Cooperative-Drone-Swarm-Communication-%28fmx%29/1419818333/": "Oberpfaffenhofen Master Thesis Semantic aware PHY Layer Techniques for Cooperative Drone Swarm Communication (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-in-Information-Technology-or-Physics-%28fmd%29-adaptive-optics-software/1412801833/": "Oberpfaffenhofen Master student Internship in Information Technology or Physics (fmd) adaptive optics software",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Neuro-symbolische-KI-f%C3%BCr-resiliente-On-Board-Entscheidungen/1435629933/": "Oberpfaffenhofen Masterarbeit (wmd) Neuro symbolische KI f\u00fcr resiliente On Board Entscheidungen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kontaktdynamik-flexibler-Mehrk%C3%B6rpersysteme/1451843033/": "Oberpfaffenhofen Ingenieurin (wmd) Kontaktdynamik flexibler Mehrk\u00f6rpersysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikantin-oder-Masterandin-%28wmd%29-Multipfad-Transportprotokolle/1443070933/": "Oberpfaffenhofen Praktikantin oder Masterandin (wmd) Multipfad Transportprotokolle",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-IT-Securitymanagerin-%28wmd%29-Astronautische-Raumfahrt/1438005333/": "Oberpfaffenhofen IT Securitymanagerin (wmd) Astronautische Raumfahrt",
@@ -487,10 +490,12 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elec_-EngineeringPhysicsComputer-Science-InternshipMaster-Thesis-Student-%28MAC-Methods%29-%28mfd%29/1452946033/": "Oberpfaffenhofen Elec_ EngineeringPhysicsComputer Science InternshipMaster Thesis Student (MAC Methods) (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Technikerin-%28wmd%29-f%C3%BCr-Robotersysteme-in-der-Raumfahrt-und-Industrie/1456687233/": "Oberpfaffenhofen Technikerin (wmd) f\u00fcr Robotersysteme in der Raumfahrt und Industrie",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kontaktdynamik-flexibler-Mehrk%C3%B6rpersysteme/1451843033/": "Oberpfaffenhofen Ingenieurin (wmd) Kontaktdynamik flexibler Mehrk\u00f6rpersysteme"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
+    "https://hive-robotics.jobs.personio.com/job/2787195": "Founding Sales Lead (m/f/d)",
     "https://hive-robotics.jobs.personio.com/job/2843297": "Senior Electronics PCB & ECAD Design Engineer - RF & Mixed Signal (m/f/d)",
     "https://hive-robotics.jobs.personio.com/job/2599098": "Team Assistant / Office Management (m/f/d)"
   },
@@ -822,6 +827,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstoffpruefer-metallografie-fuer-die-produktions-und-prozesskontrolle-all-genders/": "Werkstoffpr\u00fcfer Metallografie f\u00fcr die Produktions- und Prozesskontrolle (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-4/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-2/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/hr-it-architekt-all-genders/": "HR IT Architekt (all genders)",
@@ -1095,44 +1101,6 @@
     "https://jobs.nvidia.com/careers/job/893398695812-recruiting-coordinator-emea-remote-uk?domain=nvidia.com": "Recruiting Coordinator Emea Remote Uk",
     "https://jobs.nvidia.com/careers/job/893393180408-senior-quantum-algorithm-researcher-remote-uk?domain=nvidia.com": "Senior Quantum Algorithm Researcher Remote Uk",
     "https://jobs.nvidia.com/careers/job/893392140426-developer-relations-manager-artificial-intelligence-remote-uk?domain=nvidia.com": "Developer Relations Manager Artificial Intelligence Remote Uk"
-  },
-  "OHB System AG": {
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8521?c=career-ohb": "Subproject Manager (f/m/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8935?c=career-ohb": "Manager:in Produktsicherung (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9009?c=career-ohb": "Systems Engineer - Systems Engineer - Embedded Image Processing & Computer Vision (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8940?c=career-ohb": "Manager:in Business Development (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8983?c=career-ohb": "Key Account Manager (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8640?c=career-ohb": "Systems Engineer (m/f/d) - Navigation",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8510?c=career-ohb": "Business Development Manager:in (m/w/d) - Earth Observation",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7126?c=career-ohb": "Subsystem Ingenieur:in (m/w/d) Kommunikationstechnik",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8938?c=career-ohb": "Electro-Functional Systems Engineer Instrument (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8569?c=career-ohb": "Structural Engineer (m/fwd)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8539?c=career-ohb": "Digital Electronics Design Engineer (f/m/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8538?c=career-ohb": "Analog Electronics Design Engineer (f/m/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8261?c=career-ohb": "Teamleiter:in f\u00fcr die Elektronik-Fertigung (m,w,d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7900?c=career-ohb": "Technical Product Owner Software - Space & Defence Simulation (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8810?c=career-ohb": "Systems Engineer Quantum Technologies (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8807?c=career-ohb": "Werkstudent:in - End User Services (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8829?c=career-ohb": "insert title of the position (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8516?c=career-ohb": "Systems Engineering Manager Space System Studies (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8778?c=career-ohb": "Photonics / Systems Engineer (m/f/d) Quantum Technologies",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8773?c=career-ohb": "Senior Mechanisms, Mechatronics and Robotics Engineer (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8772?c=career-ohb": "Mechanisms, Mechatronics and Robotics Engineer (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8671?c=career-ohb": "QA Inspector (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8408?c=career-ohb": "Informations- und Konfigurationsmanager:in (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8654?c=career-ohb": "IT System Specialist (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8415?c=career-ohb": "Subcontractor Manager:in (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7984?c=career-ohb": "Project Controlling and Contracts Manager:in (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7955?c=career-ohb": "Linux IT System Administrator:in (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8380?c=career-ohb": "Informationsmanager:in (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8551?c=career-ohb": "insert title of the position (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8550?c=career-ohb": "(Senior) Technische Leiter:in (m/w/d) Gesamtsysteme Aufkl\u00e4rung und Fr\u00fchwarnsysteme",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8548?c=career-ohb": "(Senior) Projektleiter:in (m/w/d) Satellitensysteme Aufkl\u00e4rung und Fr\u00fchwarnsysteme",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8547?c=career-ohb": "(Senior) Projektleiter:in (m/w/d) Gesamtsysteme Aufkl\u00e4rung und Fr\u00fchwarnsysteme",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8564?c=career-ohb": "insert title of the position (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7255?c=career-ohb": "Students (working students, internships, thesis) unsolicited (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/5847?c=career-ohb": "Employees (m/f/d) unsolicited"
   },
   "ARM": {
     "https://careers.arm.com/job/munich/principal-software-engineer-infrastructure-soc-software/33099/97895593504": "Principal Software Engineer \u2013 Infrastructure SoC Software",
