@@ -59,6 +59,8 @@
     "https://helsing.ai/jobs/4999686101?gh_jid=4999686101": "Product Manager \u2013 Perception & Sensor Fusion - Air",
     "https://helsing.ai/jobs/5025576101?gh_jid=5025576101": "Programme Procurement and Partnership Manager",
     "https://helsing.ai/jobs/5033806101?gh_jid=5033806101": "Project Management Office (PMO) Lead - Site Development Programme",
+    "https://helsing.ai/jobs/5040299101?gh_jid=5040299101": "Qualit\u00e4tspr\u00fcfer - Wareneingang (m/w/d)",
+    "https://helsing.ai/jobs/5040418101?gh_jid=5040418101": "Qualit\u00e4tstechniker - Produktion (m/w/d)",
     "https://helsing.ai/jobs/4862586101?gh_jid=4862586101": "Quality Inspector - Production Quality",
     "https://helsing.ai/jobs/4948063101?gh_jid=4948063101": "Safety Manager (System Safety) ",
     "https://helsing.ai/jobs/4823231101?gh_jid=4823231101": "Schichtleiter in der Produktion",
@@ -80,9 +82,10 @@
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
     "https://helsing.ai/jobs/5029924101?gh_jid=5029924101": "(Senior) Systems Engineer \u2013 IT Architect",
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
+    "https://helsing.ai/jobs/5040443101?gh_jid=5040443101": "Senior Warhead Engineer \u2013 Lethality Centre of Excellence ",
     "https://helsing.ai/jobs/5037050101?gh_jid=5037050101": "Simulation Architect \u2013 Defence & Combat Systems ",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -120,7 +123,6 @@
     "https://helsing.ai/jobs/4963213101?gh_jid=4963213101": "Warehouse Operator"
   },
   "ARX Robotics": {
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5029805101": "AI Operations Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4996193101": "Bid & Proposal Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999163101": "Head of Business Development (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4994606101": "Head of Goverment Relations - EU",
@@ -156,6 +158,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
+    "https://tytantechnologiesgmbh.recruitee.com/o/flight-controller-expert": "Flight Controller Expert",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-operator-mfd": "Drone Operator (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/production-planner-mfd": "Production Planner (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/manager-aftermarket-services-mro-lifecycle-support-mfd": "Manager Aftermarket Services (MRO & Lifecycle Support) (m/f/d)",
@@ -172,8 +175,8 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-propulsion-performance-engineer-mfd": "Senior Propulsion & Performance Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-seeker-systems-engineer-eoir-radar-fmd": "Senior Seeker Systems Engineer (EO/IR & Radar) (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/aircraft-designer-mfd": "Aircraft Designer (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/working-student-3d-printing-area-prototyping-lab-mfd": "Working Student - 3D Printing Area (Prototyping Lab) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/marketing-design-intern-mfd": "Marketing Design Intern -  (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/working-student-3d-printing-area-prototyping-lab-mfd": "Working Student - 3D Printing Area (Prototyping Lab) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-sensors-mfd": "UAV Systems Engineer - Sensors (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-propulsion-actuation-mfd": "UAV Systems Engineer - Propulsion & Actuation (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/hr-business-partner-mfd": "HR Business Partner (m/f/d)",
@@ -238,6 +241,7 @@
     "https://career.quantum-systems.com/o/it-infrastructure-security-engineer-mfd": "IT Infrastructure & Security Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/it-security-engineer-mfd-1": "IT Security Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/it-system-administrator-windows-mfd": "IT System Administrator Windows (m/f/d)",
+    "https://career.quantum-systems.com/o/senior-event-manager-mfd-4": "(Senior) Event Manager (m/f/d)",
     "https://career.quantum-systems.com/o/digital-marketing-manager-mfd": "Digital Marketing Manager (m/f/d)",
     "https://career.quantum-systems.com/o/senior-crm-hubspot-marketing-automation-expert-mfd": "Senior CRM (HubSpot) & Marketing Automation Expert (m/f/d)",
     "https://career.quantum-systems.com/o/social-creative-mfd-concepts-formats": "Social Creative (m/f/d) \u2013 Concepts & Formats",
@@ -392,6 +396,7 @@
   "Alpine Eagle": {
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5012500101": "Computer Radar Software Engineer for Drone Systems (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789058101": "Flight Physics & Flight Controls Engineer (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5040406101": "FP&A Manager (m/w/d)\t ",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4966334101": "Full Stack Engineer \u2013 Frontend Focus (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4807744101": "Head of C-UAS Mission Management System (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4989897101": "Marketing & Communications Coordinator (m/w/d)",
@@ -474,7 +479,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Mesh-Netzwerke-f%C3%BCr-Drohnenschw%C3%A4rme/1417037133/": "Oberpfaffenhofen Masterarbeit (wmd) Mesh Netzwerke f\u00fcr Drohnenschw\u00e4rme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Semantisch-orientierte-PHY-Techniken-f%C3%BCr-Kommunikation-in-Drohnenschw%C3%A4rmen/1419818233/": "Oberpfaffenhofen Masterarbeit (wmd) Semantisch orientierte PHY Techniken f\u00fcr Kommunikation in Drohnenschw\u00e4rmen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Lokalisierung-von-Signalquellen/1456338833/": "Oberpfaffenhofen Ingenieurin (wmd) Lokalisierung von Signalquellen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29/1428306833/": "Oberpfaffenhofen Ausbildung zurzum Elektronikerin f\u00fcr Ger\u00e4te und Systeme (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elec_-EngineeringPhysicsComputer-Science-InternshipMaster-Thesis-Student-%28MAC-Methods%29-%28mfd%29/1452946033/": "Oberpfaffenhofen Elec_ EngineeringPhysicsComputer Science InternshipMaster Thesis Student (MAC Methods) (mfd)",
@@ -485,7 +489,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-final-year-dissertation-%28mfd%29-Elastic-transmission-elements-in-robotic-hands/1423448433/": "Oberpfaffenhofen Undergraduate and final year dissertation (mfd) Elastic transmission elements in robotic hands",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Lokalisierung-von-Signalquellen/1456338833/": "Oberpfaffenhofen Ingenieurin (wmd) Lokalisierung von Signalquellen"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
