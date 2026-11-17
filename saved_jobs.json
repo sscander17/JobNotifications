@@ -126,6 +126,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995801101": "Lead Service Engineering - Integrated Product Support & Field Service Engineering (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4998863101": "People Analytics & AI Optimization Expert (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4952088101": "Production Technician Electronics (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5040033101": "Production Technician (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5005798101": "Project Manager - Infrastructure & Expansion",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995069101": " Senior Business Development Manager, Scandinavia (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5014633101": "Senior Deployment Engineer (m/f/d)",
@@ -413,7 +414,6 @@
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509742": "Junior Bauleiter (m/w/d) im Nahverkehr - Gro\u00dfraum M\u00fcnchen"
   },
   "DLR": {
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Technikerin-%28wmd%29-f%C3%BCr-Robotersysteme-in-der-Raumfahrt-und-Industrie/1456687233/": "Oberpfaffenhofen Technikerin (wmd) f\u00fcr Robotersysteme in der Raumfahrt und Industrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Implementation-of-an-OKF-based-LLM-chatbot-for-the-Aerospace-Industry/1435462733/": "Oberpfaffenhofen Master Thesis (fmx) Implementation of an OKF based LLM chatbot for the Aerospace Industry",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Implementierung-eines-OKF-basierten-LLM-Chatbots-f%C3%BCr-die-Luft-und-Raumfahrt/1435462633/": "Oberpfaffenhofen Masterarbeit (wmd) Implementierung eines OKF basierten LLM Chatbots f\u00fcr die Luft und Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Werkstudentin-%28wmd%29-Signaturen/1435220933/": "Oberpfaffenhofen Werkstudentin (wmd) Signaturen",
@@ -478,7 +478,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Migration-und-Inbetriebnahme-eines-mechatronischen-15-Pr%C3%BCfstands-auf-dSPACE/1429074833/": "Oberpfaffenhofen Studentin (wmd) Migration und Inbetriebnahme eines mechatronischen 15 Pr\u00fcfstands auf dSPACE",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-PhysikLuft-und-Raumfahrttechnik/1407550033/": "Oberpfaffenhofen Masterstudentin (wmd) PhysikLuft und Raumfahrttechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Mesh-Netzwerke-f%C3%BCr-Drohnenschw%C3%A4rme/1417037133/": "Oberpfaffenhofen Masterarbeit (wmd) Mesh Netzwerke f\u00fcr Drohnenschw\u00e4rme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Semantisch-orientierte-PHY-Techniken-f%C3%BCr-Kommunikation-in-Drohnenschw%C3%A4rmen/1419818233/": "Oberpfaffenhofen Masterarbeit (wmd) Semantisch orientierte PHY Techniken f\u00fcr Kommunikation in Drohnenschw\u00e4rmen",
@@ -486,7 +485,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29/1428306833/": "Oberpfaffenhofen Ausbildung zurzum Elektronikerin f\u00fcr Ger\u00e4te und Systeme (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elec_-EngineeringPhysicsComputer-Science-InternshipMaster-Thesis-Student-%28MAC-Methods%29-%28mfd%29/1452946033/": "Oberpfaffenhofen Elec_ EngineeringPhysicsComputer Science InternshipMaster Thesis Student (MAC Methods) (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Technikerin-%28wmd%29-f%C3%BCr-Robotersysteme-in-der-Raumfahrt-und-Industrie/1456687233/": "Oberpfaffenhofen Technikerin (wmd) f\u00fcr Robotersysteme in der Raumfahrt und Industrie",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -534,6 +535,7 @@
     "https://careers.amd.com/careers-home/jobs/97248": "Principle Agentic Software Developer"
   },
   "BMW Group": {
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200575.html": "Internship BMW Motorrad - Importer Region Africa &amp; Eastern Europe (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192532.html": "Praktikant HR Marketing Nachwuchszielgruppen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192588.html": "Azubi zum Automobilkaufmann (w/m/x) in der Niederlassung  (25 Pl\u00e4tze)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199395.html": "Praktikant Einkauf- und Lieferantennetzwerk Rolls-Royce (w/m/x)",
@@ -546,8 +548,8 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198015.html": "Praktikant Unternehmenskommunikation Digital (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198000.html": "Praktikant Recruiting und Vertragsmanagement (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195720.html": "Werkstudent Service Design und Prozesse (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192170.html": "Praktikant Employer Branding, Artwork &amp; Social Media (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192169.html": "Praktikant Employer Branding &amp; Artwork (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192170.html": "Praktikant Employer Branding - Content &amp; Channels (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192169.html": "Praktikant Employer Branding - - Content, Channels &amp; Website (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.7272.html": "Rechtsreferendar Gewerblicher Rechtsschutz BMW AG (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198318.html": "Praktikant Nachwuchs- und Bindungsprogramme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197615.html": "Praktikant Projektmanagement Fahrzeugprojekt (w/m/x)",
@@ -601,7 +603,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196410.html": "Praktikant Personalservices Rentnerbetreuung und betriebliche Altersvorsorge (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.184635.html": "Praktikant Full-Stack Webentwicklung mit KI (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198397.html": "Stipendiat Fastlane Programm (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199575.html": "Werkstudent Vertriebssteuerung und operative Unterst\u00fctzung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199300.html": "Praktikant Probandenstudien in der Fahrsimulation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199274.html": "Werkstudent Aufbau- und Verbindungstechnik f\u00fcr Leistungselektronik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199226.html": "Intern THE NEW RETAIL (f/m/x)",
@@ -650,7 +651,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198674.html": "Werkstudent Generative KI f\u00fcr Fahrzeugfunktionen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197985.html": "Werkstudent Entwicklung und Industrialisierung von Hochvoltspeichern (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197268.html": "Praktikant Marketing und Kommunikation (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196932.html": "Working Student Future Technologies Research (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196139.html": "Master Thesis Multi-Fidelity Test Optimization (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194863.html": "Praktikant Serienentwicklung Gen6-Batteriezellen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194782.html": "Intern AI-Based Context Engineering (f/m/x)",
@@ -679,7 +679,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198386.html": "Praktikant Produktion Hochvoltspeicher (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197751.html": "Praktikant Konzernkommunikation Europa (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197641.html": "Praktikant Hochvoltspeicherentwicklung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197261.html": "Werkstudent Gesamtfahrzeugentwicklung und Integration (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198406.html": "Praktikant BMW Golfsport Team (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197792.html": "Praktikant Interne Kommunikation Technische Planung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197500.html": "Praktikant Digitale Transformation und KI im Personalwesen (w/m/x)",
@@ -735,7 +734,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196606.html": "Werkstudent Projektleitung Baukasten elektrische Antriebsmaschine (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196243.html": "Werkstudent BMW Motorrad Brand Experience &amp; Event Marketing (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196984.html": "Praktikant Batterieentwicklung im Battery Cell Competence Center (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196842.html": "Praktikant Markenerlebnis und Eventmanagement (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196759.html": "Praktikant Logistik und Supply Chain Management (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196740.html": "Praktikant Thermodynamik und Applikation f\u00fcr Motorr\u00e4der (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196566.html": "Praktikant Software-Integration Fahrzeug (w/m/x)",
@@ -825,7 +823,6 @@
   },
   "MTU Aero Engines": {
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-4/": "Zerspanungsfachkraft (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer/certifying-staff-all-genders/": "Qualit\u00e4tspr\u00fcfer/Certifying Staff (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-2/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/hr-it-architekt-all-genders/": "HR IT Architekt (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-multiprojektmanagement-bau-industrialisierung-all-genders/": "Werkstudent Multiprojektmanagement Bau & Industrialisierung (all genders)",
@@ -843,7 +840,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-08022027-12022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 08.02.2027 - 12.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-01022027-05022027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 01.02.2027 - 05.02.2027",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-30032027-02042027/": "Sch\u00fclerpraktikum Oberfl\u00e4chenbeschichtung 30.03.2027 - 02.04.2027",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders/": "Qualit\u00e4tspr\u00fcfer (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-ki-entwicklung-fuer-multi-agenten-systeme-in-der-triebwerkserprobung-all-genders/": "Werkstudent KI-Entwicklung f\u00fcr Multi-Agenten-Systeme in der Triebwerkserprobung (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-abweichungsmangement-all-genders/": "Werkstudent Abweichungsmangement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-entwicklung-einer-engineering-und-datenintegrationsplattform-all-genders/": "Werkstudent Entwicklung einer Engineering- und Datenintegrationsplattform (all genders)",
@@ -863,7 +859,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/verfahrensfachkraft-all-genders-5/": "Verfahrensfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/verfahrensfachkraft-thermisches-spritzen-all-genders/": "Verfahrensfachkraft - Thermisches Spritzen (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/ausbildung-fachinformatiker-systemintegration-all-genders-fuer-das-ausbildungsjahr-2027/": "Ausbildung Fachinformatiker Systemintegration (all genders) f\u00fcr das Ausbildungsjahr 2027",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/labortechniker-/-werkstoffpruefer-all-genders/": "Labortechniker / Werkstoffpr\u00fcfer (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-militaerische-bauteile-all-genders/": "Qualit\u00e4tspr\u00fcfer milit\u00e4rische Bauteile (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-rohstoffkritikalitaet-und-kreislaufwirtschaft-all-genders/": "Werkstudent Rohstoffkritikalit\u00e4t und Kreislaufwirtschaft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-people-development-all-genders/": "Werkstudent People Development (all genders)",
@@ -1142,8 +1137,7 @@
   "ARM": {
     "https://careers.arm.com/job/munich/principal-software-engineer-infrastructure-soc-software/33099/97895593504": "Principal Software Engineer \u2013 Infrastructure SoC Software",
     "https://careers.arm.com/job/munich/senior-software-engineer-infrastructure-soc-software/33099/102283981216": "Senior Software Engineer - Infrastructure SoC Software",
-    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer",
-    "https://careers.arm.com/job/munich/graduate-software-engineer/33099/101751692704": "Graduate Software Engineer"
+    "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
   "STMicroelectronics": {
     "https://stmicroelectronics.eightfold.ai/careers/job/563637172749386-technical-sales-muenchen-germany?domain=stmicroelectronics.com": "Technical Sales Muenchen Germany",
