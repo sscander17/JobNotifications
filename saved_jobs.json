@@ -27,6 +27,8 @@
     "https://helsing.ai/jobs/4865788101?gh_jid=4865788101": "Helsing \u2013 Formula Student Programme ",
     "https://helsing.ai/jobs/4879386101?gh_jid=4879386101": "HPC Systems Administrator",
     "https://helsing.ai/jobs/4861198101?gh_jid=4861198101": "Incoming Inspector - Production Quality",
+    "https://helsing.ai/jobs/4893273101?gh_jid=4893273101": "IT Support Engineer",
+    "https://helsing.ai/jobs/4903759101?gh_jid=4903759101": "IT Support Engineer",
     "https://helsing.ai/jobs/5013785101?gh_jid=5013785101": "(Junior) Customs Manager",
     "https://helsing.ai/jobs/4976946101?gh_jid=4976946101": "Kreditorenbuchhalter (m/w/d)",
     "https://helsing.ai/jobs/5010746101?gh_jid=5010746101": "Lagermitarbeiter (m/w/d)",
@@ -407,22 +409,6 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5004565101": "Technical Recruiter (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
-  "Siemens": {
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529803": "Projektleiter/Bauingenieur (w/m/d) im Stahlbau",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528682": "Cybersecurity Professional (w/m/d)",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527266": "Agentic AI Architect \"Product\" (f/m/d)",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527265": "Senior Agentic AI Infrastructure and Digital Twin Engineer (f/m/d)",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527264": "Senior Agentic AI Software Integration Engineer (f/m/d)",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527263": "Agentic AI Software Skills and Workflow Engineer (f/m/d)",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527439": "Head (f/m/d) of Forward Deployed AI Engineers for Customer Projects",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521732": "Werkstudent (w/m/d) Requirements Management",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523584": "Systeminbetriebsetzer (w/m/d) in Geb\u00e4udetechnik f\u00fcr Mess-, Steuer- und Regelungstechnik",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/498458": "PLM Consultant / Teamcenter Archtitect / Polarion Consultant  / Presales Consultant (all genders) - DI Software Partner Talent Portal",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515794": "XPS Leadership Program 2026/2027",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509745": "Monteur (w/m/d) \u2013  Eisenbahnsignaltechnik im Nahverkehr - Raum M\u00fcnchen",
-    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509742": "Junior Bauleiter (m/w/d) im Nahverkehr - Gro\u00dfraum M\u00fcnchen"
-  },
   "DLR": {
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Computer-Scientist-%28fmx%29-specialized-in-AI-methods-for-software-quality-assurance-in-space-systems/1433340033/": "Oberpfaffenhofen Computer Scientist (fmx) specialized in AI methods for software quality assurance in space systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Industriemechanikerin-%28wmd%29/1428305433/": "Oberpfaffenhofen Ausbildung zurzum Industriemechanikerin (wmd)",
@@ -527,17 +513,6 @@
     "https://careers.ti.com/en/sites/CX/job/25013295/": "Test Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25013293/": "Analog IC Design Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015770/": "Manufacturing Engineering Intern m/f/d"
-  },
-  "Intel": {
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-RnD-Engineer--XeSS-and-Neural-Graphics--f-m-d-_JR0288914": "AI RnD Engineer, XeSS and Neural Graphics (f/m/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923": "Software Engineering Undergraduate Intern (f/m/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937": "Software Design Engineer Intern for Physical Design (m/f/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/System-Debugger-Development-Intern--m-f-d-_JR0287946": "System Debugger Development Intern (m/f/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635": "Middleware Software Engineering Intern (m/f/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Sales-Account-Manager-Manager---Robotics-and-Physical-AI--EMEA---m-f-d-_JR0288477-1": "Sales Account Manager \u2014 Robotics and Physical AI (EMEA) (m/f/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-Software-Development-Engineer---Neuromorphic-Computing--m-f-d---Fixed-Term-_JR0287336": "AI Software Development Engineer - Neuromorphic Computing (m/f/d) (Fixed-Term)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
-    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943": "MLIR Compiler Engineering Graduate Intern (f/m/d)"
   },
   "Engineering Minds Munich": {
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_MissionCore_Flyer_2026-1.pdf": "Explore MissionCore \u2197 Fact Sheet \u2193",
@@ -849,6 +824,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/masterarbeit-effiziente-cfd-modellierung-komplexer-brennkammer-kuehlsysteme-mittels-poroeser-medien/": "Masterarbeit: Effiziente CFD-Modellierung komplexer Brennkammer-K\u00fchlsysteme mittels por\u00f6ser Medien",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstoffpruefer-metallografie-fuer-die-produktions-und-prozesskontrolle-all-genders/": "Werkstoffpr\u00fcfer Metallografie f\u00fcr die Produktions- und Prozesskontrolle (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-4/": "Zerspanungsfachkraft (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-2/": "Zerspanungsfachkraft (all genders)",
@@ -995,10 +971,9 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-it-all-genders-1/": "Praktikum IT (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-im-kaufmaennischen-bereich-all-genders/": "Werkstudent im kaufm\u00e4nnischen Bereich (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-im-kaufmaennischen-bereich-all-genders/": "Praktikum im kaufm\u00e4nnischen Bereich (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-scrum-teams-all-genders-1/": "Werkstudent Scrum Teams (all genders)",
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-scrum-teams-all-genders/": "Werkstudent Scrum Teams (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-organisationsentwicklung-all-genders/": "Werkstudent Organisationsentwicklung (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-hr-operations-betreuung-von-studierenden-all-genders/": "Praktikum HR Operations: Betreuung von Studierenden (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-modellierung-und-simulation-von-brennstoffzellen-all-genders/": "Praktikum Modellierung und Simulation von Brennstoffzellen (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-compensation-benefits-mit-schwerpunkt-hr-analytics-all-genders/": "Werkstudent Compensation & Benefits mit Schwerpunkt HR Analytics (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-im-bereich-chemische-technik-all-genders/": "Werkstudent im Bereich Chemische Technik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/masterarbeit-strukturmechanik/": "Masterarbeit: Strukturmechanik",
