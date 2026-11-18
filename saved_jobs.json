@@ -27,8 +27,8 @@
     "https://helsing.ai/jobs/4865788101?gh_jid=4865788101": "Helsing \u2013 Formula Student Programme ",
     "https://helsing.ai/jobs/4879386101?gh_jid=4879386101": "HPC Systems Administrator",
     "https://helsing.ai/jobs/4861198101?gh_jid=4861198101": "Incoming Inspector - Production Quality",
-    "https://helsing.ai/jobs/4903759101?gh_jid=4903759101": "IT Support Engineer",
     "https://helsing.ai/jobs/4893273101?gh_jid=4893273101": "IT Support Engineer",
+    "https://helsing.ai/jobs/4903759101?gh_jid=4903759101": "IT Support Engineer",
     "https://helsing.ai/jobs/5013785101?gh_jid=5013785101": "(Junior) Customs Manager",
     "https://helsing.ai/jobs/4976946101?gh_jid=4976946101": "Kreditorenbuchhalter (m/w/d)",
     "https://helsing.ai/jobs/5010746101?gh_jid=5010746101": "Lagermitarbeiter (m/w/d)",
@@ -140,7 +140,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5014633101": "Senior Deployment Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4940419101": "(Senior) Expansion Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5005791101": "Senior Facility Manager (m,f,d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4768927101": "Senior Key Account Manager (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4956235101": "Senior Procurement Manager - Indirect (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4826680101": "Senior Safety Engineer (m/f/d) Reliability & Technical Solution",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999821101": "Senior Safety Engineer (m/f/d) Safety Engineering",
@@ -275,6 +274,7 @@
     "https://career.quantum-systems.com/o/content-knowledge-base-manager-mfd": "Content & Knowledge Base Manager (m/f/d)",
     "https://career.quantum-systems.com/o/sales-manager-governmental-benelux-mfd": "Sales Manager Governmental - BeNeLux (m/f/d)",
     "https://career.quantum-systems.com/o/sales-operations-manager-mfd-1": "Sales Operations Manager (m/f/d)",
+    "https://career.quantum-systems.com/o/technical-program-manager-autonomous-trucking-mandrill-ugv-mfd": "Technical Program Manager Autonomous Trucking & Mandrill UGV (m/f/d)",
     "https://career.quantum-systems.com/o/senior-embedded-software-engineer-reliant": "(Senior) Embedded Software Engineer - Reliant",
     "https://career.quantum-systems.com/o/senior-flight-control-system-engineer-mfd": "(Senior) Flight Control System Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/senior-frontend-engineer-cloud-solutions-mfd": "(Senior) Frontend Engineer \u2013 Cloud Solutions (m/f/d)",
@@ -534,15 +534,7 @@
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_MissionCore_Flyer_2026-1.pdf": "Explore MissionCore \u2197 Fact Sheet \u2193",
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_HRT_Flyer_2026-1.pdf": "Explore HRT \u2197 Fact Sheet \u2193"
   },
-  "AMD": {
-    "https://careers.amd.com/careers-home/jobs/92597": "Fellow Software System Design Eng. (Linux Kernel & x86 Systems Architect)",
-    "https://careers.amd.com/careers-home/jobs/84927": "Senior Manager, AI Field Applications Engineering - EMEA",
-    "https://careers.amd.com/careers-home/jobs/93698": "Senior Graphics Machine Learning  Engineer",
-    "https://careers.amd.com/careers-home/jobs/93870": "Channel Marketing Manager DACH",
-    "https://careers.amd.com/careers-home/jobs/91379": "Partner Manager - Supermicro",
-    "https://careers.amd.com/careers-home/jobs/93871": "Commercial Marketing Lead - Central Europe",
-    "https://careers.amd.com/careers-home/jobs/97248": "Principle Agentic Software Developer"
-  },
+  "AMD": {},
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200777.html": "Praktikum im Bereich Importeursfinanzierung",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200665.html": "Werkstudentent\u00e4tigkeit Information Security - Identity &amp; Access Management (w/m/x)",
@@ -840,7 +832,8 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-hr-operations-betreuung-von-auszubildenden-all-genders-1/": "Praktikum HR Operations: Betreuung von Auszubildenden (all genders) 1",
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-produktionsunterstuetzung-all-genders/": "Werkstudent Produktionsunterst\u00fctzung (all genders)",
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-hr-operations-betreuung-von-auszubildenden-all-genders/": "Praktikum HR Operations: Betreuung von Auszubildenden (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-hr-operations-betreuung-von-auszubildenden-all-genders/": "Werkstudent HR Operations: Betreuung von Auszubildenden (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/masterarbeit-effiziente-cfd-modellierung-komplexer-brennkammer-kuehlsysteme-mittels-poroeser-medien/": "Masterarbeit: Effiziente CFD-Modellierung komplexer Brennkammer-K\u00fchlsysteme mittels por\u00f6ser Medien",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstoffpruefer-metallografie-fuer-die-produktions-und-prozesskontrolle-all-genders/": "Werkstoffpr\u00fcfer Metallografie f\u00fcr die Produktions- und Prozesskontrolle (all genders)",
@@ -1118,6 +1111,7 @@
   },
   "OHB System AG": {
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9043?c=career-ohb": "(Senior) Project Controlling & Contracts Manager (m/f/d)",
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9042?c=career-ohb": "System Engineer Earth Observation Applications & Data Processing (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7126?c=career-ohb": "Subsystem Ingenieur:in (m/w/d) Kommunikationstechnik",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8521?c=career-ohb": "Subproject Manager (f/m/d)",
