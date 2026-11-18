@@ -86,8 +86,8 @@
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
     "https://helsing.ai/jobs/5040443101?gh_jid=5040443101": "Senior Warhead Engineer \u2013 Lethality Centre of Excellence ",
     "https://helsing.ai/jobs/5037050101?gh_jid=5037050101": "Simulation Architect \u2013 Defence & Combat Systems ",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -191,7 +191,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/system-safety-engineer-warhead-integration-mfd": "System Safety Engineer \u2013 Warhead Integration (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-solutions-architect-sales-engineer-mfd": "Senior Solutions Architect / Sales Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-people-operations-specialist-mfd": "Senior People Operations Specialist (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/materials-planning-specialist-german-speaker-mfd": "Materials & Planning Specialist (German Speaker) - (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/battery-engineer-pack-design-cell-characterization-mfd": "Battery Engineer (Pack Design & Cell Characterization) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/embedded-software-engineer-mfd": "Embedded Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-embedded-linux-platform-mfd": "Senior Embedded Software Engineer \u2013 Embedded Linux Platform (m/f/d)",
@@ -324,7 +323,8 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940784101": "NDT Inspector (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4857035101": "Recovery Operations Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4974306101": "Senior Data & Backend Software Engineer (f/m/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4802021101": "Working Student, Ground Systems (m/f/d)"
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4802021101": "Working Student, Ground Systems (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4930992101": "Working Student, POQ (m/f/d)"
   },
   "Infineon": {
     "https://jobs.infineon.com/careers/job/563808968000849-head-of-international-tax-munich-germany-?domain=infineon.com": "Head Of International Tax Munich Germany",
@@ -408,6 +408,7 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529803": "Projektleiter/Bauingenieur (w/m/d) im Stahlbau",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528682": "Cybersecurity Professional (w/m/d)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527266": "Agentic AI Architect \"Product\" (f/m/d)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527265": "Senior Agentic AI Infrastructure and Digital Twin Engineer (f/m/d)",
@@ -464,10 +465,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29/1428306833/": "Oberpfaffenhofen Ausbildung zurzum Elektronikerin f\u00fcr Ger\u00e4te und Systeme (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Research-Software-Engineer-%28mfd%29-Further-development-of-thunderstorm-forecasts/1425215333/": "Oberpfaffenhofen Research Software Engineer (mfd) Further development of thunderstorm forecasts",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Antennenentwicklung-f%C3%BCr-Satellitennavigation-und-Kommunikation/1453634233/": "Oberpfaffenhofen Ingenieurin (wmd) Antennenentwicklung f\u00fcr Satellitennavigation und Kommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-PhysikLuft-und-Raumfahrttechnik/1407550033/": "Oberpfaffenhofen Masterstudentin (wmd) PhysikLuft und Raumfahrttechnik",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Antenna-Development-for-Satellite-Navigation-and-Communication/1453634333/": "Oberpfaffenhofen Engineer (fmd) Antenna Development for Satellite Navigation and Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-Final-Year-Thesis-%28mfd%29-Design-and-Validation-of-a-Robotic-Finger/1418200633/": "Oberpfaffenhofen Undergraduate and Final Year Thesis (mfd) Design and Validation of a Robotic Finger",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Missions-Engineering/1435220533/": "Oberpfaffenhofen Masterarbeit (wmd) Missions Engineering",
@@ -491,6 +490,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Antennenentwicklung-f%C3%BCr-Satellitennavigation-und-Kommunikation/1453634233/": "Oberpfaffenhofen Ingenieurin (wmd) Antennenentwicklung f\u00fcr Satellitennavigation und Kommunikation",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Antenna-Development-for-Satellite-Navigation-and-Communication/1453634333/": "Oberpfaffenhofen Engineer (fmd) Antenna Development for Satellite Navigation and Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elec_-EngineeringPhysicsComputer-Science-InternshipMaster-Thesis-Student-%28MAC-Methods%29-%28mfd%29/1452946033/": "Oberpfaffenhofen Elec_ EngineeringPhysicsComputer Science InternshipMaster Thesis Student (MAC Methods) (mfd)"
   },
