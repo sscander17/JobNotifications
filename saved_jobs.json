@@ -84,8 +84,8 @@
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
     "https://helsing.ai/jobs/5040443101?gh_jid=5040443101": "Senior Warhead Engineer \u2013 Lethality Centre of Excellence ",
     "https://helsing.ai/jobs/5037050101?gh_jid=5037050101": "Simulation Architect \u2013 Defence & Combat Systems ",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -220,6 +220,10 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/manufacturing-production-technician-mfd": "Manufacturing & Production Technician (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-mfd": "Senior GNC Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-mfd": "Drone Technician (m/f/d)"
+  },
+  "Samsung": {
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory"
   },
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
@@ -491,7 +495,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-GPU-beschleunigte-Implementierung-und-Optimierung/1412288233/": "Oberpfaffenhofen Masterarbeit (wmd) GPU beschleunigte Implementierung und Optimierung",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-Informatik-oder-Physik/1439294433/": "Oberpfaffenhofen Masterstudentin (wmd) Informatik oder Physik",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin%2C-Meteorologein-%28wmd%29/1439558233/": "Oberpfaffenhofen Geophysikerin, Meteorologein (wmd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458268533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -1108,6 +1113,8 @@
     "https://jobs.nvidia.com/careers/job/893382452913-senior-software-and-system-architect-remote-france?domain=nvidia.com": "Senior Software And System Architect Remote France"
   },
   "OHB System AG": {
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7126?c=career-ohb": "Subsystem Ingenieur:in (m/w/d) Kommunikationstechnik",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8521?c=career-ohb": "Subproject Manager (f/m/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8935?c=career-ohb": "Manager:in Produktsicherung (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9009?c=career-ohb": "Systems Engineer - Systems Engineer - Embedded Image Processing & Computer Vision (m/f/d)",
@@ -1115,8 +1122,6 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8983?c=career-ohb": "Key Account Manager (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8640?c=career-ohb": "Systems Engineer (m/f/d) - Navigation",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8510?c=career-ohb": "Business Development Manager:in (m/w/d) - Earth Observation",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8216?c=career-ohb": "Subsystems Engineer (m/f/d) \u2013 Radar Technology",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7126?c=career-ohb": "Subsystem Ingenieur:in (m/w/d) Kommunikationstechnik",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8938?c=career-ohb": "Electro-Functional Systems Engineer Instrument (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8569?c=career-ohb": "Structural Engineer (m/fwd)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8539?c=career-ohb": "Digital Electronics Design Engineer (f/m/d)",
