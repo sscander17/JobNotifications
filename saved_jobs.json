@@ -412,6 +412,22 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5004565101": "Technical Recruiter (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
+  "Siemens": {
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529803": "Projektleiter/Bauingenieur (w/m/d) im Stahlbau",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528682": "Cybersecurity Professional (w/m/d)",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527266": "Agentic AI Architect \"Product\" (f/m/d)",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527265": "Senior Agentic AI Infrastructure and Digital Twin Engineer (f/m/d)",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527264": "Senior Agentic AI Software Integration Engineer (f/m/d)",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527263": "Agentic AI Software Skills and Workflow Engineer (f/m/d)",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527439": "Head (f/m/d) of Forward Deployed AI Engineers for Customer Projects",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521732": "Werkstudent (w/m/d) Requirements Management",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523585": "Inbetriebsetzungsspezialist (w/m/d) f\u00fcr Geb\u00e4udeautomation",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523584": "Systeminbetriebsetzer (w/m/d) in Geb\u00e4udetechnik f\u00fcr Mess-, Steuer- und Regelungstechnik",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/498458": "PLM Consultant / Teamcenter Archtitect / Polarion Consultant  / Presales Consultant (all genders) - DI Software Partner Talent Portal",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515794": "XPS Leadership Program 2026/2027",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509745": "Monteur (w/m/d) \u2013  Eisenbahnsignaltechnik im Nahverkehr - Raum M\u00fcnchen",
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509742": "Junior Bauleiter (m/w/d) im Nahverkehr - Gro\u00dfraum M\u00fcnchen"
+  },
   "DLR": {
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kommunikationsprotokolle-in-SDR-unterst%C3%BCtzt-durch-Flugplattformen/1431142233/": "Oberpfaffenhofen Ingenieurin (wmd) Kommunikationsprotokolle in SDR unterst\u00fctzt durch Flugplattformen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-KI-Methoden-in-der-Software-Qualit%C3%A4tssicherung-f%C3%BCr-die-Raumfahrt/1433339933/": "Oberpfaffenhofen Informatikerin (wmd) KI Methoden in der Software Qualit\u00e4tssicherung f\u00fcr die Raumfahrt",
@@ -480,9 +496,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Migration-und-Inbetriebnahme-eines-mechatronischen-15-Pr%C3%BCfstands-auf-dSPACE/1429074833/": "Oberpfaffenhofen Studentin (wmd) Migration und Inbetriebnahme eines mechatronischen 15 Pr\u00fcfstands auf dSPACE",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Unity-Developer-%28wmd%29/1429045433/": "Oberpfaffenhofen Unity Developer (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458268533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-for-optical-communication-and-ground-stations-%28fmx%29/1429120633/": "Oberpfaffenhofen Internship for optical communication and ground stations (fmx)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458268533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-for-optical-communication-and-ground-stations-%28fmx%29/1429120633/": "Oberpfaffenhofen Internship for optical communication and ground stations (fmx)"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -517,6 +533,43 @@
     "https://careers.ti.com/en/sites/CX/job/25015770/": "Manufacturing Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d"
   },
+  "Intel": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-RnD-Engineer--XeSS-and-Neural-Graphics--f-m-d-_JR0288914": "AI RnD Engineer, XeSS and Neural Graphics (f/m/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923": "Software Engineering Undergraduate Intern (f/m/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937": "Software Design Engineer Intern for Physical Design (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/System-Debugger-Development-Intern--m-f-d-_JR0287946": "System Debugger Development Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635": "Middleware Software Engineering Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Sales-Account-Manager-Manager---Robotics-and-Physical-AI--EMEA---m-f-d-_JR0288477-1": "Sales Account Manager \u2014 Robotics and Physical AI (EMEA) (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-Software-Development-Engineer---Neuromorphic-Computing--m-f-d---Fixed-Term-_JR0287336": "AI Software Development Engineer - Neuromorphic Computing (m/f/d) (Fixed-Term)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943": "MLIR Compiler Engineering Graduate Intern (f/m/d)"
+  },
+  "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Principal-Account-Manager--Field-Sales_R267378": "Senior Principal Account Manager, Field Sales",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Engineer--Field-Applications-Engineer_R267550": "Engineer, Field Applications Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Field-Robotics-Systems-Engineer_R267553": "Field Sales Engineer - Robotics",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Associate-Field-Applications-Engineer--Digital-Healthcare_R268084": "Associate Field Applications Engineer, Digital Healthcare",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/NCG---Business-FAE-Track_R267693": "NCG - Business FAE Track",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/NCG---System-Platform-FAE-Track_R267692": "NCG - System Platform FAE Track",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Analog-Design-Engineering-Intern_R267032-1": "Analog Design Engineering Intern",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Director--DataX-Business---Ecosystem_R267244": "Senior Director, DataX Business & Ecosystem",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Applications-Engineering---Field-Applications-Intern_R267087": "Applications Engineering - Field Applications Intern",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Engineer--Field-Applications_R267397": "Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Field-Sales-Engineer_R267485": "Field Sales Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Engineer--Field-Applications_R267181": "Principal Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Digital-Design-Engineer_R264207": "Senior Digital Design Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R267209": "Staff Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-AI--ML-Robotics-Engineer---Environmental-Perception_R267084": "Principal AI/ ML Robotics Engineer - Environmental Perception",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Engineering-Graduate--Field-Applications-_R266836": "FY27 Graduate Field Applications Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Design-Analysis-Enablement-Engineer_R266599": "CAD Engineer - Mixed Signal Simulations",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Electronic-Engineering-Graduate-Opportunities_R266924": "FY27 Electronic Engineering Graduate Opportunities",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Field-Applications-Engineer-Intern_R266838": "FY27 Field Applications Engineer Intern",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Customer-System-Measurement-Engineer_R265672": "Principal ATE Customer System Measurement Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Customer-System-Measurement-Engineer_R265671": "Staff ATE Customer System Measurement Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R265841": "Staff Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Newbury/Staff-Mixed-Signal-Design-Engineer_R264622": "Staff Mixed-Signal Design Engineer"
+  },
   "Engineering Minds Munich": {
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_MissionCore_Flyer_2026-1.pdf": "Explore MissionCore \u2197 Fact Sheet \u2193",
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_HRT_Flyer_2026-1.pdf": "Explore HRT \u2197 Fact Sheet \u2193"
@@ -530,6 +583,7 @@
     "https://careers.amd.com/careers-home/jobs/97248": "Principle Agentic Software Developer"
   },
   "BMW Group": {
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200521.html": "Praktikum internationale Vermarktung BMW und MINI Zubeh\u00f6r &amp; Lifestyle (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200889.html": "Praktikant Digitalisierung Produktion und Logistik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200776.html": "Praktikum Datengest\u00fctzte Methoden f\u00fcr die thermische Fahrzeugentwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200604.html": "Praktikant Produktionsplanung Additive Manufacturing (w/m/x)",
@@ -709,7 +763,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197641.html": "Praktikant Hochvoltspeicherentwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198406.html": "Praktikant BMW Golfsport Team (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197792.html": "Praktikant Interne Kommunikation Technische Planung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197500.html": "Praktikant Digitale Transformation und KI im Personalwesen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197643.html": "Praktikant Sales Marketing und eCommerce BMW Lifestyle (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197639.html": "Praktikant Konstruktion elektrischer Energiespeicher (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197638.html": "Praktikant Hochvoltspeicherentwicklung (w/m/x)",
@@ -762,7 +815,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196606.html": "Werkstudent Projektleitung Baukasten elektrische Antriebsmaschine (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196243.html": "Werkstudent BMW Motorrad Brand Experience &amp; Event Marketing (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196984.html": "Praktikant Batterieentwicklung im Battery Cell Competence Center (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196740.html": "Praktikant Thermodynamik und Applikation f\u00fcr Motorr\u00e4der (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196566.html": "Praktikant Software-Integration Fahrzeug (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196242.html": "Praktikant Digitalisierung Shopfloor und Instandhaltung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194990.html": "Praktikant Datenmanagement E-Antrieb (w/m/x)",
