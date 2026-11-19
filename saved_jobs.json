@@ -199,7 +199,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/embedded-software-engineer-mfd": "Embedded Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-embedded-linux-platform-mfd": "Senior Embedded Software Engineer \u2013 Embedded Linux Platform (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-real-time-flight-software-mfd": "Senior Embedded Software Engineer \u2013 Real-Time Flight Software (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/senior-hr-administration-specialist-compensation-payroll-mfd": "Senior HR Administration Specialist \u2013 Compensation & Payroll (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/field-solutions-engineer-mfd": "Field Solutions Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/qualified-electrician-elektrofachkraft-vefk-mfd": "Qualified Electrician - Elektrofachkraft (vEFK) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/production-team-lead-mfd": "Production Team Lead (m/f/d)",
@@ -491,16 +490,16 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Lokalisierung-von-Signalquellen/1456338833/": "Oberpfaffenhofen Ingenieurin (wmd) Lokalisierung von Signalquellen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin-%28wmd%29-Experimentaldesign-in-der-verteilten-akustischen-Sensorik/1452145233/": "Oberpfaffenhofen Geophysikerin (wmd) Experimentaldesign in der verteilten akustischen Sensorik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458268533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Technikerin-%28wmd%29-f%C3%BCr-Robotersysteme-in-der-Raumfahrt-und-Industrie/1456687233/": "Oberpfaffenhofen Technikerin (wmd) f\u00fcr Robotersysteme in der Raumfahrt und Industrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elec_-EngineeringPhysicsComputer-Science-InternshipMaster-Thesis-Student-%28MAC-Methods%29-%28mfd%29/1452946033/": "Oberpfaffenhofen Elec_ EngineeringPhysicsComputer Science InternshipMaster Thesis Student (MAC Methods) (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Lokalisierung-von-Signalquellen/1456338833/": "Oberpfaffenhofen Ingenieurin (wmd) Lokalisierung von Signalquellen",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin-%28wmd%29-Experimentaldesign-in-der-verteilten-akustischen-Sensorik/1452145233/": "Oberpfaffenhofen Geophysikerin (wmd) Experimentaldesign in der verteilten akustischen Sensorik",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -1031,6 +1030,7 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/power-electronics-engineer-all-genders-emosys-gmbh/": "Power Electronics Engineer (all genders) - eMoSys GmbH"
   },
   "Cariad": {
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Automotive-Sensor-Data-Processing-&-Machine-Learning-%28mfd%29-85053/1458820533/": "Working Student - Automotive Sensor Data Processing & Machine Learning (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Wolfsburg-Working-Student-HR-Services%2C-Digitalization-&-Project-Support-%28mfd%29-38442/1458308133/": "Working Student - HR Services, Digitalization & Project Support (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Head-of-Data-&-Developer-Experience-%28wmd%29-80807/1458552233/": "Head of Data & Developer Experience (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-App-Store-&-Companion-App-Development-%28mfd%29-85053/1456711733/": "Internship - App Store & Companion App Development (m/f/d)",
@@ -1039,8 +1039,7 @@
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Android-Developer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452029833/": "Senior Android Developer - Boutique Store - (T2-CC) (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Backend-Engineer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452027633/": "Backend Engineer - Boutique Store - (T2-CC) (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)"
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Backend-Engineer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452027633/": "Backend Engineer - Boutique Store - (T2-CC) (f/m/d)"
   },
   "NavVis": {
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4987145101": "Business Intelligence Analyst (F/M/D)",
