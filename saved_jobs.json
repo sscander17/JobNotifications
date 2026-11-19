@@ -84,12 +84,14 @@
     "https://helsing.ai/jobs/4972249101?gh_jid=4972249101": "Senior Systems Engineer \u2013 Combat Aircraft (Security)",
     "https://helsing.ai/jobs/4924427101?gh_jid=4924427101": "Senior Systems Engineer \u2013 EA Antenna & Payload Design ",
     "https://helsing.ai/jobs/4924407101?gh_jid=4924407101": "Senior Systems Engineer ESM / ELS",
+    "https://helsing.ai/jobs/5042223101?gh_jid=5042223101": "Senior Systems Engineer - Flight & Mission Planning",
     "https://helsing.ai/jobs/5029924101?gh_jid=5029924101": "(Senior) Systems Engineer \u2013 IT Architect",
+    "https://helsing.ai/jobs/5042583101?gh_jid=5042583101": "Senior Systems Engineer - Mission System Compute Platform",
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
     "https://helsing.ai/jobs/5040443101?gh_jid=5040443101": "Senior Warhead Engineer \u2013 Lethality Centre of Excellence ",
     "https://helsing.ai/jobs/5037050101?gh_jid=5037050101": "Simulation Architect \u2013 Defence & Combat Systems ",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -170,7 +172,7 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/manager-aftermarket-services-mro-lifecycle-support-mfd": "Manager Aftermarket Services (MRO & Lifecycle Support) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/internship-business-development-capture-management-mfd": "Internship Business Development & Capture Management (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-linux-engineer-mfd": "Senior Embedded Linux Engineer (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/hil-engineer-mfd": "HIL Engineer (m/f/d)",
+    "https://tytantechnologiesgmbh.recruitee.com/o/senior-software-engineer-hardware-in-the-loop-systems-mfd": "Senior Software Engineer, Hardware-in-the-Loop Systems (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-software-engineer-networked-systems-mfd": "Senior Software Engineer, Networked Systems (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/cyber-security-engineer-mfd": "Cyber Security Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/infrastructure-cloud-lead-mfd": "Infrastructure & Cloud Lead (m/f/d)",
@@ -186,7 +188,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/uav-systems-engineer-propulsion-actuation-mfd": "UAV Systems Engineer - Propulsion & Actuation (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/hr-business-partner-mfd": "HR Business Partner (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-hr-operations-process-specialist-mfd": "Senior HR Operations & Process Specialist (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/customer-success-manager-land-domain-mfd": "Customer Success Manager - Land Domain (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/controls-engineer-gis-ground-infrastructure-system-mfd": "Controls Engineer - GIS (Ground Infrastructure System) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/flight-simulation-software-engineer-mfd": "Flight Simulation Software Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/office-manager-part-time-mfd": "Office Manager (Part-Time) - (m/f/d)",
@@ -499,7 +500,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin-%28wmd%29-Experimentaldesign-in-der-verteilten-akustischen-Sensorik/1452145233/": "Oberpfaffenhofen Geophysikerin (wmd) Experimentaldesign in der verteilten akustischen Sensorik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458888533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -1033,13 +1035,13 @@
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Automotive-Sensor-Data-Processing-&-Machine-Learning-%28mfd%29-85053/1458820533/": "Working Student - Automotive Sensor Data Processing & Machine Learning (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Wolfsburg-Working-Student-HR-Services%2C-Digitalization-&-Project-Support-%28mfd%29-38442/1458308133/": "Working Student - HR Services, Digitalization & Project Support (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Head-of-Data-&-Developer-Experience-%28wmd%29-80807/1458552233/": "Head of Data & Developer Experience (w/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Head-of-Tech-Operations-&-Solutions-%28fmd%29-80807/1457967533/": "Head of Tech Operations & Solutions (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-App-Store-&-Companion-App-Development-%28mfd%29-85053/1456711733/": "Internship - App Store & Companion App Development (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Principal-AI-Architect-%28fmd%29-80807/1455727633/": "Principal AI Architect (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Vice-President-R&D-AI-Factory-%28fmd%29-80807/1455727033/": "Vice President R&D AI Factory (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Android-Developer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452029833/": "Senior Android Developer - Boutique Store - (T2-CC) (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Backend-Engineer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452027633/": "Backend Engineer - Boutique Store - (T2-CC) (f/m/d)"
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Android-Developer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452029833/": "Senior Android Developer - Boutique Store - (T2-CC) (f/m/d)"
   },
   "NavVis": {
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4987145101": "Business Intelligence Analyst (F/M/D)",
@@ -1182,7 +1184,9 @@
     "https://careers.arm.com/job/munich/senior-software-engineer-infrastructure-soc-software/33099/102283981216": "Senior Software Engineer - Infrastructure SoC Software",
     "https://careers.arm.com/job/munich/senior-firmware-developer/33099/100299716416": "Senior Firmware Developer"
   },
-  "STMicroelectronics": {},
+  "STMicroelectronics": {
+    "https://stmicroelectronics.eightfold.ai/careers/job/563637172749386": "Technical Sales"
+  },
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/4472cec3-8839-4e87-b9ee-7abe91421589": "Engineering Manager - Software and System Testing (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/8bf45b4f-ecd1-4143-8ea8-7d5afc9ae8f4": "Functional Safety & Cybersecurity Manager (f/m/d)",
