@@ -139,7 +139,6 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4995069101": " Senior Business Development Manager, Scandinavia (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5014633101": "Senior Deployment Engineer (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4940419101": "(Senior) Expansion Manager (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5005791101": "Senior Facility Manager (m,f,d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4956235101": "Senior Procurement Manager - Indirect (m/f/d)",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4826680101": "Senior Safety Engineer (m/f/d) Reliability & Technical Solution",
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4999821101": "Senior Safety Engineer (m/f/d) Safety Engineering",
@@ -161,6 +160,7 @@
     "https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4953598101": "Working Student Procurement (m/f/d)"
   },
   "TYTAN Technologies": {
+    "https://tytantechnologiesgmbh.recruitee.com/o/intern-industrial-engineering-mfd": "Intern Industrial Engineering (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/head-of-supply-chain-fmd": "Head of Supply Chain (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/haustechniker-technischer-hausmeister-mfd": "Haustechniker / Technischer Hausmeister (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-industrial-engineering-mfd": "Senior Industrial Engineering (m/f/d)",
@@ -491,15 +491,15 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458268533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Technikerin-%28wmd%29-f%C3%BCr-Robotersysteme-in-der-Raumfahrt-und-Industrie/1456687233/": "Oberpfaffenhofen Technikerin (wmd) f\u00fcr Robotersysteme in der Raumfahrt und Industrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Elec_-EngineeringPhysicsComputer-Science-InternshipMaster-Thesis-Student-%28MAC-Methods%29-%28mfd%29/1452946033/": "Oberpfaffenhofen Elec_ EngineeringPhysicsComputer Science InternshipMaster Thesis Student (MAC Methods) (mfd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Lokalisierung-von-Signalquellen/1456338833/": "Oberpfaffenhofen Ingenieurin (wmd) Lokalisierung von Signalquellen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin-%28wmd%29-Experimentaldesign-in-der-verteilten-akustischen-Sensorik/1452145233/": "Oberpfaffenhofen Geophysikerin (wmd) Experimentaldesign in der verteilten akustischen Sensorik",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
