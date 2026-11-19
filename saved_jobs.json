@@ -90,8 +90,8 @@
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
     "https://helsing.ai/jobs/5040443101?gh_jid=5040443101": "Senior Warhead Engineer \u2013 Lethality Centre of Excellence ",
     "https://helsing.ai/jobs/5037050101?gh_jid=5037050101": "Simulation Architect \u2013 Defence & Combat Systems ",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -410,6 +410,7 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5040406101": "FP&A Manager (m/w/d)\t ",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4966334101": "Full Stack Engineer \u2013 Frontend Focus (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4807744101": "Head of C-UAS Mission Software (m/f/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5042714101": "IT Administrator / IT Support Specialist (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4989897101": "Marketing & Communications Coordinator (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4999743101": "Sensor Fusion Engineer \u2013 Multi-Sensor Integration (m/f/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5042679101": "Working Student Finance (m/w/d)\t ",
@@ -476,8 +477,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-final-year-dissertation-%28mfd%29-Elastic-transmission-elements-in-robotic-hands/1423448433/": "Oberpfaffenhofen Undergraduate and final year dissertation (mfd) Elastic transmission elements in robotic hands",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-studentische-Aushilfe-%28wmd%29-am-DLR_School_Lab-Oberpfaffenhofen/1427733933/": "Oberpfaffenhofen studentische Aushilfe (wmd) am DLR_School_Lab Oberpfaffenhofen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Semantic-aware-PHY-Layer-Techniques-for-Cooperative-Drone-Swarm-Communication-%28fmx%29/1419818333/": "Oberpfaffenhofen Master Thesis Semantic aware PHY Layer Techniques for Cooperative Drone Swarm Communication (fmx)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-for-optical-communication-and-ground-stations-%28fmx%29/1429120633/": "Oberpfaffenhofen Internship for optical communication and ground stations (fmx)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Semantisch-orientierte-PHY-Techniken-f%C3%BCr-Kommunikation-in-Drohnenschw%C3%A4rmen/1419818233/": "Oberpfaffenhofen Masterarbeit (wmd) Semantisch orientierte PHY Techniken f\u00fcr Kommunikation in Drohnenschw\u00e4rmen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
@@ -501,8 +500,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Geophysikerin-%28wmd%29-Experimentaldesign-in-der-verteilten-akustischen-Sensorik/1452145233/": "Oberpfaffenhofen Geophysikerin (wmd) Experimentaldesign in der verteilten akustischen Sensorik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458888533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Adaptive-3GPP-Narrowband-Internet-of-Things-%28NB-IoT%29-Access-and-Transmission-%28mfd%29/1449786533/": "Oberpfaffenhofen Master Thesis Adaptive 3GPP Narrowband Internet of Things (NB IoT) Access and Transmission (mfd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Internship-for-optical-communication-and-ground-stations-%28fmx%29/1429120633/": "Oberpfaffenhofen Internship for optical communication and ground stations (fmx)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Praktikum-%28wmd%29-im-Bereich-f%C3%BCr-Optische-Bodenstation/1429120733/": "Oberpfaffenhofen Praktikum (wmd) im Bereich f\u00fcr Optische Bodenstation",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-in-Adaptiver-3GPP-NB-IoT-Zugang/1449786433/": "Oberpfaffenhofen Masterstudentin (wmd) in Adaptiver 3GPP NB IoT Zugang"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -1190,7 +1191,6 @@
   "STMicroelectronics": {},
   "Munich Electrification": {
     "https://jobs.ashbyhq.com/munich-electrification/4472cec3-8839-4e87-b9ee-7abe91421589": "Engineering Manager - Software and System Testing (f/m/d)",
-    "https://jobs.ashbyhq.com/munich-electrification/8bf45b4f-ecd1-4143-8ea8-7d5afc9ae8f4": "Functional Safety & Cybersecurity Manager (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/1f17fad1-7d8e-4355-9bc3-9aedd7e283c4": "IT Cloud Administrator (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/e536a980-8091-4c80-9f43-ea3eb9372c1b": "Manufacturing Technology Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/5b6595f3-389f-401e-b308-c8f6ae49ddb6": "Principal Software Engineer (C/C++) (f/m/d)",
