@@ -265,7 +265,6 @@
     "https://career.quantum-systems.com/o/junior-buchhalter-mfd-quantum-frontline-industries": "Junior Accountant (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/junior-sous-chef-mwd-1": "Junior Sous Chef (m/f/d)",
     "https://career.quantum-systems.com/o/product-manager-autonomous-trucking-mfd-1": "Product Manager Autonomous Trucking (m/f/d)",
-    "https://career.quantum-systems.com/o/product-manager-mission-aircraft-mfd": "Product Manager MISSION AIRCRAFT (m/f/d)",
     "https://career.quantum-systems.com/o/product-manager-mission-payload-land-mfd": "Product Manager Mission Payload Land (m/f/d)",
     "https://career.quantum-systems.com/o/project-manager-mfd-quantum-frontline-industries": "Project Manager (m/f/d) Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/senior-agile-transformation-manager-mfd": "Senior Agile Transformation Manager (m/f/d)",
@@ -467,7 +466,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Mesh-Netzwerke-f%C3%BCr-Drohnenschw%C3%A4rme/1417037133/": "Oberpfaffenhofen Masterarbeit (wmd) Mesh Netzwerke f\u00fcr Drohnenschw\u00e4rme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ausbildung-zurzum-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29/1428306833/": "Oberpfaffenhofen Ausbildung zurzum Elektronikerin f\u00fcr Ger\u00e4te und Systeme (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Lokalisierung-von-Signalquellen/1456338833/": "Oberpfaffenhofen Ingenieurin (wmd) Lokalisierung von Signalquellen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Elektrotechnik-oder-Physik/1452945933/": "Oberpfaffenhofen Masterarbeit (wmd) Elektrotechnik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informationstechnikerin%2C-Informatikerin-%28wmd%29-IT-Security-Engineering/1438268333/": "Oberpfaffenhofen Informationstechnikerin, Informatikerin (wmd) IT Security Engineering",
@@ -498,9 +496,10 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Antennenentwicklung-f%C3%BCr-Satellitennavigation-und-Kommunikation/1453634233/": "Oberpfaffenhofen Ingenieurin (wmd) Antennenentwicklung f\u00fcr Satellitennavigation und Kommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Software-Entw_-von-sicheren-IP-basierten-Protokollen-f%C3%BCr-Satellitenkomm_/1407538133/": "Oberpfaffenhofen Ingenieurin (wmd) Software Entw_ von sicheren IP basierten Protokollen f\u00fcr Satellitenkomm_",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Unity-Developer-%28wmd%29/1429045433/": "Oberpfaffenhofen Unity Developer (wmd)",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-project-and-final-thesis-%28mfd%29-Design-and-testing-of-coupled-kinematic-systems/1421326533/": "Oberpfaffenhofen Student project and final thesis (mfd) Design and testing of coupled kinematic systems",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Unity-Developer-%28wmd%29/1429045433/": "Oberpfaffenhofen Unity Developer (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Topic-Owner-%28wmd%29-Satellitenkommunikation-6G-NTN/1449902433/": "Oberpfaffenhofen Topic Owner (wmd) Satellitenkommunikation 6G NTN"
   },
   "Hive Robotics": {
