@@ -89,8 +89,8 @@
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
     "https://helsing.ai/jobs/5040443101?gh_jid=5040443101": "Senior Warhead Engineer \u2013 Lethality Centre of Excellence ",
     "https://helsing.ai/jobs/5037050101?gh_jid=5037050101": "Simulation Architect \u2013 Defence & Combat Systems ",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -429,7 +429,9 @@
   },
   "DLR": {
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Entwicklung-und-Analyse-eines-softwarebasierten-SpaceWire-zu-Ethernet-Moduls/1435468033/": "Oberpfaffenhofen Masterarbeit (wmd) Entwicklung und Analyse eines softwarebasierten SpaceWire zu Ethernet Moduls",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Development-and-analysis-of-a-software-based-SpaceWire-to-Ethernet-bridge/1435468133/": "Oberpfaffenhofen Master Thesis (fmx) Development and analysis of a software based SpaceWire to Ethernet bridge"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Development-and-analysis-of-a-software-based-SpaceWire-to-Ethernet-bridge/1435468133/": "Oberpfaffenhofen Master Thesis (fmx) Development and analysis of a software based SpaceWire to Ethernet bridge",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Dynamic-and-reactive-robotic-manipulation/1459263033/": "Oberpfaffenhofen Engineer (fmx) Dynamic and reactive robotic manipulation",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Dynamische-und-reaktive-Robotermanipulation/1459262933/": "Oberpfaffenhofen Ingenieurin (wmd) Dynamische und reaktive Robotermanipulation"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -972,6 +974,7 @@
   },
   "Cariad": {
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Test-Automation-%28mfd%29-85053/1459222333/": "Internship - Test Automation (m/f/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Automotive-Sensor-Data-Processing-&-Machine-Learning-%28mfd%29-85053/1458820533/": "Working Student - Automotive Sensor Data Processing & Machine Learning (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)"
   },
@@ -1075,6 +1078,8 @@
     "https://jobs.nvidia.com/careers/job/893382452913-senior-software-and-system-architect-remote-france?domain=nvidia.com": "Senior Software And System Architect Remote France"
   },
   "OHB System AG": {
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8671?c=career-ohb": "QA Inspector (m/f/d)",
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8380?c=career-ohb": "Informationsmanager:in (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8539?c=career-ohb": "Digital Electronics Design Engineer (f/m/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9043?c=career-ohb": "(Senior) Project Controlling & Contracts Manager (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9042?c=career-ohb": "System Engineer Earth Observation Applications & Data Processing (m/f/d)",
@@ -1099,13 +1104,11 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8778?c=career-ohb": "Photonics / Systems Engineer (m/f/d) Quantum Technologies",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8773?c=career-ohb": "Senior Mechanisms, Mechatronics and Robotics Engineer (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8772?c=career-ohb": "Mechanisms, Mechatronics and Robotics Engineer (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8671?c=career-ohb": "QA Inspector (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8408?c=career-ohb": "Informations- und Konfigurationsmanager:in (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8654?c=career-ohb": "IT System Specialist (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8415?c=career-ohb": "Subcontractor Manager:in (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7984?c=career-ohb": "Project Controlling and Contracts Manager:in (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7955?c=career-ohb": "Linux IT System Administrator:in (m/w/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8380?c=career-ohb": "Informationsmanager:in (m/w/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8551?c=career-ohb": "insert title of the position (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8550?c=career-ohb": "(Senior) Technische Leiter:in (m/w/d) Gesamtsysteme Aufkl\u00e4rung und Fr\u00fchwarnsysteme",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8548?c=career-ohb": "(Senior) Projektleiter:in (m/w/d) Satellitensysteme Aufkl\u00e4rung und Fr\u00fchwarnsysteme",
