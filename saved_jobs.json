@@ -53,7 +53,6 @@
     "https://helsing.ai/jobs/4938743101?gh_jid=4938743101": "Multimodal Sensing and Fusion Engineer ",
     "https://helsing.ai/jobs/4948277101?gh_jid=4948277101": "Obsolescence Manager ",
     "https://helsing.ai/jobs/4947489101?gh_jid=4947489101": "Optical Sensing Test Engineer",
-    "https://helsing.ai/jobs/4876698101?gh_jid=4876698101": "Payroll Specialist",
     "https://helsing.ai/jobs/4642812101?gh_jid=4642812101": "Production Engineer - Mechatronic Systems",
     "https://helsing.ai/jobs/4788891101?gh_jid=4788891101": "Production Engineer - Software Integration",
     "https://helsing.ai/jobs/4947377101?gh_jid=4947377101": "Product Manager, Autonomous Systems Command & Control",
@@ -90,8 +89,8 @@
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
     "https://helsing.ai/jobs/5040443101?gh_jid=5040443101": "Senior Warhead Engineer \u2013 Lethality Centre of Excellence ",
     "https://helsing.ai/jobs/5037050101?gh_jid=5037050101": "Simulation Architect \u2013 Defence & Combat Systems ",
-    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
+    "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
     "https://helsing.ai/jobs/4737931101?gh_jid=4737931101": "Software Engineer",
@@ -972,6 +971,7 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/power-electronics-engineer-all-genders-emosys-gmbh/": "Power Electronics Engineer (all genders) - eMoSys GmbH"
   },
   "Cariad": {
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Test-Automation-%28mfd%29-85053/1459222333/": "Internship - Test Automation (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)"
   },
@@ -1093,7 +1093,7 @@
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8261?c=career-ohb": "Teamleiter:in f\u00fcr die Elektronik-Fertigung (m,w,d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/7900?c=career-ohb": "Technical Product Owner Software - Space & Defence Simulation (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8810?c=career-ohb": "Systems Engineer Quantum Technologies (m/f/d)",
-    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8807?c=career-ohb": "Werkstudent:in - End User Services (m/w/d)",
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8807?c=career-ohb": "Working Student, End User Services (f/m/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8829?c=career-ohb": "insert title of the position (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8516?c=career-ohb": "Systems Engineering Manager Space System Studies (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8778?c=career-ohb": "Photonics / Systems Engineer (m/f/d) Quantum Technologies",
