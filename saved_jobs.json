@@ -21,7 +21,6 @@
     "https://helsing.ai/jobs/4975282101?gh_jid=4975282101": "Finanzbuchhalterin (m/w/d)",
     "https://helsing.ai/jobs/4743310101?gh_jid=4743310101": "Flight Control Systems Engineer",
     "https://helsing.ai/jobs/4995452101?gh_jid=4995452101": "Flight Dynamics Modelling Engineer",
-    "https://helsing.ai/jobs/4538119101?gh_jid=4538119101": "Forward Strategist",
     "https://helsing.ai/jobs/4835300101?gh_jid=4835300101": "Front Office Coordinator / Guest Service Agent",
     "https://helsing.ai/jobs/4998730101?gh_jid=4998730101": "Front Office Coordinator / Guest Service Agent (m/w/d)",
     "https://helsing.ai/jobs/4972083101?gh_jid=4972083101": "Guidance, Navigation, & Control Engineer ",
@@ -89,7 +88,6 @@
     "https://helsing.ai/jobs/5029985101?gh_jid=5029985101": "(Senior) Systems Engineer V&V \u2013 Land",
     "https://helsing.ai/jobs/5040443101?gh_jid=5040443101": "Senior Warhead Engineer \u2013 Lethality Centre of Excellence ",
     "https://helsing.ai/jobs/5037050101?gh_jid=5037050101": "Simulation Architect \u2013 Defence & Combat Systems ",
-    "https://helsing.ai/jobs/4981556101?gh_jid=4981556101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972086101?gh_jid=4972086101": "Simulation Engineer",
     "https://helsing.ai/jobs/4972255101?gh_jid=4972255101": "Simulation Engineer - Space",
     "https://helsing.ai/jobs/4347030101?gh_jid=4347030101": "Site Reliability Engineer",
@@ -404,6 +402,7 @@
   },
   "Alpine Eagle": {
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5012500101": "Computer Radar Software Engineer for Drone Systems (m/w/d)",
+    "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5044658101": "Development Engineer Launch Systems (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4789058101": "Flight Physics & Flight Controls Engineer (m/w/d)",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/5040406101": "FP&A Manager (m/w/d)\t ",
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4966334101": "Full Stack Engineer \u2013 Frontend Focus (m/f/d)",
@@ -442,8 +441,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-GPU-beschleunigte-Implementierung-und-Optimierung/1412288233/": "Oberpfaffenhofen Masterarbeit (wmd) GPU beschleunigte Implementierung und Optimierung",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Migration-und-Inbetriebnahme-eines-mechatronischen-15-Pr%C3%BCfstands-auf-dSPACE/1429074833/": "Oberpfaffenhofen Studentin (wmd) Migration und Inbetriebnahme eines mechatronischen 15 Pr\u00fcfstands auf dSPACE",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-on-Mesh-Networking-for-Drone-Swarms-%28fmd%29/1417037233/": "Oberpfaffenhofen Master Thesis on Mesh Networking for Drone Swarms (fmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-final-year-dissertation-%28mfd%29-Elastic-transmission-elements-in-robotic-hands/1423448433/": "Oberpfaffenhofen Undergraduate and final year dissertation (mfd) Elastic transmission elements in robotic hands",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-dissertation-project-%28mfd%29-Zonal-communication-architecture-for-robotic-hands/1423443733/": "Oberpfaffenhofen Undergraduate and dissertation project (mfd) Zonal communication architecture for robotic hands",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-in-Information-Technology-or-Physics-%28fmd%29-adaptive-optics-software/1412801833/": "Oberpfaffenhofen Master student Internship in Information Technology or Physics (fmd) adaptive optics software",
@@ -496,7 +493,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Technikerin-%28wmd%29-f%C3%BCr-Robotersysteme-in-der-Raumfahrt-und-Industrie/1456687233/": "Oberpfaffenhofen Technikerin (wmd) f\u00fcr Robotersysteme in der Raumfahrt und Industrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458888533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Produktsicherungsmanagerin-%28wmd%29-nach-ECSS-f%C3%BCr-%28Gro%C3%9F-%29Projekte-und-admin_-Projektmanagement/1437986433/": "Oberpfaffenhofen Produktsicherungsmanagerin (wmd) nach ECSS f\u00fcr (Gro\u00df )Projekte und admin_ Projektmanagement",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-final-year-dissertation-%28mfd%29-Elastic-transmission-elements-in-robotic-hands/1423448433/": "Oberpfaffenhofen Undergraduate and final year dissertation (mfd) Elastic transmission elements in robotic hands"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -525,11 +524,11 @@
     "https://careers.ti.com/en/sites/CX/job/25013090/": "Validation Engineer (m/f/d)",
     "https://careers.ti.com/en/sites/CX/job/25013093/": "Project Management & Product Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25013295/": "Test Engineering Intern m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25013086/": "Analog Design Eng Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25013293/": "Analog IC Design Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015770/": "Manufacturing Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d",
-    "https://careers.ti.com/en/sites/CX/job/25017425/": "Equipment Engineering Technician Multiprobe m/f/d"
+    "https://careers.ti.com/en/sites/CX/job/25017425/": "Equipment Engineering Technician Multiprobe m/f/d",
+    "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d"
   },
   "Engineering Minds Munich": {
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_MissionCore_Flyer_2026-1.pdf": "Explore MissionCore \u2197 Fact Sheet \u2193",
@@ -955,7 +954,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/customs-trade-compliance-specialist-all-genders/": "Customs & Trade Compliance Specialist (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-governance-und-business-performance-all-genders/": "Praktikum Governance und Business Performance (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-in-der-physikalisch-chemischen-analytik-oder-metallografie-all-genders/": "Praktikum in der physikalisch-chemischen Analytik oder Metallografie (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-produktionsunterstuetzung-und-projektmanagement-all-genders/": "Werkstudent Produktionsunterst\u00fctzung und Projektmanagement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-compensation-benefits-mit-schwerpunkt-hr-analytics-all-genders/": "Praktikum Compensation & Benefits mit Schwerpunkt HR Analytics (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-auditmanagement-all-genders/": "Praktikum Auditmanagement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-lean-management-all-genders-1/": "Praktikum Lean Management (all genders)",
@@ -1048,7 +1046,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/power-electronics-engineer-all-genders-emosys-gmbh/": "Power Electronics Engineer (all genders) - eMoSys GmbH"
   },
   "Cariad": {
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Test-Automation-%28mfd%29-85053/1459222333/": "Internship - Test Automation (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Wolfsburg-Working-Student-HR-Services%2C-Digitalization-&-Project-Support-%28mfd%29-38442/1458308133/": "Working Student - HR Services, Digitalization & Project Support (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Head-of-Data-&-Developer-Experience-%28wmd%29-80807/1458552233/": "Head of Data & Developer Experience (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Head-of-Tech-Operations-&-Solutions-%28fmd%29-80807/1457967533/": "Head of Tech Operations & Solutions (f/m/d)",
@@ -1057,7 +1054,9 @@
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Vice-President-R&D-AI-Factory-%28fmd%29-80807/1455727033/": "Vice President R&D AI Factory (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933/": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Data-Engineer-Streaming-Analytics-%28fmd%29-85053/1286724401/": "Senior Data Engineer - Streaming Analytics (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Android-Developer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452029833/": "Senior Android Developer - Boutique Store - (T2-CC) (f/m/d)"
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Android-Developer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452029833/": "Senior Android Developer - Boutique Store - (T2-CC) (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Backend-Engineer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452027633/": "Backend Engineer - Boutique Store - (T2-CC) (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Test-Automation-%28mfd%29-85053/1459222333/": "Internship - Test Automation (m/f/d)"
   },
   "NavVis": {
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4987145101": "Business Intelligence Analyst (F/M/D)",
