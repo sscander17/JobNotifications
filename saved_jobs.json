@@ -230,10 +230,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-mfd": "Senior GNC Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-mfd": "Drone Technician (m/f/d)"
   },
-  "Samsung": {
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory"
-  },
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
     "https://career.quantum-systems.com/o/customer-solution-manager-mfd-5": "Customer Solution Manager (m/f/d)",
@@ -423,6 +419,7 @@
     "https://job-boards.eu.greenhouse.io/alpineeagle/jobs/4935543101": "Working Student Prototyping - Drones (m/w/d)"
   },
   "Siemens": {
+    "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529637": "Research Scientist \u2013 Generative AI for Physical Systems (F/M/D)",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527439": "Head (f/m/d) of Forward Deployed AI Engineers for Customer Projects",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529803": "Projektleiter/Bauingenieur (w/m/d) im Stahlbau",
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527266": "Agentic AI Architect \"Product\" (f/m/d)",
@@ -487,13 +484,11 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Neuro-Symbolic-AI-for-Resilient-On-Board-Decision-Making/1435629833/": "Oberpfaffenhofen Master Thesis (fmx) Neuro Symbolic AI for Resilient On Board Decision Making",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-final-year-dissertation-%28mfd%29-Elastic-transmission-elements-in-robotic-hands/1423448433/": "Oberpfaffenhofen Undergraduate and final year dissertation (mfd) Elastic transmission elements in robotic hands",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-for-AI-based-system-dynamics-and-control-engineering/1435325333/": "Oberpfaffenhofen Engineer (fmx) for AI based system dynamics and control engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-Antenna-Development-for-Satellite-Navigation-and-Communication/1453634333/": "Oberpfaffenhofen Engineer (fmd) Antenna Development for Satellite Navigation and Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Antennenentwicklung-f%C3%BCr-Satellitennavigation-und-Kommunikation/1453634233/": "Oberpfaffenhofen Ingenieurin (wmd) Antennenentwicklung f\u00fcr Satellitennavigation und Kommunikation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-dissertation-project-%28mfd%29-Zonal-communication-architecture-for-robotic-hands/1423443733/": "Oberpfaffenhofen Undergraduate and dissertation project (mfd) Zonal communication architecture for robotic hands",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Research-Software-Engineer-%28mfd%29-Further-development-of-thunderstorm-forecasts/1425215333/": "Oberpfaffenhofen Research Software Engineer (mfd) Further development of thunderstorm forecasts",
@@ -505,7 +500,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Dynamische-und-reaktive-Robotermanipulation/1459262933/": "Oberpfaffenhofen Ingenieurin (wmd) Dynamische und reaktive Robotermanipulation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Dynamic-and-reactive-robotic-manipulation/1459263033/": "Oberpfaffenhofen Engineer (fmx) Dynamic and reactive robotic manipulation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-SDR-Prototype-Development-for-CommunicationSurveillance-Systems/1459558633/": "Oberpfaffenhofen Engineer (fmd) SDR Prototype Development for CommunicationSurveillance Systems",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-SDR-Prototypen-Entwicklung-f%C3%BCr-Funk-und-%C3%9Cberwachungssysteme/1459558533/": "Oberpfaffenhofen Ingenieurin (wmd) SDR Prototypen Entwicklung f\u00fcr Funk und \u00dcberwachungssysteme"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-SDR-Prototypen-Entwicklung-f%C3%BCr-Funk-und-%C3%9Cberwachungssysteme/1459558533/": "Oberpfaffenhofen Ingenieurin (wmd) SDR Prototypen Entwicklung f\u00fcr Funk und \u00dcberwachungssysteme",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -554,6 +551,9 @@
     "https://careers.amd.com/careers-home/jobs/97248": "Principle Agentic Software Developer"
   },
   "BMW Group": {
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.201520.html": "Praktikum im Bereich People &amp; Culture",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195932.html": "Praktikant Unternehmenskommunikation und Medienproduktion (w/m/d)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192027.html": "Praktikant Versuch und Absicherung Hochvoltspeicher (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200609.html": "Praktikant Automatisierung der Fahrzeugintegration von Fahrerassistenz-Sensoren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200299.html": "Praktikum Events &amp; Kommunikation BMW Oberklasse (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199909.html": "Doktorand markerloses Augmented-Reality-Tracking f\u00fcr Fahrzeuge (w/m/x)",
@@ -664,7 +664,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199826.html": "Praktikant Software Entwicklung in der Logistikplanung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199796.html": "Praktikant Eventmanagement (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199790.html": "Praktikant Arbeitssicherheit, Ergonomie und Umweltschutz (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199782.html": "Intern Project Controlling Production (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199541.html": "Intern Agentic AI and Industrial Foundation Models (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199535.html": "Praktikant Fahrzeug- und Produktstrategie (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199532.html": "Praktikant Einkauf Cockpit und Mittelkonsole (w/m/x)",
@@ -697,7 +696,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199274.html": "Werkstudent Aufbau- und Verbindungstechnik f\u00fcr Leistungselektronik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199226.html": "Intern THE NEW RETAIL (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199198.html": "Praktikant Marketing BMW Group Financial Services (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199144.html": "Praktikant Corporate und Brand Identity (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198553.html": "Praktikant Fahrzeugfunktionen und Datenanalyse (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198516.html": "Praktikant Projektmanagement 4- und 6-Zylinder Fahrzeuge BMW Motorrad (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198433.html": "Praktikant Internationaler Vertrieb und Marketing (w/m/x)",
@@ -708,7 +706,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199470.html": "Praktikant Digitalisierung und Agentic AI in der Produktion (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199299.html": "Praktikant Logistikplanung und autonome Transportsysteme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198910.html": "Praktikant Gesch\u00e4ftsentwicklung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198846.html": "Praktikant Technology Solutions und SharePoint Online (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198101.html": "Praktikant International Price Management Aftersales (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197049.html": "Praktikant Robotik und Logistiksimulation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199308.html": "Praktikant Einkauf Klimatisierung und Thermomanagement (w/m/x)",
@@ -737,12 +734,9 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196139.html": "Master Thesis Multi-Fidelity Test Optimization (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194863.html": "Praktikant Serienentwicklung Gen6-Batteriezellen (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194782.html": "Intern AI-Based Context Engineering (f/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194650.html": "Werkstudent Datenanalyse Automatisiertes Fahren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.180706.html": "Intern Integration of AI Agents in Vehicle Systems (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198468.html": "Praktikum im Bereich Kreditwesen",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198916.html": "Praktikant Antriebsentwicklung und Antriebsabsicherung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198853.html": "Praktikant Konzerncontrolling (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192561.html": "Werkstudent Fuhrparkmanagement BMW M Brand Experience (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190822.html": "Praktikant Produktmanagement Vertriebsregion (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198802.html": "Praktikant Serien-Prozessoptimierung Montage (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198610.html": "Praktikant Schwei\u00dftechnologie Elektromobilit\u00e4t (w/m/x)",
@@ -760,7 +754,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197641.html": "Praktikant Hochvoltspeicherentwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198406.html": "Praktikant BMW Golfsport Team (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197792.html": "Praktikant Interne Kommunikation Technische Planung (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197643.html": "Praktikant Sales Marketing und eCommerce BMW Lifestyle (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197639.html": "Praktikant Konstruktion elektrischer Energiespeicher (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197638.html": "Praktikant Hochvoltspeicherentwicklung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197092.html": "Intern Generative AI for Vehicle Design (f/m/x)",
@@ -799,7 +792,6 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.179583.html": "Praktikant KI-gest\u00fctzte Softwareentwicklung Fahrzeuginnenraum BMW M (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197200.html": "Praktikant Anlaufmanagement Gesamtfahrzeug (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197169.html": "Praktikant Kundenintegration Design (w/m/x)",
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196350.html": "Praktikant Logistik und Prototypenteile Motorrad (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195435.html": "Praktikant Forschung / Entwicklung von Elektrik und Elektronik (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196862.html": "Werkstudent Budget und Absicherung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.196772.html": "Praktikant Multiprojektplanung und Personalsteuerung Produktionsstrategie Antrieb (w/m/x)",
