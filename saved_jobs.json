@@ -241,9 +241,9 @@
     "https://career.quantum-systems.com/o/electrical-engineer-mfd-7": "Electrical Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/electronics-design-engineer-interceptor-cuas-mfd-1": "Electronics Design Engineer Interceptor C\u2011UAS (m/f/d)",
     "https://career.quantum-systems.com/o/flight-test-field-systems-engineer-cuas-mfd": "Flight Test & Field Systems Engineer C\u2011UAS (m/f/d)",
-    "https://career.quantum-systems.com/o/hardware-and-electronics-engineer-mfd": "Hardware and Electronics Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/industrialization-engineer-mfd-1": "Industrialization Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/mechanical-development-engineer-drone-technologies-mfd-8": "Mechanical Development Engineer - Drone Technologies (m/f/d)",
+    "https://career.quantum-systems.com/o/mechanical-engineer-mfd": "Mechanical Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-3": "Corporate Security Manager (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-quantum-frontline-industries": "Corporate Security Manager (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/it-infrastructure-security-engineer-mfd": "IT Infrastructure & Security Engineer (m/f/d)",
@@ -446,7 +446,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Unity-Developer-%28wmd%29/1429045433/": "Oberpfaffenhofen Unity Developer (wmd)",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458268533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Forschungs-Software-Ingenieurin-%28wmd%29-Weiterentwicklung-von-Gewittervorhersagen/1425215233/": "Oberpfaffenhofen Forschungs Software Ingenieurin (wmd) Weiterentwicklung von Gewittervorhersagen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-Informatik-oder-Physik/1439294433/": "Oberpfaffenhofen Masterstudentin (wmd) Informatik oder Physik",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-Natur-%2C-Ingenieur-oder-Computerwissenschaften/1454205433/": "Oberpfaffenhofen Studierende (wmd) Natur , Ingenieur oder Computerwissenschaften",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Produktsicherungsmanagerin-%28wmd%29-nach-ECSS-f%C3%BCr-%28Gro%C3%9F-%29Projekte-und-admin_-Projektmanagement/1437986433/": "Oberpfaffenhofen Produktsicherungsmanagerin (wmd) nach ECSS f\u00fcr (Gro\u00df )Projekte und admin_ Projektmanagement",
@@ -491,16 +490,14 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Validierung-eines-Roboterfingers/1418200533/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Validierung eines Roboterfingers",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-dissertation-project-%28mfd%29-Zonal-communication-architecture-for-robotic-hands/1423443733/": "Oberpfaffenhofen Undergraduate and dissertation project (mfd) Zonal communication architecture for robotic hands",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Research-Software-Engineer-%28mfd%29-Further-development-of-thunderstorm-forecasts/1425215333/": "Oberpfaffenhofen Research Software Engineer (mfd) Further development of thunderstorm forecasts",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Missions-Engineering/1435220533/": "Oberpfaffenhofen Masterarbeit (wmd) Missions Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458888533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Software-development-of-secure-IP-based-protocols-for-satellite-communications/1407538233/": "Oberpfaffenhofen Engineer (fmx) Software development of secure IP based protocols for satellite communications",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-project-and-final-thesis-%28mfd%29-Design-and-testing-of-coupled-kinematic-systems/1421326533/": "Oberpfaffenhofen Student project and final thesis (mfd) Design and testing of coupled kinematic systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Dynamische-und-reaktive-Robotermanipulation/1459262933/": "Oberpfaffenhofen Ingenieurin (wmd) Dynamische und reaktive Robotermanipulation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Dynamic-and-reactive-robotic-manipulation/1459263033/": "Oberpfaffenhofen Engineer (fmx) Dynamic and reactive robotic manipulation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmd%29-SDR-Prototype-Development-for-CommunicationSurveillance-Systems/1459558633/": "Oberpfaffenhofen Engineer (fmd) SDR Prototype Development for CommunicationSurveillance Systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-SDR-Prototypen-Entwicklung-f%C3%BCr-Funk-und-%C3%9Cberwachungssysteme/1459558533/": "Oberpfaffenhofen Ingenieurin (wmd) SDR Prototypen Entwicklung f\u00fcr Funk und \u00dcberwachungssysteme",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning"
   },
@@ -536,6 +533,16 @@
     "https://careers.ti.com/en/sites/CX/job/25015770/": "Manufacturing Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d"
+  },
+  "Intel": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Application-Debugger-Development-Intern--m-f-d-_JR0287947": "Application Debugger Development Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-RnD-Engineer--XeSS-and-Neural-Graphics--f-m-d-_JR0288914": "AI RnD Engineer, XeSS and Neural Graphics (f/m/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937": "Software Design Engineer Intern for Physical Design (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/System-Debugger-Development-Intern--m-f-d-_JR0287946": "System Debugger Development Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635": "Middleware Software Engineering Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Sales-Account-Manager-Manager---Robotics-and-Physical-AI--EMEA---m-f-d-_JR0288477-1": "Sales Account Manager \u2014 Robotics and Physical AI (EMEA) (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-Software-Development-Engineer---Neuromorphic-Computing--m-f-d---Fixed-Term-_JR0287336": "AI Software Development Engineer - Neuromorphic Computing (m/f/d) (Fixed-Term)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)"
   },
   "Engineering Minds Munich": {
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_MissionCore_Flyer_2026-1.pdf": "Explore MissionCore \u2197 Fact Sheet \u2193",
@@ -1143,6 +1150,7 @@
     "https://jobs.nvidia.com/careers/job/893396856190-senior-developer-relations-manager-emea-ai-natives-remote-italy?domain=nvidia.com": "Senior Developer Relations Manager Emea Ai Natives Remote Italy"
   },
   "OHB System AG": {
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9081?c=career-ohb": "Proposal Coordinator (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8941?c=career-ohb": "Systems Engineer - Image Simulation & Processing (f/m/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9077?c=career-ohb": "Systems Engineer - Instrument Performance & Calibration (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9048?c=career-ohb": "EEE/Radiation Engineer (m/f/d)",
