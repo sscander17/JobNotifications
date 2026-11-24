@@ -230,6 +230,10 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-mfd": "Senior GNC Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-mfd": "Drone Technician (m/f/d)"
   },
+  "Samsung": {
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
+    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory"
+  },
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
     "https://career.quantum-systems.com/o/customer-solution-manager-mfd-5": "Customer Solution Manager (m/f/d)",
@@ -546,10 +550,10 @@
     "https://careers.amd.com/careers-home/jobs/93698": "Senior Graphics Machine Learning  Engineer",
     "https://careers.amd.com/careers-home/jobs/93870": "Channel Marketing Manager DACH",
     "https://careers.amd.com/careers-home/jobs/97644": "Event Marketing Manager EMEA",
+    "https://careers.amd.com/careers-home/jobs/99428": "Business Development Senior Manager",
     "https://careers.amd.com/careers-home/jobs/97248": "Principle Agentic Software Developer"
   },
   "BMW Group": {
-    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195932.html": "Praktikant Unternehmenskommunikation und Medienproduktion (w/m/d)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200609.html": "Praktikant Automatisierung der Fahrzeugintegration von Fahrerassistenz-Sensoren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200299.html": "Praktikum Events &amp; Kommunikation BMW Oberklasse (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199909.html": "Doktorand markerloses Augmented-Reality-Tracking f\u00fcr Fahrzeuge (w/m/x)",
@@ -704,6 +708,7 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199470.html": "Praktikant Digitalisierung und Agentic AI in der Produktion (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199299.html": "Praktikant Logistikplanung und autonome Transportsysteme (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198910.html": "Praktikant Gesch\u00e4ftsentwicklung (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198846.html": "Praktikant Technology Solutions und SharePoint Online (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198101.html": "Praktikant International Price Management Aftersales (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.197049.html": "Praktikant Robotik und Logistiksimulation (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199308.html": "Praktikant Einkauf Klimatisierung und Thermomanagement (w/m/x)",
@@ -735,7 +740,9 @@
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.194650.html": "Werkstudent Datenanalyse Automatisiertes Fahren (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.180706.html": "Intern Integration of AI Agents in Vehicle Systems (f/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198468.html": "Praktikum im Bereich Kreditwesen",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198916.html": "Praktikant Antriebsentwicklung und Antriebsabsicherung (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198853.html": "Praktikant Konzerncontrolling (w/m/x)",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192561.html": "Werkstudent Fuhrparkmanagement BMW M Brand Experience (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.190822.html": "Praktikant Produktmanagement Vertriebsregion (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198802.html": "Praktikant Serien-Prozessoptimierung Montage (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.198610.html": "Praktikant Schwei\u00dftechnologie Elektromobilit\u00e4t (w/m/x)",
@@ -866,6 +873,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/syndikusrechtsanwalt-all-genders/": "Syndikusrechtsanwalt (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/einkaeufer-indirektes-material-all-genders-1/": "Eink\u00e4ufer indirektes Material (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/logistiker-maschinenersatzteile-all-genders/": "Logistiker Maschinenersatzteile (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/einkaeufer-indirektes-material-all-genders/": "Eink\u00e4ufer indirektes Material (all genders)",
@@ -1143,6 +1151,7 @@
     "https://jobs.nvidia.com/careers/job/893396856190-senior-developer-relations-manager-emea-ai-natives-remote-italy?domain=nvidia.com": "Senior Developer Relations Manager Emea Ai Natives Remote Italy"
   },
   "OHB System AG": {
+    "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8941?c=career-ohb": "Systems Engineer - Image Simulation & Processing (f/m/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9077?c=career-ohb": "Systems Engineer - Instrument Performance & Calibration (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9048?c=career-ohb": "EEE/Radiation Engineer (m/f/d)",
     "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/9024?c=career-ohb": "OMTS Systems Engineer - Instruments (f/m/d)",
