@@ -99,7 +99,6 @@
     "https://helsing.ai/jobs/4741571101?gh_jid=4741571101": "Software Engineer - Autonomous Air Systems",
     "https://helsing.ai/jobs/4741219101?gh_jid=4741219101": "Software Engineer - Autonomous Air System V&V",
     "https://helsing.ai/jobs/4125061101?gh_jid=4125061101": "Software Engineer - Backend",
-    "https://helsing.ai/jobs/4741224101?gh_jid=4741224101": "Software Engineer - Frontend Autonomous Air System V&V",
     "https://helsing.ai/jobs/4741242101?gh_jid=4741242101": "Software Engineer - Ground to Air HMI",
     "https://helsing.ai/jobs/5040262101?gh_jid=5040262101": "Specialist Export Control / ITAR",
     "https://helsing.ai/jobs/5028718101?gh_jid=5028718101": "Staff AI Research Engineer -  3D Computer Vision",
@@ -198,13 +197,10 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/office-manager-part-time-mfd": "Office Manager (Part-Time) - (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/full-stack-engineer-fmd": "Full-stack Engineer (f/m/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/requirements-engineer-mfd": "Requirements Engineer (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/system-safety-engineer-warhead-integration-mfd": "System Safety Engineer \u2013 Warhead Integration (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-solutions-architect-sales-engineer-mfd": "Senior Solutions Architect / Sales Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-people-operations-specialist-mfd": "Senior People Operations Specialist (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/battery-engineer-pack-design-cell-characterization-mfd": "Battery Engineer (Pack Design & Cell Characterization) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/embedded-software-engineer-mfd": "Embedded Software Engineer (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-embedded-linux-platform-mfd": "Senior Embedded Software Engineer \u2013 Embedded Linux Platform (m/f/d)",
-    "https://tytantechnologiesgmbh.recruitee.com/o/senior-embedded-software-engineer-real-time-flight-software-mfd": "Senior Embedded Software Engineer \u2013 Real-Time Flight Software (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/field-solutions-engineer-mfd": "Field Solutions Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/qualified-electrician-elektrofachkraft-vefk-mfd": "Qualified Electrician - Elektrofachkraft (vEFK) (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/production-team-lead-mfd": "Production Team Lead (m/f/d)",
@@ -533,12 +529,21 @@
     "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d"
   },
+  "Intel": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Application-Debugger-Development-Intern--m-f-d-_JR0287947": "Application Debugger Development Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-RnD-Engineer--XeSS-and-Neural-Graphics--f-m-d-_JR0288914": "AI RnD Engineer, XeSS and Neural Graphics (f/m/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937": "Software Design Engineer Intern for Physical Design (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/System-Debugger-Development-Intern--m-f-d-_JR0287946": "System Debugger Development Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635": "Middleware Software Engineering Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Sales-Account-Manager-Manager---Robotics-and-Physical-AI--EMEA---m-f-d-_JR0288477-1": "Sales Account Manager \u2014 Robotics and Physical AI (EMEA) (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-Software-Development-Engineer---Neuromorphic-Computing--m-f-d---Fixed-Term-_JR0287336": "AI Software Development Engineer - Neuromorphic Computing (m/f/d) (Fixed-Term)"
+  },
   "Engineering Minds Munich": {
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_MissionCore_Flyer_2026-1.pdf": "Explore MissionCore \u2197 Fact Sheet \u2193",
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_HRT_Flyer_2026-1.pdf": "Explore HRT \u2197 Fact Sheet \u2193"
   },
   "AMD": {
-    "https://careers.amd.com/careers-home/jobs/92597": "Fellow Software System Design Eng. (Linux Kernel & x86 Systems Architect)",
+    "https://careers.amd.com/careers-home/jobs/92597": "Principal Software System Design Eng. (Linux Kernel & x86 Systems Architect)",
     "https://careers.amd.com/careers-home/jobs/84927": "Senior Manager, AI Field Applications Engineering - EMEA",
     "https://careers.amd.com/careers-home/jobs/93698": "Senior Graphics Machine Learning  Engineer",
     "https://careers.amd.com/careers-home/jobs/93870": "Channel Marketing Manager DACH",
@@ -861,6 +866,8 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/finance-business-partner-zivile-triebwerksprogramme-all-genders/": "Finance Business Partner Zivile Triebwerksprogramme (all genders)",
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/ai-solution-architect-and-digital-product-owner-all-genders/": "AI Solution Architect and Digital Product Owner (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/projektmanager-digitale-transformation-enablement-all-genders/": "Projektmanager Digitale Transformation & Enablement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/syndikusrechtsanwalt-all-genders/": "Syndikusrechtsanwalt (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/einkaeufer-indirektes-material-all-genders-1/": "Eink\u00e4ufer indirektes Material (all genders)",
@@ -1020,7 +1027,6 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-projekt-management-technologie-entwicklung-all-genders/": "Werkstudent Projekt Management - Technologie & Entwicklung (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-chemische-technik-all-genders/": "Praktikum Chemische Technik (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikant-data-science-im-bereich-engine-health-monitoring-all-genders/": "Praktikant Data Science im Bereich Engine Health Monitoring (all genders)",
-    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-hr-operations-employee-relations-all-genders/": "Werkstudent - HR Operations Employee Relations (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-baumanagement-all-genders/": "Werkstudent Baumanagement (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-digitale-transformation-all-genders/": "Werkstudent Digitale Transformation (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-projekt-management-technologie-entwicklung-all-genders/": "Praktikum Projekt Management - Technologie & Entwicklung (all genders)",
