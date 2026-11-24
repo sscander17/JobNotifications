@@ -228,10 +228,6 @@
     "https://tytantechnologiesgmbh.recruitee.com/o/senior-gnc-engineer-mfd": "Senior GNC Engineer (m/f/d)",
     "https://tytantechnologiesgmbh.recruitee.com/o/drone-technician-mfd": "Drone Technician (m/f/d)"
   },
-  "Samsung": {
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Memory-Product-Marketing-Manager--m-f-d-_R109307": "Memory Product Marketing Manager (m/f/d)",
-    "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Bavaria-Towers-Munich-Germany/Field-Application-Engineer---Memory_R117501": "Field Application Engineer - Memory"
-  },
   "Quantum-Systems": {
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
     "https://career.quantum-systems.com/o/customer-solution-manager-mfd-5": "Customer Solution Manager (m/f/d)",
@@ -445,7 +441,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Informatikerin-%28wmd%29-KI-Methoden-in-der-Software-Qualit%C3%A4tssicherung-f%C3%BCr-die-Raumfahrt/1433339933/": "Oberpfaffenhofen Informatikerin (wmd) KI Methoden in der Software Qualit\u00e4tssicherung f\u00fcr die Raumfahrt",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Computer-Scientist-%28fmx%29-specialized-in-AI-methods-for-software-quality-assurance-in-space-systems/1433340033/": "Oberpfaffenhofen Computer Scientist (fmx) specialized in AI methods for software quality assurance in space systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Unity-Developer-%28wmd%29/1429045433/": "Oberpfaffenhofen Unity Developer (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458268533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Doktorand-%28wmd%29-Geo-Umweltwissenschaft/1456506433/": "Oberpfaffenhofen Doktorand (wmd) Geo Umweltwissenschaft",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Forschungs-Software-Ingenieurin-%28wmd%29-Weiterentwicklung-von-Gewittervorhersagen/1425215233/": "Oberpfaffenhofen Forschungs Software Ingenieurin (wmd) Weiterentwicklung von Gewittervorhersagen",
@@ -486,7 +481,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-in-GPU-Accelerated-Implementation-and-Optimization-of-a-Packet-Level-Peeling-Decoder/1412288333/": "Oberpfaffenhofen Master Thesis in GPU Accelerated Implementation and Optimization of a Packet Level Peeling Decoder",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Dynamic-and-reactive-robotic-manipulation/1459263033/": "Oberpfaffenhofen Engineer (fmx) Dynamic and reactive robotic manipulation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Bachelorarbeit-%28wmd%29-Softwareentwicklung-im-Bereich-Netzwerktechnik/1419814833/": "Oberpfaffenhofen Master Bachelorarbeit (wmd) Softwareentwicklung im Bereich Netzwerktechnik",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-project-and-final-thesis-%28mfd%29-Design-and-testing-of-coupled-kinematic-systems/1421326533/": "Oberpfaffenhofen Student project and final thesis (mfd) Design and testing of coupled kinematic systems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Neuro-Symbolic-AI-for-Resilient-On-Board-Decision-Making/1435629833/": "Oberpfaffenhofen Master Thesis (fmx) Neuro Symbolic AI for Resilient On Board Decision Making",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Entwicklung-eines-On-Board-Computersystems/1447500833/": "Oberpfaffenhofen Studentin (wmd) Entwicklung eines On Board Computersystems",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
@@ -502,7 +496,9 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterarbeit-%28wmd%29-Missions-Engineering/1435220533/": "Oberpfaffenhofen Masterarbeit (wmd) Missions Engineering",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Dynamische-und-reaktive-Robotermanipulation/1459262933/": "Oberpfaffenhofen Ingenieurin (wmd) Dynamische und reaktive Robotermanipulation",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-Elektrotechnik-%28wmd%29-SAR-Missionen/1458888533/": "Oberpfaffenhofen Ingenieurin Elektrotechnik (wmd) SAR Missionen",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Software-development-of-secure-IP-based-protocols-for-satellite-communications/1407538233/": "Oberpfaffenhofen Engineer (fmx) Software development of secure IP based protocols for satellite communications"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Software-development-of-secure-IP-based-protocols-for-satellite-communications/1407538233/": "Oberpfaffenhofen Engineer (fmx) Software development of secure IP based protocols for satellite communications",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Student-project-and-final-thesis-%28mfd%29-Design-and-testing-of-coupled-kinematic-systems/1421326533/": "Oberpfaffenhofen Student project and final thesis (mfd) Design and testing of coupled kinematic systems"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -536,6 +532,16 @@
     "https://careers.ti.com/en/sites/CX/job/25015770/": "Manufacturing Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25015981/": "Quality Engineering Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d"
+  },
+  "Intel": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Application-Debugger-Development-Intern--m-f-d-_JR0287947": "Application Debugger Development Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-RnD-Engineer--XeSS-and-Neural-Graphics--f-m-d-_JR0288914": "AI RnD Engineer, XeSS and Neural Graphics (f/m/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937": "Software Design Engineer Intern for Physical Design (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/System-Debugger-Development-Intern--m-f-d-_JR0287946": "System Debugger Development Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635": "Middleware Software Engineering Intern (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Sales-Account-Manager-Manager---Robotics-and-Physical-AI--EMEA---m-f-d-_JR0288477-1": "Sales Account Manager \u2014 Robotics and Physical AI (EMEA) (m/f/d)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/AI-Software-Development-Engineer---Neuromorphic-Computing--m-f-d---Fixed-Term-_JR0287336": "AI Software Development Engineer - Neuromorphic Computing (m/f/d) (Fixed-Term)",
+    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)"
   },
   "Engineering Minds Munich": {
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_MissionCore_Flyer_2026-1.pdf": "Explore MissionCore \u2197 Fact Sheet \u2193",
