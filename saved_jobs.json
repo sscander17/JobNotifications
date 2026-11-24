@@ -471,7 +471,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Student-in-Physics-or-Aerospace-Engineering-for-investigating-multi-aperture-concept/1407550133/": "Oberpfaffenhofen Master Thesis Student in Physics or Aerospace Engineering for investigating multi aperture concept",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Zonale-Kommunikationsarchitektur-f%C3%BCr-robotische-H%C3%A4nde/1423443633/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Zonale Kommunikationsarchitektur f\u00fcr robotische H\u00e4nde",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterstudentin-%28wmd%29-PhysikLuft-und-Raumfahrttechnik/1407550033/": "Oberpfaffenhofen Masterstudentin (wmd) PhysikLuft und Raumfahrttechnik",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kommunikationsprotokolle-in-SDR-unterst%C3%BCtzt-durch-Flugplattformen/1431142233/": "Oberpfaffenhofen Ingenieurin (wmd) Kommunikationsprotokolle in SDR unterst\u00fctzt durch Flugplattformen",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-%28fmx%29-Development-and-analysis-of-a-software-based-SpaceWire-to-Ethernet-bridge/1435468133/": "Oberpfaffenhofen Master Thesis (fmx) Development and analysis of a software based SpaceWire to Ethernet bridge",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Migration-und-Inbetriebnahme-eines-mechatronischen-15-Pr%C3%BCfstands-auf-dSPACE/1429074833/": "Oberpfaffenhofen Studentin (wmd) Migration und Inbetriebnahme eines mechatronischen 15 Pr\u00fcfstands auf dSPACE",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
@@ -499,7 +498,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-SDR-Prototypen-Entwicklung-f%C3%BCr-Funk-und-%C3%9Cberwachungssysteme/1459558533/": "Oberpfaffenhofen Ingenieurin (wmd) SDR Prototypen Entwicklung f\u00fcr Funk und \u00dcberwachungssysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Konstruktion-und-Erprobung-kopplungsbehafteter-Kinematiken/1421326433/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Konstruktion und Erprobung kopplungsbehafteter Kinematiken",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Masterandin-%28wmd%29-Vergleich-Bayesscher-Sch%C3%A4tzer-f%C3%BCr-UWB-Positionierung-mit-Random-Access/1445227733/": "Oberpfaffenhofen Masterandin (wmd) Vergleich Bayesscher Sch\u00e4tzer f\u00fcr UWB Positionierung mit Random Access",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kommunikationsprotokolle-in-SDR-unterst%C3%BCtzt-durch-Flugplattformen/1431142233/": "Oberpfaffenhofen Ingenieurin (wmd) Kommunikationsprotokolle in SDR unterst\u00fctzt durch Flugplattformen"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -559,6 +559,7 @@
   },
   "BMW Group": {
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.201520.html": "Praktikum im Bereich People &amp; Culture",
+    "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.199741.html": "Praktikum oder Werkstudentent\u00e4tigkeit im Bereich Mobilit\u00e4tsl\u00f6sungen",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.195932.html": "Praktikant Unternehmenskommunikation und Medienproduktion (w/m/d)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.192027.html": "Praktikant Versuch und Absicherung Hochvoltspeicher (w/m/x)",
     "https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.200609.html": "Praktikant Automatisierung der Fahrzeugintegration von Fahrerassistenz-Sensoren (w/m/x)",
@@ -1207,6 +1208,7 @@
     "https://jobs.ashbyhq.com/munich-electrification/bcc4cef8-4e5f-4613-a355-d2b0f30e3bf4": "Putzhilfe/Reinigungskraft (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/c14b725d-cfee-4953-95ae-d129cd928ded": "Senior Embedded Software Developer (C) (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/6c052597-f8b6-4ed0-b311-a3308998bc2a": "Senior Embedded Software Engineer (C++) (f/m/d)",
+    "https://jobs.ashbyhq.com/munich-electrification/582e0573-0aac-4fb2-8b4c-ed10e8a11b0a": "Senior Sales Manager (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/f731d4d8-1f65-45f3-b6ba-e2316adac453": "Senior Test Engineer (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/04dec7e3-47fa-4386-b002-a010c2865c65": "Teilzeitkraft K\u00fcche (f/m/d)",
     "https://jobs.ashbyhq.com/munich-electrification/44e2b5e8-8734-44e0-9409-56d1c4e2a663": "Test System Technician (f/m/d)",
