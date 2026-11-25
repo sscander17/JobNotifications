@@ -27,7 +27,7 @@
     "https://helsing.ai/jobs/4865788101?gh_jid=4865788101": "Helsing \u2013 Formula Student Programme ",
     "https://helsing.ai/jobs/4879386101?gh_jid=4879386101": "HPC Systems Administrator",
     "https://helsing.ai/jobs/4861198101?gh_jid=4861198101": "Incoming Inspector - Production Quality",
-    "https://helsing.ai/jobs/4893273101?gh_jid=4893273101": "IT Support Engineer",
+    "https://helsing.ai/jobs/4893273101?gh_jid=4893273101": "IT Engineer",
     "https://helsing.ai/jobs/5013785101?gh_jid=5013785101": "(Junior) Customs Manager",
     "https://helsing.ai/jobs/4976946101?gh_jid=4976946101": "Kreditorenbuchhalter (m/w/d)",
     "https://helsing.ai/jobs/5010746101?gh_jid=5010746101": "Lagermitarbeiter (m/w/d)",
@@ -72,7 +72,6 @@
     "https://helsing.ai/jobs/4976906101?gh_jid=4976906101": "Senior Accountant Accounts Payable",
     "https://helsing.ai/jobs/4963868101?gh_jid=4963868101": "Senior Commercial Finance Business Partner ",
     "https://helsing.ai/jobs/4880212101?gh_jid=4880212101": "Senior Commercial Manager - Air",
-    "https://helsing.ai/jobs/4967013101?gh_jid=4967013101": "Senior Flight Test Engineer",
     "https://helsing.ai/jobs/5017459101?gh_jid=5017459101": "Senior FP&A Manager",
     "https://helsing.ai/jobs/5047963101?gh_jid=5047963101": "Senior Legal Counsel, Employment Law",
     "https://helsing.ai/jobs/5033685101?gh_jid=5033685101": "Senior Manager, IFRS & Consolidation",
@@ -499,8 +498,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Kontaktdynamik-flexibler-Mehrk%C3%B6rpersysteme/1451843033/": "Oberpfaffenhofen Ingenieurin (wmd) Kontaktdynamik flexibler Mehrk\u00f6rpersysteme",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studentin-%28wmd%29-Migration-und-Inbetriebnahme-eines-mechatronischen-15-Pr%C3%BCfstands-auf-dSPACE/1429074833/": "Oberpfaffenhofen Studentin (wmd) Migration und Inbetriebnahme eines mechatronischen 15 Pr\u00fcfstands auf dSPACE",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Leitung-Betreuungsteam-OP-S%C3%BCd-%28wmd%29/1460654533/": "Oberpfaffenhofen Leitung Betreuungsteam OP S\u00fcd (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Stellvertretende-K%C3%BCchenleitung-%28wmd%29-Region-S%C3%BCd/1460665233/": "Oberpfaffenhofen Stellvertretende K\u00fcchenleitung (wmd) Region S\u00fcd",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Projektleitung-Hoch-und-Tiefbau-%28wmd%29-Region-S%C3%BCd/1460670833/": "Oberpfaffenhofen Projektleitung Hoch und Tiefbau (wmd) Region S\u00fcd"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Projektleitung-Hoch-und-Tiefbau-%28wmd%29-Region-S%C3%BCd/1460670833/": "Oberpfaffenhofen Projektleitung Hoch und Tiefbau (wmd) Region S\u00fcd",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Stellvertretende-K%C3%BCchenleitung-%28wmd%29-Region-S%C3%BCd/1460665233/": "Oberpfaffenhofen Stellvertretende K\u00fcchenleitung (wmd) Region S\u00fcd"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -534,6 +533,30 @@
     "https://careers.ti.com/en/sites/CX/job/25016335/": "Analog Design Eng Intern m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018407/": "Metrology Equipment Technician / Techniker Messtechnik m/f/d",
     "https://careers.ti.com/en/sites/CX/job/25018495/": "Validation / Characterization Engineering Intern m/f/d"
+  },
+  "Analog Devices": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Associate-Engineer--Field-Sales_R267396": "Associate Engineer, Field Sales",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Principal-Account-Manager--Field-Sales_R267378": "Senior Principal Account Manager, Field Sales",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Engineer--Field-Applications-Engineer_R267550": "Engineer, Field Applications Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714": "System Applications Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Field-Robotics-Systems-Engineer_R267553": "Field Sales Engineer - Robotics",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Associate-Field-Applications-Engineer--Digital-Healthcare_R268084": "Associate Field Applications Engineer, Digital Healthcare",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/NCG---Business-FAE-Track_R267693": "NCG - Business FAE Track",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/NCG---System-Platform-FAE-Track_R267692": "NCG - System Platform FAE Track",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Analog-Design-Engineering-Intern_R267032-1": "Analog Design Engineering Intern",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Senior-Director--DataX-Business---Ecosystem_R267244": "Senior Director, DataX Business & Ecosystem",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Applications-Engineering---Field-Applications-Intern_R267087": "Applications Engineering - Field Applications Intern",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Field-Sales-Engineer_R267485": "Field Sales Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Engineer--Field-Applications_R267181": "Principal Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Seidlstr/Principal-Digital-Design-Engineer_R264207": "Senior Digital Design Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--Field-Applications_R267209": "Staff Engineer, Field Applications",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-AI--ML-Robotics-Engineer---Environmental-Perception_R267084": "Principal AI/ ML Robotics Engineer - Environmental Perception",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Engineering-Graduate--Field-Applications-_R266836": "FY27 Graduate Field Applications Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Limerick/Design-Analysis-Enablement-Engineer_R266599": "CAD Engineer - Mixed Signal Simulations",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Electronic-Engineering-Graduate-Opportunities_R266924": "FY27 Electronic Engineering Graduate Opportunities",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Field-Applications-Engineer-Intern_R266838": "FY27 Field Applications Engineer Intern",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Customer-System-Measurement-Engineer_R265672": "Principal ATE Customer System Measurement Engineer",
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Customer-System-Measurement-Engineer_R265671": "Staff ATE Customer System Measurement Engineer"
   },
   "Engineering Minds Munich": {
     "https://em-munich.space/wp-content/uploads/2026/09/EMM_MissionCore_Flyer_2026-1.pdf": "Explore MissionCore \u2197 Fact Sheet \u2193",
@@ -881,6 +904,7 @@
     "https://join.com/companies/omnisent/16537701-ui-ux-designer-f-m-d": "UI/UX Designer (f/m/d)Munich"
   },
   "MTU Aero Engines": {
+    "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsmechaniker-schwerpunkt-entgraten-am-handarbeitsplatz-all-genders/": "Zerspanungsmechaniker Schwerpunkt Entgraten am Handarbeitsplatz (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/sicherheitskraft-werkschutz-all-genders/": "Sicherheitskraft Werkschutz (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-organisational-architecture-and-design-all-genders/": "Werkstudent Organisational Architecture and Design (all genders)",
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/instandhalter-elektronik-fokus-messtechnik-all-genders/": "Instandhalter Elektronik Fokus Messtechnik (all genders)",
@@ -1052,19 +1076,20 @@
   "Cariad": {
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Hardware-Testing-&-Lab-Engineering-%28mfd%29-71297/1460080433/": "Working Student - Hardware Testing & Lab Engineering (m/f/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Head-of-Data-&-Developer-Experience-%28wmd%29-80807/1458552233/": "Head of Data & Developer Experience (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Wolfsburg-Working-Student-HR-Services%2C-Digitalization-&-Project-Support-%28mfd%29-38442/1458308133/": "Working Student - HR Services, Digitalization & Project Support (m/f/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Head-of-Data-&-Developer-Experience-%28wmd%29-80807/1458552233/": "Head of Data & Developer Experience (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Head-of-Tech-Operations-&-Solutions-%28fmd%29-80807/1457967533/": "Head of Tech Operations & Solutions (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-App-Store-&-Companion-App-Development-%28mfd%29-85053/1456711733/": "Internship - App Store & Companion App Development (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-Data-&-Knowledge-Architect-%28fmd%29-80807/1456171233/": "(Senior) Data & Knowledge Architect (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-MLOps-LLMOps-AgentOps-Engineer-%28fmd%29-80807/1456171733/": "(Senior) MLOps / LLMOps / AgentOps Engineer (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-AI-Platform-&-Integration-Architect-%28fmd%29-80807/1456172933/": "(Senior) AI Platform & Integration Architect (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-AI-System-&-Agent-Architect-%28fmd%29-80807/1456173333/": "(Senior) AI System & Agent Architect (f/m/d)"
+    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-Agentic-AI-Algorithm-Engineer-%28fmd%29-80807/1456171933/": "(Senior) Agentic AI Algorithm Engineer (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-AI-Platform-&-Integration-Architect-%28fmd%29-80807/1456172933/": "(Senior) AI Platform & Integration Architect (f/m/d)"
   },
   "NavVis": {
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4987145101": "Business Intelligence Analyst (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4904613101": "Calibration Engineer (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4940422101": "Full-Stack Software Engineer (F/M/D) ",
+    "https://job-boards.eu.greenhouse.io/navvis/jobs/5042644101": "Junior Supply Chain Specialist (12-month Contract)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4931997101": "Lead Machine Learning Engineer - Geometric Spatial AI (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4879815101": "Product Manager, SaaS (F/M/D)",
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4723895101": "Senior Cloud Software Engineer  (Python & AWS) (F/M/D)",
