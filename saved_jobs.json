@@ -54,7 +54,6 @@
     "https://helsing.ai/jobs/4938743101?gh_jid=4938743101": "Multimodal Sensing and Fusion Engineer ",
     "https://helsing.ai/jobs/4948277101?gh_jid=4948277101": "Obsolescence Manager ",
     "https://helsing.ai/jobs/4947489101?gh_jid=4947489101": "Optical Sensing Test Engineer",
-    "https://helsing.ai/jobs/4642812101?gh_jid=4642812101": "Production Engineer - Mechatronic Systems",
     "https://helsing.ai/jobs/4788891101?gh_jid=4788891101": "Production Engineer - Software Integration",
     "https://helsing.ai/jobs/4947377101?gh_jid=4947377101": "Product Manager, Autonomous Systems Command & Control",
     "https://helsing.ai/jobs/5034019101?gh_jid=5034019101": "Product Manager - Autonomy ",
@@ -324,8 +323,7 @@
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4943578101": "Mechanical Design & Routing Engineer (m/w/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940784101": "NDT Inspector (m/f/d)",
     "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4857035101": "Recovery Operations Engineer (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4802021101": "Working Student, Ground Systems (m/f/d)",
-    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4930992101": "Working Student, POQ (m/f/d)"
+    "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4802021101": "Working Student, Ground Systems (m/f/d)"
   },
   "Infineon": {
     "https://jobs.infineon.com/careers/job/563808972063075-principal-engineer-physical-design-and-methodology-munich?domain=infineon.com": "Principal Engineer Physical Design And Methodology Munich",
@@ -1062,8 +1060,8 @@
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Head-of-Data-&-Developer-Experience-%28wmd%29-80807/1458552233/": "Head of Data & Developer Experience (w/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-App-Store-&-Companion-App-Development-%28mfd%29-85053/1456711733/": "Internship - App Store & Companion App Development (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-MLOps-LLMOps-AgentOps-Engineer-%28fmd%29-80807/1456171733/": "(Senior) MLOps / LLMOps / AgentOps Engineer (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-AI-System-&-Agent-Architect-%28fmd%29-80807/1456173333/": "(Senior) AI System & Agent Architect (f/m/d)",
-    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-Data-&-Knowledge-Architect-%28fmd%29-80807/1456171233/": "(Senior) Data & Knowledge Architect (f/m/d)"
+    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-Data-&-Knowledge-Architect-%28fmd%29-80807/1456171233/": "(Senior) Data & Knowledge Architect (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-Agentic-AI-Algorithm-Engineer-%28fmd%29-80807/1456171933/": "(Senior) Agentic AI Algorithm Engineer (f/m/d)"
   },
   "NavVis": {
     "https://job-boards.eu.greenhouse.io/navvis/jobs/4987145101": "Business Intelligence Analyst (F/M/D)",
