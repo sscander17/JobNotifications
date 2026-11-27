@@ -229,7 +229,7 @@
     "https://career.quantum-systems.com/o/c-uas-training-demo-expert-mfd": "C-UAS Training & Demo Expert (m/f/d)",
     "https://career.quantum-systems.com/o/customer-solution-manager-mfd-5": "Customer Solution Manager (m/f/d)",
     "https://career.quantum-systems.com/o/learning-experience-architect-mfd": "Learning Experience Architect (m/f/d)",
-    "https://career.quantum-systems.com/o/solution-architect-mfd-4": "Solution Architect (m/f/d)",
+    "https://career.quantum-systems.com/o/solution-architect-unmanned-systems-mfd": "Solution Architect - Unmanned Systems (m/f/d)",
     "https://career.quantum-systems.com/o/training-manager-mfd-18": "Training Manager (m/f/d)",
     "https://career.quantum-systems.com/o/training-operations-coordinator-mfd-1": "Training Operations Coordinator (m/f/d)",
     "https://career.quantum-systems.com/o/development-engineer-production-mfd-fokus-hardware": "Development Engineer Production (m/f/d) -  Focus Hardware",
@@ -239,12 +239,14 @@
     "https://career.quantum-systems.com/o/industrialization-engineer-mfd-1": "Industrialization Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/mechanical-development-engineer-drone-technologies-mfd-8": "Mechanical Development Engineer - Drone Technologies (m/f/d)",
     "https://career.quantum-systems.com/o/mechanical-engineer-mfd": "Mechanical Engineer (m/f/d)",
+    "https://career.quantum-systems.com/o/cloud-security-engineer-mfd": "Cloud Security Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-3": "Corporate Security Manager (m/f/d)",
     "https://career.quantum-systems.com/o/corporate-security-manager-mfd-quantum-frontline-industries": "Corporate Security Manager (m/f/d) - Quantum Frontline Industries",
     "https://career.quantum-systems.com/o/it-infrastructure-security-engineer-mfd": "IT Infrastructure & Security Engineer (m/f/d)",
-    "https://career.quantum-systems.com/o/it-security-engineer-mfd-1": "IT Security Engineer (m/f/d)",
     "https://career.quantum-systems.com/o/it-system-administrator-windows-mfd": "IT System Administrator Windows (m/f/d)",
     "https://career.quantum-systems.com/o/network-engineer-mfd": "Network Engineer \u200b(m/f/d)",
+    "https://career.quantum-systems.com/o/security-architect-mfd": "Security Architect (m/f/d)",
+    "https://career.quantum-systems.com/o/soc-lead-mfd": "SOC Lead (m/f/d)",
     "https://career.quantum-systems.com/o/digital-marketing-manager-mfd": "Digital Marketing Manager (m/f/d)",
     "https://career.quantum-systems.com/o/event-manager-mfd-4": "Event Manager (m/f/d)",
     "https://career.quantum-systems.com/o/senior-crm-hubspot-marketing-automation-expert-mfd": "Senior CRM (HubSpot) & Marketing Automation Expert (m/f/d)",
@@ -490,7 +492,6 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-Thesis-Comparison-of-Bayesian-Estimators-for-random-access-UWB-positioning/1445227833/": "Oberpfaffenhofen Master Thesis Comparison of Bayesian Estimators for random access UWB positioning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-%28mfd%29-in-Information-Technology-or-Physics/1439294533/": "Oberpfaffenhofen Master student Internship (mfd) in Information Technology or Physics",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studierende-%28wmd%29-der-Natur-oder-Geowissenschaften-%28wmd%29/1453745233/": "Oberpfaffenhofen Studierende (wmd) der Natur oder Geowissenschaften (wmd)",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Technikerin-%28wmd%29-f%C3%BCr-Robotersysteme-in-der-Raumfahrt-und-Industrie/1456687233/": "Oberpfaffenhofen Technikerin (wmd) f\u00fcr Robotersysteme in der Raumfahrt und Industrie",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Studien-und-Abschlussarbeit-%28wmd%29-Elastische-%C3%9Cbertragungselemente-in-robotischen-H%C3%A4nden/1423448333/": "Oberpfaffenhofen Studien und Abschlussarbeit (wmd) Elastische \u00dcbertragungselemente in robotischen H\u00e4nden",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Master-student-Internship-in-Information-Technology-or-Physics-%28fmd%29-adaptive-optics-software/1412801833/": "Oberpfaffenhofen Master student Internship in Information Technology or Physics (fmd) adaptive optics software",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Undergraduate-and-final-year-dissertation-%28mfd%29-Elastic-transmission-elements-in-robotic-hands/1423448433/": "Oberpfaffenhofen Undergraduate and final year dissertation (mfd) Elastic transmission elements in robotic hands",
@@ -498,7 +499,8 @@
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Promotionsstelle-Improving-Motion-Simulation-Experience-using-Reinforcement-Learning/1425230433/": "Oberpfaffenhofen Promotionsstelle Improving Motion Simulation Experience using Reinforcement Learning",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Engineer-%28fmx%29-Adaptive-Optics-Technologies-for-Free-Space-Optical-Communication/1424193233/": "Oberpfaffenhofen Engineer (fmx) Adaptive Optics Technologies for Free Space Optical Communication",
     "https://jobs.dlr.de/job/Oberpfaffenhofen-Ingenieurin-%28wmd%29-Technologien-der-adaptiven-Optik-f%C3%BCr-die-optische-Freiraumkommunikation/1424193133/": "Oberpfaffenhofen Ingenieurin (wmd) Technologien der adaptiven Optik f\u00fcr die optische Freiraumkommunikation",
-    "https://jobs.dlr.de/job/Oberpfaffenhofen-Stellvertretende-K%C3%BCchenleitung-%28wmd%29-Region-S%C3%BCd/1460665233/": "Oberpfaffenhofen Stellvertretende K\u00fcchenleitung (wmd) Region S\u00fcd"
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Stellvertretende-K%C3%BCchenleitung-%28wmd%29-Region-S%C3%BCd/1460665233/": "Oberpfaffenhofen Stellvertretende K\u00fcchenleitung (wmd) Region S\u00fcd",
+    "https://jobs.dlr.de/job/Oberpfaffenhofen-Technikerin-%28wmd%29-f%C3%BCr-Robotersysteme-in-der-Raumfahrt-und-Industrie/1456687233/": "Oberpfaffenhofen Technikerin (wmd) f\u00fcr Robotersysteme in der Raumfahrt und Industrie"
   },
   "Hive Robotics": {
     "https://hive-robotics.jobs.personio.com/job/2884698": "Finance Manager (m/f/d)",
@@ -1056,8 +1058,8 @@
     "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/power-electronics-engineer-all-genders-emosys-gmbh/": "Power Electronics Engineer (all genders) - eMoSys GmbH"
   },
   "Cariad": {
-    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Android-Developer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452029833/": "Senior Android Developer - Boutique Store - (T2-CC) (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Backend-Engineer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452027633/": "Backend Engineer - Boutique Store - (T2-CC) (f/m/d)",
+    "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Android-Developer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452029833/": "Senior Android Developer - Boutique Store - (T2-CC) (f/m/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433/": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Hardware-Testing-&-Lab-Engineering-%28mfd%29-71297/1460080433/": "Working Student - Hardware Testing & Lab Engineering (m/f/d)",
     "https://jobs.volkswagen-group.com/cariad/job/Wolfsburg-Working-Student-HR-Services%2C-Digitalization-&-Project-Support-%28mfd%29-38442/1458308133/": "Working Student - HR Services, Digitalization & Project Support (m/f/d)",
